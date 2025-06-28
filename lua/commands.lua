@@ -1,10 +1,9 @@
-local function set_tab_two()
+
+vim.api.nvim_create_user_command("Tab2", function() 
     require('lib.tabs').set(2)
-end
+end, {})
 
-local function set_tab_four()
+vim.api.nvim_create_user_command("Tab4", function()
     require('lib.tabs').set(4)
-end
+end, {})
 
-vim.api.nvim_create_user_command("SetTabFour", set_tab_four, {})
-vim.api.nvim_create_user_command("SetTabTwo", set_tab_two, {})
