@@ -3,4 +3,4 @@ require("keymaps")
 require("netrw")
 require("settings")
 require("style")
-
+require("commands")
