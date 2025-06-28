@@ -1,8 +1,6 @@
-vim.keymap.set("n", "-", ":Ex<CR>", {
+vim.g.mapleader = " "
+vim.g.mapleader = "\\"
+
+vim.keymap.set("n", "-", "<CMD>Oil<CR>", {
 	desc = "Explore w/ Minus"
 })
-
-vim.g.netrw_banner = 0
-vim.g.netrw_list_hide = [[^\.\.\=/]]
-vim.g.netrw_hide = 1
-
