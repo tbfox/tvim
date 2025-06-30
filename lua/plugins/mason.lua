@@ -12,7 +12,6 @@ local function config()
     require("mason-lspconfig").setup({
         ensure_installed = {
             "lua_ls",
-            "typescript_language_server",
         },
         on_attach = on_attach,
         handlers = {
