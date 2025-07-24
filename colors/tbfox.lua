@@ -128,7 +128,7 @@ end
 -- Apply highlights
 local highlights = {
   -- Basic highlights
-  Normal = { fg = colors.text_main, bg = colors.bg_main },
+  Normal = { fg = colors.text_main, bg = colors.bg_bg },
   NormalFloat = { fg = colors.text_main, bg = colors.bg_secondary },
   NormalNC = { fg = colors.text_secondary, bg = colors.bg_main },
   
