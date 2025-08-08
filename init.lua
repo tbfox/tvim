@@ -1,5 +1,5 @@
 require("keymaps")
-require("config.lazy") -- lazy must be loaded after leader is set
+require("config.lazy") -- lazy must be loaded after leader is set inside require("keymaps")
 require("netrw")
 require("settings")
 require("style")
