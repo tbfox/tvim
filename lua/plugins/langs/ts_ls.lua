@@ -1,4 +1,7 @@
 local function on_attach(client, bufnr)
+    vim.lsp.completion.enable(true, client.id, bufnr, {
+        autotrigger = true
+    })
     local opts = {
         buffer = bufnr,
         noremap = true,

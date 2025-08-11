@@ -17,6 +17,9 @@ function M.set_keymaps(opts)
     vim.keymap.set('n', '<leader>rn', vim.lsp.buf.rename, opts)
     vim.keymap.set('n', '<leader>fm', vim.lsp.buf.format, opts)
     vim.keymap.set('n', '<leader>h', vim.lsp.buf.signature_help, opts)
+    vim.keymap.set('n', '<leader>en', vim.diagnostic.goto_next, opts)
+    vim.keymap.set('n', '<leader>ep', vim.diagnostic.goto_prev, opts)
+    vim.keymap.set('n', '<leader>ee', vim.diagnostic.open_float, opts)
 end
 
 return M

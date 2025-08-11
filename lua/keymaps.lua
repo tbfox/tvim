@@ -1,44 +1,21 @@
-vim.api.nvim_set_keymap('', '<Space>', '<Nop>', {
-    noremap = true,
-    silent = true,
-})
+vim.api.nvim_set_keymap('', '<Space>', '<Nop>', { noremap = true, silent = true, })
 
 vim.g.mapleader = ' '
 
-vim.keymap.set("n", "-", "<CMD>Oil<CR>", {
-    desc = "Explore w/ Minus"
-})
+vim.keymap.set("n", "-", "<CMD>Oil<CR>", { desc = "Explore w/ Minus" })
 
 -- Window Creation
-vim.keymap.set('n', "<Leader>wnh", "<CMD>vsplit<CR>", {
-    desc = "[W]indow - [N]ew - (vim direction left)"
-})
+vim.keymap.set('n', "<Leader>wh", "<CMD>vsplit<CR>",            { desc = "[W]indow - [h] (vim direction left)" })
+vim.keymap.set('n', "<Leader>wj", "<CMD>rightbelow split<CR>",  { desc = "[W]indow - [j] (vim direction down)" })
+vim.keymap.set('n', "<Leader>wk", "<CMD>split<CR>",             { desc = "[W]indow - [k] (vim direction up)" })
+vim.keymap.set('n', "<Leader>wl", "<CMD>rightbelow vsplit<CR>", { desc = "[W]indow - [l] (vim direction right)" })
 
-vim.keymap.set('n', "<Leader>wnj", "<CMD>rightbelow split<CR>", {
-    desc = "[W]indow - [N]ew - (vim direction down)"
-})
+-- Buffer Navigation
 
-vim.keymap.set('n', "<Leader>wnk", "<CMD>split<CR>", {
-    desc = "[W]indow - [N]ew - (vim direction up)"
-})
+vim.keymap.set('n', "<Leader>p", ":bprevious<CR>", { desc = "[B]uffer [P]rev" })
+vim.keymap.set('n', "<Leader>n", ":bnext<CR>",     { desc = "[B]uffer [N]ext" })
 
-vim.keymap.set('n', "<Leader>wnl", "<CMD>rightbelow vsplit<CR>", {
-    desc = "[W]indow - [N]ew - (vim direction right)"
-})
+-- vim.
 
--- Window Navigation
-vim.keymap.set('n', "<Leader>wh", "<C-w>h", {
-    desc = "Navigage [W]indow - (vim direction left)"
-})
-
-vim.keymap.set('n', "<Leader>wj", "<C-w>j", {
-    desc = "Navigage [W]indow - (vim direction down)"
-})
-
-vim.keymap.set('n', "<Leader>wk", "<C-w>k", {
-    desc = "Navigage [W]indow - (vim direction up)"
-})
-
-vim.keymap.set('n', "<Leader>wl", "<C-w>l", {
-    desc = "Navigage [W]indow - (vim direction right)"
-})
+vim.keymap.set('i', "<c-n>", vim.lsp.completion.get, { desc = "[C]ode [C]ompletion" })
+-- vim.keymap.set('i', '<c-space>', function() vim.lsp.completion.get() end, { desc = "[B]uffer [N]ext" })
