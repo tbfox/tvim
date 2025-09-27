@@ -1,31 +1,34 @@
 local function on_attach(client, bufnr)
-    local opts = {
-        buffer = bufnr,
-        noremap = true,
-        silent = true,
-    }
-    require("lib.common-lsp-keymaps").set_keymaps(opts)
+	local opts = {
+		buffer = bufnr,
+		noremap = true,
+		silent = true,
+	}
+	require("lib.common-lsp-keymaps").set_keymaps(opts)
 end
 
 local function config()
-    require("mason").setup()
-    require("mason-lspconfig").setup({
-        ensure_installed = {
-            "lua_ls",
-        },
-    })
-    vim.lsp.config("*", {
-        on_attach = on_attach
-    })
+	require("mason").setup()
+	require("mason-lspconfig").setup({
+		ensure_installed = {
+			"lua_ls",
+		},
+		handlers = {
+			-- Disable stylua as LSP server since it's a formatter, not an LSP
+			stylua = function() end,
+		},
+	})
+	vim.lsp.config("*", {
+		on_attach = on_attach,
+	})
 end
 
-
 return {
-    "mason-org/mason-lspconfig.nvim",
-    opts = {},
-    dependencies = {
-        { "mason-org/mason.nvim", opts = {} },
-        "neovim/nvim-lspconfig",
-    },
-    config = config
+	"mason-org/mason-lspconfig.nvim",
+	opts = {},
+	dependencies = {
+		{ "mason-org/mason.nvim", opts = {} },
+		"neovim/nvim-lspconfig",
+	},
+	config = config,
 }
