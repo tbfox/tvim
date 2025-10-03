@@ -1,5 +1,5 @@
 
-vim.api.nvim_create_user_command("Tab2", function() 
+vim.api.nvim_create_user_command("Tab2", function()
     require('lib.tabs').set(2)
 end, {})
 
