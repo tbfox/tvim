@@ -13,10 +13,7 @@ local function config()
 		ensure_installed = {
 			"lua_ls",
 		},
-		handlers = {
-			-- Disable stylua as LSP server since it's a formatter, not an LSP
-			stylua = function() end,
-		},
+		handlers = {},
 	})
 	vim.lsp.config("*", {
 		on_attach = on_attach,
