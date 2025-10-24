@@ -17,5 +17,5 @@ end
 return {
     'nvim-lualine/lualine.nvim',
     config = config,
-    dependencies = { 'nvim-tree/nvim-web-devicons'}
+    dependencies = { 'nvim-tree/nvim-web-devicons' }
 }
