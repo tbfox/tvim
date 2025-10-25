@@ -1,13 +1,7 @@
 local M = {}
 
-local function wrapper()
-    vim.api.nvim_set_hl(0, "@markup.raw.block.markdown", { bg = "#000000", })
-    vim.lsp.buf.hover()
-    -- vim.api.nvim_set_hl(0, "@markup.raw.block.markdown", { bg = "NONE", })
-end
-
 function M.set_keymaps(opts)
-    vim.keymap.set('n', '<leader>i', wrapper, opts)
+    vim.keymap.set('n', '<leader>i', vim.lsp.buf.hover, opts)
     vim.keymap.set('n', 'gd', vim.lsp.buf.definition, opts)
     vim.keymap.set('n', 'gD', vim.lsp.buf.declaration, opts)
     vim.keymap.set('n', '<leader>ca', vim.lsp.buf.code_action, opts)
