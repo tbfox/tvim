@@ -1,6 +1,1 @@
-require("config.keymaps")
-require("config.lazy") -- lazy must be loaded after leader is set inside require("keymaps")
-require("config.netrw")
-require("config.settings")
-require("config.commands")
-require("config.highlight-commands")
+require("lib.require_all").require_all("config")

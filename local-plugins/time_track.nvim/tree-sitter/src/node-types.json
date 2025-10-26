@@ -1,0 +1,184 @@
+[
+  {
+    "type": "date",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        },
+        {
+          "type": "year",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "day",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "day_identifier",
+          "named": true
+        },
+        {
+          "type": "time_entry",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "label_group",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "note",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "list_bullet",
+          "named": true
+        },
+        {
+          "type": "note_content",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "note_section",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "note",
+          "named": true
+        },
+        {
+          "type": "note_title",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "source_file",
+    "named": true,
+    "root": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "date",
+          "named": true
+        },
+        {
+          "type": "day",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "time_entry",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "label_group",
+          "named": true
+        },
+        {
+          "type": "note_section",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "\n",
+    "named": false
+  },
+  {
+    "type": "\n\n",
+    "named": false
+  },
+  {
+    "type": " - ",
+    "named": false
+  },
+  {
+    "type": "-",
+    "named": false
+  },
+  {
+    "type": "day_identifier",
+    "named": true
+  },
+  {
+    "type": "identifier",
+    "named": true
+  },
+  {
+    "type": "list_bullet",
+    "named": true
+  },
+  {
+    "type": "note_content",
+    "named": true
+  },
+  {
+    "type": "note_title",
+    "named": true
+  },
+  {
+    "type": "number",
+    "named": true
+  },
+  {
+    "type": "year",
+    "named": true
+  },
+  {
+    "type": "|",
+    "named": false
+  }
+]

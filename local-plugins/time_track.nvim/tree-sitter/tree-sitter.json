@@ -1,0 +1,39 @@
+{
+  "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/config.schema.json",
+  "grammars": [
+    {
+      "name": "time_track",
+      "camelcase": "TimeTrack",
+      "title": "TimeTrack",
+      "scope": "source.time_track",
+      "file-types": [
+        "time_track"
+      ],
+      "injection-regex": "^time_track$",
+      "class-name": "TreeSitterTimeTrack"
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "Time tracking language.",
+    "authors": [
+      {
+        "name": "Tristan M Barrow",
+        "email": "tristanmarkbarrow@gmail.com"
+      }
+    ],
+    "links": {
+      "repository": "https://github.com/TristanBarrow/time_track"
+    }
+  },
+  "bindings": {
+    "c": true,
+    "go": true,
+    "node": true,
+    "python": true,
+    "rust": true,
+    "swift": true,
+    "zig": false
+  }
+}

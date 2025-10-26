@@ -1,0 +1,185 @@
+{
+  "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/grammar.schema.json",
+  "name": "time_track",
+  "rules": {
+    "source_file": {
+      "type": "SEQ",
+      "members": [
+        {
+          "type": "SYMBOL",
+          "name": "date"
+        },
+        {
+          "type": "REPEAT",
+          "content": {
+            "type": "SYMBOL",
+            "name": "day"
+          }
+        }
+      ]
+    },
+    "day": {
+      "type": "SEQ",
+      "members": [
+        {
+          "type": "SYMBOL",
+          "name": "day_identifier"
+        },
+        {
+          "type": "STRING",
+          "value": "\n"
+        },
+        {
+          "type": "REPEAT",
+          "content": {
+            "type": "SYMBOL",
+            "name": "time_entry"
+          }
+        }
+      ]
+    },
+    "time_entry": {
+      "type": "SEQ",
+      "members": [
+        {
+          "type": "SYMBOL",
+          "name": "label_group"
+        },
+        {
+          "type": "STRING",
+          "value": "\n\n"
+        },
+        {
+          "type": "REPEAT",
+          "content": {
+            "type": "SYMBOL",
+            "name": "note_section"
+          }
+        }
+      ]
+    },
+    "note_section": {
+      "type": "SEQ",
+      "members": [
+        {
+          "type": "SYMBOL",
+          "name": "note_title"
+        },
+        {
+          "type": "REPEAT",
+          "content": {
+            "type": "SYMBOL",
+            "name": "note"
+          }
+        }
+      ]
+    },
+    "note": {
+      "type": "SEQ",
+      "members": [
+        {
+          "type": "SYMBOL",
+          "name": "list_bullet"
+        },
+        {
+          "type": "SYMBOL",
+          "name": "note_content"
+        },
+        {
+          "type": "STRING",
+          "value": "\n"
+        }
+      ]
+    },
+    "date": {
+      "type": "SEQ",
+      "members": [
+        {
+          "type": "SYMBOL",
+          "name": "year"
+        },
+        {
+          "type": "STRING",
+          "value": "-"
+        },
+        {
+          "type": "SYMBOL",
+          "name": "number"
+        },
+        {
+          "type": "STRING",
+          "value": "-"
+        },
+        {
+          "type": "SYMBOL",
+          "name": "number"
+        }
+      ]
+    },
+    "label_group": {
+      "type": "SEQ",
+      "members": [
+        {
+          "type": "STRING",
+          "value": "|"
+        },
+        {
+          "type": "SYMBOL",
+          "name": "identifier"
+        },
+        {
+          "type": "STRING",
+          "value": " - "
+        },
+        {
+          "type": "SYMBOL",
+          "name": "number"
+        },
+        {
+          "type": "STRING",
+          "value": "|"
+        }
+      ]
+    },
+    "day_identifier": {
+      "type": "PATTERN",
+      "value": "==(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)=="
+    },
+    "note_title": {
+      "type": "PATTERN",
+      "value": "# [A-Z][a-z]+"
+    },
+    "identifier": {
+      "type": "PATTERN",
+      "value": "\\w+"
+    },
+    "list_bullet": {
+      "type": "PATTERN",
+      "value": "-\\ "
+    },
+    "note_content": {
+      "type": "PATTERN",
+      "value": "[\\w\\.,\\ \\(\\)\\[\\]]+"
+    },
+    "year": {
+      "type": "PATTERN",
+      "value": "20\\d{2}"
+    },
+    "number": {
+      "type": "PATTERN",
+      "value": "\\d{1,2}"
+    }
+  },
+  "extras": [
+    {
+      "type": "PATTERN",
+      "value": "\\s"
+    }
+  ],
+  "conflicts": [],
+  "precedences": [],
+  "externals": [],
+  "inline": [],
+  "supertypes": [],
+  "reserved": {}
+}
