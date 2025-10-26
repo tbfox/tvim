@@ -8,7 +8,7 @@ vim.api.nvim_create_user_command("Tab4", function()
     require('lib.tabs').set(4)
 end, {})
 
-vim.api.nvim_create_user_command("H", function(opts)
+vim.api.nvim_create_user_command("H", function()
     local selection = s.get_selection()
     vim.cmd("help " .. selection)
 end, { range = true })
