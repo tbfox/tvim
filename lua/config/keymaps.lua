@@ -9,6 +9,7 @@ vim.keymap.set('n', "<Leader>wl", "<CMD>rightbelow vsplit<CR>", { desc = "[W]ind
 
 -- Buffer Navigation
 
-vim.keymap.set('n', "<Leader>p", ":bprevious<CR>", { desc = "[B]uffer [P]rev" })
-vim.keymap.set('n', "<Leader>n", ":bnext<CR>",     { desc = "[B]uffer [N]ext" })
+vim.keymap.set('n', "<Leader>p", "<CMD>bprevious<CR>", { desc = "Buffer [P]rev" })
+vim.keymap.set('n', "<Leader>n", "<CMD>bnext<CR>",     { desc = "Buffer [N]ext" })
+vim.keymap.set('n', "<Leader>c", "<CMD>close<CR>",     { desc = "[C]lose current window" })
 
