@@ -1,6 +1,3 @@
-vim.api.nvim_set_keymap('', '<Space>', '<Nop>', { noremap = true, silent = true, })
-vim.g.mapleader = ' '
-
 -- Window Creation
 vim.keymap.set('n', "<Leader>wh", "<CMD>vsplit<CR>",            { desc = "[W]indow - [h] (vim direction left)" })
 vim.keymap.set('n', "<Leader>wj", "<CMD>rightbelow split<CR>",  { desc = "[W]indow - [j] (vim direction down)" })

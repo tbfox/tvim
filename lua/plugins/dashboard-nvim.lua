@@ -2,10 +2,7 @@ return {
     'nvimdev/dashboard-nvim',
     event = 'VimEnter',
     config = function()
-        vim.api.nvim_create_user_command("Projects", function()
-            vim.cmd('cd ~/Projects')
-            vim.cmd('Telescope find_files')
-        end, {})
+
         vim.api.nvim_create_user_command("ConfigFindFile", function()
             vim.cmd('cd ' .. vim.fn.stdpath("config"))
             vim.cmd('Telescope find_files')
@@ -43,6 +40,13 @@ return {
                     "",
                 },
                 center = {
+                    {
+                        icon = "  ",
+                        desc = "[P]rojects",
+                        key = "p",
+                        key_hl = "group",
+                        action = "Projects",
+                    },
                     {
                         icon = "  ",
                         desc = "Find Files",
