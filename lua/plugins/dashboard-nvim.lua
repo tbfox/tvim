@@ -2,20 +2,22 @@ return {
     'nvimdev/dashboard-nvim',
     event = 'VimEnter',
     config = function()
+        vim.keymap.set('n', "<F12>", "<CMD>Dashboard<CR>",     { desc = "[C]lose current window" })
 
         vim.api.nvim_create_user_command("ConfigFindFile", function()
-            vim.cmd('cd ' .. vim.fn.stdpath("config"))
-            vim.cmd('Telescope find_files')
+            require("telescope.builtin").find_files {
+                cwd = vim.fn.stdpath("config")
+            }
         end, {})
 
         vim.api.nvim_create_user_command("ConfigGrep", function()
-            vim.cmd('cd ' .. vim.fn.stdpath("config"))
-            vim.cmd('Telescope live_grep')
+            require("telescope.builtin").live_grep {
+                cwd = vim.fn.stdpath("config")
+            }
         end, {})
 
         vim.api.nvim_create_user_command("ConfigEdit", function()
-            vim.cmd('cd ' .. vim.fn.stdpath("config"))
-            vim.cmd('Oil')
+            require("oil").open(vim.fn.stdpath("config"))
         end, {})
 
         require('dashboard').setup {
@@ -49,7 +51,7 @@ return {
                     },
                     {
                         icon = "  ",
-                        desc = "Find Files",
+                        desc = "[F]ind Files",
                         key = "f",
                         key_hl = "group",
                         action = "Telescope find_files",

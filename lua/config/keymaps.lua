@@ -10,3 +10,8 @@ vim.keymap.set('n', "<Leader>p", "<CMD>bprevious<CR>", { desc = "Buffer [P]rev" 
 vim.keymap.set('n', "<Leader>n", "<CMD>bnext<CR>",     { desc = "Buffer [N]ext" })
 vim.keymap.set('n', "<Leader>c", "<CMD>close<CR>",     { desc = "[C]lose current window" })
 
+-- Code Execution
+
+vim.keymap.set('n', "<F1>", ":.lua<CR>",     { desc = "[C]lose current window" })
+vim.keymap.set('v', "<F1>", ":lua<CR>",     { desc = "[C]lose current window" })
+vim.keymap.set('n', "<F2>", "<CMD>source %<CR>",     { desc = "[C]lose current window" })
