@@ -7,7 +7,7 @@ function M.get_selection()
     return table.concat(lines, '\n')
 end
 
-function M.set_selection(text)
+function M.set_selection(text, newline)
     local vstart = vim.fn.getpos("'<")
     local vend = vim.fn.getpos("'>")
     vim.api.nvim_buf_set_text(0, vstart[2] - 1, vstart[3] - 1, vend[2] - 1, vend[3], vim.split(text, "\n"))

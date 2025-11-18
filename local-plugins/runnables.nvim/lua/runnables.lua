@@ -9,16 +9,8 @@ local function list_contains(list, value)
   return false
 end
 
-local function execute(program, code)
-    local tempfile = vim.fn.tempname()
-    vim.fn.writefile(vim.split(code, '\n'), tempfile)
-    local result = vim.system({program, tempfile}, { text = true }):wait()
-    vim.fn.delete(tempfile)
-    return result
-end
-
 local function execute_print(program, code)
-    local output = execute(program, code)
+    local output = require('runner').execute(program, code)
     print(output.stdout)
 end
 
@@ -37,6 +29,7 @@ local function execute_program(opts)
     end
     print("The filetype \"" .. vim.bo.filetype .. "\" is not currently supported.")
 end
+
 
 M.setup = function(opts)
     vim.api.nvim_create_user_command("Exp", function() execute_program({ langs = opts.langs, is_expression = true  }) end, { range = true })

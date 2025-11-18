@@ -12,6 +12,6 @@ vim.keymap.set('n', "<Leader>c", "<CMD>close<CR>",     { desc = "[C]lose current
 
 -- Code Execution
 
-vim.keymap.set('n', "<F1>", ":.lua<CR>",     { desc = "[C]lose current window" })
-vim.keymap.set('v', "<F1>", ":lua<CR>",     { desc = "[C]lose current window" })
-vim.keymap.set('n', "<F2>", "<CMD>source %<CR>",     { desc = "[C]lose current window" })
+vim.keymap.set('n', "<F1>", ":.lua<CR>",            { desc = "[C]lose current window" })
+vim.keymap.set('v', "<F1>", ":lua<CR>",             { desc = "[C]lose current window" })
+vim.keymap.set('n', "<F2>", "<CMD>source %<CR>",    { desc = "[C]lose current window" })
