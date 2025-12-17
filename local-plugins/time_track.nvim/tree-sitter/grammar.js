@@ -6,7 +6,7 @@
 
 /// <reference types="tree-sitter-cli/dsl" />
 // @ts-check
-
+// grammer
 module.exports = grammar({
   name: "time_track",
 

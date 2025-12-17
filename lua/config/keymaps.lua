@@ -6,8 +6,8 @@ vim.keymap.set('n', "<Leader>wl", "<CMD>rightbelow vsplit<CR>", { desc = "[W]ind
 
 -- Buffer Navigation
 
--- vim.keymap.set('n', "<Leader>h", "<CMD>bprevious<CR>", { desc = "Buffer [P]rev" })
--- vim.keymap.set('n', "<Leader>l", "<CMD>bnext<CR>",     { desc = "Buffer [N]ext" })
+vim.keymap.set('n', "<Leader>p", "<CMD>bprevious<CR>", { desc = "Buffer [P]rev" })
+vim.keymap.set('n', "<Leader>n", "<CMD>bnext<CR>",     { desc = "Buffer [N]ext" })
 vim.keymap.set('n', "<Leader>c", "<CMD>close<CR>",     { desc = "[C]lose current window" })
 
 -- Code Execution
@@ -19,12 +19,12 @@ vim.keymap.set('n', "<F2>", "<CMD>source %<CR>",    { desc = "[C]lose current wi
 local alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 for c in alphabet:gmatch(".") do
-    vim.keymap.set("v", "<Leader>y" .. c, '"' .. c .. 'y', { desc = "Yank visual selection to register " .. c })
-    vim.keymap.set("n", "<Leader>p" .. c, '"' .. c .. 'p', { desc = "Paste from register " .. c })
+    vim.keymap.set("v", "<Leader>" .. c .. "y" , '"' .. c .. 'y', { desc = "Yank visual selection to register " .. c })
+    vim.keymap.set("n", "<Leader>".. c .. "p", '"' .. c .. 'p', { desc = "Paste from register " .. c })
 end
 for i = 1, 10 do 
-    vim.keymap.set("v", "<Leader>y" .. i, '"' .. i .. 'y', { desc = "Yank visual selection to register " .. i })
-    vim.keymap.set("n", "<Leader>p" .. i, '"' .. i .. 'p', { desc = "Paste from register " .. i })
+    vim.keymap.set("v", "<Leader>" .. i .. "y" , '"' .. i .. 'y', { desc = "Yank visual selection to register " .. i })
+    vim.keymap.set("n", "<Leader>".. i .. "p", '"' .. i .. 'p', { desc = "Paste from register " .. i })
 end
 
 vim.keymap.set("v", "<Leader>=", '"+y', { desc = "Yank to clipboard" })
