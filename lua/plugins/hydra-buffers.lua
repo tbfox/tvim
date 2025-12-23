@@ -1,6 +1,7 @@
 return {
     {
         'hydra/buffers',
+        enabled = false,
         dependencies = { { 'anuvyklack/hydra.nvim' } }, 
         virtual = true,
         config = function()

@@ -12,20 +12,9 @@ vim.keymap.set('n', "<Leader>c", "<CMD>close<CR>",     { desc = "[C]lose current
 
 -- Code Execution
 
-vim.keymap.set('n', "<F1>", ":.lua<CR>",            { desc = "[C]lose current window" })
-vim.keymap.set('v', "<F1>", ":lua<CR>",             { desc = "[C]lose current window" })
-vim.keymap.set('n', "<F2>", "<CMD>source %<CR>",    { desc = "[C]lose current window" })
-
-local alphabet = "abcdefghijklmnopqrstuvwxyz"
-
-for c in alphabet:gmatch(".") do
-    vim.keymap.set("v", "<Leader>" .. c .. "y" , '"' .. c .. 'y', { desc = "Yank visual selection to register " .. c })
-    vim.keymap.set("n", "<Leader>".. c .. "p", '"' .. c .. 'p', { desc = "Paste from register " .. c })
-end
-for i = 1, 10 do 
-    vim.keymap.set("v", "<Leader>" .. i .. "y" , '"' .. i .. 'y', { desc = "Yank visual selection to register " .. i })
-    vim.keymap.set("n", "<Leader>".. i .. "p", '"' .. i .. 'p', { desc = "Paste from register " .. i })
-end
+vim.keymap.set('n', "<F1>", ":.lua<CR>",            { desc = "Run run lua page" })
+vim.keymap.set('v', "<F1>", ":lua<CR>",             { desc = "Run lua snippet" })
+vim.keymap.set('n', "<F2>", "<CMD>source %<CR>",    { desc = "Run file" })
 
 vim.keymap.set("v", "<Leader>=", '"+y', { desc = "Yank to clipboard" })
 
