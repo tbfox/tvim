@@ -1,15 +1,13 @@
-# runner
+This project needs you to bun install and compile for the AI command to work right.
 
-To install dependencies:
+Generally
 
-```bash
-bun install
+```sh
+bun i
 ```
 
-To run:
+The name of the outfile is important.
 
-```bash
-bun run index.ts
+```sh
+bun build ./index.ts --compile --outfile ai_request
 ```
-
-This project was created using `bun init` in bun v1.3.4. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.

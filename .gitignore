@@ -1,5 +1,9 @@
 # dependencies (bun install)
+
 node_modules
+
+# AI binary
+*ai_request
 
 # output
 out
