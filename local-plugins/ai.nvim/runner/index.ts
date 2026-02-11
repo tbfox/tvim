@@ -7,8 +7,6 @@ const { positionals } = parseArgs({
   allowPositionals: true,
 });
 
-console.log(positionals[2])
-
 try {
     const client = new Anthropic({
       apiKey: Bun.env.CLAUDE_API_KEY 
