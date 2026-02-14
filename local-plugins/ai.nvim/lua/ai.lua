@@ -1,31 +1,33 @@
 local M = {}
 
-function ai_summarize()
+local AI_BIN_LOCATION = "/local-plugins/ai.nvim/runner/bin/ai"
+
+local function ai_summarize()
     local selection = require('lib.selection')
-    local api_file = vim.fn.stdpath("config") .. "/local-plugins/ai.nvim/runner/ai_request"
+    local api_file = vim.fn.stdpath("config") .. AI_BIN_LOCATION
     local result = vim.system({ api_file, "Summarize the following content in a few short sentences:" .. selection.get_selection() .. " end content" }, { text = true }):wait()
     vim.print(result.stdout)
 end
 
-function ai_replace()
+local function ai_replace()
     local selection = require('lib.selection')
-    local api_file = vim.fn.stdpath("config") .. "/local-plugins/ai.nvim/runner/ai_request"
+    local api_file = vim.fn.stdpath("config") .. AI_BIN_LOCATION
     local result = vim.system({ api_file, selection.get_selection() }, { text = true }):wait()
     selection.set_selection(result.stdout)
 end
 
-function ai_concat()
+local function ai_concat()
     local selection = require('lib.selection')
     local selected_text = selection.get_selection()
-    local api_file = vim.fn.stdpath("config") .. "/local-plugins/ai.nvim/runner/ai_request"
+    local api_file = vim.fn.stdpath("config") .. AI_BIN_LOCATION
 
     local result = vim.system({ api_file, selected_text }, { text = true }):wait()
     selection.set_selection(selected_text .. "\n\n".. result.stdout)
 end
 
-function ai_print()
+local function ai_print()
     local selection = require('lib.selection').get_selection()
-    local api_file = vim.fn.stdpath("config") .. "/local-plugins/ai.nvim/runner/ai_request"
+    local api_file = vim.fn.stdpath("config") .. AI_BIN_LOCATION
     local result = vim.system({ api_file, selection }, { text = true }):wait()
     vim.print(result.stdout)
 end

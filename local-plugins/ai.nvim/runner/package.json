@@ -3,13 +3,17 @@
   "module": "index.ts",
   "type": "module",
   "private": true,
+  "scripts": {
+    "b": "bun build ./index.ts --compile --outfile ./bin/ai"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.74.0"
+    "@anthropic-ai/sdk": "^0.74.0",
+    "@google/genai": "^1.41.0"
   }
 }

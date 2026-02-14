@@ -2,10 +2,8 @@
 
 node_modules
 
-# AI binary
-*ai_request
-
 # output
+bin/
 out
 dist
 *.tgz
