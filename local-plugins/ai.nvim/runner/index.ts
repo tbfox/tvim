@@ -1,8 +1,6 @@
 import { join } from "path";
 import { parseArgs } from 'util'
-import { ConversationHistory } from './src/history'
-import { getClaudeResponse } from "./src/anthropic";
-import { getGeminiResponse } from "./src/google";
+import { aiProviderFactory } from "./src/aiProviderFactory";
 
 global.ROOT_STATE_FOLDER = join(Bun.env.HOME, '.local', 'share', 'tbfox_ai')
 global.HISTORY_PATH = join(global.ROOT_STATE_FOLDER, 'history.sqlite')
@@ -14,22 +12,16 @@ const { positionals } = parseArgs({
   allowPositionals: true,
 });
 
-const history = new ConversationHistory(global.HISTORY_PATH)
+const prompt = positionals[2]!
 
-try {
-    const prompt = positionals[2]!
-    if (Bun.env.AI_PROVIDER === 'ANTHROPIC') {
-        const response = await getClaudeResponse(prompt)
-        console.log(response);
-        history.save(prompt, response)
-    } else if (Bun.env.AI_PROVIDER === 'GOOGLE') {
-        const response = await getGeminiResponse(prompt)
-        console.log(response);
-        history.save(prompt, response)
-    } else {
-        throw new Error(`AI Provider ${Bun.env.AI_PROVIDER} not found or not defined. Check env variable 'AI_PROVIDER'`)
-    }
-} catch(e) {
-    console.log(e)
+const provider = aiProviderFactory()
+
+if (provider === null) {
+    console.log(`Provider ${Bun.env.AI_PROVIDER} does not exist`)
+    process.exit(1)
 }
+
+const response = provider.getResponse(prompt)
+
+console.log(response);
 
