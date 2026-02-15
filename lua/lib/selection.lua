@@ -1,8 +1,20 @@
 local M = {}
 
 function M.get_selection()
-    local vstart = vim.fn.getpos("'<")
-    local vend = vim.fn.getpos("'>")
+    local mode = vim.api.nvim_get_mode().mode
+    local vstart, vend
+
+    if mode == 'c' or mode == 'n' then
+        vstart = vim.fn.getpos("'<")
+        vend = vim.fn.getpos("'>")
+    elseif mode:find("[vV\22]") then
+        -- If we are currently IN visual mode
+        vstart = vim.fn.getpos("v")
+        vend = vim.fn.getpos(".")
+    else
+        return nil
+    end
+
 
     local start_row = vstart[2] - 1
     local start_col = vstart[3] - 1
