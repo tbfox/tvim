@@ -4,6 +4,7 @@ const history = new ConversationHistory(global.HISTORY_PATH)
 
 export abstract class AiProvider {
     abstract getResponseFromProvider(prompt: string): Promise<string | undefined>;
+    abstract getEmbedding(prompt: string): Promise<number[]>;
     async getResponse(prompt?: string): Promise<string | null> {
         try {
             if (!prompt) throw new Error("No prompt provided.")

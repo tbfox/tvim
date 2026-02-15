@@ -22,5 +22,8 @@ export class AnthropicAiProvider extends AiProvider {
     
         return response
     }
+    override getEmbedding(_: string): Promise<number[]> {
+        throw new Error("Embeddings currently not implemented for Anthropic.");
+    }
 }
 
