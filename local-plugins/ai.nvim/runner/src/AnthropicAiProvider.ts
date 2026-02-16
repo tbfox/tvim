@@ -7,7 +7,7 @@ export class AnthropicAiProvider extends AiProvider {
     })
     override async getResponseFromProvider(prompt: string) {
         const responseObj = await this.client.messages.create({
-          max_tokens: 1024,
+          max_tokens: 2048,
           messages: [{ role: "user", content: prompt }],
           model: "claude-haiku-4-5-20251001"
         });
