@@ -187,12 +187,31 @@ local function view_issue_details(id)
 
     local opts = { buffer = buf, silent = true }
 
-    -- Create buffer-local command to save changes
+    -- Create buffer-local command to save changes or close issue
     vim.api.nvim_buf_create_user_command(buf, "Gh", function(cmd_opts)
         if cmd_opts.args == "save" then
             save_issue_changes(id, buf)
+        elseif cmd_opts.args == "close" then
+            show_confirmation_popup("Close issue #" .. id .. "?", function(confirmed)
+                if not confirmed then
+                    vim.notify("Close cancelled", vim.log.levels.INFO)
+                    return
+                end
+
+                vim.notify("Closing issue #" .. id .. "...", vim.log.levels.INFO)
+                local cmd = { "gh", "issue", "close", tostring(id) }
+                local obj = vim.system(cmd, { text = true }):wait()
+
+                if obj.code ~= 0 then
+                    vim.notify("Failed to close issue: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+                else
+                    vim.notify("Issue #" .. id .. " closed successfully!", vim.log.levels.INFO)
+                    vim.cmd("bd")
+                    open_gh_issues()
+                end
+            end)
         else
-            vim.notify("Usage: :Gh save", vim.log.levels.WARN)
+            vim.notify("Usage: :Gh save | :Gh close", vim.log.levels.WARN)
         end
     end, { nargs = 1 })
 
