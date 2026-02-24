@@ -28,10 +28,125 @@ local function render_issue_list(buf, issues)
     vim.bo[buf].modifiable = false
 end
 
+-- Parse title and body from buffer content
+local function parse_issue_content(lines)
+    local title = ""
+    local body_lines = {}
+    local in_body = false
+
+    for i, line in ipairs(lines) do
+        if i == 1 and line:match("^Title:%s*") then
+            title = line:match("^Title:%s*(.*)") or ""
+        elseif line:match("^%-%-%-+$") and not in_body then
+            -- Found separator, body starts after this
+            in_body = true
+        elseif in_body then
+            table.insert(body_lines, line)
+        end
+    end
+
+    -- Trim trailing empty lines from body
+    while #body_lines > 0 and body_lines[#body_lines]:match("^%s*$") do
+        table.remove(body_lines)
+    end
+
+    local body = table.concat(body_lines, "\n")
+
+    return title, body
+end
+
+-- Show oil-style confirmation popup
+local function show_confirmation_popup(message, callback)
+    local width = #message + 10
+    local height = 3
+    local row = math.floor((vim.o.lines - height) / 2)
+    local col = math.floor((vim.o.columns - width) / 2)
+
+    local buf = vim.api.nvim_create_buf(false, true)
+    local prompt = message .. " (y/n): "
+    vim.api.nvim_buf_set_lines(buf, 0, -1, false, { prompt })
+
+    local win = vim.api.nvim_open_win(buf, true, {
+        relative = 'editor',
+        width = width,
+        height = height,
+        row = row,
+        col = col,
+        style = 'minimal',
+        border = 'rounded',
+    })
+
+    vim.bo[buf].buftype = 'nofile'
+    vim.bo[buf].modifiable = false
+
+    local function close_popup()
+        if vim.api.nvim_win_is_valid(win) then
+            vim.api.nvim_win_close(win, true)
+        end
+    end
+
+    local opts = { buffer = buf, silent = true, nowait = true }
+    vim.keymap.set('n', 'y', function()
+        close_popup()
+        callback(true)
+    end, opts)
+
+    vim.keymap.set('n', 'n', function()
+        close_popup()
+        callback(false)
+    end, opts)
+
+    vim.keymap.set('n', '<Esc>', function()
+        close_popup()
+        callback(false)
+    end, opts)
+
+    vim.keymap.set('n', 'q', function()
+        close_popup()
+        callback(false)
+    end, opts)
+end
+
+-- Save issue changes using gh CLI
+local function save_issue_changes(issue_id, buf)
+    local lines = vim.api.nvim_buf_get_lines(buf, 0, -1, false)
+    local title, body = parse_issue_content(lines)
+
+    if title == "" then
+        vim.notify("Error: Could not parse issue title", vim.log.levels.ERROR)
+        return
+    end
+
+    show_confirmation_popup("Update issue #" .. issue_id .. "?", function(confirmed)
+        if not confirmed then
+            vim.notify("Update cancelled", vim.log.levels.INFO)
+            return
+        end
+
+        vim.notify("Updating issue #" .. issue_id .. "...", vim.log.levels.INFO)
+
+        local cmd = { "gh", "issue", "edit", tostring(issue_id), "--title", title, "--body", body }
+
+        -- Debug: print what we're sending
+        vim.notify("Title: " .. title, vim.log.levels.DEBUG)
+        vim.notify("Body length: " .. #body .. " chars", vim.log.levels.DEBUG)
+
+        local obj = vim.system(cmd, { text = true }):wait()
+
+        if obj.code ~= 0 then
+            vim.notify("Failed to update issue: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+        else
+            vim.notify("Issue #" .. issue_id .. " updated successfully!", vim.log.levels.INFO)
+            vim.bo[buf].modified = false
+        end
+    end)
+end
+
 local function view_issue_details(id)
     vim.notify("Fetching issue #" .. id .. "...", vim.log.levels.INFO)
-    
-    local cmd = { "gh", "issue", "view", id }
+
+    -- Fetch issue data as JSON for reliable parsing
+    local cmd = { "gh", "issue", "view", id, "--json", "title,body" }
     local obj = vim.system(cmd, { text = true }):wait()
 
     if obj.code ~= 0 then
@@ -39,18 +154,48 @@ local function view_issue_details(id)
         return
     end
 
-    local lines = vim.split(obj.stdout, '\n', { plain = true })
+    local success, issue_data = pcall(vim.json.decode, obj.stdout)
+    if not success or not issue_data then
+        vim.notify("Failed to parse issue JSON", vim.log.levels.ERROR)
+        return
+    end
+
+    -- Format for editing: Title on first line, separator, then body
+    local lines = {
+        "Title: " .. (issue_data.title or ""),
+        "---",
+    }
+
+    -- Add body lines
+    if issue_data.body and issue_data.body ~= "" then
+        local body_lines = vim.split(issue_data.body, '\n', { plain = true })
+        for _, line in ipairs(body_lines) do
+            table.insert(lines, line)
+        end
+    end
+
     local buf = vim.api.nvim_create_buf(false, true)
     vim.api.nvim_buf_set_lines(buf, 0, -1, false, lines)
 
     vim.bo[buf].buftype = "nofile"
     vim.bo[buf].swapfile = false
     vim.bo[buf].bufhidden = "wipe"
-    vim.bo[buf].modifiable = false
     vim.bo[buf].filetype = "markdown"
 
+    -- Store issue ID in buffer variable for save handler
+    vim.b[buf].oily_octo_issue_id = id
+
     local opts = { buffer = buf, silent = true }
-    
+
+    -- Create buffer-local command to save changes
+    vim.api.nvim_buf_create_user_command(buf, "Gh", function(cmd_opts)
+        if cmd_opts.args == "save" then
+            save_issue_changes(id, buf)
+        else
+            vim.notify("Usage: :Gh save", vim.log.levels.WARN)
+        end
+    end, { nargs = 1 })
+
     vim.keymap.set('n', '-', function()
         vim.cmd("bd")
         open_gh_issues()
