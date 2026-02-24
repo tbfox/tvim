@@ -107,7 +107,7 @@ local function show_confirmation_popup(message, callback)
     end, opts)
 end
 
--- Save issue changes using gh CLI
+-- Save issue changes using gh CLI (edit existing or create new)
 local function save_issue_changes(issue_id, buf)
     local lines = vim.api.nvim_buf_get_lines(buf, 0, -1, false)
     local title, body = parse_issue_content(lines)
@@ -117,15 +117,26 @@ local function save_issue_changes(issue_id, buf)
         return
     end
 
-    show_confirmation_popup("Update issue #" .. issue_id .. "?", function(confirmed)
+    -- Check if this is a new issue or editing existing
+    local is_new = issue_id == nil
+    local prompt_msg = is_new and "Create new issue?" or ("Update issue #" .. issue_id .. "?")
+
+    show_confirmation_popup(prompt_msg, function(confirmed)
         if not confirmed then
-            vim.notify("Update cancelled", vim.log.levels.INFO)
+            vim.notify(is_new and "Create cancelled" or "Update cancelled", vim.log.levels.INFO)
             return
         end
 
-        vim.notify("Updating issue #" .. issue_id .. "...", vim.log.levels.INFO)
-
-        local cmd = { "gh", "issue", "edit", tostring(issue_id), "--title", title, "--body", body }
+        local cmd, action_msg, success_msg
+        if is_new then
+            vim.notify("Creating new issue...", vim.log.levels.INFO)
+            cmd = { "gh", "issue", "create", "--title", title, "--body", body }
+            success_msg = "Issue created successfully!"
+        else
+            vim.notify("Updating issue #" .. issue_id .. "...", vim.log.levels.INFO)
+            cmd = { "gh", "issue", "edit", tostring(issue_id), "--title", title, "--body", body }
+            success_msg = "Issue #" .. issue_id .. " updated successfully!"
+        end
 
         -- Debug: print what we're sending
         vim.notify("Title: " .. title, vim.log.levels.DEBUG)
@@ -134,12 +145,73 @@ local function save_issue_changes(issue_id, buf)
         local obj = vim.system(cmd, { text = true }):wait()
 
         if obj.code ~= 0 then
-            vim.notify("Failed to update issue: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+            vim.notify("Failed to " .. (is_new and "create" or "update") .. " issue: " .. (obj.stderr or ""), vim.log.levels.ERROR)
         else
-            vim.notify("Issue #" .. issue_id .. " updated successfully!", vim.log.levels.INFO)
+            vim.notify(success_msg, vim.log.levels.INFO)
             vim.bo[buf].modified = false
+            -- If created new issue, close buffer and refresh issue list
+            if is_new then
+                vim.cmd("bd")
+                open_gh_issues()
+            end
         end
     end)
+end
+
+-- Create a new issue buffer with template
+local function create_new_issue()
+    local template_lines = {
+        "Title: ",
+        "---",
+        "",
+        "## Description",
+        "",
+        "",
+        "",
+        "## Steps to Reproduce",
+        "",
+        "1. ",
+        "",
+        "",
+        "## Expected Behavior",
+        "",
+        "",
+        "",
+        "## Actual Behavior",
+        "",
+    }
+
+    local buf = vim.api.nvim_create_buf(false, true)
+    vim.api.nvim_buf_set_lines(buf, 0, -1, false, template_lines)
+
+    vim.bo[buf].buftype = "nofile"
+    vim.bo[buf].swapfile = false
+    vim.bo[buf].bufhidden = "wipe"
+    vim.bo[buf].filetype = "markdown"
+
+    local opts = { buffer = buf, silent = true }
+
+    -- Create buffer-local command (no issue_id = new issue)
+    vim.api.nvim_buf_create_user_command(buf, "Gh", function(cmd_opts)
+        if cmd_opts.args == "save" then
+            save_issue_changes(nil, buf) -- nil means new issue
+        else
+            vim.notify("Usage: :Gh save", vim.log.levels.WARN)
+        end
+    end, { nargs = 1 })
+
+    vim.keymap.set('n', '-', function()
+        vim.cmd("bd")
+        open_gh_issues()
+    end, opts)
+
+    vim.keymap.set('n', 'q', "<cmd>bd!<CR>", opts)
+
+    vim.api.nvim_set_current_buf(buf)
+
+    -- Move cursor to end of first line (after "Title: ")
+    vim.api.nvim_win_set_cursor(0, {1, 7})
+    vim.cmd("startinsert!")
 end
 
 local function view_issue_details(id)
@@ -258,7 +330,16 @@ open_gh_issues = function()
     vim.bo[buf].filetype = "gitcommit" 
 
     local opts = { buffer = buf, silent = true }
-    
+
+    -- Create buffer-local command for creating new issues
+    vim.api.nvim_buf_create_user_command(buf, "Gh", function(cmd_opts)
+        if cmd_opts.args == "new" then
+            create_new_issue()
+        else
+            vim.notify("Usage: :Gh new", vim.log.levels.WARN)
+        end
+    end, { nargs = 1 })
+
     -- Open Issue
     vim.keymap.set('n', '<CR>', function()
         local line = vim.api.nvim_get_current_line()
