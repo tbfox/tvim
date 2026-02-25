@@ -1,77 +1,82 @@
 local M = {}
 
-local function create_popup_window()
-    -- Create a new buffer
-    local buf = vim.api.nvim_create_buf(false, true) -- not listed, scratch buffer
+local state = {
+    buf = nil,
+    win = nil,
+}
 
-    -- Get editor dimensions
-    local width = vim.api.nvim_get_option("columns")
-    local height = vim.api.nvim_get_option("lines")
+local function buf_valid()
+    return state.buf and vim.api.nvim_buf_is_valid(state.buf)
+end
 
-    -- Calculate popup size (80% of screen)
+local function win_valid()
+    return state.win and vim.api.nvim_win_is_valid(state.win)
+end
+
+local function win_opts()
+    local width = vim.o.columns
+    local height = vim.o.lines
     local win_height = math.ceil(height * 0.8 - 4)
     local win_width = math.ceil(width * 0.8)
 
-    -- Calculate position to center the window
-    local row = math.ceil((height - win_height) / 2 - 1)
-    local col = math.ceil((width - win_width) / 2)
-
-    -- Window options
-    local opts = {
+    return {
         style = "minimal",
         relative = "editor",
         width = win_width,
         height = win_height,
-        row = row,
-        col = col,
+        row = math.ceil((height - win_height) / 2 - 1),
+        col = math.ceil((width - win_width) / 2),
         border = "rounded",
-        title = " Claude Prompt ",
+        title = " Claude ",
         title_pos = "center",
     }
-
-    -- Open the floating window
-    local win = vim.api.nvim_open_win(buf, true, opts)
-
-    -- Set buffer options
-    vim.api.nvim_buf_set_option(buf, "buftype", "nofile")
-    vim.api.nvim_buf_set_option(buf, "bufhidden", "wipe")
-    vim.api.nvim_buf_set_option(buf, "filetype", "markdown")
-
-    -- Set up keymaps to close the window
-    local close_window = function()
-        vim.api.nvim_win_close(win, true)
-    end
-
-    vim.api.nvim_buf_set_keymap(buf, "n", "<Esc>", "", {
-        callback = close_window,
-        noremap = true,
-        silent = true,
-    })
-    vim.api.nvim_buf_set_keymap(buf, "n", "q", "", {
-        callback = close_window,
-        noremap = true,
-        silent = true,
-    })
-
-    -- Start in insert mode
-    vim.cmd("startinsert")
-
-    -- Add a helpful message at the top
-    vim.api.nvim_buf_set_lines(buf, 0, -1, false, {
-        "# Enter your Claude prompt below",
-        "# Press <Esc> or 'q' in normal mode to close",
-        "",
-        ""
-    })
-
-    -- Move cursor to the end
-    vim.api.nvim_win_set_cursor(win, {4, 0})
 end
 
-M.setup = function(opts)
-    vim.api.nvim_create_user_command("Claude", function()
-        create_popup_window()
-    end, {})
+local function hide()
+    if win_valid() then
+        vim.api.nvim_win_close(state.win, true)
+    end
+    state.win = nil
+end
+
+local function show()
+    state.win = vim.api.nvim_open_win(state.buf, true, win_opts())
+    vim.cmd("startinsert")
+end
+
+local function create()
+    state.buf = vim.api.nvim_create_buf(false, true)
+    vim.bo[state.buf].bufhidden = "hide"
+
+    show()
+
+    vim.fn.termopen({ "zsh", "-c", "claude" }, {
+        on_exit = function()
+            state.buf = nil
+            state.win = nil
+        end,
+    })
+
+    vim.keymap.set("t", "<F9>", hide, { buffer = state.buf })
+    vim.keymap.set("n", "<F9>", hide, { buffer = state.buf })
+
+    vim.cmd("startinsert")
+end
+
+local function toggle()
+    if buf_valid() then
+        if win_valid() then
+            hide()
+        else
+            show()
+        end
+    else
+        create()
+    end
+end
+
+M.setup = function()
+    vim.keymap.set("n", "<F9>", toggle, { desc = "Toggle Claude terminal" })
 end
 
 return M
