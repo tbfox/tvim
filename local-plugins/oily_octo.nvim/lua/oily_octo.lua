@@ -1,7 +1,7 @@
 local M = {}
 
 -- State management
-M.show_closed = true
+M.show_closed = false 
 M.cached_issues = {}
 
 local open_gh_issues -- Forward declare

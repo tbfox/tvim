@@ -55,23 +55,25 @@ local function show()
     vim.cmd("startinsert")
 end
 
-local function create(prompt)
+local function create(initial_text)
     state.buf = vim.api.nvim_create_buf(false, true)
     vim.bo[state.buf].bufhidden = "hide"
 
     show()
 
-    local cmd = "claude"
-    if prompt then
-        cmd = cmd .. " -p " .. vim.fn.shellescape(prompt)
-    end
-
-    vim.fn.termopen({ "zsh", "-c", cmd }, {
+    local job_id = vim.fn.termopen({ "claude" }, {
         on_exit = function()
             state.buf = nil
             state.win = nil
         end,
     })
+
+    if initial_text and job_id > 0 then
+        vim.defer_fn(function()
+            -- Bracket paste escapes so embedded newlines don't submit early
+            vim.fn.chansend(job_id, "\x1b[200~" .. initial_text .. "\x1b[201~\r")
+        end, 3000)
+    end
 
     vim.keymap.set("t", "<F9>", hide, { buffer = state.buf })
     vim.keymap.set("n", "<F9>", hide, { buffer = state.buf })
