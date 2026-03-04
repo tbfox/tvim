@@ -1,0 +1,187 @@
+[
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note1a",
+        "content": "record",
+        "refs": ["bofm:3-ne:5_p11-p18#p11", "bofm:morm:8_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note1b",
+        "content": "Book of Mormon",
+        "refs": ["bofm:w-of-m:1_p5#p5", "bofm:morm:5_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note2a",
+        "content": "Ammaron",
+        "refs": ["bofm:4-ne:1_p47-p49#p48"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note2b",
+        "content": "learned",
+        "refs": ["bofm:enos:1_p1#p1", "bofm:mosiah:1_p3-p5#p3"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note2c",
+        "content": "sober",
+        "refs": ["tg:sobriety", "tg:trustworthiness"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note3a",
+        "content": "land Antum",
+        "refs": ["bofm:morm:2_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note3b",
+        "content": "Shim",
+        "refs": ["bofm:morm:4_p23#p23", "bofm:ether:9_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note4a",
+        "content": "plates of Nephi",
+        "refs": [
+            "bofm:w-of-m:1_p1,11#p1",
+            "bofm:3-ne:5_p9-p12#p10",
+            "bofm:morm:2_p17-p18#p17",
+            "bofm:morm:8_p1,4-p5,14#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note5a",
+        "content": "Nephi",
+        "refs": ["bofm:3-ne:5_p12,20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note8a",
+        "content": "Nephites",
+        "refs": ["bofm:4-ne:1_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note9a",
+        "content": "Lamanites",
+        "refs": ["bofm:4-ne:1_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note11a",
+        "content": "battles",
+        "refs": ["bofm:2-ne:1_p12#p12", "bofm:morm:4_p1-p23#p1"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note13a",
+        "content": "beloved",
+        "refs": ["bofm:3-ne:28_p2,12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note14a",
+        "content": "gifts",
+        "refs": ["ot:1-sam:3_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note14b",
+        "content": "Holy Ghost",
+        "refs": ["tg:holy-ghost-loss-of"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note14c",
+        "content": "unbelief",
+        "refs": ["tg:unbelief"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note15a",
+        "content": "fifteen",
+        "refs": ["bofm:morm:2_p1-p2#p1"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note15b",
+        "content": "sober",
+        "refs": ["tg:sobriety"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note15c",
+        "content": "visited",
+        "refs": [
+            "ot:ex:3_p16#p16",
+            "bofm:2-ne:4_p26#p26",
+            "bofm:alma:9_p21#p21"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note15d",
+        "content": "tasted",
+        "refs": ["ot:ps:34_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note16a",
+        "content": "wilfully rebelled",
+        "refs": ["bofm:4-ne:1_p38#p38", "tg:rebellion"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note16b",
+        "content": "taken",
+        "refs": ["bofm:morm:8_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note17a",
+        "content": "preach",
+        "refs": ["ot:micah:3_p5-p7#p6"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note17b",
+        "content": "cursed",
+        "refs": [
+            "bofm:2-ne:1_p7#p7",
+            "bofm:alma:45_p10-p14,16#p16",
+            "bofm:ether:2_p8-p12#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note18a",
+        "content": "hide",
+        "refs": [
+            "bofm:hel:12_p18#p18",
+            "bofm:morm:2_p10-p14#p10",
+            "bofm:ether:14_p1-p2#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note18b",
+        "content": "treasures",
+        "refs": ["bofm:hel:13_p18-p23,30-p37#p18", "tg:treasure"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note19a",
+        "content": "sorceries",
+        "refs": ["tg:sorcery"]
+    },
+    {
+        "origin_chapter": "bofm/morm/1",
+        "noteId": "note19b",
+        "content": "Samuel the Lamanite",
+        "refs": ["bofm:morm:2_p10-p15#p10"]
+    }
+]

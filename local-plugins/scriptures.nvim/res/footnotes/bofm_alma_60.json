@@ -1,0 +1,186 @@
+[
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note1a",
+        "content": "again",
+        "refs": ["bofm:alma:59_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note1b",
+        "content": "governor",
+        "refs": ["bofm:alma:50_p39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note2a",
+        "content": "condemnation",
+        "refs": ["tg:reproof"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note3a",
+        "content": "sufferings",
+        "refs": ["bofm:alma:61_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note7a",
+        "content": "stupor",
+        "refs": ["tg:apathy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note9a",
+        "content": "perish",
+        "refs": ["bofm:alma:58_p7-p9#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note10a",
+        "content": "known",
+        "refs": ["ot:ex:3_p9#p9", "ot:ps:9_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note12a",
+        "content": "suppose",
+        "refs": ["nt:luke:13_p1-p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note13a",
+        "content": "righteous",
+        "refs": ["ot:lam:4_p13#p13", "dnc:42_p46#p46"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note13b",
+        "content": "judgment",
+        "refs": ["bofm:alma:14_p10-p11#p11", "dnc:103_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note14a",
+        "content": "slothfulness",
+        "refs": ["tg:laziness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note15a",
+        "content": "could",
+        "refs": ["bofm:alma:59_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note16a",
+        "content": "among",
+        "refs": ["bofm:alma:51_p5-p7,13-p27#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note16b",
+        "content": "king-men",
+        "refs": ["bofm:alma:62_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note16c",
+        "content": "fulfilling",
+        "refs": ["bofm:alma:38_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note17a",
+        "content": "possession",
+        "refs": ["bofm:alma:59_p5-p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note18a",
+        "content": "traitors",
+        "refs": ["bofm:alma:62_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note19a",
+        "content": "surrounded",
+        "refs": ["tg:apathy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note21a",
+        "content": "will",
+        "refs": ["bofm:1-ne:17_p23-p35#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note23a",
+        "content": "inward",
+        "refs": ["nt:matt:23_p25-p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note23b",
+        "content": "cleansed",
+        "refs": ["tg:purification"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note25a",
+        "content": "spirit",
+        "refs": ["bofm:alma:51_p6-p7#p6", "bofm:alma:61_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note26a",
+        "content": "tribulations",
+        "refs": ["tg:tribulation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note28a",
+        "content": "God",
+        "refs": ["nt:acts:5_p26-p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note29a",
+        "content": "sword",
+        "refs": [
+            "ot:isa:1_p19-p20#p20",
+            "bofm:hel:13_p5#p5",
+            "bofm:3-ne:2_p19#p19"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note32a",
+        "content": "tradition",
+        "refs": ["bofm:alma:17_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note33a",
+        "content": "iniquities",
+        "refs": ["bofm:alma:61_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note33b",
+        "content": "go",
+        "refs": ["bofm:alma:61_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note36a",
+        "content": "seek",
+        "refs": ["bofm:alma:61_p9#p9", "dnc:121_p39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/alma/60",
+        "noteId": "note36b",
+        "content": "seek",
+        "refs": ["tg:motivations"]
+    }
+]

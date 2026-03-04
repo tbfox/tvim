@@ -1,0 +1,65 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/22",
+        "noteId": "note1a",
+        "content": "And",
+        "refs": ["ot:isa:12_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/22",
+        "noteId": "note2a",
+        "content": "trust",
+        "refs": ["ot:ps:36_p7#p7", "bofm:mosiah:4_p6#p6", "bofm:hel:12_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/22",
+        "noteId": "note2b",
+        "content": "Jehovah",
+        "refs": [
+            "ot:ex:15_p2#p2",
+            "ot:ps:83_p18#p18",
+            "tg:jesus-christ-jehovah"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/22",
+        "noteId": "note2c",
+        "content": "strength",
+        "refs": ["tg:strength"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/22",
+        "noteId": "note2d",
+        "content": "song",
+        "refs": ["tg:singing"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/22",
+        "noteId": "note3a",
+        "content": "water",
+        "refs": ["tg:living-water"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/22",
+        "noteId": "note4a",
+        "content": "Praise",
+        "refs": ["tg:praise", "tg:thanksgiving"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/22",
+        "noteId": "note5a",
+        "content": "Sing",
+        "refs": [
+            "ot:ps:57_p7#p7",
+            "ot:ps:108_p1#p1",
+            "bofm:alma:26_p8#p8",
+            "dnc:136_p28#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/22",
+        "noteId": "note6a",
+        "content": "Cry",
+        "refs": ["ot:isa:54_p1#p1", "ot:zeph:3_p14#p14", "ot:zech:2_p10#p10"]
+    }
+]

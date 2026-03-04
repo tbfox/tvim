@@ -1,0 +1,58 @@
+[
+    {
+        "origin_chapter": "bofm/ether/5",
+        "noteId": "note1a",
+        "content": "sealed",
+        "refs": [
+            "bofm:2-ne:27_p7-p11,21#p8",
+            "bofm:ether:4_p4-p7#p5",
+            "dnc:17_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/5",
+        "noteId": "note2a",
+        "content": "those",
+        "refs": ["bofm:2-ne:27_p13-p14#p14", "dnc:5_p1-p16#p15"]
+    },
+    {
+        "origin_chapter": "bofm/ether/5",
+        "noteId": "note3a",
+        "content": "three",
+        "refs": [
+            "bofm:2-ne:11_p3#p3",
+            "bofm:2-ne:27_p12-p14#p12",
+            "dnc:17_p3-p5#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/5",
+        "noteId": "note3b",
+        "content": "know",
+        "refs": ["dnc:5_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/ether/5",
+        "noteId": "note3c",
+        "content": "true",
+        "refs": ["bofm:ether:4_p6-p11#p11", "bofm:moro:10_p1-p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/ether/5",
+        "noteId": "note4a",
+        "content": "witnesses",
+        "refs": ["bofm:2-ne:27_p12-p14#p12", "dnc:14_p8#p8", "dnc:17_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/5",
+        "noteId": "note4b",
+        "content": "testimony",
+        "refs": ["bofm:2-ne:25_p18#p18", "bofm:2-ne:29_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/ether/5",
+        "noteId": "note5a",
+        "content": "come",
+        "refs": ["bofm:morm:9_p27#p27", "bofm:moro:10_p30-p32#p30"]
+    }
+]

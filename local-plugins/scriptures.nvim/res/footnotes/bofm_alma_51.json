@@ -1,0 +1,239 @@
+[
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note1a",
+        "content": "peace",
+        "refs": ["tg:peacemakers"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note2a",
+        "content": "law",
+        "refs": ["bofm:alma:1_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note4a",
+        "content": "dispute",
+        "refs": ["tg:disputations"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note5a",
+        "content": "king-men",
+        "refs": [
+            "bofm:alma:60_p16#p16",
+            "bofm:alma:62_p9#p9",
+            "tg:kings-earthly",
+            "tg:unrighteous-dominion"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note5b",
+        "content": "king",
+        "refs": ["bofm:3-ne:6_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note6a",
+        "content": "freemen",
+        "refs": ["bofm:alma:61_p3-p4#p3", "bofm:alma:62_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note6b",
+        "content": "division",
+        "refs": ["ot:1-kgs:16_p21-p22#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note6c",
+        "content": "covenanted",
+        "refs": ["bofm:alma:48_p13#p13", "bofm:alma:60_p25-p27#p25"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note7a",
+        "content": "voice",
+        "refs": ["bofm:alma:4_p16#p16", "bofm:hel:1_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note8a",
+        "content": "high birth",
+        "refs": ["tg:haughtiness", "tg:pride"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note8b",
+        "content": "kings",
+        "refs": ["tg:tyranny"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note9a",
+        "content": "stirred up",
+        "refs": ["bofm:alma:63_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note9b",
+        "content": "sworn",
+        "refs": ["nt:acts:23_p12#p12", "bofm:alma:49_p26-p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note10a",
+        "content": "rash",
+        "refs": ["tg:rashness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note11a",
+        "content": "slain",
+        "refs": ["bofm:alma:49_p22-p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note13a",
+        "content": "people",
+        "refs": ["bofm:alma:46_p10-p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note13b",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note14a",
+        "content": "stubbornness",
+        "refs": ["tg:stubbornness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note19a",
+        "content": "dissenters",
+        "refs": ["bofm:alma:60_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note19b",
+        "content": "cast",
+        "refs": ["bofm:alma:62_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note20a",
+        "content": "title of liberty",
+        "refs": ["bofm:alma:46_p12-p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note21a",
+        "content": "valiantly",
+        "refs": ["tg:courage"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note22a",
+        "content": "land of Moroni",
+        "refs": [
+            "bofm:alma:50_p13#p13",
+            "bofm:alma:62_p32,34#p32",
+            "bofm:3-ne:8_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note24a",
+        "content": "city of Moroni",
+        "refs": ["bofm:alma:50_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note26a",
+        "content": "many",
+        "refs": ["bofm:alma:58_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note26b",
+        "content": "Nephihah",
+        "refs": ["bofm:alma:50_p14#p14", "bofm:alma:62_p14,18,26#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note26c",
+        "content": "Lehi",
+        "refs": ["bofm:alma:50_p15#p15", "bofm:alma:62_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note26d",
+        "content": "Morianton",
+        "refs": ["bofm:alma:50_p25#p25", "bofm:alma:55_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note26e",
+        "content": "Gid",
+        "refs": ["bofm:alma:55_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note26f",
+        "content": "Mulek",
+        "refs": ["bofm:alma:52_p2,16,22#p2", "bofm:alma:53_p2,6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note27a",
+        "content": "fortifications",
+        "refs": ["bofm:alma:48_p8-p9#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note28a",
+        "content": "borders",
+        "refs": ["bofm:alma:52_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note29a",
+        "content": "slain",
+        "refs": ["bofm:alma:50_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note29b",
+        "content": "headed",
+        "refs": ["bofm:hel:1_p28-p30#p28"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note30a",
+        "content": "northward",
+        "refs": ["bofm:alma:50_p29#p29", "bofm:alma:52_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note34a",
+        "content": "put",
+        "refs": ["bofm:alma:62_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note34b",
+        "content": "death",
+        "refs": ["bofm:alma:54_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/51",
+        "noteId": "note36a",
+        "content": "readiness",
+        "refs": ["bofm:alma:52_p1#p1"]
+    }
+]

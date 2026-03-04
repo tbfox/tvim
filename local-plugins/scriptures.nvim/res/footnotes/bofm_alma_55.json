@@ -1,0 +1,92 @@
+[
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note1a",
+        "content": "fraud",
+        "refs": ["ot:neh:6_p8#p8", "bofm:alma:47_p12-p35#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note2a",
+        "content": "purpose",
+        "refs": ["bofm:alma:54_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note5a",
+        "content": "one",
+        "refs": ["bofm:alma:47_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note7a",
+        "content": "Gid",
+        "refs": ["bofm:alma:51_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note13a",
+        "content": "strength",
+        "refs": ["ot:prov:20_p1#p1", "tg:wine"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note14a",
+        "content": "drunken",
+        "refs": ["bofm:mosiah:22_p6-p11#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note15a",
+        "content": "deep sleep",
+        "refs": ["ot:1-sam:26_p12#p12", "bofm:mosiah:24_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note16a",
+        "content": "weapons",
+        "refs": ["bofm:alma:62_p21-p23#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note19a",
+        "content": "delight",
+        "refs": ["bofm:alma:48_p16#p16", "bofm:alma:55_p30-p32#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note23a",
+        "content": "captains",
+        "refs": ["bofm:alma:52_p19#p19", "bofm:alma:56_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note23b",
+        "content": "cast",
+        "refs": ["bofm:alma:52_p38#p38"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note25a",
+        "content": "labor",
+        "refs": ["bofm:alma:53_p3-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note28a",
+        "content": "again",
+        "refs": ["bofm:alma:44_p12-p23#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note31a",
+        "content": "remember",
+        "refs": ["ot:hosea:5_p15#p15", "bofm:alma:62_p49-p51#p49"]
+    },
+    {
+        "origin_chapter": "bofm/alma/55",
+        "noteId": "note33a",
+        "content": "Morianton",
+        "refs": ["bofm:alma:50_p25#p25", "bofm:alma:51_p26#p26"]
+    }
+]

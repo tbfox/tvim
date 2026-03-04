@@ -1,0 +1,189 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note1a",
+        "content": "The burden",
+        "refs": ["ot:isa:13_p1-p22#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note1b",
+        "content": "Babylon",
+        "refs": ["tg:babylon"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note2a",
+        "content": "shake the hand",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note3a",
+        "content": "mighty",
+        "refs": ["ot:joel:3_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note4a",
+        "content": "kingdoms",
+        "refs": [
+            "ot:joel:3_p11,14#p14",
+            "ot:zeph:3_p8#p8",
+            "ot:zech:14_p2-p3#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note4b",
+        "content": "gathered",
+        "refs": ["ot:zech:12_p2-p9#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note6a",
+        "content": "day",
+        "refs": ["tg:day-of-the-lord"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note7a",
+        "content": "melt",
+        "refs": ["ot:jer:9_p7#p7", "dnc:133_p41#p41"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note9a",
+        "content": "destroy",
+        "refs": ["tg:earth-cleansing-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note10a",
+        "content": "stars",
+        "refs": [
+            "ot:isa:24_p23#p23",
+            "ot:ezek:32_p7-p8#p7",
+            "nt:rev:6_p12-p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note10b",
+        "content": "constellations",
+        "refs": ["tg:astronomy"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note10c",
+        "content": "light",
+        "refs": ["ot:joel:3_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note10d",
+        "content": "sun",
+        "refs": ["tg:world-end-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note11a",
+        "content": "punish",
+        "refs": ["ot:isa:24_p6#p6", "ot:mal:4_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note11b",
+        "content": "wicked",
+        "refs": ["ot:ex:34_p7#p7", "ot:prov:21_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note11c",
+        "content": "proud",
+        "refs": ["ot:job:40_p11#p11", "bofm:2-ne:12_p12#p12", "dnc:64_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note12a",
+        "content": "man",
+        "refs": ["ot:isa:4_p1-p4#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note13a",
+        "content": "shake",
+        "refs": ["ot:hag:2_p6-p7#p6", "nt:heb:12_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note13b",
+        "content": "remove",
+        "refs": ["tg:earth-renewal-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note14a",
+        "content": "land",
+        "refs": ["tg:lands-of-inheritance"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note15a",
+        "content": "joined",
+        "refs": ["ot:lam:2_p9#p9", "bofm:alma:59_p5-p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note16a",
+        "content": "children",
+        "refs": ["ot:job:27_p13-p15#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note16b",
+        "content": "dashed",
+        "refs": ["ot:ps:137_p8-p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note17a",
+        "content": "Medes",
+        "refs": ["ot:isa:21_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note18a",
+        "content": "pity",
+        "refs": ["ot:lam:2_p2,17,21#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note19a",
+        "content": "Babylon",
+        "refs": ["ot:isa:14_p4-p27#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note19b",
+        "content": "Sodom",
+        "refs": [
+            "ot:gen:19_p24-p25#p24",
+            "ot:deut:29_p23#p23",
+            "ot:jer:49_p18#p18",
+            "bofm:2-ne:13_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note20a",
+        "content": "inhabited",
+        "refs": ["ot:jer:50_p3,39-p40#p39", "ot:jer:51_p29,62#p29"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/23",
+        "noteId": "note21a",
+        "content": "wild",
+        "refs": ["ot:isa:34_p11-p15#p14"]
+    }
+]

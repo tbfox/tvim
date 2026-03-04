@@ -1,0 +1,235 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note1a",
+        "content": "perish",
+        "refs": ["nt:luke:13_p1-p5#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note2a",
+        "content": "covenant",
+        "refs": ["nt:gal:3_p26-p29#p29", "pgp:abr:2_p9-p11#p10"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note2b",
+        "content": "Jews",
+        "refs": ["nt:matt:8_p12#p12", "tg:israel-judah-people-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note2c",
+        "content": "cast off",
+        "refs": ["nt:luke:3_p3-p9#p9", "nt:rom:9_p6#p6", "bofm:jacob:5_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note2d",
+        "content": "covenanteth",
+        "refs": ["nt:rom:3_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note2e",
+        "content": "repent",
+        "refs": ["tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note3a",
+        "content": "believe",
+        "refs": ["bofm:2-ne:28_p2#p2", "bofm:3-ne:16_p6-p13#p6"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note3b",
+        "content": "they",
+        "refs": ["bofm:1-ne:22_p5-p10#p9", "bofm:3-ne:5_p20-p26#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note3c",
+        "content": "remnant",
+        "refs": [
+            "bofm:2-ne:4_p7-p11#p7",
+            "bofm:jacob:1_p5#p5",
+            "tg:israel-remnant-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note5a",
+        "content": "them",
+        "refs": ["bofm:3-ne:21_p3-p7,24-p26#p5", "bofm:morm:5_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note5b",
+        "content": "they",
+        "refs": ["dnc:3_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note5c",
+        "content": "knowledge",
+        "refs": [
+            "bofm:1-ne:15_p14#p14",
+            "bofm:2-ne:3_p12#p12",
+            "bofm:morm:7_p1,9-p10#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note6a",
+        "content": "know",
+        "refs": ["bofm:alma:3_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note6b",
+        "content": "scales",
+        "refs": ["tg:darkness-spiritual", "tg:spiritual-blindness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note6c",
+        "content": "delightsome",
+        "refs": ["bofm:w-of-m:1_p8#p8", "dnc:49_p24#p24", "dnc:109_p65#p65"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note7a",
+        "content": "Jews",
+        "refs": [
+            "bofm:2-ne:29_p13-p14#p14",
+            "bofm:3-ne:5_p23-p26#p25",
+            "tg:israel-judah-people-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note7b",
+        "content": "begin",
+        "refs": ["bofm:2-ne:25_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note8a",
+        "content": "restoration",
+        "refs": [
+            "tg:israel-restoration-of",
+            "tg:millennium-preparing-a-people-for"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note9a",
+        "content": "Lord God",
+        "refs": ["ot:isa:11_p4-p9#p4"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note9b",
+        "content": "judge",
+        "refs": ["ot:ps:19_p9#p9", "bofm:2-ne:9_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note9c",
+        "content": "meek",
+        "refs": ["tg:meek"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note10a",
+        "content": "time",
+        "refs": ["bofm:jacob:5_p29#p29", "bofm:jacob:6_p2#p2", "tg:last-days"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note10b",
+        "content": "division",
+        "refs": ["dnc:63_p54#p54"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note10c",
+        "content": "destroy",
+        "refs": ["ot:ps:73_p3-p17#p17", "dnc:29_p17#p17", "pgp:js-m:1_p55#p55"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note10d",
+        "content": "spare",
+        "refs": [
+            "bofm:1-ne:22_p15-p22#p17",
+            "bofm:3-ne:22_p13-p17#p13",
+            "pgp:moses:7_p61#p61"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note10e",
+        "content": "destroy",
+        "refs": [
+            "bofm:1-ne:22_p15-p17,23#p23",
+            "bofm:jacob:5_p69#p69",
+            "tg:earth-cleansing-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note11a",
+        "content": "righteousness",
+        "refs": ["ot:isa:11_p5-p9#p5", "tg:righteousness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note12a",
+        "content": "And",
+        "refs": ["ot:isa:65_p25#p25", "tg:earth-renewal-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note15a",
+        "content": "mountain",
+        "refs": ["ot:joel:2_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note15b",
+        "content": "knowledge",
+        "refs": ["tg:god-knowledge-about"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note16a",
+        "content": "all",
+        "refs": ["dnc:101_p32-p35#p32", "dnc:121_p26-p32#p28"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note16b",
+        "content": "known",
+        "refs": ["bofm:ether:4_p6-p7,13-p17#p7"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note17a",
+        "content": "revealed",
+        "refs": ["nt:luke:12_p2-p3#p2", "dnc:1_p1-p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note18a",
+        "content": "day",
+        "refs": ["nt:acts:3_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/30",
+        "noteId": "note18b",
+        "content": "no more",
+        "refs": ["nt:rev:20_p2-p3#p2", "bofm:ether:8_p26#p26"]
+    }
+]

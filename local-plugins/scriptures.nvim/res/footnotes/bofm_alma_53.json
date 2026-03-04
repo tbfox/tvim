@@ -1,0 +1,140 @@
+[
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note2a",
+        "content": "like",
+        "refs": ["bofm:alma:48_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note3a",
+        "content": "digging",
+        "refs": ["bofm:alma:52_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note3b",
+        "content": "Bountiful",
+        "refs": ["bofm:alma:52_p9,17,27#p9", "bofm:alma:63_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note4a",
+        "content": "breastwork",
+        "refs": ["bofm:alma:50_p2-p3#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note5a",
+        "content": "build",
+        "refs": ["bofm:alma:55_p25-p26#p25"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note6a",
+        "content": "Mulek",
+        "refs": ["bofm:alma:51_p26#p26", "bofm:alma:52_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note8a",
+        "content": "dissensions",
+        "refs": ["bofm:alma:31_p8#p8", "bofm:hel:1_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note9a",
+        "content": "iniquity",
+        "refs": ["ot:josh:7_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note10a",
+        "content": "people",
+        "refs": ["bofm:alma:27_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note10b",
+        "content": "converted",
+        "refs": ["bofm:alma:23_p8-p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note11a",
+        "content": "never",
+        "refs": ["bofm:alma:24_p17-p19#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note12a",
+        "content": "protected",
+        "refs": ["bofm:alma:27_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note13a",
+        "content": "afflictions",
+        "refs": ["tg:affliction", "tg:tribulation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note13b",
+        "content": "desirous",
+        "refs": ["bofm:alma:24_p17-p19#p18", "bofm:alma:56_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note14a",
+        "content": "break",
+        "refs": ["ot:num:30_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note14b",
+        "content": "oath",
+        "refs": ["tg:oath"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note16a",
+        "content": "sons",
+        "refs": ["bofm:alma:57_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note17a",
+        "content": "laying",
+        "refs": ["tg:self-sacrifice"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note17b",
+        "content": "liberty",
+        "refs": ["bofm:alma:56_p47#p47", "tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note20a",
+        "content": "courage",
+        "refs": ["tg:courage", "tg:dependability", "tg:integrity"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note21a",
+        "content": "soberness",
+        "refs": ["tg:sobriety"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note21b",
+        "content": "walk",
+        "refs": ["tg:walking-with-god"]
+    },
+    {
+        "origin_chapter": "bofm/alma/53",
+        "noteId": "note22a",
+        "content": "two thousand",
+        "refs": ["bofm:alma:56_p1-p9#p3"]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note1a",
+        "content": "speaking",
+        "refs": ["bofm:mosiah:7_p18-p33#p18"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note2a",
+        "content": "Zeniff",
+        "refs": ["bofm:mosiah:7_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note2b",
+        "content": "himself",
+        "refs": ["bofm:mosiah:7_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note3a",
+        "content": "taught",
+        "refs": ["bofm:mosiah:2_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note5a",
+        "content": "plates",
+        "refs": ["bofm:mosiah:9"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note5b",
+        "content": "record",
+        "refs": ["bofm:mosiah:9_p1#p1", "bofm:mosiah:22_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note5c",
+        "content": "land of Zarahemla",
+        "refs": ["bofm:omni:1_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note6a",
+        "content": "interpret",
+        "refs": ["nt:1-cor:12_p10#p10", "bofm:mosiah:21_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note7a",
+        "content": "forty",
+        "refs": ["bofm:mosiah:21_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note8a",
+        "content": "many",
+        "refs": [
+            "bofm:alma:50_p29#p29",
+            "bofm:hel:3_p3-p4#p4",
+            "bofm:morm:6_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note8b",
+        "content": "bones",
+        "refs": ["bofm:omni:1_p22#p22", "bofm:mosiah:21_p26-p27#p26"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note9a",
+        "content": "twenty-four",
+        "refs": ["bofm:mosiah:21_p27#p27", "bofm:mosiah:22_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note10a",
+        "content": "breastplates",
+        "refs": ["ot:ex:25_p7#p7", "bofm:ether:15_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note10b",
+        "content": "brass",
+        "refs": ["bofm:ether:10_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note13a",
+        "content": "translate",
+        "refs": [
+            "ot:dan:5_p16#p16",
+            "bofm:omni:1_p20-p22#p20",
+            "bofm:mosiah:28_p11-p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note13b",
+        "content": "interpreters",
+        "refs": [
+            "ot:ex:28_p30#p30",
+            "bofm:mosiah:21_p27-p28#p28",
+            "tg:urim-and-thummim"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note13c",
+        "content": "seer",
+        "refs": ["tg:seer"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note15a",
+        "content": "seer",
+        "refs": ["ot:1-sam:9_p9#p9", "dnc:21_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note19a",
+        "content": "great",
+        "refs": ["bofm:ether:3_p21-p28#p26", "bofm:ether:4_p1-p8#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note20a",
+        "content": "blind",
+        "refs": ["tg:spiritual-blindness"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/8",
+        "noteId": "note20b",
+        "content": "she",
+        "refs": ["ot:prov:9_p1#p1", "nt:matt:11_p19#p19"]
+    }
+]

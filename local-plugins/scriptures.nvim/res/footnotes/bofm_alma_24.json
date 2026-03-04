@@ -1,0 +1,273 @@
+[
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note1a",
+        "content": "Amulon",
+        "refs": ["bofm:alma:21_p2-p4#p3", "bofm:alma:25_p4-p9#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note1b",
+        "content": "Helam",
+        "refs": ["bofm:mosiah:23_p19#p19", "bofm:mosiah:27_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note1c",
+        "content": "Jerusalem",
+        "refs": ["bofm:alma:21_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note1d",
+        "content": "Anti-Nephi-Lehi",
+        "refs": ["bofm:alma:23_p17#p17", "bofm:alma:25_p1,13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note5a",
+        "content": "council",
+        "refs": ["bofm:alma:27_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note7a",
+        "content": "traditions",
+        "refs": ["bofm:mosiah:1_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note8a",
+        "content": "opened",
+        "refs": ["bofm:alma:23_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note9a",
+        "content": "sins",
+        "refs": ["ot:micah:3_p8#p8", "bofm:hel:13_p26#p26", "dnc:18_p44#p44"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note10a",
+        "content": "forgiven",
+        "refs": ["ot:dan:9_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note10b",
+        "content": "guilt",
+        "refs": ["tg:guilt"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note11a",
+        "content": "take",
+        "refs": ["ot:isa:53_p4-p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note13a",
+        "content": "again",
+        "refs": ["dnc:42_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note13b",
+        "content": "washed",
+        "refs": ["nt:rev:1_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note14a",
+        "content": "souls",
+        "refs": ["tg:worth-of-souls"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note14b",
+        "content": "plan of salvation",
+        "refs": ["tg:jesus-christ-prophecies-about", "tg:salvation-plan-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note15a",
+        "content": "hide",
+        "refs": ["bofm:alma:25_p14#p14", "bofm:alma:26_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note15b",
+        "content": "clean",
+        "refs": ["tg:purification"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note16a",
+        "content": "go",
+        "refs": ["bofm:alma:40_p11-p15#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note17a",
+        "content": "bury",
+        "refs": ["bofm:hel:15_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note18a",
+        "content": "never",
+        "refs": ["bofm:alma:53_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note18b",
+        "content": "covenanting",
+        "refs": ["tg:covenants"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note18c",
+        "content": "give",
+        "refs": ["tg:self-sacrifice"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note19a",
+        "content": "believe",
+        "refs": ["tg:faith"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note19b",
+        "content": "firm",
+        "refs": ["tg:integrity"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note20a",
+        "content": "another",
+        "refs": ["ot:isa:7_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note21a",
+        "content": "prostrated",
+        "refs": ["bofm:alma:27_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note22a",
+        "content": "thousand",
+        "refs": ["bofm:alma:26_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note23a",
+        "content": "perish",
+        "refs": ["bofm:alma:26_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note23b",
+        "content": "praised",
+        "refs": ["bofm:mosiah:16_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note24a",
+        "content": "forbear",
+        "refs": ["bofm:alma:25_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note24b",
+        "content": "swollen",
+        "refs": ["tg:compassion", "tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note26a",
+        "content": "saved",
+        "refs": ["ot:isa:57_p1#p1", "nt:rev:14_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note27a",
+        "content": "ways",
+        "refs": [
+            "ot:2-kgs:5_p15#p15",
+            "ot:isa:55_p8-p9#p8",
+            "bofm:alma:37_p6-p7#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note28a",
+        "content": "order",
+        "refs": ["bofm:alma:21_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note28b",
+        "content": "Nehors",
+        "refs": [
+            "bofm:alma:1_p15#p15",
+            "bofm:alma:2_p1,20#p1",
+            "bofm:alma:16_p11#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note29a",
+        "content": "none",
+        "refs": ["bofm:alma:23_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note30a",
+        "content": "enlightened",
+        "refs": ["nt:matt:12_p45#p45"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note30b",
+        "content": "Spirit",
+        "refs": ["tg:god-spirit-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note30c",
+        "content": "knowledge",
+        "refs": ["nt:heb:10_p26-p27#p26", "bofm:alma:47_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note30d",
+        "content": "fallen",
+        "refs": [
+            "bofm:2-ne:31_p14#p14",
+            "bofm:alma:9_p19#p19",
+            "bofm:alma:31_p8#p8",
+            "dnc:93_p19#p19",
+            "tg:apostasy-of-individuals",
+            "tg:holy-ghost-loss-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note30e",
+        "content": "hardened",
+        "refs": ["tg:hardheartedness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/24",
+        "noteId": "note30f",
+        "content": "worse",
+        "refs": [
+            "ot:2-chr:33_p9#p9",
+            "ot:ezek:5_p6#p6",
+            "nt:2-pet:2_p20-p21#p20"
+        ]
+    }
+]

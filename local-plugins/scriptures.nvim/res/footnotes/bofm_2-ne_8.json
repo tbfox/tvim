@@ -1,0 +1,316 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note1a",
+        "content": "Hearken",
+        "refs": ["ot:isa:51_p1-p23#p1", "bofm:2-ne:7_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note1b",
+        "content": "rock",
+        "refs": ["bofm:2-ne:8_p2#p2", "tg:rock"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note2a",
+        "content": "father",
+        "refs": ["ot:gen:17_p1-p8#p4", "dnc:109_p64#p64", "dnc:132_p49#p49"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note2b",
+        "content": "Sarah",
+        "refs": ["ot:gen:24_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note3a",
+        "content": "comfort",
+        "refs": ["tg:israel-restoration-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note3b",
+        "content": "Zion",
+        "refs": ["tg:zion"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note3c",
+        "content": "wilderness",
+        "refs": ["ot:isa:35_p1-p2,6-p7#p2", "tg:israel-blessings-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note3d",
+        "content": "Eden",
+        "refs": ["tg:earth-renewal-of", "tg:eden"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note4a",
+        "content": "law",
+        "refs": ["ot:isa:2_p3#p3", "tg:god-law-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note4b",
+        "content": "light",
+        "refs": ["tg:light-noun"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note5a",
+        "content": "salvation",
+        "refs": ["tg:jesus-christ-savior", "tg:salvation"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note5b",
+        "content": "judge",
+        "refs": ["tg:jesus-christ-judge"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note5c",
+        "content": "isles",
+        "refs": ["bofm:2-ne:10_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note6a",
+        "content": "heavens",
+        "refs": ["nt:2-pet:3_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note6b",
+        "content": "vanish",
+        "refs": ["ot:isa:13_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note6c",
+        "content": "wax old",
+        "refs": ["ot:ps:102_p25-p28#p26"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note7a",
+        "content": "fear",
+        "refs": [
+            "ot:deut:1_p17#p17",
+            "ot:ps:56_p4,11#p4",
+            "ot:ps:118_p6#p6",
+            "dnc:122_p9#p9",
+            "tg:peer-influence"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note7b",
+        "content": "reproach",
+        "refs": ["tg:reproach"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note7c",
+        "content": "revilings",
+        "refs": ["tg:hate"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note8a",
+        "content": "moth",
+        "refs": ["ot:isa:50_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note9a",
+        "content": "Awake",
+        "refs": ["ot:isa:52_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note9b",
+        "content": "strength",
+        "refs": ["dnc:113_p7-p8#p8", "tg:israel-restoration-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note9c",
+        "content": "Rahab",
+        "refs": ["ot:ps:89_p10#p10", "ot:isa:27_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note9d",
+        "content": "dragon",
+        "refs": ["ot:ezek:29_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note10a",
+        "content": "way",
+        "refs": ["ot:isa:35_p8-p10#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note11a",
+        "content": "redeemed",
+        "refs": ["tg:israel-restoration-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note11b",
+        "content": "return",
+        "refs": ["tg:israel-gathering-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note11c",
+        "content": "singing",
+        "refs": ["ot:isa:35_p10#p10", "ot:jer:31_p12-p13#p12"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note11d",
+        "content": "mourning",
+        "refs": ["nt:rev:21_p2-p5#p4"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note12a",
+        "content": "I",
+        "refs": ["dnc:133_p47#p47", "dnc:136_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note12b",
+        "content": "afraid",
+        "refs": ["ot:jer:1_p7-p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note12c",
+        "content": "grass",
+        "refs": ["ot:isa:40_p6-p8#p6", "nt:1-pet:1_p24-p25#p24"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note13a",
+        "content": "forgettest",
+        "refs": ["ot:jer:23_p27-p39#p27"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note13b",
+        "content": "stretched",
+        "refs": ["ot:job:9_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note13c",
+        "content": "oppressor",
+        "refs": ["bofm:2-ne:8_p14#p14", "tg:oppression"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note14a",
+        "content": "captive",
+        "refs": ["ot:isa:52_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note15a",
+        "content": "waves",
+        "refs": ["bofm:1-ne:4_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note16a",
+        "content": "put",
+        "refs": ["tg:israel-mission-of", "tg:prophets-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note16b",
+        "content": "people",
+        "refs": [
+            "ot:1-kgs:8_p51#p51",
+            "bofm:2-ne:3_p9#p9",
+            "bofm:2-ne:29_p14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note17a",
+        "content": "cup",
+        "refs": ["ot:jer:25_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note17b",
+        "content": "fury",
+        "refs": ["nt:luke:21_p22-p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note19a",
+        "content": "sons",
+        "refs": ["nt:rev:11_p3-p12#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note21a",
+        "content": "drunken",
+        "refs": ["bofm:2-ne:27_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note22a",
+        "content": "pleadeth",
+        "refs": ["ot:jer:50_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note23a",
+        "content": "I",
+        "refs": [
+            "ot:joel:3_p9-p16#p16",
+            "ot:zech:12_p2-p3,8-p9#p9",
+            "ot:zech:14_p3,12-p15#p12"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note24a",
+        "content": "Awake",
+        "refs": ["ot:isa:52_p1-p2#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note24b",
+        "content": "strength",
+        "refs": ["dnc:113_p7-p8#p8", "tg:strength"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note24c",
+        "content": "Zion",
+        "refs": ["tg:zion"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note24d",
+        "content": "no more",
+        "refs": ["ot:joel:3_p17#p17", "ot:zech:14_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/8",
+        "noteId": "note25a",
+        "content": "bands",
+        "refs": ["dnc:113_p9-p10#p10"]
+    }
+]

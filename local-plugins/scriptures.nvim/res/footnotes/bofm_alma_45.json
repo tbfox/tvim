@@ -1,0 +1,228 @@
+[
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note1a",
+        "content": "delivered",
+        "refs": ["tg:deliver"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note1b",
+        "content": "fast",
+        "refs": ["tg:fast-fasting"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note2a",
+        "content": "records",
+        "refs": ["bofm:alma:37_p1-p32#p1", "bofm:alma:50_p38#p38"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note3a",
+        "content": "believe",
+        "refs": ["bofm:1-ne:11_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note6a",
+        "content": "keep",
+        "refs": ["tg:commandments-of-god", "tg:obedience"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note8a",
+        "content": "prosper",
+        "refs": ["bofm:1-ne:4_p14#p14", "bofm:alma:48_p15,25#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note9a",
+        "content": "prophesy",
+        "refs": ["tg:prophecy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note10a",
+        "content": "four hundred",
+        "refs": [
+            "bofm:1-ne:12_p10-p15#p12",
+            "bofm:hel:13_p9#p9",
+            "bofm:morm:8_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note10b",
+        "content": "unbelief",
+        "refs": ["tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note11a",
+        "content": "extinct",
+        "refs": ["bofm:jarom:1_p10#p10", "bofm:hel:13_p5-p19#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note12a",
+        "content": "lasciviousness",
+        "refs": ["tg:lust"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note12b",
+        "content": "fourth",
+        "refs": ["bofm:2-ne:26_p9#p9", "bofm:3-ne:27_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note13a",
+        "content": "no more",
+        "refs": ["bofm:hel:3_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note14a",
+        "content": "numbered",
+        "refs": ["bofm:moro:9_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note14b",
+        "content": "Lamanites",
+        "refs": ["bofm:1-ne:13_p30#p30", "dnc:3_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note14c",
+        "content": "until",
+        "refs": ["bofm:moro:1_p1-p3#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note15a",
+        "content": "blessed",
+        "refs": ["ot:gen:49_p1-p27#p1", "bofm:alma:8_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note15b",
+        "content": "righteous’",
+        "refs": ["bofm:alma:46_p10#p10", "bofm:alma:62_p40#p40"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note16a",
+        "content": "Cursed",
+        "refs": [
+            "bofm:2-ne:1_p7#p7",
+            "bofm:alma:37_p31#p31",
+            "bofm:morm:1_p17#p17",
+            "bofm:ether:2_p8-p12#p11",
+            "tg:earth-curse-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note16b",
+        "content": "wickedly",
+        "refs": ["ot:jer:44_p5-p6#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note16c",
+        "content": "blessing",
+        "refs": ["dnc:130_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note16d",
+        "content": "least",
+        "refs": ["dnc:1_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note17a",
+        "content": "church",
+        "refs": ["tg:church"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note18a",
+        "content": "departed",
+        "refs": ["bofm:3-ne:1_p2-p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note18b",
+        "content": "Melek",
+        "refs": ["bofm:alma:35_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note19a",
+        "content": "Spirit",
+        "refs": ["ot:2-kgs:2_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note19b",
+        "content": "buried",
+        "refs": ["ot:deut:34_p5-p6#p6", "tg:translated-beings"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note20a",
+        "content": "word",
+        "refs": ["bofm:alma:46_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note21a",
+        "content": "word",
+        "refs": ["bofm:alma:31_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note21b",
+        "content": "regulation",
+        "refs": ["bofm:alma:6_p7#p7", "bofm:alma:62_p44-p47#p44"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note22a",
+        "content": "Helaman",
+        "refs": ["bofm:alma:48_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note22b",
+        "content": "priests",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note22c",
+        "content": "teachers",
+        "refs": ["tg:teacher"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note23a",
+        "content": "dissension",
+        "refs": ["bofm:3-ne:11_p28-p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note24a",
+        "content": "riches",
+        "refs": ["tg:treasure"]
+    },
+    {
+        "origin_chapter": "bofm/alma/45",
+        "noteId": "note24b",
+        "content": "walk",
+        "refs": ["tg:pride", "tg:walking-in-darkness"]
+    }
+]

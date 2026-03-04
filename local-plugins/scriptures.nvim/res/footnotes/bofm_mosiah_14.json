@@ -1,0 +1,134 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note1a",
+        "content": "believed",
+        "refs": ["ot:isa:53_p1-p12#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note3a",
+        "content": "despised",
+        "refs": ["ot:ps:22_p6#p6", "bofm:1-ne:19_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note4a",
+        "content": "borne",
+        "refs": ["bofm:alma:7_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note4b",
+        "content": "griefs",
+        "refs": ["nt:matt:8_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note5a",
+        "content": "wounded",
+        "refs": ["tg:jesus-christ-crucifixion-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note5b",
+        "content": "transgressions",
+        "refs": ["bofm:mosiah:15_p9#p9", "bofm:alma:11_p40#p40"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note5c",
+        "content": "healed",
+        "refs": ["nt:1-pet:2_p24-p25#p24"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note6a",
+        "content": "sheep",
+        "refs": [
+            "nt:matt:9_p36#p36",
+            "bofm:2-ne:12_p5#p5",
+            "bofm:2-ne:28_p14#p14",
+            "bofm:alma:5_p37#p37"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note7a",
+        "content": "opened",
+        "refs": [
+            "ot:isa:53_p7-p8#p7",
+            "nt:mark:15_p2-p14#p3",
+            "nt:john:19_p9-p10#p9",
+            "nt:1-pet:2_p22-p23#p23",
+            "bofm:mosiah:15_p6#p6",
+            "tg:jesus-christ-trials-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note7b",
+        "content": "lamb",
+        "refs": ["ot:jer:11_p19#p19", "tg:passover"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note9a",
+        "content": "rich",
+        "refs": [
+            "nt:matt:27_p57-p60#p57",
+            "nt:mark:15_p27,43-p46#p46",
+            "tg:jesus-christ-death-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note9b",
+        "content": "evil",
+        "refs": ["nt:john:19_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note10a",
+        "content": "bruise",
+        "refs": ["ot:gen:3_p15#p15", "nt:rom:16_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note10b",
+        "content": "seed",
+        "refs": ["bofm:mosiah:15_p10-p13#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note11a",
+        "content": "bear",
+        "refs": [
+            "ot:lev:16_p21-p22#p22",
+            "nt:1-pet:3_p18#p18",
+            "dnc:19_p16-p19#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note12a",
+        "content": "great",
+        "refs": ["nt:luke:24_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note12b",
+        "content": "he",
+        "refs": ["bofm:mosiah:15_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/14",
+        "noteId": "note12c",
+        "content": "intercession",
+        "refs": [
+            "bofm:2-ne:2_p9#p9",
+            "bofm:mosiah:15_p8#p8",
+            "bofm:moro:7_p27-p28#p28"
+        ]
+    }
+]

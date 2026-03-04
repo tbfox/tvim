@@ -1,0 +1,231 @@
+[
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note1a",
+        "content": "returned",
+        "refs": ["bofm:hel:6_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note3a",
+        "content": "reject",
+        "refs": ["tg:prophets-rejection-of"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note4a",
+        "content": "usurped",
+        "refs": ["tg:tyranny", "tg:unrighteous-dominion"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note5a",
+        "content": "unpunished",
+        "refs": ["ot:job:12_p6#p6", "ot:job:21_p7#p7", "ot:ps:73_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note5b",
+        "content": "money",
+        "refs": ["tg:bribe"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note5c",
+        "content": "world",
+        "refs": ["nt:matt:13_p22#p22", "dnc:39_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note6a",
+        "content": "not many years",
+        "refs": [
+            "bofm:hel:4_p26#p26",
+            "bofm:hel:6_p6,32#p6",
+            "bofm:hel:11_p26#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note7a",
+        "content": "joyed",
+        "refs": ["bofm:2-ne:5_p26-p28#p27"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note7b",
+        "content": "firm",
+        "refs": ["dnc:5_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note9a",
+        "content": "sorrow",
+        "refs": ["ot:jer:9_p1-p3#p1"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note10a",
+        "content": "garden",
+        "refs": ["bofm:hel:9_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note11a",
+        "content": "tower",
+        "refs": ["bofm:alma:50_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note13a",
+        "content": "why",
+        "refs": ["nt:matt:3_p5-p8#p7"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note15a",
+        "content": "mourning",
+        "refs": ["tg:mourning"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note16a",
+        "content": "everlasting",
+        "refs": ["bofm:alma:26_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note17a",
+        "content": "Why",
+        "refs": ["ot:isa:1_p5-p6#p5", "ot:ezek:18_p23,32#p23"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note18a",
+        "content": "hearken",
+        "refs": ["tg:disobedience"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note18b",
+        "content": "good shepherd",
+        "refs": [
+            "ot:ezek:34_p12#p12",
+            "nt:john:10_p14#p14",
+            "bofm:alma:5_p38-p60#p60",
+            "tg:jesus-christ-good-shepherd"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note18c",
+        "content": "provoked",
+        "refs": [
+            "ot:num:14_p11-p12#p11",
+            "bofm:1-ne:17_p23-p31#p30",
+            "bofm:jacob:1_p8#p8",
+            "bofm:alma:12_p36-p37#p37"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note19a",
+        "content": "gathering",
+        "refs": ["bofm:3-ne:10_p4-p7#p4"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note20a",
+        "content": "forgotten",
+        "refs": ["ot:isa:17_p4-p11#p10"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note21a",
+        "content": "gain",
+        "refs": ["tg:selfishness"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note21b",
+        "content": "praised",
+        "refs": ["tg:peer-influence"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note21c",
+        "content": "riches",
+        "refs": ["tg:treasure"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note21d",
+        "content": "false witness",
+        "refs": ["nt:matt:15_p19-p20#p19", "tg:slander"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note22a",
+        "content": "wo",
+        "refs": ["nt:rev:8_p13#p13", "dnc:5_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note22b",
+        "content": "great",
+        "refs": ["bofm:hel:8_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note22c",
+        "content": "strength",
+        "refs": ["bofm:mosiah:7_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note23a",
+        "content": "better",
+        "refs": ["bofm:hel:15_p11-p15#p14"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note24a",
+        "content": "lengthen",
+        "refs": [
+            "ot:ex:20_p12#p12",
+            "bofm:1-ne:17_p55#p55",
+            "bofm:alma:9_p16#p16",
+            "dnc:5_p33#p33"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note24b",
+        "content": "destroyed",
+        "refs": ["bofm:alma:9_p19#p19", "bofm:hel:10_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note25a",
+        "content": "secret",
+        "refs": ["bofm:2-ne:10_p15#p15", "bofm:hel:3_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note26a",
+        "content": "wo",
+        "refs": ["ot:isa:5_p8-p25#p8"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note29a",
+        "content": "know",
+        "refs": ["bofm:hel:8_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/hel/7",
+        "noteId": "note29b",
+        "content": "know",
+        "refs": ["bofm:hel:8_p12#p12"]
+    }
+]

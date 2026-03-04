@@ -1,0 +1,148 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note1a",
+        "content": "weapons",
+        "refs": ["tg:weapon"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note4a",
+        "content": "grain",
+        "refs": ["bofm:mosiah:9_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note5a",
+        "content": "cloth",
+        "refs": ["bofm:alma:1_p29#p29", "bofm:hel:6_p13#p13", "tg:clothing"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note6a",
+        "content": "Laman",
+        "refs": ["bofm:mosiah:9_p10-p11#p10", "bofm:mosiah:24_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note7a",
+        "content": "Shemlon",
+        "refs": ["bofm:mosiah:11_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note8a",
+        "content": "armed",
+        "refs": [
+            "bofm:2-ne:5_p14#p14",
+            "bofm:jarom:1_p8#p8",
+            "bofm:alma:2_p12#p12"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note8b",
+        "content": "bows",
+        "refs": ["bofm:enos:1_p20#p20", "bofm:alma:3_p4-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note10a",
+        "content": "strength",
+        "refs": ["tg:strength", "tg:trust-in-god"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note11a",
+        "content": "strength",
+        "refs": ["tg:trust-not-in-the-arm-of-flesh"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note12a",
+        "content": "wild",
+        "refs": ["bofm:alma:17_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note12b",
+        "content": "tradition",
+        "refs": [
+            "bofm:2-ne:5_p1-p3#p1",
+            "bofm:mosiah:1_p5#p5",
+            "bofm:alma:3_p8#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note12c",
+        "content": "wronged",
+        "refs": ["tg:injustice"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note13a",
+        "content": "first",
+        "refs": ["bofm:1-ne:18_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note13b",
+        "content": "he",
+        "refs": ["bofm:2-ne:5_p5-p9#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note14a",
+        "content": "wroth",
+        "refs": ["bofm:1-ne:18_p10-p11#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note14b",
+        "content": "understood",
+        "refs": ["bofm:1-ne:15_p8-p11#p8", "bofm:2-ne:1_p24-p27#p25"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note15a",
+        "content": "wroth",
+        "refs": ["bofm:2-ne:5_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note15b",
+        "content": "ruling",
+        "refs": ["bofm:2-ne:5_p1-p4#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note16a",
+        "content": "records",
+        "refs": ["bofm:2-ne:5_p12#p12", "bofm:mosiah:28_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note16b",
+        "content": "robbed",
+        "refs": ["bofm:alma:20_p10,13#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note18a",
+        "content": "cunning",
+        "refs": ["bofm:mosiah:9_p10#p10", "bofm:mosiah:19_p26,28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note21a",
+        "content": "tend",
+        "refs": ["bofm:mosiah:9_p9,14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/10",
+        "noteId": "note22a",
+        "content": "bless",
+        "refs": ["ot:num:6_p22-p27#p24"]
+    }
+]

@@ -1,0 +1,336 @@
+[
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note1a",
+        "content": "Samuel",
+        "refs": ["bofm:hel:13_p2#p2", "bofm:3-ne:23_p9-p10#p9"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note2a",
+        "content": "five",
+        "refs": ["bofm:hel:16_p4#p4", "bofm:3-ne:1_p5-p21#p5"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note3a",
+        "content": "sign",
+        "refs": ["bofm:hel:16_p13#p13", "bofm:3-ne:1_p8-p20#p15"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note4a",
+        "content": "day",
+        "refs": ["bofm:3-ne:1_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note4b",
+        "content": "born",
+        "refs": ["tg:jesus-christ-birth-of"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note5a",
+        "content": "star",
+        "refs": ["nt:matt:2_p1-p2#p2", "bofm:3-ne:1_p21#p21", "tg:astronomy"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note6a",
+        "content": "signs",
+        "refs": ["bofm:3-ne:2_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note7a",
+        "content": "fall",
+        "refs": ["bofm:3-ne:1_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note8a",
+        "content": "believe",
+        "refs": ["nt:john:3_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note10a",
+        "content": "cast",
+        "refs": ["bofm:hel:13_p2-p7#p2"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note11a",
+        "content": "hear",
+        "refs": ["ot:ezek:2_p6-p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note12a",
+        "content": "Father",
+        "refs": [
+            "bofm:mosiah:3_p8#p8",
+            "bofm:mosiah:15_p4#p4",
+            "bofm:3-ne:9_p15#p15",
+            "bofm:ether:4_p7#p7",
+            "tg:jesus-christ-creator"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note13a",
+        "content": "believe",
+        "refs": ["nt:acts:16_p30-p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note13b",
+        "content": "merits",
+        "refs": ["dnc:19_p16-p20#p16"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note14a",
+        "content": "death",
+        "refs": ["tg:jesus-christ-death-of"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note15a",
+        "content": "salvation",
+        "refs": ["tg:jesus-christ-savior"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note15b",
+        "content": "dieth",
+        "refs": ["nt:1-cor:15_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note15c",
+        "content": "resurrection",
+        "refs": [
+            "bofm:2-ne:9_p4#p4",
+            "bofm:alma:42_p23#p23",
+            "bofm:morm:9_p13#p13",
+            "tg:resurrection"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note15d",
+        "content": "presence",
+        "refs": ["tg:god-presence-of"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note16a",
+        "content": "resurrection",
+        "refs": ["nt:john:20_p9#p9", "dnc:18_p11-p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note16b",
+        "content": "redeemeth",
+        "refs": ["tg:salvation-plan-of"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note16c",
+        "content": "fall",
+        "refs": ["tg:fall-of-man"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note16d",
+        "content": "cut off",
+        "refs": [
+            "bofm:2-ne:2_p5#p5",
+            "bofm:2-ne:9_p6-p15#p6",
+            "bofm:alma:11_p40-p45#p42",
+            "bofm:alma:12_p16,24,36#p16",
+            "bofm:alma:42_p6-p11#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note16e",
+        "content": "dead",
+        "refs": ["tg:death-spiritual-first"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note17a",
+        "content": "redeemeth",
+        "refs": ["tg:redemption"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note18a",
+        "content": "hewn",
+        "refs": ["nt:luke:13_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note18b",
+        "content": "spiritual death",
+        "refs": ["tg:death-spiritual-second"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note20a",
+        "content": "sign",
+        "refs": ["bofm:3-ne:8_p5-p25#p5", "bofm:3-ne:11_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note20b",
+        "content": "light",
+        "refs": ["nt:luke:23_p44#p44"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note20c",
+        "content": "three",
+        "refs": ["bofm:mosiah:3_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note21a",
+        "content": "ghost",
+        "refs": ["nt:matt:27_p50-p54#p50"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note21b",
+        "content": "thunderings",
+        "refs": ["bofm:1-ne:19_p11#p11", "bofm:3-ne:8_p5-p23#p6"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note21c",
+        "content": "rocks",
+        "refs": ["bofm:3-ne:10_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note21d",
+        "content": "broken up",
+        "refs": ["ot:gen:7_p11#p11", "bofm:1-ne:12_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note22a",
+        "content": "found",
+        "refs": ["bofm:3-ne:8_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note23a",
+        "content": "tempests",
+        "refs": ["bofm:3-ne:10_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note23b",
+        "content": "valleys",
+        "refs": [
+            "ot:isa:40_p4#p4",
+            "nt:luke:3_p5#p5",
+            "dnc:49_p23#p23",
+            "dnc:109_p74#p74"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note24a",
+        "content": "many",
+        "refs": [
+            "bofm:3-ne:8_p8-p10,14#p14",
+            "bofm:3-ne:9_p3-p12#p12",
+            "bofm:3-ne:10_p7#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note25a",
+        "content": "graves",
+        "refs": ["nt:matt:27_p52-p53#p52", "bofm:3-ne:23_p7-p13#p11"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note26a",
+        "content": "angel",
+        "refs": ["bofm:alma:13_p26#p26", "bofm:hel:13_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note27a",
+        "content": "darkness",
+        "refs": [
+            "bofm:1-ne:19_p10#p10",
+            "bofm:3-ne:8_p3#p3",
+            "bofm:3-ne:10_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note28a",
+        "content": "these signs",
+        "refs": [
+            "bofm:1-ne:12_p4-p5#p4",
+            "bofm:1-ne:19_p10-p12#p12",
+            "bofm:3-ne:10_p11#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note29a",
+        "content": "righteous judgment",
+        "refs": ["tg:judgment"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note30a",
+        "content": "himself",
+        "refs": ["bofm:3-ne:3_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note30b",
+        "content": "free",
+        "refs": [
+            "nt:gal:5_p1#p1",
+            "bofm:2-ne:2_p26-p27#p27",
+            "bofm:alma:41_p7#p7",
+            "pgp:moses:6_p56#p56",
+            "tg:agency"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note30c",
+        "content": "knowledge",
+        "refs": ["tg:knowledge"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note31a",
+        "content": "know",
+        "refs": ["bofm:moro:7_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note31b",
+        "content": "choose",
+        "refs": ["nt:rom:6_p14-p18#p16", "bofm:alma:3_p26-p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/hel/14",
+        "noteId": "note31c",
+        "content": "restored",
+        "refs": ["bofm:alma:41_p1-p15#p3"]
+    }
+]

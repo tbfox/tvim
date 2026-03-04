@@ -1,0 +1,160 @@
+[
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note1a",
+        "content": "Ammonihah",
+        "refs": ["bofm:alma:8_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note2a",
+        "content": "cast up",
+        "refs": ["bofm:alma:48_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note2b",
+        "content": "stones",
+        "refs": ["bofm:1-ne:16_p15#p15", "bofm:alma:43_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note3a",
+        "content": "Ammonihah",
+        "refs": ["bofm:alma:16_p2-p3,9,11#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note4a",
+        "content": "ridge",
+        "refs": ["bofm:alma:48_p8#p8", "bofm:alma:50_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note4b",
+        "content": "entrance",
+        "refs": ["bofm:alma:49_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note5a",
+        "content": "captains",
+        "refs": ["bofm:alma:52_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note6a",
+        "content": "breastplates",
+        "refs": ["bofm:alma:46_p13#p13", "bofm:hel:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note7a",
+        "content": "subject",
+        "refs": ["bofm:alma:43_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note8a",
+        "content": "prepared",
+        "refs": ["bofm:alma:48_p7-p10#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note10a",
+        "content": "land of Nephi",
+        "refs": [
+            "bofm:2-ne:5_p8#p8",
+            "bofm:omni:1_p12#p12",
+            "bofm:alma:47_p1,13-p24#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note12a",
+        "content": "Noah",
+        "refs": ["bofm:alma:16_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note13a",
+        "content": "forts",
+        "refs": ["bofm:alma:48_p8#p8", "bofm:alma:50_p1-p6,10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note13b",
+        "content": "oath",
+        "refs": ["bofm:alma:49_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note16a",
+        "content": "same",
+        "refs": ["bofm:alma:43_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note17a",
+        "content": "sworn",
+        "refs": ["bofm:alma:49_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note20a",
+        "content": "entrance",
+        "refs": ["bofm:alma:49_p4,18,21,24#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note23a",
+        "content": "chief",
+        "refs": ["bofm:alma:48_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note24a",
+        "content": "shields",
+        "refs": ["bofm:alma:43_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note25a",
+        "content": "Nephite",
+        "refs": ["bofm:alma:46_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note25b",
+        "content": "loss",
+        "refs": ["bofm:alma:51_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note27a",
+        "content": "curse",
+        "refs": ["tg:blaspheme"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note27b",
+        "content": "oath",
+        "refs": ["nt:acts:23_p12#p12", "bofm:alma:51_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note28a",
+        "content": "thank",
+        "refs": ["tg:thanksgiving"]
+    },
+    {
+        "origin_chapter": "bofm/alma/49",
+        "noteId": "note30a",
+        "content": "holy order",
+        "refs": [
+            "bofm:alma:30_p20-p23,31#p20",
+            "bofm:alma:43_p2#p2",
+            "bofm:alma:46_p38#p38"
+        ]
+    }
+]

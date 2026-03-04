@@ -1,0 +1,561 @@
+[
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note1a",
+        "content": "Coriantumr",
+        "refs": ["bofm:omni:1_p21#p21", "bofm:ether:13_p13-p31#p20"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note2a",
+        "content": "Ether",
+        "refs": [
+            "bofm:ether:1_p6#p6",
+            "bofm:ether:11_p23#p23",
+            "bofm:ether:15_p33-p34#p34"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note2b",
+        "content": "restrained",
+        "refs": ["ot:jer:20_p9#p9", "bofm:enos:1_p26#p26", "bofm:alma:43_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note3a",
+        "content": "cry",
+        "refs": ["dnc:112_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note3b",
+        "content": "morning",
+        "refs": ["ot:jer:26_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note3c",
+        "content": "destroyed",
+        "refs": ["bofm:ether:11_p12,20-p22#p12"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note3d",
+        "content": "by",
+        "refs": ["nt:heb:11_p1-p40#p7"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note3e",
+        "content": "faith",
+        "refs": [
+            "nt:1-cor:13_p1-p13#p13",
+            "bofm:moro:7_p1#p1",
+            "bofm:moro:8_p14#p14",
+            "bofm:moro:10_p20-p23#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note4a",
+        "content": "surety",
+        "refs": ["nt:heb:7_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note4b",
+        "content": "hope",
+        "refs": [
+            "bofm:alma:7_p16#p16",
+            "bofm:alma:22_p16#p16",
+            "bofm:moro:7_p3#p3",
+            "dnc:25_p10#p10",
+            "dnc:138_p14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note4c",
+        "content": "hope",
+        "refs": ["nt:heb:11_p1#p1", "bofm:moro:7_p40#p40"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note4d",
+        "content": "faith",
+        "refs": ["nt:luke:7_p50#p50"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note4e",
+        "content": "anchor",
+        "refs": ["nt:heb:6_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note4f",
+        "content": "good works",
+        "refs": ["nt:1-cor:15_p58#p58", "nt:1-tim:2_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note4g",
+        "content": "glorify",
+        "refs": ["nt:john:11_p1-p4#p4", "bofm:3-ne:12_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note5a",
+        "content": "saw",
+        "refs": [
+            "nt:heb:11_p3#p3",
+            "bofm:alma:30_p15#p15",
+            "bofm:hel:16_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note6a",
+        "content": "faith",
+        "refs": ["nt:heb:11_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note6b",
+        "content": "hoped",
+        "refs": ["nt:rom:8_p24-p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note6c",
+        "content": "not",
+        "refs": ["bofm:alma:32_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note6d",
+        "content": "witness",
+        "refs": ["ot:lev:9_p6,23#p6", "bofm:2-ne:1_p15#p15", "tg:sign-seekers"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note6e",
+        "content": "trial",
+        "refs": ["bofm:3-ne:26_p11#p11", "tg:test"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note7a",
+        "content": "not",
+        "refs": ["nt:acts:10_p41#p41"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note10a",
+        "content": "called",
+        "refs": ["bofm:alma:13_p3-p4#p4", "tg:authority"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note11a",
+        "content": "gift",
+        "refs": ["tg:god-gifts-of"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note11b",
+        "content": "excellent",
+        "refs": ["nt:1-cor:12_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note12a",
+        "content": "faith",
+        "refs": [
+            "nt:luke:16_p27-p31#p30",
+            "bofm:alma:32_p17-p18#p18",
+            "bofm:moro:7_p37#p37"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note12b",
+        "content": "miracle",
+        "refs": [
+            "ot:ps:78_p41#p41",
+            "nt:matt:13_p58#p58",
+            "bofm:morm:9_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note13a",
+        "content": "prison",
+        "refs": ["bofm:alma:14_p26-p29#p27"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note14a",
+        "content": "change",
+        "refs": ["bofm:hel:5_p50-p52#p50"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note14b",
+        "content": "Holy Ghost",
+        "refs": ["bofm:hel:5_p45#p45", "bofm:3-ne:9_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note15a",
+        "content": "Ammon",
+        "refs": ["bofm:alma:17_p29-p39#p29"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note15b",
+        "content": "wrought",
+        "refs": ["bofm:alma:17"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note16a",
+        "content": "miracles",
+        "refs": ["tg:miracle"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note16b",
+        "content": "faith",
+        "refs": ["nt:heb:11_p7-p40#p7"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note17a",
+        "content": "not",
+        "refs": [
+            "bofm:3-ne:28_p7#p7",
+            "bofm:4-ne:1_p14,37#p37",
+            "bofm:morm:8_p10-p12#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note19a",
+        "content": "before",
+        "refs": [
+            "bofm:2-ne:11_p4#p4",
+            "bofm:jacob:4_p5#p5",
+            "bofm:jarom:1_p11#p11",
+            "bofm:alma:25_p15-p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note19b",
+        "content": "veil",
+        "refs": ["bofm:ether:3_p6#p6", "tg:veil"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note20a",
+        "content": "finger",
+        "refs": ["bofm:ether:3_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note21a",
+        "content": "promise",
+        "refs": ["bofm:ether:3_p25-p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note21b",
+        "content": "veil",
+        "refs": ["bofm:ether:3_p20#p20", "dnc:67_p10-p13#p10"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note22a",
+        "content": "promise",
+        "refs": ["bofm:enos:1_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note23a",
+        "content": "mock",
+        "refs": ["bofm:ether:12_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note23b",
+        "content": "weakness",
+        "refs": [
+            "nt:1-cor:2_p1-p5#p3",
+            "bofm:1-ne:19_p6#p6",
+            "bofm:morm:8_p13-p17#p17",
+            "bofm:morm:9_p31,33#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note23c",
+        "content": "mighty",
+        "refs": ["bofm:2-ne:33_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note24a",
+        "content": "awkwardness",
+        "refs": ["bofm:jacob:4_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note24b",
+        "content": "writing",
+        "refs": ["tg:language"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note24c",
+        "content": "wrote",
+        "refs": ["bofm:ether:4_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note25a",
+        "content": "cannot",
+        "refs": ["bofm:3-ne:5_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note25b",
+        "content": "weakness",
+        "refs": ["bofm:ether:12_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note25c",
+        "content": "mock",
+        "refs": ["nt:1-cor:2_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note26a",
+        "content": "Fools",
+        "refs": ["ot:prov:14_p9#p9", "ot:prov:20_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note26b",
+        "content": "mock",
+        "refs": [
+            "nt:gal:6_p7#p7",
+            "dnc:124_p71#p71",
+            "tg:mocking",
+            "tg:offense"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note27a",
+        "content": "weakness",
+        "refs": ["bofm:jacob:4_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note27b",
+        "content": "give",
+        "refs": ["ot:ex:4_p11#p11", "nt:1-cor:1_p26-p31#p27"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note27c",
+        "content": "grace",
+        "refs": ["tg:grace"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note27d",
+        "content": "humble",
+        "refs": ["dnc:1_p28#p28", "tg:humility", "tg:teachable"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note27e",
+        "content": "weak",
+        "refs": [
+            "ot:deut:11_p8#p8",
+            "ot:joel:3_p10#p10",
+            "nt:luke:9_p46-p48#p48",
+            "nt:luke:18_p10-p14#p14",
+            "nt:2-cor:12_p7-p10#p9",
+            "nt:heb:11_p34#p34",
+            "bofm:1-ne:14_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note28a",
+        "content": "faith",
+        "refs": ["bofm:alma:7_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note28b",
+        "content": "righteousness",
+        "refs": ["tg:god-the-standard-of-righteousness"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note29a",
+        "content": "comforted",
+        "refs": ["tg:comfort"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note30a",
+        "content": "Remove",
+        "refs": [
+            "nt:matt:17_p20#p20",
+            "bofm:jacob:4_p6#p6",
+            "bofm:hel:10_p9#p9",
+            "tg:god-power-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note31a",
+        "content": "after",
+        "refs": ["bofm:3-ne:26_p17-p21#p17"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note31b",
+        "content": "faith",
+        "refs": ["nt:1-cor:13_p1-p13#p13", "bofm:moro:7_p33-p48#p44"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note32a",
+        "content": "mansions",
+        "refs": [
+            "nt:john:14_p2#p2",
+            "bofm:enos:1_p27#p27",
+            "dnc:72_p4#p4",
+            "dnc:98_p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note32b",
+        "content": "hope",
+        "refs": ["tg:hope"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note33a",
+        "content": "loved",
+        "refs": ["nt:john:3_p16-p18#p16"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note34a",
+        "content": "love",
+        "refs": ["bofm:moro:7_p47#p47", "tg:love"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note35a",
+        "content": "charity",
+        "refs": ["nt:1-cor:13_p1-p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note35b",
+        "content": "take away",
+        "refs": ["nt:matt:25_p14-p30#p28"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note35c",
+        "content": "talent",
+        "refs": ["tg:talents"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note36a",
+        "content": "grace",
+        "refs": ["bofm:ether:12_p23#p23", "tg:grace"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note37a",
+        "content": "clean",
+        "refs": [
+            "ot:job:15_p14#p14",
+            "ot:job:25_p4#p4",
+            "dnc:38_p42#p42",
+            "dnc:88_p74-p75#p74",
+            "dnc:135_p4-p5#p5",
+            "tg:cleanliness",
+            "tg:purification"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note37b",
+        "content": "weakness",
+        "refs": ["bofm:ether:12_p25-p27#p25"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note38a",
+        "content": "judgment-seat",
+        "refs": ["tg:jesus-christ-judge"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note38b",
+        "content": "garments",
+        "refs": ["nt:acts:20_p26#p26", "bofm:jacob:1_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note39a",
+        "content": "seen",
+        "refs": ["tg:jesus-christ-appearances-postmortal"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note39b",
+        "content": "face to face",
+        "refs": ["ot:gen:32_p30#p30", "ot:ex:33_p11#p11", "ot:num:12_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note39c",
+        "content": "plain",
+        "refs": ["bofm:2-ne:32_p7#p7", "bofm:alma:13_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note41a",
+        "content": "seek",
+        "refs": [
+            "ot:ezra:8_p22-p23#p22",
+            "ot:ps:27_p8#p8",
+            "ot:amos:5_p6#p6",
+            "bofm:alma:37_p47#p47",
+            "dnc:88_p63#p63",
+            "dnc:101_p38#p38"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/12",
+        "noteId": "note41b",
+        "content": "record",
+        "refs": ["bofm:3-ne:11_p32,36#p32"]
+    }
+]

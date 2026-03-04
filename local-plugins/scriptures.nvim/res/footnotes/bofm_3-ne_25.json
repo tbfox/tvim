@@ -1,0 +1,105 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note1a",
+        "content": "For",
+        "refs": ["ot:mal:4_p1-p6#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note1b",
+        "content": "burn",
+        "refs": [
+            "ot:ps:21_p8-p10#p9",
+            "ot:isa:24_p6#p6",
+            "ot:isa:66_p16#p16",
+            "bofm:1-ne:22_p15#p15",
+            "bofm:3-ne:24_p2#p2",
+            "dnc:29_p9#p9",
+            "dnc:64_p23-p24#p23",
+            "dnc:133_p64#p64",
+            "pgp:js-h:1_p37#p37",
+            "tg:earth-cleansing-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note1c",
+        "content": "proud",
+        "refs": ["ot:ps:18_p27#p27", "bofm:2-ne:20_p33#p33", "tg:pride"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note2a",
+        "content": "Son of Righteousness",
+        "refs": ["ot:ps:84_p11#p11", "ot:mal:4_p2#p2", "bofm:ether:9_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note2b",
+        "content": "grow up",
+        "refs": ["dnc:45_p58#p58"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note2c",
+        "content": "calves",
+        "refs": ["ot:amos:6_p4#p4", "bofm:1-ne:22_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note3a",
+        "content": "tread",
+        "refs": ["bofm:3-ne:21_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note4a",
+        "content": "Horeb",
+        "refs": [
+            "ot:ex:3_p1#p1",
+            "ot:ex:19_p9,16-p20#p18",
+            "ot:1-kgs:19_p8#p8",
+            "ot:neh:9_p13#p13",
+            "bofm:mosiah:12_p33#p33",
+            "bofm:mosiah:13_p5#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note5a",
+        "content": "Elijah",
+        "refs": [
+            "ot:2-kgs:2_p2#p2",
+            "dnc:2_p1#p1",
+            "dnc:35_p4#p4",
+            "dnc:110_p13-p16#p13",
+            "dnc:128_p17-p18#p17",
+            "tg:genealogy-and-temple-work"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note5b",
+        "content": "day",
+        "refs": ["tg:day-of-the-lord"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note6a",
+        "content": "turn",
+        "refs": ["dnc:98_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note6b",
+        "content": "fathers",
+        "refs": ["tg:family-eternal", "tg:salvation-for-the-dead"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/25",
+        "noteId": "note6c",
+        "content": "smite",
+        "refs": ["ot:mal:4_p6#p6", "dnc:110_p13-p16#p15"]
+    }
+]

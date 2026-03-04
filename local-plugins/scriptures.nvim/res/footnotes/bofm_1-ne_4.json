@@ -1,0 +1,266 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note1a",
+        "content": "faithful",
+        "refs": ["tg:courage", "tg:dependability", "tg:faithful"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note1b",
+        "content": "mightier",
+        "refs": ["bofm:1-ne:7_p11#p11", "tg:god-power-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note2a",
+        "content": "strong",
+        "refs": ["ot:deut:11_p8#p8", "ot:prov:24_p10-p12#p10"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note2b",
+        "content": "Red Sea",
+        "refs": [
+            "ot:ex:14_p18-p30#p21",
+            "ot:josh:2_p10#p10",
+            "bofm:1-ne:17_p26#p26",
+            "bofm:mosiah:7_p19#p19"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note3a",
+        "content": "angel",
+        "refs": ["bofm:1-ne:3_p29-p31#p30", "bofm:1-ne:7_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note3b",
+        "content": "doubt",
+        "refs": ["tg:doubt"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note3c",
+        "content": "deliver",
+        "refs": ["tg:deliver"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note6a",
+        "content": "led",
+        "refs": [
+            "tg:guidance-divine",
+            "tg:holy-ghost-gifts-of",
+            "tg:inspiration"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note6b",
+        "content": "knowing",
+        "refs": ["nt:heb:11_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note7a",
+        "content": "drunken",
+        "refs": ["tg:drunkenness"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note9a",
+        "content": "sword",
+        "refs": ["bofm:2-ne:5_p14#p14", "dnc:17_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note10a",
+        "content": "constrained",
+        "refs": ["ot:1-sam:15_p3-p33#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note11a",
+        "content": "Lord",
+        "refs": ["ot:deut:3_p3#p3", "ot:1-sam:17_p41-p49#p46"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note11b",
+        "content": "delivered",
+        "refs": ["bofm:1-ne:7_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note11c",
+        "content": "taken",
+        "refs": ["bofm:1-ne:3_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note13a",
+        "content": "slayeth",
+        "refs": [
+            "ot:num:25_p17#p17",
+            "ot:deut:12_p29#p29",
+            "ot:ps:139_p19#p19",
+            "bofm:1-ne:17_p33-p38#p37",
+            "dnc:98_p31-p32#p32"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note13b",
+        "content": "wicked",
+        "refs": ["tg:justice", "tg:punish", "tg:wickedness"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note13c",
+        "content": "better",
+        "refs": ["bofm:alma:30_p47#p47", "tg:life-sanctity-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note13d",
+        "content": "unbelief",
+        "refs": ["tg:unbelief"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note14a",
+        "content": "Inasmuch",
+        "refs": [
+            "bofm:omni:1_p6#p6",
+            "bofm:mosiah:2_p22#p22",
+            "bofm:ether:2_p7-p12#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note14b",
+        "content": "commandments",
+        "refs": ["tg:commandments-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note14c",
+        "content": "prosper",
+        "refs": ["bofm:1-ne:2_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note14d",
+        "content": "land of promise",
+        "refs": ["bofm:1-ne:17_p13-p14#p13", "bofm:jacob:2_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note15a",
+        "content": "law",
+        "refs": ["bofm:mosiah:1_p1-p6#p5"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note16a",
+        "content": "law",
+        "refs": ["ot:josh:1_p8#p8", "tg:law-of-moses"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note18a",
+        "content": "sword",
+        "refs": ["ot:1-sam:17_p51#p51"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note20a",
+        "content": "servant",
+        "refs": ["bofm:2-ne:1_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note22a",
+        "content": "elders",
+        "refs": ["ot:2-sam:17_p15#p15", "ot:ezek:8_p1#p1", "nt:acts:25_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note24a",
+        "content": "plates of brass",
+        "refs": ["bofm:1-ne:3_p12,19-p24#p24", "bofm:1-ne:5_p10-p22#p10"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note26a",
+        "content": "brethren",
+        "refs": ["ot:ex:2_p11#p11", "ot:num:18_p6#p6", "ot:2-sam:19_p41#p41"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note26b",
+        "content": "church",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note31a",
+        "content": "strength",
+        "refs": ["tg:strength", "tg:strengthen"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note33a",
+        "content": "oath",
+        "refs": ["ot:2-sam:21_p7#p7", "tg:oath"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note33b",
+        "content": "free",
+        "refs": ["tg:free"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note34a",
+        "content": "commanded",
+        "refs": ["bofm:1-ne:2_p2#p2", "bofm:1-ne:3_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note35a",
+        "content": "Zoram",
+        "refs": [
+            "bofm:1-ne:16_p7#p7",
+            "bofm:2-ne:5_p5-p6#p6",
+            "bofm:jacob:1_p13#p13",
+            "bofm:alma:54_p23#p23",
+            "bofm:4-ne:1_p36-p37#p36"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note37a",
+        "content": "oath",
+        "refs": [
+            "ot:ex:22_p10-p11#p11",
+            "ot:josh:9_p1-p21#p19",
+            "tg:oath",
+            "tg:vow"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note37b",
+        "content": "fears",
+        "refs": ["tg:trustworthiness"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/4",
+        "noteId": "note38a",
+        "content": "tent",
+        "refs": ["bofm:1-ne:2_p15#p15"]
+    }
+]

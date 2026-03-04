@@ -1,0 +1,394 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note1a",
+        "content": "born",
+        "refs": ["tg:birthright"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note1b",
+        "content": "goodly",
+        "refs": ["ot:prov:22_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note1c",
+        "content": "parents",
+        "refs": [
+            "bofm:mosiah:1_p2-p3#p2",
+            "dnc:68_p25,28#p25",
+            "tg:honoring-father-and-mother"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note1d",
+        "content": "taught",
+        "refs": [
+            "bofm:enos:1_p1#p1",
+            "tg:education",
+            "tg:family-children-responsibilities-toward",
+            "tg:family-love-within"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note1e",
+        "content": "afflictions",
+        "refs": ["tg:affliction", "tg:blessing", "tg:god-gifts-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note1f",
+        "content": "record",
+        "refs": ["tg:record-keeping", "tg:scriptures-writing-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note2a",
+        "content": "language",
+        "refs": ["bofm:mosiah:1_p4#p4", "bofm:morm:9_p32-p33#p32"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note3a",
+        "content": "true",
+        "refs": [
+            "bofm:1-ne:14_p30#p30",
+            "bofm:2-ne:25_p20#p20",
+            "bofm:mosiah:1_p6#p6",
+            "bofm:alma:3_p12#p12",
+            "bofm:ether:5_p1-p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note4a",
+        "content": "first",
+        "refs": ["bofm:1-ne:2_p4#p4", "bofm:mosiah:6_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note4b",
+        "content": "Zedekiah",
+        "refs": [
+            "ot:2-kgs:24_p18#p18",
+            "ot:2-chr:36_p10#p10",
+            "ot:jer:37_p1#p1",
+            "ot:jer:44_p30#p30",
+            "ot:jer:49_p34#p34",
+            "ot:jer:52_p3-p5#p3",
+            "bofm:omni:1_p15#p15"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note4c",
+        "content": "Jerusalem",
+        "refs": ["ot:1-chr:9_p3#p3", "ot:2-chr:15_p9#p9", "bofm:alma:7_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note4d",
+        "content": "prophets",
+        "refs": [
+            "ot:2-kgs:17_p13-p15#p13",
+            "ot:2-chr:36_p15-p16#p15",
+            "ot:jer:7_p25#p25",
+            "ot:jer:26_p20#p20",
+            "tg:prophets-mission-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note4e",
+        "content": "repent",
+        "refs": ["tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note4f",
+        "content": "Jerusalem",
+        "refs": [
+            "ot:jer:26_p17-p19#p18",
+            "bofm:2-ne:1_p4#p4",
+            "bofm:hel:8_p20#p20",
+            "tg:israel-bondage-of-in-other-lands",
+            "tg:jerusalem"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note5a",
+        "content": "heart",
+        "refs": [
+            "ot:jer:29_p13#p13",
+            "nt:james:5_p16#p16",
+            "bofm:2-ne:4_p23-p25#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note6a",
+        "content": "pillar",
+        "refs": [
+            "ot:ex:13_p21#p21",
+            "bofm:hel:5_p24,43#p24",
+            "dnc:29_p12#p12",
+            "pgp:js-h:1_p16,30#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note6b",
+        "content": "quake",
+        "refs": ["ot:isa:6_p1-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note7a",
+        "content": "overcome",
+        "refs": [
+            "ot:dan:8_p26-p27#p27",
+            "ot:dan:10_p8-p12#p8",
+            "bofm:1-ne:17_p47#p47",
+            "bofm:alma:27_p17#p17",
+            "pgp:moses:1_p9-p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note8a",
+        "content": "vision",
+        "refs": ["bofm:1-ne:3_p17-p18#p18", "bofm:1-ne:5_p4#p4", "tg:vision"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note8b",
+        "content": "heavens",
+        "refs": [
+            "ot:ezek:1_p1#p1",
+            "nt:acts:7_p55-p56#p56",
+            "bofm:1-ne:11_p14#p14",
+            "bofm:alma:36_p22#p22",
+            "bofm:hel:5_p45-p49#p48",
+            "dnc:137_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note8c",
+        "content": "saw",
+        "refs": ["tg:god-manifestations-of", "tg:god-privilege-of-seeing"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note9a",
+        "content": "luster",
+        "refs": ["pgp:js-h:1_p16-p17#p17", "pgp:js-h:1_p30-p32#p30"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note10a",
+        "content": "twelve",
+        "refs": ["tg:apostles"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note11a",
+        "content": "stood",
+        "refs": ["ot:1-sam:3_p10#p10", "dnc:110_p2-p3#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note11b",
+        "content": "book",
+        "refs": ["ot:ezek:2_p9-p10#p9", "nt:rev:10_p2-p11#p9"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note12a",
+        "content": "Spirit",
+        "refs": [
+            "ot:gen:41_p38#p38",
+            "bofm:mosiah:27_p24#p24",
+            "bofm:alma:18_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note13a",
+        "content": "abominations",
+        "refs": [
+            "ot:2-kgs:24_p19#p19",
+            "ot:2-chr:36_p14#p14",
+            "ot:jer:13_p27#p27"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note13b",
+        "content": "Jerusalem",
+        "refs": [
+            "ot:2-kgs:23_p27#p27",
+            "ot:2-kgs:24_p2#p2",
+            "ot:jer:13_p14#p14",
+            "ot:ezek:15_p6-p8#p6",
+            "bofm:1-ne:2_p13#p13",
+            "bofm:1-ne:3_p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note13c",
+        "content": "carried away",
+        "refs": [
+            "ot:2-kgs:20_p17-p18#p17",
+            "ot:jer:52_p3-p15#p15",
+            "bofm:2-ne:25_p10#p10",
+            "bofm:omni:1_p15#p15",
+            "tg:babylon"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note14a",
+        "content": "power",
+        "refs": ["tg:god-power-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note14b",
+        "content": "come",
+        "refs": [
+            "bofm:2-ne:26_p24-p28#p25",
+            "bofm:alma:5_p33-p36#p34",
+            "bofm:3-ne:9_p13-p14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note16a",
+        "content": "visions",
+        "refs": ["ot:ezek:1_p1#p1", "pgp:js-h:1_p21-p25#p24"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note16b",
+        "content": "dreams",
+        "refs": ["bofm:1-ne:8_p2-p38#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note16c",
+        "content": "prophesied",
+        "refs": ["bofm:1-ne:7_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note17a",
+        "content": "abridgment",
+        "refs": [
+            "bofm:1-ne:9_p2-p5#p2",
+            "bofm:enos:1_p13,15-p18#p13",
+            "tg:scriptures-writing-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note17b",
+        "content": "father",
+        "refs": [
+            "bofm:1-ne:6_p1-p3#p1",
+            "bofm:1-ne:8_p29-p30#p29",
+            "bofm:1-ne:19_p1-p6#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note17c",
+        "content": "plates",
+        "refs": ["bofm:1-ne:10_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note17d",
+        "content": "father",
+        "refs": [
+            "bofm:2-ne:4_p14#p14",
+            "bofm:2-ne:5_p29-p33#p33",
+            "dnc:10_p42#p42"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note18a",
+        "content": "destruction",
+        "refs": ["bofm:2-ne:25_p9#p9", "dnc:5_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note18b",
+        "content": "prophesy",
+        "refs": ["tg:prophets-mission-of", "tg:prophets-rejection-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note19a",
+        "content": "Jews",
+        "refs": ["tg:apostasy-of-israel"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note19b",
+        "content": "mock",
+        "refs": [
+            "ot:2-chr:36_p16#p16",
+            "ot:jer:25_p1-p4#p4",
+            "ot:ezek:5_p6#p6",
+            "bofm:1-ne:2_p13#p13",
+            "bofm:1-ne:7_p14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note19c",
+        "content": "wickedness",
+        "refs": ["bofm:1-ne:17_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note19d",
+        "content": "Messiah",
+        "refs": ["tg:jesus-christ-prophecies-about"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note20a",
+        "content": "cast out",
+        "refs": ["ot:jer:13_p11#p11", "bofm:hel:13_p24-p28#p24"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note20b",
+        "content": "sought",
+        "refs": [
+            "ot:jer:11_p19#p19",
+            "bofm:1-ne:2_p1-p4#p2",
+            "tg:prophets-rejection-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note20c",
+        "content": "mercies",
+        "refs": ["ot:gen:32_p10#p10", "bofm:alma:34_p38#p38", "dnc:46_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/1",
+        "noteId": "note20d",
+        "content": "deliverance",
+        "refs": ["tg:deliver"]
+    }
+]

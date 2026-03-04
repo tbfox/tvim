@@ -1,0 +1,191 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note1a",
+        "content": "And",
+        "refs": ["nt:matt:7_p1-p27#p1", "nt:matt:7_note1a#note1a"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note2a",
+        "content": "For",
+        "refs": ["bofm:morm:8_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note5a",
+        "content": "hypocrite",
+        "refs": ["tg:hypocrisy"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note5b",
+        "content": "beam",
+        "refs": ["nt:john:8_p3-p11#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note6a",
+        "content": "holy",
+        "refs": ["tg:holiness"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note7a",
+        "content": "Ask",
+        "refs": ["bofm:3-ne:27_p29#p29", "tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note7b",
+        "content": "seek",
+        "refs": ["tg:initiative", "tg:objectives"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note12a",
+        "content": "do",
+        "refs": ["tg:benevolence", "tg:compassion", "tg:courtesy"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note13a",
+        "content": "strait gate",
+        "refs": ["nt:luke:13_p24#p24", "bofm:3-ne:27_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note13b",
+        "content": "broad",
+        "refs": ["dnc:132_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note14a",
+        "content": "gate",
+        "refs": [
+            "bofm:2-ne:9_p41#p41",
+            "bofm:2-ne:31_p9,17-p18#p9",
+            "dnc:22_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note14b",
+        "content": "narrow",
+        "refs": ["bofm:1-ne:8_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note14c",
+        "content": "few",
+        "refs": ["nt:matt:7_p14#p14", "bofm:1-ne:14_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note15a",
+        "content": "false prophets",
+        "refs": [
+            "ot:jer:23_p21-p32#p21",
+            "bofm:2-ne:28_p9,12,15#p12",
+            "tg:false-prophets"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note16a",
+        "content": "fruits",
+        "refs": [
+            "nt:col:1_p6#p6",
+            "bofm:alma:32_p28-p42#p42",
+            "dnc:52_p18,34#p34"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note17a",
+        "content": "good",
+        "refs": ["bofm:alma:5_p41#p41"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note19a",
+        "content": "bringeth",
+        "refs": ["nt:matt:3_p10#p10", "bofm:alma:5_p36-p41#p36", "dnc:97_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note20a",
+        "content": "fruits",
+        "refs": [
+            "nt:matt:7_p16-p20#p17",
+            "nt:matt:12_p33#p33",
+            "nt:luke:6_p43-p45#p43",
+            "bofm:moro:7_p5#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note21a",
+        "content": "enter",
+        "refs": ["nt:1-jn:2_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note22a",
+        "content": "say",
+        "refs": ["bofm:alma:5_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note23a",
+        "content": "I",
+        "refs": ["nt:matt:7_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note23b",
+        "content": "knew",
+        "refs": [
+            "bofm:mosiah:5_p13#p13",
+            "bofm:mosiah:26_p24-p27#p25",
+            "dnc:112_p26#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note23c",
+        "content": "depart",
+        "refs": ["ot:ps:119_p115#p115", "nt:luke:13_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note24a",
+        "content": "rock",
+        "refs": ["tg:rock"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note25a",
+        "content": "rain",
+        "refs": ["bofm:alma:26_p6#p6", "bofm:hel:5_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note25b",
+        "content": "fell",
+        "refs": ["ot:prov:12_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note26a",
+        "content": "foolish",
+        "refs": ["tg:foolishness"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/14",
+        "noteId": "note26b",
+        "content": "sand",
+        "refs": ["bofm:3-ne:11_p40#p40"]
+    }
+]

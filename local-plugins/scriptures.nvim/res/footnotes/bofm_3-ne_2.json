@@ -1,0 +1,106 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note1a",
+        "content": "signs",
+        "refs": ["bofm:hel:14_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note2a",
+        "content": "Imagining",
+        "refs": ["nt:heb:3_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note2b",
+        "content": "deceive",
+        "refs": ["tg:deceit"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note2c",
+        "content": "foolish",
+        "refs": ["nt:1-cor:1_p23-p25#p23", "bofm:alma:30_p12-p18#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note3a",
+        "content": "go",
+        "refs": ["ot:job:1_p7#p7", "dnc:10_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note5a",
+        "content": "Mosiah",
+        "refs": ["bofm:mosiah:29_p46-p47#p46"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note8a",
+        "content": "reckon",
+        "refs": ["bofm:3-ne:5_p7#p7", "bofm:3-ne:8_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note9a",
+        "content": "did",
+        "refs": ["bofm:3-ne:1_p2-p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note10a",
+        "content": "remain",
+        "refs": ["bofm:alma:34_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note11a",
+        "content": "Gadianton robbers",
+        "refs": ["bofm:3-ne:1_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note11b",
+        "content": "numerous",
+        "refs": ["bofm:morm:2_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note12a",
+        "content": "safety",
+        "refs": ["bofm:alma:58_p12#p12", "bofm:3-ne:3_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note12b",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note15a",
+        "content": "curse",
+        "refs": ["bofm:alma:17_p15#p15", "bofm:alma:23_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note15b",
+        "content": "white",
+        "refs": [
+            "bofm:2-ne:5_p21#p21",
+            "bofm:2-ne:30_p6#p6",
+            "bofm:jacob:3_p8#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/2",
+        "noteId": "note19a",
+        "content": "sword",
+        "refs": [
+            "bofm:alma:60_p29#p29",
+            "bofm:hel:13_p5#p5",
+            "bofm:3-ne:3_p3#p3"
+        ]
+    }
+]

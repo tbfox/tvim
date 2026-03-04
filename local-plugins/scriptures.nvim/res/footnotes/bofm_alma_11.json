@@ -1,0 +1,344 @@
+[
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note1a",
+        "content": "wages",
+        "refs": ["tg:wages"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note1b",
+        "content": "according",
+        "refs": ["bofm:alma:10_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note2a",
+        "content": "pay",
+        "refs": ["tg:justice"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note3a",
+        "content": "according",
+        "refs": ["bofm:alma:10_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note3b",
+        "content": "senine",
+        "refs": ["bofm:alma:30_p33#p33", "bofm:3-ne:12_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note4a",
+        "content": "manner",
+        "refs": ["bd:money"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note4b",
+        "content": "established",
+        "refs": ["bofm:mosiah:29_p40-p44#p41"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note20a",
+        "content": "gain",
+        "refs": ["tg:selfishness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note20b",
+        "content": "employ",
+        "refs": ["ot:prov:28_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note20c",
+        "content": "stir up",
+        "refs": ["tg:provoking"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note20d",
+        "content": "riotings",
+        "refs": ["tg:rioting-and-reveling"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note20e",
+        "content": "get",
+        "refs": ["bofm:alma:10_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note20f",
+        "content": "money",
+        "refs": ["nt:luke:11_p45-p54#p52"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note21a",
+        "content": "expert",
+        "refs": ["bofm:alma:10_p31#p31", "bofm:alma:14_p6-p7,18,23#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note21b",
+        "content": "devices",
+        "refs": ["ot:lam:3_p60-p62#p62", "bofm:alma:10_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note22a",
+        "content": "Spirit",
+        "refs": ["tg:god-spirit-of", "tg:holy-ghost-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note22b",
+        "content": "give",
+        "refs": ["tg:bribe"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note23a",
+        "content": "child",
+        "refs": ["nt:acts:13_p8-p12#p10", "bofm:alma:5_p41#p41"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note23b",
+        "content": "tempt",
+        "refs": ["tg:temptation", "tg:test"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note24a",
+        "content": "lucre",
+        "refs": [
+            "nt:luke:16_p14#p14",
+            "nt:john:12_p42-p43#p43",
+            "nt:acts:19_p27,36-p38#p27",
+            "nt:titus:1_p11#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note31a",
+        "content": "angel",
+        "refs": ["bofm:alma:10_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note34a",
+        "content": "in",
+        "refs": ["bofm:hel:5_p10-p11#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note35a",
+        "content": "not",
+        "refs": ["bofm:alma:14_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note36a",
+        "content": "lied",
+        "refs": ["bofm:alma:12_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note37a",
+        "content": "sins",
+        "refs": ["nt:1-cor:6_p9-p10#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note37b",
+        "content": "no unclean thing",
+        "refs": [
+            "bofm:1-ne:15_p33#p33",
+            "bofm:alma:40_p26#p26",
+            "bofm:3-ne:27_p19#p19",
+            "tg:uncleanness"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note37c",
+        "content": "kingdom",
+        "refs": ["tg:kingdom-of-god-in-heaven"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note39a",
+        "content": "Eternal Father",
+        "refs": [
+            "ot:isa:9_p6#p6",
+            "ot:isa:64_p8#p8",
+            "bofm:mosiah:15_p2-p4#p4",
+            "bofm:moro:7_p22#p22",
+            "bofm:moro:8_p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note39b",
+        "content": "all",
+        "refs": ["nt:col:1_p16#p16", "bofm:mosiah:4_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note40a",
+        "content": "world",
+        "refs": ["tg:world"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note40b",
+        "content": "redeem",
+        "refs": ["nt:luke:2_p34#p34", "nt:rom:11_p26-p27#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note40c",
+        "content": "take upon",
+        "refs": [
+            "ot:ex:34_p7#p7",
+            "nt:1-jn:2_p2#p2",
+            "bofm:mosiah:14_p5,8#p5",
+            "bofm:mosiah:15_p12#p12",
+            "dnc:19_p16-p18#p17",
+            "dnc:29_p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note41a",
+        "content": "no",
+        "refs": ["bofm:alma:12_p18#p18", "dnc:88_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note41b",
+        "content": "all",
+        "refs": [
+            "nt:rev:20_p12-p13#p13",
+            "bofm:alma:28_p12#p12",
+            "bofm:alma:42_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note41c",
+        "content": "judged",
+        "refs": ["tg:judgment-the-last"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note42a",
+        "content": "bands",
+        "refs": ["bofm:alma:12_p16,24,36#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note43a",
+        "content": "reunited",
+        "refs": ["bofm:2-ne:9_p13#p13", "bofm:alma:40_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note43b",
+        "content": "perfect",
+        "refs": ["tg:perfection"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note43c",
+        "content": "knowing",
+        "refs": ["dnc:130_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note43d",
+        "content": "recollection",
+        "refs": [
+            "bofm:2-ne:9_p14#p14",
+            "bofm:mosiah:3_p25#p25",
+            "bofm:alma:5_p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note43e",
+        "content": "guilt",
+        "refs": ["nt:matt:12_p36-p37#p36", "tg:guilt"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note44a",
+        "content": "restored",
+        "refs": ["nt:rev:20_p12-p15#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note44b",
+        "content": "Father",
+        "refs": ["tg:godhead"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note44c",
+        "content": "one Eternal God",
+        "refs": ["bofm:3-ne:11_p27-p28,36#p27", "tg:god-eternal-nature-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note44d",
+        "content": "judged",
+        "refs": ["nt:2-pet:2_p9#p9", "tg:jesus-christ-judge"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note45a",
+        "content": "death",
+        "refs": ["bofm:alma:12_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note45b",
+        "content": "resurrection",
+        "refs": ["bofm:alma:40_p23#p23", "dnc:88_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note45c",
+        "content": "raised",
+        "refs": ["tg:death-power-over"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note45d",
+        "content": "immortal",
+        "refs": ["tg:immortality"]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note45e",
+        "content": "die",
+        "refs": [
+            "nt:rev:21_p4#p4",
+            "bofm:alma:12_p18,20#p18",
+            "dnc:63_p49#p49",
+            "dnc:88_p116#p116"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/11",
+        "noteId": "note45f",
+        "content": "spiritual",
+        "refs": ["nt:1-cor:15_p44#p44"]
+    }
+]

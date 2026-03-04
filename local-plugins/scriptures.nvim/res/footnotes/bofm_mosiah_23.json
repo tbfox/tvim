@@ -1,0 +1,297 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note1a",
+        "content": "warned",
+        "refs": ["bofm:mosiah:18_p34#p34", "bofm:alma:5_p4#p4", "tg:warn"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note1b",
+        "content": "departed",
+        "refs": ["bofm:mosiah:27_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note3a",
+        "content": "eight",
+        "refs": ["bofm:mosiah:24_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note5a",
+        "content": "industrious",
+        "refs": ["tg:industry", "tg:work-value-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note6a",
+        "content": "king",
+        "refs": ["ot:1-sam:8_p5#p5", "bofm:3-ne:6_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note7a",
+        "content": "not",
+        "refs": ["bofm:mosiah:27_p3-p5#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note8a",
+        "content": "were",
+        "refs": ["bofm:mosiah:29_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note8b",
+        "content": "kings",
+        "refs": ["tg:governments"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note9a",
+        "content": "iniquity",
+        "refs": [
+            "ot:prov:16_p12#p12",
+            "bofm:mosiah:11_p1-p15#p2",
+            "bofm:mosiah:29_p17-p19#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note9b",
+        "content": "priests",
+        "refs": ["bofm:mosiah:17_p1,6,12-p18#p12"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note9c",
+        "content": "caught",
+        "refs": ["bofm:mosiah:17_p1-p4#p2"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note9d",
+        "content": "repentance",
+        "refs": ["bofm:mosiah:18_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note10a",
+        "content": "after",
+        "refs": ["dnc:58_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note10b",
+        "content": "tribulation",
+        "refs": ["tg:tribulation"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note10c",
+        "content": "instrument",
+        "refs": ["bofm:alma:17_p9-p11#p9", "bofm:alma:26_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note10d",
+        "content": "so",
+        "refs": ["bofm:mosiah:18_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note12a",
+        "content": "oppressed",
+        "refs": ["tg:oppression", "tg:unrighteous-dominion"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note12b",
+        "content": "brought",
+        "refs": ["bofm:mosiah:11_p1-p15#p2"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note12c",
+        "content": "bands",
+        "refs": [
+            "ot:isa:58_p6#p6",
+            "bofm:2-ne:28_p19-p22#p19",
+            "bofm:alma:12_p11#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note13a",
+        "content": "hands",
+        "refs": ["bofm:mosiah:18_p34-p35#p34"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note13b",
+        "content": "bonds",
+        "refs": ["tg:bondage-spiritual"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note13c",
+        "content": "stand fast",
+        "refs": ["nt:gal:5_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note13d",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note13e",
+        "content": "no man",
+        "refs": ["bofm:mosiah:29_p5-p36#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note14a",
+        "content": "teacher",
+        "refs": ["bofm:mosiah:2_p4#p4", "bofm:mosiah:18_p18-p22#p18"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note15a",
+        "content": "love",
+        "refs": ["tg:love"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note15b",
+        "content": "neighbor",
+        "refs": ["tg:neighbor"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note15c",
+        "content": "as",
+        "refs": ["bofm:mosiah:18_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note15d",
+        "content": "contention",
+        "refs": ["bofm:3-ne:11_p28-p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note16a",
+        "content": "high priest",
+        "refs": ["bofm:mosiah:18_p18#p18", "bofm:mosiah:26_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note17a",
+        "content": "authority",
+        "refs": ["tg:priesthood-authority"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note17b",
+        "content": "consecrated",
+        "refs": ["ot:lev:16_p32#p32", "bofm:2-ne:5_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note18a",
+        "content": "nourish",
+        "refs": ["nt:eph:6_p4#p4", "nt:1-tim:4_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note19a",
+        "content": "Helam",
+        "refs": ["bofm:mosiah:27_p16#p16", "bofm:alma:24_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note21a",
+        "content": "chasten",
+        "refs": [
+            "ot:deut:11_p1-p8#p2",
+            "bofm:hel:12_p3#p3",
+            "dnc:98_p21#p21",
+            "tg:chastening"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note21b",
+        "content": "patience",
+        "refs": ["tg:patience"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note22a",
+        "content": "trust",
+        "refs": ["tg:trust-in-god"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note22b",
+        "content": "lifted up",
+        "refs": ["bofm:1-ne:13_p37#p37", "bofm:alma:26_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note23a",
+        "content": "bondage",
+        "refs": ["bofm:alma:36_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note30a",
+        "content": "armies",
+        "refs": ["bofm:mosiah:22_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note31a",
+        "content": "Amulon",
+        "refs": ["bofm:mosiah:24_p1#p1", "bofm:alma:23_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note32a",
+        "content": "Amulon",
+        "refs": ["bofm:mosiah:24_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note33a",
+        "content": "daughters",
+        "refs": ["bofm:mosiah:20_p5#p5", "bofm:mosiah:25_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note34a",
+        "content": "compassion",
+        "refs": ["tg:compassion"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note35a",
+        "content": "Amulon",
+        "refs": ["bofm:alma:25_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note36a",
+        "content": "way",
+        "refs": ["bofm:mosiah:18_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/23",
+        "noteId": "note37a",
+        "content": "guards",
+        "refs": ["bofm:mosiah:24_p8-p15#p9", "bofm:alma:5_p5#p5"]
+    }
+]

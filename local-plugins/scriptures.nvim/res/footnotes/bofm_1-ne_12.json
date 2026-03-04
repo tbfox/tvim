@@ -1,0 +1,255 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note1a",
+        "content": "land of promise",
+        "refs": ["tg:promised-lands"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note1b",
+        "content": "sand",
+        "refs": ["ot:gen:22_p17-p18#p17", "ot:1-kgs:4_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note2a",
+        "content": "wars",
+        "refs": ["bofm:enos:1_p24#p24", "bofm:morm:8_p7-p8#p7", "tg:war"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note4a",
+        "content": "mist",
+        "refs": [
+            "bofm:1-ne:19_p12#p12",
+            "bofm:hel:14_p20-p28#p28",
+            "bofm:3-ne:10_p11#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note4b",
+        "content": "darkness",
+        "refs": ["bofm:1-ne:19_p10#p10", "bofm:2-ne:26_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note4c",
+        "content": "broken up",
+        "refs": ["ot:gen:7_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note4d",
+        "content": "sunk",
+        "refs": ["bofm:3-ne:8_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note5a",
+        "content": "vapor",
+        "refs": ["bofm:3-ne:8_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note6a",
+        "content": "Lamb",
+        "refs": ["bofm:2-ne:26_p1,9#p1", "bofm:3-ne:11_p3-p17#p8"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note6b",
+        "content": "showed",
+        "refs": [
+            "bofm:2-ne:32_p6#p6",
+            "bofm:alma:7_p8#p8",
+            "bofm:alma:16_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note7a",
+        "content": "twelve",
+        "refs": ["bofm:3-ne:11_p22#p22", "bofm:3-ne:12_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note9a",
+        "content": "twelve apostles",
+        "refs": [
+            "nt:matt:10_p1#p1",
+            "nt:luke:6_p13#p13",
+            "nt:john:6_p70#p70",
+            "bofm:1-ne:11_p29#p29",
+            "bofm:1-ne:13_p24-p26,40#p40"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note9b",
+        "content": "judge",
+        "refs": ["nt:matt:19_p28#p28", "dnc:29_p12#p12", "tg:judgment-the-last"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note10a",
+        "content": "twelve ministers",
+        "refs": ["bofm:3-ne:27_p27#p27", "bofm:morm:3_p18-p19#p18"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note10b",
+        "content": "garments",
+        "refs": [
+            "nt:rev:7_p14#p14",
+            "nt:rev:19_p8#p8",
+            "bofm:alma:5_p21-p27#p21",
+            "bofm:alma:13_p11-p13#p11",
+            "bofm:3-ne:27_p19-p20#p19",
+            "dnc:88_p85#p85"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note11a",
+        "content": "three",
+        "refs": ["bofm:2-ne:26_p9-p10#p9", "bofm:3-ne:27_p30-p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note12a",
+        "content": "fourth",
+        "refs": [
+            "bofm:2-ne:26_p9#p9",
+            "bofm:alma:45_p10-p12#p12",
+            "bofm:hel:13_p5,9-p10#p10",
+            "bofm:3-ne:27_p32#p32",
+            "bofm:4-ne:1_p14-p41#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note15a",
+        "content": "against",
+        "refs": ["bofm:morm:6_p1-p22#p7"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note16a",
+        "content": "filthy",
+        "refs": ["tg:filthiness"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note16b",
+        "content": "river",
+        "refs": ["bofm:1-ne:8_p13-p14#p13", "bofm:1-ne:15_p26-p29#p27"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note16c",
+        "content": "hell",
+        "refs": ["tg:hell"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note17a",
+        "content": "mists",
+        "refs": [
+            "nt:2-pet:2_p17#p17",
+            "bofm:1-ne:8_p23#p23",
+            "bofm:1-ne:15_p23-p24#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note17b",
+        "content": "blindeth",
+        "refs": ["tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note17c",
+        "content": "broad roads",
+        "refs": ["ot:prov:4_p14#p14", "nt:luke:13_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note18a",
+        "content": "building",
+        "refs": ["bofm:1-ne:8_p26#p26", "bofm:1-ne:11_p35-p36#p35"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note18b",
+        "content": "imaginations",
+        "refs": ["ot:jer:7_p24#p24", "ot:jer:9_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note18c",
+        "content": "pride",
+        "refs": ["tg:haughtiness", "tg:pride"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note18d",
+        "content": "gulf",
+        "refs": ["nt:luke:16_p26#p26", "bofm:1-ne:15_p28-p30#p28"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note18e",
+        "content": "justice",
+        "refs": ["tg:god-justice-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note19a",
+        "content": "temptations",
+        "refs": ["tg:temptation"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note19b",
+        "content": "overpower",
+        "refs": ["bofm:jarom:1_p10#p10", "bofm:w-of-m:1_p1-p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note21a",
+        "content": "wars",
+        "refs": ["bofm:morm:8_p8#p8", "bofm:moro:1_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note21b",
+        "content": "many generations",
+        "refs": ["bofm:2-ne:1_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note22a",
+        "content": "dwindle",
+        "refs": ["bofm:1-ne:15_p13#p13", "bofm:2-ne:26_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note23a",
+        "content": "dark",
+        "refs": ["bofm:2-ne:26_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note23b",
+        "content": "filthy",
+        "refs": ["bofm:2-ne:5_p20-p25#p22", "tg:filthiness"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/12",
+        "noteId": "note23c",
+        "content": "idleness",
+        "refs": ["tg:idleness"]
+    }
+]

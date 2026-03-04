@@ -1,0 +1,225 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note1a",
+        "content": "doubt",
+        "refs": ["tg:doubt"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note4a",
+        "content": "enter",
+        "refs": ["bofm:3-ne:6_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note4b",
+        "content": "covenant",
+        "refs": ["bofm:alma:44_p15#p15", "bofm:alma:62_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note4c",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note5a",
+        "content": "secret",
+        "refs": ["bofm:2-ne:10_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note7a",
+        "content": "twenty and second",
+        "refs": ["bofm:3-ne:2_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note8a",
+        "content": "hundredth",
+        "refs": ["bofm:w-of-m:1_p5#p5", "bofm:3-ne:26_p6-p12#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note9a",
+        "content": "records",
+        "refs": ["bofm:hel:3_p13-p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note9b",
+        "content": "all",
+        "refs": ["bofm:w-of-m:1_p5#p5", "bofm:alma:13_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note9c",
+        "content": "shorter",
+        "refs": ["bofm:morm:2_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note10a",
+        "content": "record",
+        "refs": ["bofm:hel:2_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note10b",
+        "content": "plates of Nephi",
+        "refs": [
+            "bofm:w-of-m:1_p1#p1",
+            "bofm:morm:1_p1-p4#p4",
+            "bofm:morm:2_p17-p18#p17",
+            "bofm:morm:8_p1,4-p5,14#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note12a",
+        "content": "Mormon",
+        "refs": ["bofm:w-of-m:1_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note12b",
+        "content": "land of Mormon",
+        "refs": ["bofm:mosiah:18_p4#p4", "bofm:alma:5_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note13a",
+        "content": "called",
+        "refs": ["bofm:3-ne:30_p1#p1", "bofm:moro:7_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note14a",
+        "content": "record",
+        "refs": [
+            "bofm:enos:1_p13-p18#p16",
+            "dnc:3_p19#p19",
+            "dnc:10_p46-p50#p47"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note15a",
+        "content": "small",
+        "refs": ["bofm:morm:7_p9#p9", "bofm:morm:8_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note17a",
+        "content": "record",
+        "refs": ["bofm:w-of-m:1_p5#p5", "bofm:morm:1_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note18a",
+        "content": "language",
+        "refs": ["tg:language"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note18b",
+        "content": "write",
+        "refs": [
+            "bofm:3-ne:19_p32-p34#p32",
+            "bofm:morm:9_p32-p33#p33",
+            "bofm:ether:12_p24-p25#p25",
+            "dnc:76_p116#p116"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note20a",
+        "content": "descendant",
+        "refs": ["bofm:morm:1_p5#p5", "bofm:morm:8_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note20b",
+        "content": "no one",
+        "refs": ["bofm:1-ne:4_p36#p36", "bofm:3-ne:15_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note21a",
+        "content": "blessed",
+        "refs": ["tg:israel-blessings-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note21b",
+        "content": "Jacob",
+        "refs": [
+            "ot:gen:32_p24-p32#p28",
+            "ot:ps:135_p4#p4",
+            "dnc:49_p23-p25#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note21c",
+        "content": "merciful",
+        "refs": ["ot:ps:98_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note22a",
+        "content": "insomuch",
+        "refs": [
+            "bofm:2-ne:1_p20#p20",
+            "bofm:jarom:1_p9#p9",
+            "bofm:omni:1_p6#p6",
+            "bofm:mosiah:1_p7#p7",
+            "bofm:alma:9_p13-p14#p13",
+            "bofm:alma:37_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note23a",
+        "content": "remnant",
+        "refs": ["bofm:alma:46_p24#p24", "bofm:3-ne:10_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note23b",
+        "content": "knowledge",
+        "refs": ["bofm:2-ne:3_p12#p12", "bofm:morm:7_p5,10#p5"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note24a",
+        "content": "gather",
+        "refs": ["tg:israel-gathering-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note24b",
+        "content": "seed",
+        "refs": ["ot:gen:46_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note25a",
+        "content": "covenanted",
+        "refs": ["bofm:3-ne:15_p8#p8", "bofm:3-ne:16_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note25b",
+        "content": "restoring",
+        "refs": ["bofm:2-ne:30_p1-p6#p3", "bofm:3-ne:16_p6-p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/5",
+        "noteId": "note26a",
+        "content": "know",
+        "refs": ["bofm:2-ne:30_p7-p8#p7", "bofm:3-ne:20_p29-p34#p31"]
+    }
+]

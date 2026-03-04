@@ -1,0 +1,210 @@
+[
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note3a",
+        "content": "anger",
+        "refs": ["tg:anger"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note4a",
+        "content": "sharpness",
+        "refs": [
+            "bofm:2-ne:1_p26-p27#p26",
+            "bofm:w-of-m:1_p17#p17",
+            "dnc:121_p41-p43#p43"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note4b",
+        "content": "harden",
+        "refs": ["tg:hardheartedness"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note4c",
+        "content": "striving",
+        "refs": ["bofm:moro:8_p28#p28", "dnc:1_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note5a",
+        "content": "thirst",
+        "refs": ["bofm:morm:4_p11-p12#p11"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note6a",
+        "content": "diligently",
+        "refs": ["tg:dedication", "tg:diligence", "tg:perseverance"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note6b",
+        "content": "labor",
+        "refs": [
+            "ot:1-sam:8_p9#p9",
+            "nt:2-cor:5_p9#p9",
+            "bofm:jacob:1_p19#p19",
+            "bofm:enos:1_p20#p20",
+            "tg:duty",
+            "tg:priesthood-magnifying-callings-within"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note8a",
+        "content": "flesh",
+        "refs": ["ot:lev:26_p29#p29", "bofm:1-ne:21_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note9a",
+        "content": "abomination",
+        "refs": ["tg:body-sanctity-of"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note9b",
+        "content": "depriving",
+        "refs": ["tg:sensuality"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note9c",
+        "content": "chastity",
+        "refs": ["tg:chastity"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note9d",
+        "content": "virtue",
+        "refs": ["tg:virtue"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note10a",
+        "content": "cruel",
+        "refs": ["tg:cruelty"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note13a",
+        "content": "delight",
+        "refs": ["bofm:2-ne:9_p8-p9#p9", "bofm:jacob:3_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note14a",
+        "content": "stay",
+        "refs": ["ot:2-sam:24_p16#p16", "bofm:alma:10_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note16a",
+        "content": "widows",
+        "refs": ["bofm:mosiah:21_p10,17#p10", "tg:widows"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note17a",
+        "content": "Aaron",
+        "refs": ["bofm:morm:2_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note18a",
+        "content": "order",
+        "refs": ["tg:order"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note18b",
+        "content": "strength",
+        "refs": ["tg:strength"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note20a",
+        "content": "exceed",
+        "refs": ["bofm:hel:6_p18-p35#p34"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note22a",
+        "content": "pray",
+        "refs": ["bofm:w-of-m:1_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note22b",
+        "content": "spare",
+        "refs": ["bofm:morm:8_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note22c",
+        "content": "repent",
+        "refs": [
+            "ot:1-sam:7_p3#p3",
+            "bofm:hel:13_p11#p11",
+            "bofm:3-ne:10_p5-p7#p6",
+            "bofm:3-ne:24_p7#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note23a",
+        "content": "Jaredites",
+        "refs": ["bofm:jacob:5_p44#p44"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note23b",
+        "content": "seeking",
+        "refs": ["bofm:morm:4_p11-p12#p11"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note23c",
+        "content": "revenge",
+        "refs": ["bofm:ether:15_p15-p31#p22"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note24a",
+        "content": "deserted",
+        "refs": ["bofm:alma:45_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note24b",
+        "content": "deliver",
+        "refs": ["bofm:morm:6_p6#p6", "bofm:morm:8_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note25a",
+        "content": "death",
+        "refs": ["tg:jesus-christ-death-of"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note25b",
+        "content": "long-suffering",
+        "refs": ["tg:forbear"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note25c",
+        "content": "mind",
+        "refs": ["tg:mind"]
+    },
+    {
+        "origin_chapter": "bofm/moro/9",
+        "noteId": "note26a",
+        "content": "right hand",
+        "refs": ["tg:jesus-christ-relationships-with-the-father"]
+    }
+]

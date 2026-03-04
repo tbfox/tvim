@@ -1,0 +1,229 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note1a",
+        "content": "Hearken",
+        "refs": ["ot:isa:48_p1-p22#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note1b",
+        "content": "baptism",
+        "refs": ["tg:baptism", "tg:conversion"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note1c",
+        "content": "swear",
+        "refs": ["ot:deut:6_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note1d",
+        "content": "not",
+        "refs": ["ot:jer:4_p2#p2", "ot:jer:5_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note2a",
+        "content": "holy city",
+        "refs": ["ot:isa:52_p1#p1", "tg:jerusalem"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note2b",
+        "content": "not",
+        "refs": ["tg:hypocrisy", "tg:prophets-rejection-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note3a",
+        "content": "former",
+        "refs": [
+            "ot:isa:42_p9#p9",
+            "ot:isa:46_p9-p10#p10",
+            "tg:god-foreknowledge-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note4a",
+        "content": "neck",
+        "refs": ["tg:stiffnecked"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note5a",
+        "content": "showed",
+        "refs": ["tg:god-omniscience-of", "tg:idolatry"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note6a",
+        "content": "not declare",
+        "refs": ["nt:1-cor:9_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note8a",
+        "content": "transgressor",
+        "refs": ["ot:ps:58_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note9a",
+        "content": "name’s",
+        "refs": ["ot:1-sam:12_p22#p22", "ot:ps:23_p3#p3", "nt:1-jn:2_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note10a",
+        "content": "affliction",
+        "refs": ["ot:ex:1_p10-p11#p11", "bofm:1-ne:17_p25#p25", "tg:affliction"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note11a",
+        "content": "name",
+        "refs": ["ot:jer:44_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note11b",
+        "content": "not give",
+        "refs": ["ot:isa:42_p8#p8", "pgp:moses:4_p1-p4#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note12a",
+        "content": "first",
+        "refs": [
+            "nt:rev:1_p17#p17",
+            "nt:rev:22_p13#p13",
+            "tg:jesus-christ-firstborn",
+            "tg:jesus-christ-jehovah"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note13a",
+        "content": "laid",
+        "refs": [
+            "ot:ps:102_p25#p25",
+            "tg:god-the-father-jehovah",
+            "tg:jesus-christ-creator"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note13b",
+        "content": "call",
+        "refs": ["ot:ps:148_p5-p10#p8"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note14a",
+        "content": "fulfil",
+        "refs": ["ot:1-kgs:8_p56#p56", "dnc:64_p31#p31", "dnc:76_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note14b",
+        "content": "Babylon",
+        "refs": ["tg:babylon"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note15a",
+        "content": "him",
+        "refs": ["ot:isa:45_p1-p4#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note16a",
+        "content": "secret",
+        "refs": ["ot:isa:45_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note16b",
+        "content": "Spirit",
+        "refs": ["tg:god-spirit-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note17a",
+        "content": "Redeemer",
+        "refs": ["tg:jesus-christ-jehovah"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note17b",
+        "content": "leadeth",
+        "refs": ["tg:guidance-divine"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note18a",
+        "content": "commandments",
+        "refs": ["ot:eccl:8_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note18b",
+        "content": "peace",
+        "refs": ["tg:israel-blessings-of", "tg:peace-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note19a",
+        "content": "seed",
+        "refs": [
+            "ot:gen:22_p15-p19#p17",
+            "ot:isa:48_p18-p22#p19",
+            "ot:hosea:1_p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note20a",
+        "content": "Go",
+        "refs": ["ot:jer:51_p6,44-p45#p6", "dnc:133_p5-p14#p5"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note20b",
+        "content": "Chaldeans",
+        "refs": ["tg:israel-bondage-of-in-other-lands"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note20c",
+        "content": "servant",
+        "refs": ["ot:isa:44_p1-p2,21#p1", "ot:isa:45_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note21a",
+        "content": "thirsted",
+        "refs": ["ot:ps:107_p33-p37#p33", "ot:isa:41_p17-p20#p18"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note21b",
+        "content": "rock",
+        "refs": [
+            "ot:ex:17_p6#p6",
+            "ot:num:20_p11#p11",
+            "bofm:1-ne:17_p29#p29",
+            "bofm:2-ne:25_p20#p20",
+            "dnc:133_p26-p30#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/20",
+        "noteId": "note22a",
+        "content": "peace",
+        "refs": ["nt:rom:3_p17#p17", "tg:peace-of-god"]
+    }
+]

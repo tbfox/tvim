@@ -1,0 +1,344 @@
+[
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note1a",
+        "content": "words",
+        "refs": ["bofm:2-ne:6_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note2a",
+        "content": "responsibility",
+        "refs": ["tg:stewardship"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note2b",
+        "content": "magnify",
+        "refs": ["nt:rom:11_p13#p13", "bofm:jacob:1_p19#p19", "dnc:24_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note2c",
+        "content": "soberness",
+        "refs": ["tg:sincere"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note2d",
+        "content": "rid",
+        "refs": ["bofm:mosiah:2_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note3a",
+        "content": "welfare",
+        "refs": ["bofm:2-ne:6_p3#p3", "bofm:mosiah:25_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note5a",
+        "content": "thoughts",
+        "refs": [
+            "ot:amos:4_p13#p13",
+            "bofm:alma:12_p3-p7#p3",
+            "dnc:6_p16#p16",
+            "tg:god-omniscience-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note7a",
+        "content": "boldness",
+        "refs": ["ot:lev:19_p17#p17", "dnc:121_p43#p43"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note7b",
+        "content": "chaste",
+        "refs": ["tg:chastity"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note8a",
+        "content": "word of God",
+        "refs": [
+            "ot:micah:2_p7#p7",
+            "bofm:alma:31_p5#p5",
+            "bofm:alma:36_p26#p26",
+            "bofm:hel:3_p29-p30#p29",
+            "tg:gospel"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note9a",
+        "content": "admonish",
+        "refs": ["tg:warn"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note10a",
+        "content": "commands",
+        "refs": ["tg:commandments-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note10b",
+        "content": "piercing",
+        "refs": ["bofm:2-ne:9_p44#p44", "tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note11a",
+        "content": "plainness",
+        "refs": [
+            "bofm:2-ne:25_p4#p4",
+            "bofm:2-ne:33_p5#p5",
+            "bofm:jacob:4_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note11b",
+        "content": "word",
+        "refs": ["bofm:jacob:7_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note12a",
+        "content": "ores",
+        "refs": [
+            "bofm:1-ne:18_p25#p25",
+            "bofm:2-ne:5_p14-p16#p15",
+            "bofm:hel:6_p9-p11#p9",
+            "bofm:ether:9_p17#p17",
+            "bofm:ether:10_p12,23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note12b",
+        "content": "land of promise",
+        "refs": [
+            "bofm:1-ne:4_p14#p14",
+            "bofm:1-ne:17_p13-p14#p13",
+            "tg:promised-lands"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note13a",
+        "content": "lifted up",
+        "refs": [
+            "ot:2-kgs:14_p10#p10",
+            "bofm:alma:1_p32#p32",
+            "bofm:alma:31_p25#p25",
+            "bofm:morm:8_p28,36-p40#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note15a",
+        "content": "eye",
+        "refs": ["tg:god-indignation-of", "tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note16a",
+        "content": "pride",
+        "refs": ["tg:pride"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note17a",
+        "content": "brethren",
+        "refs": ["nt:james:5_p1-p6#p3", "tg:love"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note17b",
+        "content": "substance",
+        "refs": ["tg:almsgiving", "tg:generosity", "tg:welfare"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note17c",
+        "content": "they",
+        "refs": [
+            "bofm:alma:4_p12#p12",
+            "bofm:alma:5_p55#p55",
+            "bofm:4-ne:1_p3,24-p26#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note18a",
+        "content": "before",
+        "refs": ["nt:mark:10_p17-p27#p24"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note18b",
+        "content": "riches",
+        "refs": [
+            "ot:1-kgs:3_p11-p13#p11",
+            "ot:prov:27_p24-p27#p24",
+            "bofm:2-ne:26_p31#p31",
+            "bofm:alma:39_p14#p14",
+            "dnc:6_p7#p7",
+            "tg:worldliness"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note18c",
+        "content": "kingdom",
+        "refs": ["nt:luke:12_p22-p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note19a",
+        "content": "do",
+        "refs": [
+            "bofm:mosiah:4_p26#p26",
+            "bofm:3-ne:12_p42#p42",
+            "bofm:4-ne:1_p3#p3",
+            "tg:good-works"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note21a",
+        "content": "commandments",
+        "refs": ["dnc:11_p20#p20", "pgp:abr:3_p25-p26#p25"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note23a",
+        "content": "whoredoms",
+        "refs": ["tg:whore"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note24a",
+        "content": "Solomon",
+        "refs": ["ot:1-kgs:11_p1#p1", "ot:neh:13_p25-p27#p26"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note24b",
+        "content": "wives",
+        "refs": [
+            "ot:deut:17_p14-p17#p17",
+            "ot:2-sam:5_p13#p13",
+            "dnc:132_p38-p39#p39"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note24c",
+        "content": "abominable",
+        "refs": [
+            "ot:deut:7_p1-p4#p3",
+            "ot:1-kgs:11_p3#p3",
+            "ot:ezra:9_p1-p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note25a",
+        "content": "righteous",
+        "refs": [
+            "ot:gen:49_p22-p26#p22",
+            "ot:ezek:17_p22-p24#p22",
+            "ot:amos:5_p15#p15",
+            "bofm:2-ne:3_p5#p5",
+            "bofm:2-ne:14_p2#p2",
+            "bofm:alma:26_p36#p36",
+            "tg:israel-joseph-people-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note27a",
+        "content": "man",
+        "refs": ["tg:marriage-husbands"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note27b",
+        "content": "one",
+        "refs": [
+            "bofm:jacob:3_p5-p7#p5",
+            "dnc:49_p16#p16",
+            "tg:marriage-plural"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note27c",
+        "content": "wife",
+        "refs": ["tg:marriage-wives"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note28a",
+        "content": "chastity",
+        "refs": ["tg:chastity"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note28b",
+        "content": "whoredoms",
+        "refs": ["tg:sexual-immorality", "tg:whore"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note29a",
+        "content": "cursed",
+        "refs": ["bofm:ether:2_p8-p12#p11", "tg:curse"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note30a",
+        "content": "seed",
+        "refs": ["ot:mal:2_p15#p15", "dnc:132_p61-p66#p63"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note31a",
+        "content": "abominations",
+        "refs": ["tg:family-children-responsibilities-toward"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note31b",
+        "content": "husbands",
+        "refs": ["tg:marriage-husbands"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note33a",
+        "content": "whoredoms",
+        "refs": ["ot:ezek:16_p20-p34#p25", "tg:sensuality"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note34a",
+        "content": "father",
+        "refs": ["bofm:1-ne:1_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note35a",
+        "content": "greater",
+        "refs": ["bofm:jacob:3_p5-p7#p5"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/2",
+        "noteId": "note35b",
+        "content": "strictness",
+        "refs": ["ot:gen:2_p24#p24"]
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note1a",
+        "content": "And",
+        "refs": ["ot:isa:49_p1-p26#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note1b",
+        "content": "isles",
+        "refs": ["bofm:1-ne:22_p4#p4", "bofm:2-ne:10_p20-p22#p21"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note1c",
+        "content": "far",
+        "refs": ["dnc:1_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note3a",
+        "content": "servant",
+        "refs": ["ot:lev:25_p55#p55", "ot:isa:41_p8#p8", "dnc:93_p45-p46#p46"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note4a",
+        "content": "vain",
+        "refs": ["ot:isa:55_p1-p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note5a",
+        "content": "formed",
+        "refs": ["ot:isa:44_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note5b",
+        "content": "strength",
+        "refs": ["tg:strength"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note6a",
+        "content": "tribes",
+        "refs": ["tg:israel-twelve-tribes-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note6b",
+        "content": "light",
+        "refs": ["ot:ezek:5_p5#p5", "dnc:103_p8-p9#p9", "pgp:abr:2_p6-p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note6c",
+        "content": "Gentiles",
+        "refs": ["bofm:3-ne:21_p11#p11", "tg:israel-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note8a",
+        "content": "my servant",
+        "refs": [
+            "bofm:2-ne:3_p6-p15#p11",
+            "bofm:3-ne:21_p8-p11#p11",
+            "bofm:morm:8_p16,25#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note9a",
+        "content": "prisoners",
+        "refs": ["tg:salvation-for-the-dead", "tg:spirits-in-prison"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note9b",
+        "content": "darkness",
+        "refs": ["bofm:2-ne:3_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note9c",
+        "content": "pastures",
+        "refs": ["ot:ezek:34_p14#p14", "bofm:1-ne:22_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note11a",
+        "content": "highways",
+        "refs": [
+            "ot:isa:62_p10#p10",
+            "dnc:133_p23-p32#p27",
+            "tg:jesus-christ-second-coming"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note12a",
+        "content": "these",
+        "refs": ["ot:isa:43_p5-p7#p5"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note13a",
+        "content": "Sing",
+        "refs": ["ot:isa:44_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note13b",
+        "content": "break forth",
+        "refs": ["tg:earth-renewal-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note13c",
+        "content": "afflicted",
+        "refs": ["ot:2-sam:22_p28#p28", "ot:ps:18_p27#p27", "ot:isa:49_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note15a",
+        "content": "woman",
+        "refs": ["tg:woman"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note15b",
+        "content": "compassion",
+        "refs": ["ot:ps:103_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note15c",
+        "content": "forget",
+        "refs": [
+            "ot:2-kgs:17_p38#p38",
+            "ot:isa:41_p15-p17#p17",
+            "bofm:alma:46_p8#p8",
+            "dnc:61_p36#p36",
+            "dnc:133_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note16a",
+        "content": "palms",
+        "refs": ["ot:zech:13_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note17a",
+        "content": "waste",
+        "refs": ["bofm:3-ne:21_p12-p20#p13"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note18a",
+        "content": "gather",
+        "refs": ["ot:micah:4_p11-p13#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note20a",
+        "content": "again",
+        "refs": ["tg:israel-gathering-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note21a",
+        "content": "desolate",
+        "refs": ["ot:isa:54_p1#p1", "nt:gal:4_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note22a",
+        "content": "Gentiles",
+        "refs": ["ot:isa:66_p18-p20#p19", "tg:israel-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note22b",
+        "content": "standard",
+        "refs": [
+            "ot:isa:11_p10-p12#p12",
+            "ot:isa:18_p3#p3",
+            "ot:zech:9_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note22c",
+        "content": "arms",
+        "refs": ["bofm:1-ne:22_p8#p8", "bofm:2-ne:10_p8-p9#p8"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note23a",
+        "content": "kings",
+        "refs": ["ot:isa:60_p14-p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note23b",
+        "content": "nursing fathers",
+        "refs": ["bofm:1-ne:22_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note23c",
+        "content": "wait",
+        "refs": [
+            "ot:gen:49_p18#p18",
+            "ot:prov:27_p18#p18",
+            "bofm:2-ne:6_p13#p13",
+            "dnc:98_p2#p2",
+            "dnc:133_p10-p11,45#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note24a",
+        "content": "lawful captives",
+        "refs": ["bofm:1-ne:21_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note26a",
+        "content": "feed",
+        "refs": [
+            "bofm:1-ne:14_p15-p17#p17",
+            "bofm:1-ne:22_p13-p14#p13",
+            "bofm:2-ne:6_p14-p18#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note26b",
+        "content": "know",
+        "refs": ["ot:ezek:26_p6#p6", "bofm:mosiah:11_p20-p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note26c",
+        "content": "Savior",
+        "refs": ["tg:jesus-christ-savior"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/21",
+        "noteId": "note26d",
+        "content": "Mighty One",
+        "refs": ["tg:jesus-christ-jehovah"]
+    }
+]

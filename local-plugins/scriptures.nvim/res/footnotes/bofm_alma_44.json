@@ -1,0 +1,140 @@
+[
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note1a",
+        "content": "Zerahemnah",
+        "refs": ["bofm:alma:43_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note1b",
+        "content": "not",
+        "refs": ["bofm:alma:43_p45#p45"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note2a",
+        "content": "yoke",
+        "refs": ["tg:bondage-physical"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note2b",
+        "content": "very",
+        "refs": ["bofm:alma:43_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note3a",
+        "content": "because",
+        "refs": ["bofm:alma:38_p1#p1", "tg:protection-divine"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note4a",
+        "content": "faithful",
+        "refs": ["nt:mark:4_p35-p41#p40"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note5a",
+        "content": "by",
+        "refs": ["bofm:alma:43_p9,45#p45", "bofm:alma:46_p12-p20#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note5b",
+        "content": "rites",
+        "refs": ["tg:ordinance"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note5c",
+        "content": "wives",
+        "refs": ["ot:gen:2_p23-p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note5d",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note6a",
+        "content": "deliver",
+        "refs": ["bofm:alma:52_p25,32#p25"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note6b",
+        "content": "spare",
+        "refs": ["tg:benevolence"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note7a",
+        "content": "inflict",
+        "refs": ["bofm:alma:62_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note8a",
+        "content": "sword",
+        "refs": ["bofm:alma:43_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note8b",
+        "content": "oath",
+        "refs": ["tg:oath"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note9a",
+        "content": "not of your faith",
+        "refs": ["tg:unbelief"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note9b",
+        "content": "breastplates",
+        "refs": ["bofm:alma:43_p38#p38", "bofm:alma:46_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note15a",
+        "content": "covenant",
+        "refs": ["bofm:1-ne:4_p37#p37", "bofm:alma:50_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note15b",
+        "content": "depart",
+        "refs": ["bofm:hel:1_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note19a",
+        "content": "never",
+        "refs": ["bofm:alma:47_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note20a",
+        "content": "cease",
+        "refs": ["bofm:alma:46_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note20b",
+        "content": "covenant",
+        "refs": ["bofm:alma:55_p28#p28", "bofm:alma:62_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/44",
+        "noteId": "note22a",
+        "content": "sea",
+        "refs": ["bofm:alma:3_p3#p3"]
+    }
+]

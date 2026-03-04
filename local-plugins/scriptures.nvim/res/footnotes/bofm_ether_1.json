@@ -1,0 +1,205 @@
+[
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note1a",
+        "content": "account",
+        "refs": ["bofm:mosiah:28_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note1b",
+        "content": "hand",
+        "refs": ["ot:1-sam:5_p9#p9", "bofm:morm:5_p23#p23", "dnc:87_p6-p7#p6"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note2a",
+        "content": "twenty",
+        "refs": ["bofm:alma:37_p21-p31#p21", "bofm:ether:15_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note3a",
+        "content": "first",
+        "refs": ["bofm:ether:8_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note3b",
+        "content": "tower",
+        "refs": [
+            "ot:gen:11_p1-p9#p4",
+            "bofm:omni:1_p22#p22",
+            "bofm:mosiah:28_p17#p17",
+            "bofm:hel:6_p28#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note4a",
+        "content": "days of Adam",
+        "refs": ["ot:gen:1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note5a",
+        "content": "part",
+        "refs": ["bofm:ether:3_p17#p17", "bofm:ether:15_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note6a",
+        "content": "Ether",
+        "refs": [
+            "bofm:ether:11_p23#p23",
+            "bofm:ether:12_p2#p2",
+            "bofm:ether:15_p34#p34"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note32a",
+        "content": "Kib",
+        "refs": ["bofm:ether:7_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note32b",
+        "content": "Orihah",
+        "refs": ["bofm:ether:6_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note33a",
+        "content": "Jared",
+        "refs": ["ot:gen:11_p6-p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note33b",
+        "content": "confounded",
+        "refs": ["bofm:omni:1_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note33c",
+        "content": "face",
+        "refs": ["bofm:mosiah:28_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note34a",
+        "content": "brother of Jared",
+        "refs": ["bofm:ether:2_p13#p13", "bofm:ether:6_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note34b",
+        "content": "understand",
+        "refs": ["tg:communication"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note35a",
+        "content": "language",
+        "refs": [
+            "ot:zeph:3_p9#p9",
+            "bofm:ether:3_p24#p24",
+            "pgp:moses:6_p5-p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note36a",
+        "content": "friends",
+        "refs": ["bofm:ether:2_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note38a",
+        "content": "inquire",
+        "refs": ["ot:2-chr:18_p4-p7#p4"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note38b",
+        "content": "choice",
+        "refs": ["bofm:1-ne:2_p20#p20", "tg:lands-of-inheritance"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note40a",
+        "content": "had",
+        "refs": ["bofm:ether:3_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note41a",
+        "content": "flocks",
+        "refs": ["bofm:ether:2_p1-p3#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note41b",
+        "content": "seed",
+        "refs": [
+            "bofm:1-ne:8_p1#p1",
+            "bofm:1-ne:16_p11#p11",
+            "bofm:ether:9_p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note41c",
+        "content": "thy",
+        "refs": ["bofm:ether:6_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note41d",
+        "content": "families",
+        "refs": ["ot:num:1_p2#p2", "bofm:mosiah:6_p3#p3", "dnc:48_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note41e",
+        "content": "friends",
+        "refs": ["bofm:ether:6_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note42a",
+        "content": "go",
+        "refs": [
+            "ot:gen:12_p1#p1",
+            "ot:num:9_p17#p17",
+            "bofm:1-ne:2_p2#p2",
+            "bofm:ether:2_p5#p5",
+            "pgp:abr:2_p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note42b",
+        "content": "before",
+        "refs": ["ot:judg:4_p14#p14", "dnc:84_p87-p88#p88"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note42c",
+        "content": "choice",
+        "refs": ["bofm:1-ne:13_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note43a",
+        "content": "there",
+        "refs": ["ot:gen:26_p3#p3", "ot:deut:28_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/ether/1",
+        "noteId": "note43b",
+        "content": "greater",
+        "refs": ["bofm:ether:15_p2#p2"]
+    }
+]

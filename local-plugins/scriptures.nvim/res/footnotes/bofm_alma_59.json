@@ -1,0 +1,68 @@
+[
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note1a",
+        "content": "epistle",
+        "refs": ["bofm:alma:56_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note1b",
+        "content": "those",
+        "refs": ["bofm:alma:58_p31,41#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note3a",
+        "content": "an",
+        "refs": ["bofm:alma:60_p1-p3#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note3b",
+        "content": "Pahoran",
+        "refs": ["bofm:alma:50_p40#p40"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note5a",
+        "content": "Nephihah",
+        "refs": ["bofm:alma:50_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note6a",
+        "content": "compelled",
+        "refs": ["bofm:alma:58_p29-p30#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note8a",
+        "content": "Nephihah",
+        "refs": ["bofm:alma:62_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note8b",
+        "content": "obliged",
+        "refs": ["bofm:alma:60_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note9a",
+        "content": "should",
+        "refs": ["bofm:alma:60_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note11a",
+        "content": "lost",
+        "refs": ["bofm:alma:62_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/59",
+        "noteId": "note13a",
+        "content": "indifference",
+        "refs": ["bofm:alma:58_p34#p34", "bofm:alma:61_p3#p3"]
+    }
+]

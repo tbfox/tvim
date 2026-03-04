@@ -1,0 +1,250 @@
+[
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note1a",
+        "content": "heaps",
+        "refs": [
+            "bofm:alma:48_p8#p8",
+            "bofm:alma:49_p4#p4",
+            "bofm:alma:52_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note2a",
+        "content": "timbers",
+        "refs": ["bofm:alma:53_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note4a",
+        "content": "towers",
+        "refs": ["ot:2-chr:14_p7-p8#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note7a",
+        "content": "south",
+        "refs": ["bofm:alma:22_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note8a",
+        "content": "Nephi",
+        "refs": [
+            "bofm:2-ne:5_p8#p8",
+            "bofm:omni:1_p12,27#p12",
+            "bofm:mosiah:7_p6-p7#p6",
+            "bofm:mosiah:9_p1,3-p4,14#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note10a",
+        "content": "fortifications",
+        "refs": ["bofm:alma:49_p13,18-p24#p13", "bofm:alma:53_p3-p7#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note11a",
+        "content": "river Sidon",
+        "refs": ["bofm:alma:2_p15#p15", "bofm:alma:22_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note11b",
+        "content": "northward",
+        "refs": ["bofm:morm:2_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note13a",
+        "content": "Moroni",
+        "refs": [
+            "bofm:alma:51_p22-p24#p22",
+            "bofm:alma:62_p32,34#p32",
+            "bofm:3-ne:8_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note14a",
+        "content": "Nephihah",
+        "refs": [
+            "bofm:alma:51_p24-p26#p24",
+            "bofm:alma:59_p5#p5",
+            "bofm:alma:62_p14,18,26#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note15a",
+        "content": "Lehi",
+        "refs": ["bofm:alma:51_p24-p26#p26", "bofm:alma:62_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note18a",
+        "content": "exceedingly",
+        "refs": ["bofm:alma:1_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note20a",
+        "content": "commandments",
+        "refs": [
+            "ot:lev:25_p18-p19#p18",
+            "ot:ps:1_p2-p3#p3",
+            "bofm:alma:37_p13#p13",
+            "bofm:alma:62_p48#p48"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note20b",
+        "content": "cut off",
+        "refs": ["ot:ps:37_p2#p2", "dnc:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note21a",
+        "content": "brought upon",
+        "refs": ["bofm:alma:41_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note23a",
+        "content": "happier",
+        "refs": [
+            "bofm:2-ne:5_p27#p27",
+            "bofm:mosiah:2_p41#p41",
+            "bofm:4-ne:1_p15-p18#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note25a",
+        "content": "contention",
+        "refs": ["tg:contention"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note25b",
+        "content": "Lehi",
+        "refs": ["bofm:hel:6_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note25c",
+        "content": "Morianton",
+        "refs": ["bofm:alma:51_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note26a",
+        "content": "contention",
+        "refs": ["bofm:3-ne:11_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note29a",
+        "content": "large",
+        "refs": ["bofm:mosiah:8_p8#p8", "bofm:hel:3_p3-p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note29b",
+        "content": "northward",
+        "refs": ["bofm:alma:22_p29-p31#p31", "bofm:alma:51_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note32a",
+        "content": "consequences",
+        "refs": ["tg:contention", "tg:division"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note32b",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note34a",
+        "content": "head",
+        "refs": ["bofm:hel:1_p28-p30#p28"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note34b",
+        "content": "Desolation",
+        "refs": ["bofm:alma:46_p17#p17", "bofm:morm:3_p5,7#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note35a",
+        "content": "flattering",
+        "refs": ["bofm:mosiah:27_p8#p8", "bofm:hel:1_p7#p7", "bofm:hel:2_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note35b",
+        "content": "slay",
+        "refs": ["bofm:alma:51_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note36a",
+        "content": "covenanting",
+        "refs": ["bofm:1-ne:4_p37#p37", "bofm:alma:44_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note37a",
+        "content": "second",
+        "refs": ["bofm:alma:4_p16-p18#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note37b",
+        "content": "perfect",
+        "refs": ["tg:perfection"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note38a",
+        "content": "records",
+        "refs": ["bofm:alma:37_p1-p5#p1", "bofm:alma:45_p2-p8#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note38b",
+        "content": "them",
+        "refs": ["bofm:3-ne:1_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note39a",
+        "content": "governor",
+        "refs": ["bofm:alma:60_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note39b",
+        "content": "oath",
+        "refs": ["tg:oath", "tg:ordinance"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note39c",
+        "content": "freedom",
+        "refs": ["bofm:alma:4_p16-p17#p16", "bofm:hel:1_p3-p5,13#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/50",
+        "noteId": "note40a",
+        "content": "Pahoran",
+        "refs": ["bofm:alma:59_p3#p3", "bofm:alma:61_p1#p1", "bofm:hel:1_p2#p2"]
+    }
+]

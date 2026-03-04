@@ -1,0 +1,345 @@
+[
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note2a",
+        "content": "immortality",
+        "refs": ["bofm:mosiah:16_p10-p13#p10", "tg:immortality"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note2b",
+        "content": "put",
+        "refs": ["nt:1-cor:15_p42-p54#p53"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note2c",
+        "content": "until",
+        "refs": ["nt:1-cor:15_p20-p23#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note3a",
+        "content": "resurrection",
+        "refs": ["tg:resurrection"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note3b",
+        "content": "mysteries",
+        "refs": ["tg:mysteries-of-godliness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note3c",
+        "content": "kept",
+        "refs": ["dnc:25_p4#p4", "dnc:121_p26#p26", "dnc:124_p41#p41"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note4a",
+        "content": "come",
+        "refs": ["nt:john:5_p28-p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note5a",
+        "content": "second",
+        "refs": [
+            "nt:1-thes:4_p16#p16",
+            "bofm:mosiah:26_p24-p25#p25",
+            "dnc:43_p18#p18",
+            "dnc:76_p85#p85"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note5b",
+        "content": "knoweth",
+        "refs": ["tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note7a",
+        "content": "souls",
+        "refs": ["bofm:alma:40_p21#p21", "dnc:138", "tg:soul"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note7b",
+        "content": "from",
+        "refs": ["tg:spirits-disembodied"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note8a",
+        "content": "time",
+        "refs": ["nt:2-pet:3_p8#p8", "tg:time"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note10a",
+        "content": "knoweth",
+        "refs": ["tg:god-foreknowledge-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note10b",
+        "content": "times",
+        "refs": ["nt:acts:17_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note11a",
+        "content": "state",
+        "refs": ["nt:john:20_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note11b",
+        "content": "death",
+        "refs": [
+            "ot:job:14_p10#p10",
+            "nt:luke:16_p22-p26#p22",
+            "bofm:1-ne:15_p31-p36#p31",
+            "bofm:alma:11_p45#p45",
+            "dnc:76_p71-p74#p73"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note11c",
+        "content": "taken",
+        "refs": ["bofm:alma:40_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note11d",
+        "content": "home",
+        "refs": [
+            "ot:eccl:12_p7#p7",
+            "bofm:2-ne:9_p38#p38",
+            "bofm:alma:24_p16#p16",
+            "bofm:hel:8_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note12a",
+        "content": "happiness",
+        "refs": [
+            "ot:isa:51_p11#p11",
+            "nt:luke:16_p22#p22",
+            "dnc:138_p15#p15",
+            "tg:happiness"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note12b",
+        "content": "paradise",
+        "refs": ["tg:paradise"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note12c",
+        "content": "peace",
+        "refs": [
+            "ot:2-kgs:22_p20#p20",
+            "bofm:alma:7_p27#p27",
+            "dnc:45_p46#p46",
+            "tg:peace-of-god"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note13a",
+        "content": "spirits",
+        "refs": ["tg:spirits-in-prison"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note13b",
+        "content": "devil",
+        "refs": ["tg:bondage-spiritual"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note13c",
+        "content": "outer darkness",
+        "refs": ["tg:damnation", "tg:darkness-spiritual", "tg:hell"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note13d",
+        "content": "weeping",
+        "refs": ["nt:matt:8_p12#p12", "bofm:mosiah:16_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note14a",
+        "content": "souls",
+        "refs": ["tg:spirits-in-prison"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note14b",
+        "content": "wicked",
+        "refs": ["dnc:138_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note14c",
+        "content": "fearful",
+        "refs": ["bofm:jacob:6_p13#p13", "pgp:moses:7_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note14d",
+        "content": "indignation",
+        "refs": ["tg:god-indignation-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note14e",
+        "content": "state",
+        "refs": ["bofm:alma:34_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note15a",
+        "content": "raising",
+        "refs": ["bofm:alma:40_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note16a",
+        "content": "first",
+        "refs": [
+            "bofm:jacob:4_p11#p11",
+            "bofm:mosiah:15_p21-p23#p21",
+            "bofm:mosiah:18_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note16b",
+        "content": "resurrection",
+        "refs": ["tg:jesus-christ-resurrection"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note17a",
+        "content": "consignation",
+        "refs": ["dnc:76_p17,32,50#p17", "tg:judgment-the-last"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note18a",
+        "content": "reuniting",
+        "refs": ["nt:matt:27_p52#p52"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note19a",
+        "content": "before",
+        "refs": ["bofm:mosiah:15_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note20a",
+        "content": "ascension",
+        "refs": ["tg:jesus-christ-ascension-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note21a",
+        "content": "space",
+        "refs": ["nt:luke:23_p39-p43#p43"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note21b",
+        "content": "happiness",
+        "refs": ["tg:paradise"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note21c",
+        "content": "misery",
+        "refs": ["tg:spirits-in-prison"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note21d",
+        "content": "brought",
+        "refs": ["bofm:alma:42_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note23a",
+        "content": "soul",
+        "refs": ["ot:ezek:37_p6-p14#p14", "dnc:88_p15-p17#p15", "tg:soul"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note23b",
+        "content": "restored",
+        "refs": ["bofm:2-ne:9_p13#p13", "bofm:alma:11_p40-p45#p45"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note23c",
+        "content": "body",
+        "refs": ["tg:body-sanctity-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note23d",
+        "content": "hair",
+        "refs": ["nt:luke:21_p18#p18", "bofm:alma:41_p2#p2", "dnc:29_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note23e",
+        "content": "perfect",
+        "refs": ["nt:philip:3_p21#p21", "tg:perfection"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note24a",
+        "content": "spoken",
+        "refs": ["ot:isa:26_p19#p19", "tg:resurrection"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note25a",
+        "content": "righteous",
+        "refs": ["ot:dan:12_p3#p3", "nt:matt:13_p43#p43"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note26a",
+        "content": "death",
+        "refs": [
+            "ot:ps:94_p1-p11#p3",
+            "nt:1-cor:6_p9-p10#p9",
+            "bofm:1-ne:15_p33#p33",
+            "bofm:alma:12_p16#p16",
+            "dnc:29_p41#p41",
+            "tg:hell"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note26b",
+        "content": "no unclean thing",
+        "refs": ["nt:eph:5_p5#p5", "bofm:alma:11_p37#p37", "tg:uncleanness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/40",
+        "noteId": "note26c",
+        "content": "cup",
+        "refs": ["ot:ps:75_p8#p8"]
+    }
+]

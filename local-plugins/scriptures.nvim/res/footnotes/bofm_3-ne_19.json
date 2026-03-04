@@ -1,0 +1,228 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note2a",
+        "content": "morrow",
+        "refs": ["bofm:3-ne:17_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note4a",
+        "content": "brother",
+        "refs": ["bofm:3-ne:7_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note4b",
+        "content": "dead",
+        "refs": ["tg:death-power-over"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note4c",
+        "content": "names",
+        "refs": ["bofm:3-ne:28_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note4d",
+        "content": "disciples",
+        "refs": ["bofm:3-ne:18_p36-p37#p36", "bofm:3-ne:26_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note5a",
+        "content": "so great",
+        "refs": ["bofm:mosiah:2_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note6a",
+        "content": "kneel",
+        "refs": ["bofm:3-ne:17_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note9a",
+        "content": "Holy Ghost",
+        "refs": ["bofm:3-ne:9_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note11a",
+        "content": "into",
+        "refs": ["bofm:3-ne:11_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note11b",
+        "content": "baptized",
+        "refs": ["nt:matt:3_p13-p15#p14", "pgp:js-h:1_p70-p71#p71"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note13a",
+        "content": "up",
+        "refs": ["tg:baptism-immersion"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note13b",
+        "content": "Holy Ghost",
+        "refs": [
+            "bofm:3-ne:12_p2#p2",
+            "bofm:morm:7_p10#p10",
+            "tg:holy-ghost-baptism-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note14a",
+        "content": "encircled",
+        "refs": ["bofm:hel:5_p23-p24,43-p45#p43", "bofm:3-ne:17_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note19a",
+        "content": "bowed",
+        "refs": ["bofm:3-ne:17_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note20a",
+        "content": "chosen",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note22a",
+        "content": "me",
+        "refs": ["nt:acts:7_p59#p59"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note23a",
+        "content": "pray",
+        "refs": ["tg:jesus-christ-relationships-with-the-father"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note23b",
+        "content": "as",
+        "refs": ["bofm:3-ne:9_p15#p15", "bofm:3-ne:11_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note23c",
+        "content": "one",
+        "refs": ["nt:john:17_p1-p22#p22", "nt:1-cor:6_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note24a",
+        "content": "multiply",
+        "refs": ["nt:matt:6_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note24b",
+        "content": "pray",
+        "refs": ["bofm:hel:10_p5#p5", "dnc:46_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note25a",
+        "content": "countenance",
+        "refs": ["ot:num:6_p23-p27#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note25b",
+        "content": "countenance",
+        "refs": ["ot:ps:4_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note25c",
+        "content": "shine",
+        "refs": ["ot:dan:9_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note25d",
+        "content": "white",
+        "refs": ["tg:transfiguration"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note28a",
+        "content": "purified",
+        "refs": [
+            "ot:neh:12_p30#p30",
+            "bofm:moro:7_p48#p48",
+            "dnc:50_p28-p29#p29",
+            "dnc:88_p74-p75#p74",
+            "tg:purity"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note29a",
+        "content": "out",
+        "refs": ["nt:john:17_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note30a",
+        "content": "white",
+        "refs": ["nt:matt:17_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note32a",
+        "content": "written",
+        "refs": ["bofm:3-ne:5_p18#p18", "dnc:76_p116#p116"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note33a",
+        "content": "hearts",
+        "refs": [
+            "ot:prov:2_p2#p2",
+            "ot:prov:8_p5#p5",
+            "ot:isa:44_p18#p18",
+            "bofm:mosiah:2_p9#p9",
+            "bofm:mosiah:12_p27#p27"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note34a",
+        "content": "uttered",
+        "refs": ["nt:2-cor:12_p4#p4", "bofm:3-ne:17_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note35a",
+        "content": "So",
+        "refs": ["nt:matt:8_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note35b",
+        "content": "faith",
+        "refs": ["tg:faith"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note35c",
+        "content": "miracles",
+        "refs": ["nt:john:11_p47-p48#p47"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/19",
+        "noteId": "note35d",
+        "content": "unbelief",
+        "refs": ["nt:matt:13_p58#p58", "tg:doubt", "tg:unbelief"]
+    }
+]

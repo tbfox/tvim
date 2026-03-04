@@ -1,0 +1,225 @@
+[
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note1a",
+        "content": "young",
+        "refs": ["bofm:morm:1_p12,15-p16#p15"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note3a",
+        "content": "exceedingly",
+        "refs": ["bofm:morm:4_p13-p17#p13", "bofm:morm:5_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note3b",
+        "content": "north",
+        "refs": ["bofm:alma:50_p11#p11", "bofm:morm:2_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note4a",
+        "content": "fortify",
+        "refs": ["bofm:3-ne:3_p14,25#p14", "bofm:morm:2_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note7a",
+        "content": "one",
+        "refs": ["bofm:3-ne:3_p22-p25#p22"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note8a",
+        "content": "filled",
+        "refs": ["bofm:3-ne:2_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note8b",
+        "content": "robbers",
+        "refs": [
+            "bofm:4-ne:1_p46#p46",
+            "bofm:morm:8_p9#p9",
+            "bofm:ether:8_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note9a",
+        "content": "Aaron",
+        "refs": ["bofm:moro:9_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note10a",
+        "content": "keep",
+        "refs": [
+            "bofm:hel:12_p18#p18",
+            "bofm:hel:13_p17-p23#p18",
+            "bofm:morm:1_p17-p19#p18",
+            "bofm:ether:14_p1-p2#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note11a",
+        "content": "mourning",
+        "refs": ["bofm:3-ne:12_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note12a",
+        "content": "mourning",
+        "refs": ["tg:mourning"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note12b",
+        "content": "again",
+        "refs": ["bofm:hel:11_p8-p17#p9"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note13a",
+        "content": "sorrowing",
+        "refs": ["nt:2-cor:7_p10#p10", "bofm:alma:42_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note13b",
+        "content": "sorrowing",
+        "refs": ["ot:hosea:7_p14#p14", "bofm:ether:8_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note13c",
+        "content": "damned",
+        "refs": ["tg:damnation"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note13d",
+        "content": "happiness",
+        "refs": ["bofm:alma:41_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note14a",
+        "content": "hearts",
+        "refs": ["tg:contrite-heart"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note14b",
+        "content": "curse",
+        "refs": ["tg:blaspheme"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note15a",
+        "content": "day",
+        "refs": ["bofm:hel:13_p38#p38"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note15b",
+        "content": "grace",
+        "refs": ["tg:grace"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note15c",
+        "content": "was passed",
+        "refs": ["ot:jer:8_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note15d",
+        "content": "rebellion",
+        "refs": ["tg:rebellion"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note15e",
+        "content": "dung",
+        "refs": ["ot:jer:8_p1-p3#p2"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note17a",
+        "content": "land",
+        "refs": ["bofm:morm:1_p1-p4#p3"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note17b",
+        "content": "deposited",
+        "refs": ["bofm:4-ne:1_p48-p49#p48"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note17c",
+        "content": "plates of Nephi",
+        "refs": ["bofm:morm:8_p1,4-p5,14#p5"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note18a",
+        "content": "these plates",
+        "refs": ["bofm:3-ne:5_p8-p20#p15"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note19a",
+        "content": "lifted up",
+        "refs": ["bofm:mosiah:23_p22#p22", "bofm:ether:4_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note21a",
+        "content": "fortify",
+        "refs": ["bofm:morm:2_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note23a",
+        "content": "fight",
+        "refs": ["bofm:alma:58_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note23b",
+        "content": "wives",
+        "refs": ["bofm:ether:14_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note26a",
+        "content": "beat",
+        "refs": ["bofm:morm:3_p7-p8,13#p8"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note26b",
+        "content": "strength",
+        "refs": ["tg:god-spirit-of", "tg:strength"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note29a",
+        "content": "northward",
+        "refs": ["bofm:morm:2_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/morm/2",
+        "noteId": "note29b",
+        "content": "narrow passage",
+        "refs": [
+            "bofm:alma:22_p32#p32",
+            "bofm:alma:52_p9#p9",
+            "bofm:alma:63_p5#p5"
+        ]
+    }
+]

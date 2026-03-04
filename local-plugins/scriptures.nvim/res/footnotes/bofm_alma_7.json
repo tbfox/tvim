@@ -1,0 +1,258 @@
+[
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note1a",
+        "content": "own",
+        "refs": ["bofm:alma:4_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note1b",
+        "content": "judgment-seat",
+        "refs": ["bofm:mosiah:29_p42#p42"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note2a",
+        "content": "given",
+        "refs": ["bofm:alma:4_p16-p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note3a",
+        "content": "dilemma",
+        "refs": ["bofm:alma:5_p16-p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note6a",
+        "content": "idols",
+        "refs": ["bofm:2-ne:9_p37#p37", "bofm:hel:6_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note6b",
+        "content": "living God",
+        "refs": ["ot:dan:6_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note7a",
+        "content": "time",
+        "refs": ["bofm:alma:9_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note8a",
+        "content": "time",
+        "refs": ["bofm:1-ne:12_p4-p8#p6", "bofm:alma:16_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note9a",
+        "content": "Repent",
+        "refs": ["nt:matt:3_p2-p3#p2", "bofm:alma:9_p25-p26#p25"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note9b",
+        "content": "cometh",
+        "refs": [
+            "bofm:mosiah:3_p5#p5",
+            "bofm:mosiah:7_p27#p27",
+            "bofm:mosiah:15_p1-p7#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note10a",
+        "content": "born",
+        "refs": ["ot:isa:7_p14#p14", "nt:luke:1_p27#p27", "bofm:mosiah:3_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note10b",
+        "content": "Jerusalem",
+        "refs": ["nt:luke:2_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note10c",
+        "content": "land",
+        "refs": [
+            "ot:1-chr:9_p3#p3",
+            "ot:2-chr:15_p9#p9",
+            "bofm:1-ne:1_p4#p4",
+            "bofm:3-ne:20_p29#p29"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note10d",
+        "content": "virgin",
+        "refs": ["bofm:1-ne:11_p13-p21#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note10e",
+        "content": "conceive",
+        "refs": ["nt:matt:1_p20#p20", "bofm:mosiah:15_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note11a",
+        "content": "afflictions",
+        "refs": ["ot:isa:53_p3-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note11b",
+        "content": "temptations",
+        "refs": ["tg:jesus-christ-temptation-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note11c",
+        "content": "take upon",
+        "refs": ["bofm:mosiah:14_p3-p5#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note12a",
+        "content": "death",
+        "refs": ["tg:jesus-christ-death-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note12b",
+        "content": "loose",
+        "refs": [
+            "ot:ps:116_p15-p16#p16",
+            "bofm:2-ne:2_p8#p8",
+            "bofm:alma:12_p24-p25#p25",
+            "bofm:alma:42_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note12c",
+        "content": "succor",
+        "refs": ["nt:heb:2_p18#p18", "nt:heb:4_p15#p15", "dnc:62_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note13a",
+        "content": "knoweth",
+        "refs": ["tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note13b",
+        "content": "flesh",
+        "refs": ["tg:jesus-christ-condescension-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note13c",
+        "content": "take upon",
+        "refs": ["bofm:mosiah:15_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note14a",
+        "content": "repent",
+        "refs": ["tg:purification"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note15a",
+        "content": "beset",
+        "refs": ["bofm:2-ne:4_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note16a",
+        "content": "remember",
+        "refs": ["bofm:ether:12_p4#p4", "bofm:moro:7_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note18a",
+        "content": "dilemma",
+        "refs": ["nt:james:1_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note19a",
+        "content": "paths",
+        "refs": ["nt:matt:3_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note20a",
+        "content": "walk",
+        "refs": ["bofm:1-ne:10_p19#p19", "bofm:alma:37_p12#p12", "dnc:3_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note21a",
+        "content": "unholy",
+        "refs": [
+            "nt:1-cor:3_p16-p17#p17",
+            "nt:1-cor:6_p19#p19",
+            "bofm:mosiah:2_p37#p37",
+            "bofm:alma:34_p36#p36"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note21b",
+        "content": "filthy",
+        "refs": [
+            "bofm:1-ne:15_p33-p35#p33",
+            "bofm:2-ne:9_p16#p16",
+            "bofm:morm:9_p14#p14",
+            "dnc:88_p35#p35"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note23a",
+        "content": "humble",
+        "refs": ["ot:prov:18_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note23b",
+        "content": "submissive",
+        "refs": ["tg:submissiveness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note24a",
+        "content": "faith",
+        "refs": [
+            "nt:1-cor:13_p1-p13#p13",
+            "bofm:ether:12_p30-p35#p31",
+            "bofm:moro:7_p33-p48#p44"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note25a",
+        "content": "Abraham",
+        "refs": ["dnc:27_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note25b",
+        "content": "spotless",
+        "refs": ["nt:2-pet:3_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/7",
+        "noteId": "note27a",
+        "content": "peace",
+        "refs": ["tg:peace-of-god"]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note3a",
+        "content": "Kib",
+        "refs": ["bofm:ether:1_p31-p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note3b",
+        "content": "old",
+        "refs": [
+            "ot:gen:18_p11-p12#p12",
+            "bofm:ether:7_p26#p26",
+            "bofm:ether:9_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note5a",
+        "content": "Moron",
+        "refs": ["bofm:ether:14_p6,11#p6"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note5b",
+        "content": "brought",
+        "refs": ["bofm:ether:6_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note6a",
+        "content": "land of Moron",
+        "refs": ["bofm:ether:6_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note7a",
+        "content": "captivity",
+        "refs": ["bofm:ether:8_p3-p4#p4", "bofm:ether:10_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note9a",
+        "content": "steel",
+        "refs": ["bofm:1-ne:16_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note16a",
+        "content": "first",
+        "refs": ["bofm:ether:6_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note20a",
+        "content": "divided",
+        "refs": ["bofm:2-ne:5_p1-p14#p7"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note23a",
+        "content": "prophets",
+        "refs": ["bofm:ether:9_p28#p28", "bofm:ether:11_p1,12,20#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note23b",
+        "content": "idolatry",
+        "refs": ["tg:idolatry"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note24a",
+        "content": "revile",
+        "refs": [
+            "bofm:mosiah:27_p1-p3#p2",
+            "tg:prophets-rejection-of",
+            "tg:reviling"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note26a",
+        "content": "begat",
+        "refs": ["bofm:ether:7_p3,7#p3", "bofm:ether:9_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/ether/7",
+        "noteId": "note27a",
+        "content": "across",
+        "refs": ["bofm:ether:6_p1-p12#p12"]
+    }
+]

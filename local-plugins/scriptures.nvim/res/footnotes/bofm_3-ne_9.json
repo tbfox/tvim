@@ -1,0 +1,327 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note1a",
+        "content": "voice",
+        "refs": ["bofm:1-ne:19_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note2a",
+        "content": "repent",
+        "refs": ["tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note2b",
+        "content": "laugheth",
+        "refs": ["pgp:moses:7_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note3a",
+        "content": "burned",
+        "refs": [
+            "nt:matt:11_p20#p20",
+            "bofm:hel:13_p12#p12",
+            "bofm:3-ne:8_p14-p24#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note4a",
+        "content": "sunk",
+        "refs": ["bofm:3-ne:8_p9#p9", "bofm:4-ne:1_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note5a",
+        "content": "Moronihah",
+        "refs": ["bofm:3-ne:8_p10,25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note7a",
+        "content": "Jerusalem",
+        "refs": ["bofm:alma:21_p1#p1", "bofm:alma:24_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note7b",
+        "content": "waters",
+        "refs": ["ot:ezek:26_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note7c",
+        "content": "blood",
+        "refs": ["nt:rev:16_p5-p7#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note7d",
+        "content": "not come up",
+        "refs": ["ot:jonah:1_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note8a",
+        "content": "hills",
+        "refs": [
+            "bofm:1-ne:19_p11#p11",
+            "bofm:3-ne:10_p13-p14#p13",
+            "pgp:moses:7_p14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note8b",
+        "content": "buried",
+        "refs": [
+            "ot:num:16_p32#p32",
+            "bofm:hel:12_p17#p17",
+            "bofm:3-ne:8_p10,25#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note9a",
+        "content": "wickedness",
+        "refs": [
+            "ot:gen:6_p5-p6#p5",
+            "bofm:morm:4_p10-p12#p12",
+            "dnc:112_p23#p23",
+            "pgp:moses:7_p36-p37#p36",
+            "pgp:moses:8_p22,28-p30#p22"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note9b",
+        "content": "secret",
+        "refs": ["bofm:hel:6_p17-p38#p17", "bofm:3-ne:6_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note9c",
+        "content": "destroy",
+        "refs": ["bofm:3-ne:7_p9-p13#p11"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note9d",
+        "content": "destroy",
+        "refs": [
+            "ot:gen:6_p13#p13",
+            "bofm:1-ne:17_p31#p31",
+            "bofm:2-ne:1_p17#p17",
+            "bofm:mosiah:12_p8#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note11a",
+        "content": "fire",
+        "refs": ["ot:2-kgs:1_p9-p16#p10", "bofm:hel:13_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note11b",
+        "content": "face",
+        "refs": ["ot:deut:31_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note11c",
+        "content": "from",
+        "refs": ["ot:gen:4_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note12a",
+        "content": "many",
+        "refs": [
+            "bofm:hel:14_p24#p24",
+            "bofm:3-ne:8_p8-p10,14#p14",
+            "bofm:3-ne:10_p4-p7#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note13a",
+        "content": "spared",
+        "refs": ["bofm:3-ne:10_p6,12#p6", "bofm:3-ne:27_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note13b",
+        "content": "righteous",
+        "refs": ["ot:gen:18_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note13c",
+        "content": "heal",
+        "refs": [
+            "ot:jer:3_p22#p22",
+            "ot:jer:17_p14#p14",
+            "nt:matt:13_p15#p15",
+            "bofm:3-ne:18_p32#p32"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note14a",
+        "content": "come",
+        "refs": [
+            "bofm:1-ne:1_p14#p14",
+            "bofm:2-ne:26_p24-p28#p25",
+            "bofm:alma:5_p33-p36#p34"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note14b",
+        "content": "eternal life",
+        "refs": ["nt:john:3_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note14c",
+        "content": "arm",
+        "refs": ["ot:isa:59_p16#p16", "bofm:alma:19_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note15a",
+        "content": "created",
+        "refs": [
+            "nt:john:1_p1-p3#p3",
+            "nt:col:1_p16#p16",
+            "nt:heb:1_p1-p3#p2",
+            "bofm:mosiah:15_p4#p4",
+            "bofm:hel:14_p12#p12",
+            "bofm:ether:4_p7#p7",
+            "dnc:14_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note15b",
+        "content": "I",
+        "refs": ["bofm:3-ne:11_p7,11,27#p27", "bofm:3-ne:19_p23,29#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note16a",
+        "content": "received me not",
+        "refs": ["nt:john:1_p11#p11", "dnc:6_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note16b",
+        "content": "concerning",
+        "refs": ["bofm:3-ne:15_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note17a",
+        "content": "given",
+        "refs": [
+            "nt:john:1_p12#p12",
+            "tg:man-potential-to-become-like-heavenly-father",
+            "tg:sons-and-daughters-of-god"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note17b",
+        "content": "redemption",
+        "refs": ["ot:ps:107_p2#p2", "tg:jesus-christ-redeemer"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note17c",
+        "content": "in",
+        "refs": ["bofm:3-ne:15_p2-p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note17d",
+        "content": "law",
+        "refs": ["nt:heb:8_p13#p13", "bofm:3-ne:12_p19,46-p47#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note18a",
+        "content": "light",
+        "refs": ["tg:jesus-christ-light-of-the-world"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note18b",
+        "content": "Alpha and Omega",
+        "refs": ["nt:rev:1_p8#p8", "tg:jesus-christ-firstborn"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note19a",
+        "content": "no more",
+        "refs": [
+            "bofm:mosiah:13_p27#p27",
+            "bofm:alma:34_p13#p13",
+            "bofm:3-ne:15_p2-p10#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note20a",
+        "content": "sacrifice",
+        "refs": [
+            "ot:ps:51_p17#p17",
+            "bofm:omni:1_p26#p26",
+            "bofm:3-ne:12_p19#p19",
+            "dnc:64_p34#p34"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note20b",
+        "content": "baptize",
+        "refs": ["tg:holy-ghost-baptism-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note21a",
+        "content": "redemption",
+        "refs": ["tg:jesus-christ-atonement-through"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note22a",
+        "content": "repenteth",
+        "refs": ["tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note22b",
+        "content": "as",
+        "refs": ["nt:mark:10_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note22c",
+        "content": "little",
+        "refs": ["bofm:mosiah:3_p19#p19", "bofm:3-ne:11_p37-p38#p37"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/9",
+        "noteId": "note22d",
+        "content": "laid down",
+        "refs": [
+            "nt:john:10_p15-p18#p15",
+            "tg:jesus-christ-death-of",
+            "tg:self-sacrifice"
+        ]
+    }
+]

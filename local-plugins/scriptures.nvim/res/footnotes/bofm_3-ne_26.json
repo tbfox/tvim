@@ -1,0 +1,273 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note2a",
+        "content": "These scriptures",
+        "refs": ["ot:mal:3", "bofm:3-ne:24"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note3a",
+        "content": "time",
+        "refs": ["tg:day-of-the-lord"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note3b",
+        "content": "glory",
+        "refs": ["ot:ps:72_p19#p19", "tg:jesus-christ-glory-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note3c",
+        "content": "elements",
+        "refs": [
+            "ot:amos:9_p13#p13",
+            "nt:2-pet:3_p10,12#p10",
+            "bofm:morm:9_p2#p2",
+            "tg:earth-cleansing-of",
+            "tg:earth-destiny-of",
+            "tg:world-end-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note3d",
+        "content": "wrapt",
+        "refs": ["bofm:morm:5_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note4a",
+        "content": "great",
+        "refs": [
+            "ot:mal:4_p5#p5",
+            "bofm:hel:12_p25#p25",
+            "bofm:3-ne:28_p31#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note4b",
+        "content": "stand",
+        "refs": ["bofm:mosiah:16_p1-p2,10-p11#p10", "tg:judgment-the-last"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note5a",
+        "content": "resurrection",
+        "refs": ["ot:dan:12_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note5b",
+        "content": "justice",
+        "refs": ["tg:god-justice-of", "tg:justice"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note5c",
+        "content": "before",
+        "refs": [
+            "bofm:3-ne:1_p14#p14",
+            "bofm:ether:3_p14#p14",
+            "tg:man-antemortal-existence-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note6a",
+        "content": "hundredth",
+        "refs": [
+            "nt:john:21_p25#p25",
+            "bofm:w-of-m:1_p5#p5",
+            "bofm:3-ne:5_p8-p11#p8",
+            "bofm:ether:15_p33#p33"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note7a",
+        "content": "plates of Nephi",
+        "refs": ["bofm:jarom:1_p14#p14", "bofm:4-ne:1_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note8a",
+        "content": "lesser",
+        "refs": ["bofm:3-ne:28_p33#p33", "dnc:11_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note8b",
+        "content": "from",
+        "refs": ["bofm:3-ne:21_p5-p6#p5"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note9a",
+        "content": "greater things",
+        "refs": [
+            "nt:john:16_p12#p12",
+            "bofm:2-ne:27_p7-p11,21#p8",
+            "bofm:morm:8_p12#p12",
+            "bofm:ether:4_p4-p10#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note10a",
+        "content": "greater things",
+        "refs": ["bofm:ether:4_p1-p8#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note10b",
+        "content": "withheld",
+        "refs": [
+            "bofm:2-ne:28_p27#p27",
+            "bofm:alma:12_p9-p11#p10",
+            "dnc:6_p26-p27#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note11a",
+        "content": "forbade",
+        "refs": ["bofm:3-ne:26_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note11b",
+        "content": "try",
+        "refs": ["bofm:ether:12_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note12a",
+        "content": "Mormon",
+        "refs": ["bofm:3-ne:28_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note12b",
+        "content": "Mormon",
+        "refs": ["bofm:w-of-m:1_p1-p2#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note13a",
+        "content": "show",
+        "refs": ["nt:john:21_p14#p14", "bofm:3-ne:27_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note13b",
+        "content": "bread",
+        "refs": [
+            "bofm:3-ne:18_p1#p1",
+            "bofm:3-ne:20_p3-p9#p3",
+            "tg:bread",
+            "tg:sacrament"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note14a",
+        "content": "children",
+        "refs": [
+            "nt:luke:10_p21#p21",
+            "bofm:alma:32_p23#p23",
+            "bofm:3-ne:17_p11#p11",
+            "dnc:128_p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note14b",
+        "content": "loose",
+        "refs": ["dnc:23_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note14c",
+        "content": "tongues",
+        "refs": ["bofm:3-ne:19_p32#p32", "bofm:3-ne:28_p14,16#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note15a",
+        "content": "healed",
+        "refs": [
+            "bofm:3-ne:17_p9#p9",
+            "tg:administrations-to-the-sick",
+            "tg:heal"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note15b",
+        "content": "dead",
+        "refs": ["tg:death-power-over"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note16a",
+        "content": "babes",
+        "refs": ["nt:matt:11_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note16b",
+        "content": "forbidden",
+        "refs": ["bofm:3-ne:27_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note17a",
+        "content": "disciples",
+        "refs": ["bofm:3-ne:19_p4-p12#p4", "bofm:4-ne:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note17b",
+        "content": "from",
+        "refs": ["bofm:ether:12_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note17c",
+        "content": "baptize",
+        "refs": ["bofm:4-ne:1_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note18a",
+        "content": "not lawful",
+        "refs": ["bofm:3-ne:26_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note19a",
+        "content": "minister",
+        "refs": ["tg:benevolence"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note19b",
+        "content": "all",
+        "refs": ["bofm:4-ne:1_p3,25-p26#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note19c",
+        "content": "common",
+        "refs": ["tg:consecration"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/26",
+        "noteId": "note21a",
+        "content": "church",
+        "refs": ["bofm:mosiah:18_p17#p17", "bofm:alma:4_p4-p5#p5", "tg:church"]
+    }
+]

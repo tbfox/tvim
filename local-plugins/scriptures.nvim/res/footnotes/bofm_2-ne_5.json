@@ -1,0 +1,448 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note1a",
+        "content": "anger",
+        "refs": [
+            "bofm:2-ne:4_p13#p13",
+            "bofm:jacob:7_p24#p24",
+            "bofm:enos:1_p20#p20",
+            "bofm:mosiah:10_p12,15#p12"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note2a",
+        "content": "anger",
+        "refs": [
+            "bofm:1-ne:7_p6-p19#p6",
+            "bofm:1-ne:17_p17-p55#p18",
+            "bofm:1-ne:18_p9-p22#p10",
+            "bofm:2-ne:4_p13-p14#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note3a",
+        "content": "rule",
+        "refs": [
+            "ot:num:16_p13#p13",
+            "bofm:1-ne:16_p37-p38#p37",
+            "bofm:mosiah:10_p15#p15"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note3b",
+        "content": "rule",
+        "refs": ["bofm:alma:54_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note5a",
+        "content": "warn",
+        "refs": ["tg:guidance-divine"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note5b",
+        "content": "Nephi",
+        "refs": ["bofm:mosiah:10_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note6a",
+        "content": "Zoram",
+        "refs": [
+            "bofm:1-ne:4_p35#p35",
+            "bofm:1-ne:16_p7#p7",
+            "bofm:2-ne:1_p30-p32#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note6b",
+        "content": "warnings",
+        "refs": ["tg:warn"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note8a",
+        "content": "Nephi",
+        "refs": [
+            "bofm:omni:1_p12,27#p12",
+            "bofm:mosiah:7_p1-p7,21#p1",
+            "bofm:mosiah:9_p1-p6,14#p1",
+            "bofm:mosiah:28_p1,5#p1",
+            "bofm:alma:2_p24#p24",
+            "bofm:alma:20_p1#p1",
+            "bofm:alma:50_p8,11#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note9a",
+        "content": "people",
+        "refs": ["bofm:jacob:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note10a",
+        "content": "statutes",
+        "refs": ["ot:ezek:20_p11#p11", "bofm:2-ne:1_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note10b",
+        "content": "law",
+        "refs": ["bofm:2-ne:11_p4#p4", "tg:law-of-moses"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note11a",
+        "content": "prosper",
+        "refs": ["nt:matt:6_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note12a",
+        "content": "plates of brass",
+        "refs": ["bofm:2-ne:4_p2#p2", "bofm:mosiah:1_p3-p4#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note12b",
+        "content": "ball",
+        "refs": ["bofm:mosiah:1_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note12c",
+        "content": "compass",
+        "refs": [
+            "bofm:1-ne:16_p10,16,26#p16",
+            "bofm:1-ne:18_p12,21#p12",
+            "bofm:alma:37_p38-p47#p38",
+            "dnc:17_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note14a",
+        "content": "sword",
+        "refs": [
+            "bofm:1-ne:4_p9#p9",
+            "bofm:jacob:1_p10#p10",
+            "bofm:w-of-m:1_p13#p13",
+            "bofm:mosiah:1_p16#p16",
+            "dnc:17_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note14b",
+        "content": "swords",
+        "refs": [
+            "bofm:jarom:1_p8#p8",
+            "bofm:mosiah:10_p8#p8",
+            "bofm:alma:2_p12#p12",
+            "bofm:hel:1_p14#p14",
+            "bofm:3-ne:3_p26#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note14c",
+        "content": "hatred",
+        "refs": ["tg:hate"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note15a",
+        "content": "build",
+        "refs": ["tg:skill"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note15b",
+        "content": "work",
+        "refs": ["tg:art"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note15c",
+        "content": "manner",
+        "refs": ["bofm:jarom:1_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note15d",
+        "content": "iron",
+        "refs": [
+            "ot:josh:8_p31#p31",
+            "bofm:1-ne:18_p25#p25",
+            "bofm:jacob:2_p12-p13#p12",
+            "bofm:hel:6_p9-p11#p9",
+            "bofm:ether:9_p17#p17",
+            "bofm:ether:10_p12,23#p23",
+            "pgp:moses:5_p46#p46"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note15e",
+        "content": "brass",
+        "refs": ["ot:gen:4_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note15f",
+        "content": "gold",
+        "refs": [
+            "ot:ex:31_p4-p5#p4",
+            "ot:1-kgs:6_p21-p22#p21",
+            "dnc:124_p26-p27#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note16a",
+        "content": "build",
+        "refs": [
+            "ot:2-chr:3_p1-p17#p1",
+            "dnc:84_p5,31#p5",
+            "dnc:124_p25-p55#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note16b",
+        "content": "temple",
+        "refs": [
+            "ot:1-kgs:5_p5#p5",
+            "bofm:jacob:1_p17#p17",
+            "bofm:mosiah:1_p18#p18",
+            "bofm:mosiah:7_p17#p17",
+            "bofm:mosiah:11_p10#p10",
+            "bofm:alma:16_p13#p13",
+            "bofm:hel:3_p9,14#p14",
+            "bofm:3-ne:11_p1#p1",
+            "tg:temple"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note16c",
+        "content": "Solomon",
+        "refs": ["ot:1-kgs:6_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note16d",
+        "content": "precious",
+        "refs": ["ot:1-kgs:5_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note16e",
+        "content": "temple",
+        "refs": ["ot:1-kgs:9_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note16f",
+        "content": "Solomon",
+        "refs": ["ot:1-chr:18_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note17a",
+        "content": "industrious",
+        "refs": ["tg:industry", "tg:work-value-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note17b",
+        "content": "labor",
+        "refs": ["tg:labor"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note17c",
+        "content": "hands",
+        "refs": ["ot:prov:31_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note18a",
+        "content": "king",
+        "refs": [
+            "bofm:2-ne:6_p2#p2",
+            "bofm:jacob:1_p9,11,15#p9",
+            "bofm:jarom:1_p7,14#p7",
+            "bofm:mosiah:1_p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note19a",
+        "content": "ruler",
+        "refs": ["bofm:2-ne:1_p25-p27#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note19b",
+        "content": "teacher",
+        "refs": ["tg:teacher"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note20a",
+        "content": "not hearken",
+        "refs": ["bofm:1-ne:8_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note20b",
+        "content": "cut off",
+        "refs": ["bofm:1-ne:8_p35-p36#p35"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note20c",
+        "content": "cut off",
+        "refs": [
+            "bofm:1-ne:2_p21#p21",
+            "bofm:alma:9_p13-p15#p14",
+            "bofm:alma:38_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note21a",
+        "content": "cursing",
+        "refs": ["tg:curse"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note21b",
+        "content": "delightsome",
+        "refs": [
+            "ot:gen:24_p16#p16",
+            "bofm:1-ne:13_p15#p15",
+            "bofm:4-ne:1_p10#p10",
+            "bofm:morm:9_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note21c",
+        "content": "enticing",
+        "refs": ["tg:marriage-temporal"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note21d",
+        "content": "skin",
+        "refs": ["bofm:2-ne:30_p6#p6", "bofm:3-ne:2_p14-p16#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note21e",
+        "content": "blackness",
+        "refs": ["bofm:2-ne:26_p33#p33", "pgp:moses:7_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note22a",
+        "content": "loathsome",
+        "refs": ["bofm:1-ne:12_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note23a",
+        "content": "mixeth",
+        "refs": ["tg:marriage-interfaith"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note24a",
+        "content": "cursing",
+        "refs": ["tg:curse"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note24b",
+        "content": "idle",
+        "refs": ["bofm:alma:22_p28#p28", "tg:idleness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note25a",
+        "content": "stir",
+        "refs": ["bofm:1-ne:2_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note26a",
+        "content": "consecrate",
+        "refs": [
+            "ot:lev:16_p32#p32",
+            "bofm:jacob:1_p18-p19#p18",
+            "bofm:mosiah:23_p17#p17",
+            "tg:priesthood-authority"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note26b",
+        "content": "priests",
+        "refs": ["tg:priest-melchizedek-priesthood"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note26c",
+        "content": "teachers",
+        "refs": ["tg:teacher"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note27a",
+        "content": "happiness",
+        "refs": ["bofm:alma:50_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note29a",
+        "content": "records",
+        "refs": ["tg:record-keeping"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note30a",
+        "content": "Make",
+        "refs": ["bofm:1-ne:19_p1-p6#p5", "bofm:jacob:3_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note31a",
+        "content": "these plates",
+        "refs": ["bofm:1-ne:19_p3#p3", "bofm:jacob:1_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note33a",
+        "content": "other",
+        "refs": [
+            "bofm:1-ne:1_p16-p17#p17",
+            "bofm:2-ne:4_p14#p14",
+            "dnc:10_p42#p42"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/5",
+        "noteId": "note33b",
+        "content": "plates",
+        "refs": ["bofm:1-ne:19_p4#p4", "bofm:jacob:1_p3#p3"]
+    }
+]

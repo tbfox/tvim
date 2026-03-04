@@ -1,0 +1,286 @@
+[
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note3a",
+        "content": "northward",
+        "refs": ["bofm:alma:63_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note4a",
+        "content": "large",
+        "refs": [
+            "bofm:mosiah:8_p8#p8",
+            "bofm:alma:50_p29#p29",
+            "bofm:morm:6_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note6a",
+        "content": "destruction",
+        "refs": ["bofm:mosiah:8_p8#p8", "bofm:mosiah:21_p26-p27#p26"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note6b",
+        "content": "desolate",
+        "refs": ["bofm:alma:22_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note7a",
+        "content": "expert",
+        "refs": ["tg:skill"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note8a",
+        "content": "sea",
+        "refs": ["bofm:alma:22_p27,32-p33#p27", "bofm:hel:11_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note9a",
+        "content": "tents",
+        "refs": ["ot:gen:25_p27#p27", "bofm:ether:2_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note9b",
+        "content": "synagogues",
+        "refs": ["bofm:alma:16_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note10a",
+        "content": "shipping",
+        "refs": ["bofm:alma:63_p5-p8#p7"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note12a",
+        "content": "people",
+        "refs": [
+            "bofm:alma:27_p26#p26",
+            "bofm:alma:63_p4-p9#p9",
+            "bofm:hel:6_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note13a",
+        "content": "records",
+        "refs": ["bofm:w-of-m:1_p1-p11#p3"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note14a",
+        "content": "hundredth",
+        "refs": ["bofm:3-ne:5_p8#p8", "bofm:3-ne:26_p6-p11#p6"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note14b",
+        "content": "temples",
+        "refs": [
+            "bofm:2-ne:5_p16#p16",
+            "bofm:jacob:1_p17#p17",
+            "bofm:3-ne:11_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note14c",
+        "content": "sanctuaries",
+        "refs": ["bofm:alma:23_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note15a",
+        "content": "records",
+        "refs": ["bofm:3-ne:5_p9#p9", "bofm:4-ne:1_p48#p48"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note16a",
+        "content": "handed",
+        "refs": ["bofm:1-ne:5_p16-p19#p18", "bofm:alma:37_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note16b",
+        "content": "scattered",
+        "refs": ["ot:ezek:36_p16-p20#p19"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note16c",
+        "content": "no more",
+        "refs": ["bofm:alma:45_p12-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note20a",
+        "content": "Helaman",
+        "refs": ["bofm:hel:2_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note21a",
+        "content": "Nephi",
+        "refs": [
+            "bofm:hel:3_p37#p37",
+            "bofm:hel:4_p14#p14",
+            "bofm:hel:5_p4-p5#p4",
+            "bofm:3-ne:1_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note23a",
+        "content": "secret combinations",
+        "refs": [
+            "bofm:2-ne:10_p15#p15",
+            "bofm:hel:2_p8-p10#p10",
+            "bofm:hel:7_p4-p5,21,25#p25"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note23b",
+        "content": "Gadianton",
+        "refs": ["bofm:hel:2_p4#p4", "bofm:hel:6_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note24a",
+        "content": "join",
+        "refs": ["bofm:mosiah:25_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note28a",
+        "content": "gate",
+        "refs": ["ot:isa:26_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note28b",
+        "content": "all",
+        "refs": ["nt:acts:10_p9-p35,44#p28", "nt:rom:2_p10-p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note29a",
+        "content": "word",
+        "refs": [
+            "ot:micah:2_p7#p7",
+            "bofm:jacob:2_p8#p8",
+            "dnc:11_p2#p2",
+            "dnc:33_p1#p1",
+            "tg:gospel"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note29b",
+        "content": "quick",
+        "refs": ["nt:heb:4_p12#p12", "dnc:27_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note29c",
+        "content": "divide",
+        "refs": ["dnc:6_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note29d",
+        "content": "narrow",
+        "refs": ["bofm:2-ne:9_p41#p41", "bofm:2-ne:33_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note29e",
+        "content": "gulf",
+        "refs": ["bofm:1-ne:12_p18#p18", "bofm:1-ne:15_p28-p30#p28"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note30a",
+        "content": "right hand",
+        "refs": ["nt:matt:25_p31-p46#p34"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note33a",
+        "content": "professed",
+        "refs": ["dnc:112_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note34a",
+        "content": "pride",
+        "refs": ["tg:pride"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note35a",
+        "content": "fast",
+        "refs": ["tg:fast-fasting"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note35b",
+        "content": "pray",
+        "refs": ["tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note35c",
+        "content": "humility",
+        "refs": ["tg:humility"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note35d",
+        "content": "purifying",
+        "refs": ["tg:cleanliness", "tg:purification", "tg:purity"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note35e",
+        "content": "sanctification",
+        "refs": ["tg:sanctification"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note35f",
+        "content": "yielding",
+        "refs": [
+            "ot:2-chr:30_p8#p8",
+            "nt:rom:6_p12-p14#p13",
+            "tg:submissiveness",
+            "tg:teachable"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note36a",
+        "content": "riches",
+        "refs": ["tg:treasure"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note37a",
+        "content": "Helaman",
+        "refs": ["bofm:alma:63_p11#p11", "bofm:hel:16_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/hel/3",
+        "noteId": "note37b",
+        "content": "Nephi",
+        "refs": ["bofm:hel:3_p21#p21", "bofm:hel:5_p1#p1"]
+    }
+]

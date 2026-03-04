@@ -1,0 +1,172 @@
+[
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note1a",
+        "content": "remnant",
+        "refs": ["bofm:hel:15_p11-p13#p11", "bofm:morm:5_p9,12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note2a",
+        "content": "house of Israel",
+        "refs": [
+            "bofm:1-ne:5_p14#p14",
+            "bofm:alma:10_p3#p3",
+            "bofm:hel:6_p10#p10",
+            "bofm:hel:8_p21#p21"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note4a",
+        "content": "command",
+        "refs": ["bofm:alma:43_p47#p47"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note5a",
+        "content": "knowledge",
+        "refs": ["bofm:2-ne:3_p12#p12", "bofm:3-ne:5_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note5b",
+        "content": "believe",
+        "refs": ["tg:faith"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note5c",
+        "content": "victory",
+        "refs": [
+            "ot:isa:25_p8#p8",
+            "bofm:mosiah:16_p7-p8#p8",
+            "bofm:alma:24_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note6a",
+        "content": "resurrection",
+        "refs": ["tg:resurrection"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note6b",
+        "content": "judgment-seat",
+        "refs": ["tg:jesus-christ-judge"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note7a",
+        "content": "redemption",
+        "refs": ["tg:redemption"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note7b",
+        "content": "world",
+        "refs": ["tg:world"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note7c",
+        "content": "guiltless",
+        "refs": ["bofm:mosiah:13_p15#p15", "dnc:58_p30#p30", "tg:justification"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note7d",
+        "content": "dwell",
+        "refs": [
+            "ot:ps:27_p4#p4",
+            "bofm:1-ne:10_p21#p21",
+            "dnc:76_p50-p62#p62",
+            "pgp:moses:6_p57#p57"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note7e",
+        "content": "choirs",
+        "refs": ["bofm:mosiah:2_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note7f",
+        "content": "one God",
+        "refs": ["ot:deut:6_p4#p4", "nt:gal:3_p20#p20", "dnc:20_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note7g",
+        "content": "happiness",
+        "refs": ["tg:happiness"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note8a",
+        "content": "gospel",
+        "refs": ["tg:gospel"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note8b",
+        "content": "from",
+        "refs": ["bofm:2-ne:29_p4-p13#p4"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note8c",
+        "content": "unto",
+        "refs": ["bofm:1-ne:13_p20-p29,38#p38", "bofm:morm:5_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note9a",
+        "content": "this",
+        "refs": [
+            "bofm:1-ne:19_p19#p19",
+            "bofm:enos:1_p12-p18#p16",
+            "bofm:3-ne:5_p12-p17#p15",
+            "bofm:morm:5_p12#p12",
+            "tg:israel-restoration-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note9b",
+        "content": "written",
+        "refs": ["tg:book-of-mormon"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note9c",
+        "content": "believe",
+        "refs": ["bofm:1-ne:13_p38-p42#p40"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note9d",
+        "content": "ye",
+        "refs": ["bofm:2-ne:3_p12-p15#p15", "bofm:alma:37_p1-p20#p19"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note10a",
+        "content": "remnant",
+        "refs": ["tg:israel-remnant-of"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note10b",
+        "content": "with water",
+        "refs": ["bofm:3-ne:19_p13-p14#p13", "bofm:ether:12_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/morm/7",
+        "noteId": "note10c",
+        "content": "example",
+        "refs": ["tg:god-the-standard-of-righteousness"]
+    }
+]

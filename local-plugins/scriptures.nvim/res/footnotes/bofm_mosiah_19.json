@@ -1,0 +1,140 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note1a",
+        "content": "army",
+        "refs": ["bofm:mosiah:18_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note3a",
+        "content": "breathe",
+        "refs": ["nt:acts:9_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note5a",
+        "content": "tower",
+        "refs": ["ot:judg:9_p50-p55#p51", "bofm:mosiah:11_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note6a",
+        "content": "Shemlon",
+        "refs": [
+            "bofm:mosiah:10_p7#p7",
+            "bofm:mosiah:11_p12#p12",
+            "bofm:mosiah:20_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note7a",
+        "content": "spare",
+        "refs": ["ot:deut:13_p6-p9#p8"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note8a",
+        "content": "own life",
+        "refs": ["tg:selfishness"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note11a",
+        "content": "leave",
+        "refs": ["bofm:mosiah:19_p19-p23#p19"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note15a",
+        "content": "one",
+        "refs": ["bofm:mosiah:7_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note16a",
+        "content": "Limhi",
+        "refs": ["bofm:mosiah:7_p9#p9", "bofm:mosiah:11_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note19a",
+        "content": "wives",
+        "refs": ["bofm:mosiah:19_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note20a",
+        "content": "death",
+        "refs": [
+            "bofm:mosiah:12_p3#p3",
+            "bofm:mosiah:13_p10#p10",
+            "bofm:mosiah:17_p13-p19#p18",
+            "bofm:alma:25_p7-p12#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note21a",
+        "content": "put",
+        "refs": ["bofm:mosiah:20_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note23a",
+        "content": "Gideon",
+        "refs": ["bofm:mosiah:20_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note23b",
+        "content": "priests",
+        "refs": [
+            "bofm:mosiah:17_p1,6,12-p18#p12",
+            "bofm:mosiah:20_p3,18,23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note25a",
+        "content": "oath",
+        "refs": ["bofm:mosiah:21_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note26a",
+        "content": "by",
+        "refs": ["bofm:mosiah:7_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note26b",
+        "content": "oath",
+        "refs": ["bofm:mosiah:20_p14,22#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note26c",
+        "content": "tribute",
+        "refs": ["bofm:mosiah:22_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note27a",
+        "content": "peace",
+        "refs": ["tg:peacemakers"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note28a",
+        "content": "guards",
+        "refs": ["bofm:mosiah:21_p5#p5", "bofm:mosiah:22_p6-p10#p6"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/19",
+        "noteId": "note28b",
+        "content": "keep",
+        "refs": ["bofm:mosiah:7_p22#p22", "bofm:mosiah:9_p10#p10"]
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note1a",
+        "content": "secret combinations",
+        "refs": ["bofm:ether:8_p13-p17#p15"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note3a",
+        "content": "warned",
+        "refs": ["tg:dream", "tg:warn"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note3b",
+        "content": "departed",
+        "refs": ["bofm:ether:9_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note3c",
+        "content": "Shim",
+        "refs": ["bofm:morm:1_p3#p3", "bofm:morm:4_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note3d",
+        "content": "where",
+        "refs": ["bofm:morm:6_p1-p15#p2"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note5a",
+        "content": "sought",
+        "refs": ["ot:esth:2_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note5b",
+        "content": "oath",
+        "refs": ["tg:oath"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note7a",
+        "content": "jealous",
+        "refs": ["tg:jealous"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note11a",
+        "content": "power",
+        "refs": ["tg:tyranny"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note11b",
+        "content": "money",
+        "refs": ["ot:1-sam:8_p1-p4#p3", "bofm:hel:9_p20#p20", "tg:bribe"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note13a",
+        "content": "land",
+        "refs": ["bofm:ether:9_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note17a",
+        "content": "all",
+        "refs": ["bofm:ether:1_p41#p41"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note17b",
+        "content": "silks",
+        "refs": ["bofm:ether:10_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note17c",
+        "content": "gold",
+        "refs": ["bofm:hel:6_p9-p11#p9", "bofm:ether:10_p12,23#p12"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note18a",
+        "content": "all",
+        "refs": ["bofm:ether:6_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note19a",
+        "content": "horses",
+        "refs": [
+            "bofm:1-ne:18_p25#p25",
+            "bofm:enos:1_p21#p21",
+            "bofm:3-ne:6_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note20a",
+        "content": "choice",
+        "refs": ["bofm:ether:2_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note20b",
+        "content": "destroyed",
+        "refs": ["ot:deut:31_p4-p5#p4", "bofm:ether:2_p8-p11#p8"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note22a",
+        "content": "Son of Righteousness",
+        "refs": ["bofm:3-ne:25_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note23a",
+        "content": "old",
+        "refs": ["bofm:ether:7_p3,7#p3"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note26a",
+        "content": "Heth",
+        "refs": ["bofm:ether:10_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note28a",
+        "content": "again",
+        "refs": ["bofm:ether:7_p23#p23", "bofm:ether:11_p1,12,20#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note29a",
+        "content": "pits",
+        "refs": ["ot:jer:38_p4-p13#p6"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note30a",
+        "content": "dearth",
+        "refs": ["tg:drought", "tg:famine"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note31a",
+        "content": "poisonous",
+        "refs": ["bofm:ether:10_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note31b",
+        "content": "southward",
+        "refs": ["bofm:morm:3_p5#p5", "bofm:ether:10_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note31c",
+        "content": "Zarahemla",
+        "refs": ["bofm:omni:1_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note33a",
+        "content": "serpents",
+        "refs": ["ot:deut:8_p15#p15", "bofm:1-ne:17_p41#p41", "tg:plague"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note34a",
+        "content": "carcasses",
+        "refs": ["ot:jer:7_p32-p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note34b",
+        "content": "perish",
+        "refs": ["bofm:alma:34_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note34c",
+        "content": "repent",
+        "refs": ["dnc:101_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/ether/9",
+        "noteId": "note35a",
+        "content": "humbled",
+        "refs": ["dnc:5_p24#p24"]
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note1a",
+        "content": "traitor",
+        "refs": ["bofm:alma:60_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note4a",
+        "content": "standard",
+        "refs": ["bofm:alma:46_p12-p13,36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note4b",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note5a",
+        "content": "flock",
+        "refs": ["bofm:alma:61_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note6a",
+        "content": "king",
+        "refs": ["bofm:alma:61_p4-p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note6b",
+        "content": "freemen",
+        "refs": ["bofm:alma:51_p6-p7#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note9a",
+        "content": "cast",
+        "refs": ["bofm:alma:51_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note9b",
+        "content": "executed",
+        "refs": ["tg:capital-punishment"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note9c",
+        "content": "king-men",
+        "refs": ["bofm:alma:51_p5,17,21#p5", "bofm:alma:60_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note10a",
+        "content": "executed",
+        "refs": ["ot:1-kgs:2_p46#p46"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note11a",
+        "content": "inflicted",
+        "refs": ["bofm:alma:44_p7#p7", "bofm:alma:57_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note14a",
+        "content": "overthrow",
+        "refs": ["bofm:alma:59_p5-p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note16a",
+        "content": "covenant",
+        "refs": ["bofm:alma:44_p15,20#p15", "bofm:3-ne:5_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note17a",
+        "content": "dwell",
+        "refs": ["bofm:alma:47_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note18a",
+        "content": "Nephihah",
+        "refs": ["bofm:alma:50_p14#p14", "bofm:alma:51_p24-p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note21a",
+        "content": "wall",
+        "refs": ["bofm:alma:49_p13,18-p24#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note22a",
+        "content": "themselves",
+        "refs": ["bofm:alma:55_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note26a",
+        "content": "possession",
+        "refs": ["bofm:alma:59_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note27a",
+        "content": "join",
+        "refs": ["bofm:alma:24_p25-p27#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note30a",
+        "content": "Lehi",
+        "refs": ["bofm:alma:50_p15#p15", "bofm:alma:51_p24-p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note32a",
+        "content": "Moroni",
+        "refs": [
+            "bofm:alma:50_p13#p13",
+            "bofm:alma:51_p22-p23#p22",
+            "bofm:3-ne:8_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note35a",
+        "content": "cause",
+        "refs": ["bofm:alma:48_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note36a",
+        "content": "cast",
+        "refs": ["bofm:alma:51_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note37a",
+        "content": "fought",
+        "refs": [
+            "bofm:alma:50_p35#p35",
+            "bofm:alma:51_p29-p34#p29",
+            "bofm:alma:52",
+            "bofm:alma:61",
+            "bofm:alma:62_p3-p37#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note40a",
+        "content": "righteous’",
+        "refs": ["bofm:alma:45_p15-p16#p15", "bofm:alma:46_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note41a",
+        "content": "afflictions",
+        "refs": ["tg:adversity", "tg:affliction"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note43a",
+        "content": "command",
+        "refs": ["bofm:hel:4_p10,16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note43b",
+        "content": "Moronihah",
+        "refs": ["bofm:alma:63_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note44a",
+        "content": "regulation",
+        "refs": ["bofm:alma:45_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note45a",
+        "content": "convincing",
+        "refs": ["bofm:alma:21_p17#p17", "dnc:18_p44#p44"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note47a",
+        "content": "judges",
+        "refs": ["bofm:mosiah:29_p39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note48a",
+        "content": "prosper",
+        "refs": ["bofm:alma:50_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note49a",
+        "content": "slow",
+        "refs": ["bofm:alma:55_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note50a",
+        "content": "delivered",
+        "refs": ["nt:2-cor:11_p24-p33#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note50b",
+        "content": "afflictions",
+        "refs": ["tg:adversity"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note50c",
+        "content": "delivered",
+        "refs": ["tg:deliver"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note51a",
+        "content": "prosper",
+        "refs": ["ot:gen:26_p22#p22", "tg:prosper"]
+    },
+    {
+        "origin_chapter": "bofm/alma/62",
+        "noteId": "note52a",
+        "content": "Helaman",
+        "refs": ["bofm:alma:31"]
+    }
+]

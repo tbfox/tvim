@@ -1,0 +1,182 @@
+[
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note1a",
+        "content": "many",
+        "refs": ["bofm:alma:25_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note2a",
+        "content": "stir up",
+        "refs": ["nt:acts:13_p50#p50"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note2b",
+        "content": "brethren",
+        "refs": ["bofm:alma:43_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note2c",
+        "content": "Anti-Nephi-Lehi",
+        "refs": ["bofm:alma:25_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note3a",
+        "content": "again",
+        "refs": ["bofm:alma:24_p21-p26#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note4a",
+        "content": "said",
+        "refs": ["bofm:alma:24_p3-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note9a",
+        "content": "slaves",
+        "refs": ["bofm:mosiah:29_p32,38,40#p32"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note12a",
+        "content": "out",
+        "refs": ["tg:separation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note12b",
+        "content": "preserve",
+        "refs": ["tg:protection-divine"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note15a",
+        "content": "try",
+        "refs": ["ot:judg:7_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note16a",
+        "content": "place",
+        "refs": ["bofm:alma:17_p1-p4#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note17a",
+        "content": "joy",
+        "refs": ["tg:joy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note17b",
+        "content": "exhausting",
+        "refs": ["ot:dan:10_p8-p12#p8", "bofm:1-ne:1_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note17c",
+        "content": "again",
+        "refs": ["bofm:alma:19_p14,17#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note18a",
+        "content": "exceeding",
+        "refs": ["bofm:alma:28_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note18b",
+        "content": "happiness",
+        "refs": ["tg:happiness", "tg:objectives"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note19a",
+        "content": "brethren",
+        "refs": ["tg:friendship"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note20a",
+        "content": "own",
+        "refs": ["bofm:alma:15_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note20b",
+        "content": "chief judge",
+        "refs": ["bofm:alma:4_p16-p18#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note21a",
+        "content": "Anti-Nephi-Lehi",
+        "refs": ["bofm:alma:25_p1,13#p13", "bofm:alma:43_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note22a",
+        "content": "land",
+        "refs": ["bofm:alma:43_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note22b",
+        "content": "Jershon",
+        "refs": ["bofm:alma:28_p1,8#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note23a",
+        "content": "protect",
+        "refs": ["bofm:alma:43_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note24a",
+        "content": "portion",
+        "refs": ["bofm:alma:43_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note25a",
+        "content": "conversion",
+        "refs": ["bofm:mosiah:27_p10-p25#p24"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note26a",
+        "content": "people",
+        "refs": ["bofm:alma:30_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note27a",
+        "content": "zeal",
+        "refs": ["tg:zeal"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note27b",
+        "content": "honest",
+        "refs": ["ot:prov:19_p1#p1", "dnc:124_p15,20#p20", "tg:honesty"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note27c",
+        "content": "firm",
+        "refs": ["bofm:alma:23_p6#p6", "bofm:hel:15_p6-p10#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/27",
+        "noteId": "note29a",
+        "content": "death",
+        "refs": ["bofm:alma:24_p20-p23#p23"]
+    }
+]

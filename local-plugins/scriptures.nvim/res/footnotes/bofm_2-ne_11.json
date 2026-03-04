@@ -1,0 +1,142 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note1a",
+        "content": "Jacob",
+        "refs": ["bofm:2-ne:6_p1-p10#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note1b",
+        "content": "written",
+        "refs": ["bofm:2-ne:31_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note2a",
+        "content": "more",
+        "refs": ["bofm:2-ne:6_p16-p18#p16"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note2b",
+        "content": "Isaiah",
+        "refs": ["bofm:3-ne:23_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note2c",
+        "content": "saw",
+        "refs": ["bofm:2-ne:16_p1#p1", "tg:jesus-christ-appearances-antemortal"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note2d",
+        "content": "Redeemer",
+        "refs": ["tg:jesus-christ-jehovah"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note3a",
+        "content": "seen",
+        "refs": [
+            "bofm:2-ne:2_p3-p4#p3",
+            "bofm:2-ne:10_p3#p3",
+            "bofm:jacob:7_p5#p5",
+            "tg:god-privilege-of-seeing"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note3b",
+        "content": "three",
+        "refs": [
+            "bofm:2-ne:27_p12-p14#p12",
+            "bofm:ether:5_p2-p4#p3",
+            "dnc:5_p11,15#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note3c",
+        "content": "witnesses",
+        "refs": ["tg:book-of-mormon", "tg:witness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note4a",
+        "content": "proving",
+        "refs": ["bofm:2-ne:31_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note4b",
+        "content": "coming",
+        "refs": [
+            "bofm:jacob:4_p5#p5",
+            "bofm:jarom:1_p11#p11",
+            "bofm:alma:25_p15-p16#p16",
+            "bofm:ether:12_p18-p19#p19"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note4c",
+        "content": "law",
+        "refs": ["bofm:2-ne:5_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note4d",
+        "content": "typifying",
+        "refs": ["tg:jesus-christ-types-of-in-anticipation", "tg:law-of-moses"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note5a",
+        "content": "covenants",
+        "refs": ["tg:abrahamic-covenant"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note5b",
+        "content": "grace",
+        "refs": ["tg:benevolence", "tg:grace"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note5c",
+        "content": "deliverance",
+        "refs": ["tg:deliver", "tg:jesus-christ-atonement-through"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note6a",
+        "content": "save",
+        "refs": ["bofm:mosiah:3_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note7a",
+        "content": "no",
+        "refs": ["bofm:2-ne:2_p13-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note7b",
+        "content": "creation",
+        "refs": ["nt:heb:3_p3-p4#p4", "tg:creation", "tg:god-creator"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note7c",
+        "content": "he",
+        "refs": ["tg:jesus-christ-jehovah"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/11",
+        "noteId": "note8a",
+        "content": "some",
+        "refs": []
+    }
+]

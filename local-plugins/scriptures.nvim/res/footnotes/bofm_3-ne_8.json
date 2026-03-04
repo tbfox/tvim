@@ -1,0 +1,211 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note1a",
+        "content": "true",
+        "refs": ["nt:john:21_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note1b",
+        "content": "just",
+        "refs": ["bofm:3-ne:23_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note1c",
+        "content": "many",
+        "refs": ["bofm:3-ne:7_p19-p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note1d",
+        "content": "miracles",
+        "refs": ["nt:john:6_p14#p14", "bofm:morm:9_p18-p19#p18"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note1e",
+        "content": "name",
+        "refs": ["nt:acts:3_p6-p16#p6", "bofm:jacob:4_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note2a",
+        "content": "thirty and third",
+        "refs": ["bofm:3-ne:2_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note3a",
+        "content": "darkness",
+        "refs": [
+            "bofm:1-ne:19_p10#p10",
+            "bofm:hel:14_p20,27#p27",
+            "bofm:3-ne:10_p9#p9",
+            "tg:darkness-physical"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note4a",
+        "content": "doubtings",
+        "refs": ["tg:doubt"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note4b",
+        "content": "disputations",
+        "refs": ["tg:disputations"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note5a",
+        "content": "thirty and fourth",
+        "refs": ["bofm:hel:14_p20-p27#p20", "bofm:3-ne:11_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note5b",
+        "content": "storm",
+        "refs": ["tg:jesus-christ-crucifixion-of", "tg:jesus-christ-death-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note6a",
+        "content": "thunder",
+        "refs": ["bofm:1-ne:19_p11#p11", "bofm:hel:14_p20-p27#p21"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note6b",
+        "content": "shake",
+        "refs": ["nt:matt:27_p45,50-p51#p51"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note8a",
+        "content": "city of Zarahemla",
+        "refs": ["bofm:4-ne:1_p7-p8#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note9a",
+        "content": "Moroni",
+        "refs": ["bofm:alma:50_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note9b",
+        "content": "sink",
+        "refs": ["bofm:3-ne:9_p4-p5#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note10a",
+        "content": "Moronihah",
+        "refs": ["bofm:3-ne:8_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note10b",
+        "content": "mountain",
+        "refs": ["bofm:hel:12_p17#p17", "bofm:3-ne:9_p6-p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note12a",
+        "content": "whole",
+        "refs": ["bofm:3-ne:11_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note13a",
+        "content": "highways",
+        "refs": ["bofm:hel:14_p24#p24", "bofm:3-ne:6_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note14a",
+        "content": "great",
+        "refs": ["bofm:3-ne:9_p12#p12", "bofm:3-ne:10_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note14b",
+        "content": "sunk",
+        "refs": ["bofm:1-ne:12_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note14c",
+        "content": "burned",
+        "refs": ["bofm:2-ne:26_p4#p4", "bofm:3-ne:9_p3-p9#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note16a",
+        "content": "whirlwind",
+        "refs": ["ot:dan:11_p40#p40", "bofm:3-ne:10_p13-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note18a",
+        "content": "found",
+        "refs": ["bofm:hel:14_p21-p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note19a",
+        "content": "three",
+        "refs": ["nt:luke:23_p44-p45#p44"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note19b",
+        "content": "hours",
+        "refs": ["bofm:alma:18_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note19c",
+        "content": "darkness",
+        "refs": ["bofm:1-ne:19_p10#p10", "bofm:3-ne:10_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note20a",
+        "content": "feel",
+        "refs": ["ot:ex:10_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note20b",
+        "content": "vapor",
+        "refs": ["bofm:1-ne:12_p5#p5", "bofm:1-ne:19_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note23a",
+        "content": "howling",
+        "refs": ["bofm:3-ne:10_p2,8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note24a",
+        "content": "before",
+        "refs": ["tg:procrastination"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note24b",
+        "content": "burned",
+        "refs": ["bofm:hel:13_p12#p12", "bofm:3-ne:9_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/8",
+        "noteId": "note25a",
+        "content": "Moronihah",
+        "refs": ["bofm:3-ne:8_p10#p10", "bofm:3-ne:9_p5#p5"]
+    }
+]

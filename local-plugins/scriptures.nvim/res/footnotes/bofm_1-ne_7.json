@@ -1,0 +1,228 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note1a",
+        "content": "prophesying",
+        "refs": ["bofm:1-ne:1_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note1b",
+        "content": "daughters",
+        "refs": ["bofm:1-ne:16_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note1c",
+        "content": "wife",
+        "refs": ["tg:marriage-marry"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note1d",
+        "content": "seed",
+        "refs": ["ot:ps:127_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note2a",
+        "content": "commanded",
+        "refs": ["bofm:1-ne:16_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note3a",
+        "content": "again",
+        "refs": ["bofm:1-ne:3_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note5a",
+        "content": "Lord",
+        "refs": ["tg:guidance-divine"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note6a",
+        "content": "daughters",
+        "refs": ["bofm:1-ne:16_p7,27#p7"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note6b",
+        "content": "sons",
+        "refs": ["bofm:2-ne:4_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note6c",
+        "content": "rebel",
+        "refs": ["bofm:1-ne:17_p17-p55#p18"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note8a",
+        "content": "grieved",
+        "refs": [
+            "bofm:mosiah:28_p3#p3",
+            "bofm:alma:31_p2#p2",
+            "bofm:3-ne:17_p14#p14",
+            "pgp:moses:7_p41#p41"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note8b",
+        "content": "younger",
+        "refs": ["ot:1-chr:29_p1#p1", "dnc:1_p19,23#p19"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note8c",
+        "content": "example",
+        "refs": ["tg:example"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note10a",
+        "content": "forgotten",
+        "refs": ["ot:deut:4_p9-p13#p9", "bofm:1-ne:4_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note11a",
+        "content": "delivering",
+        "refs": ["bofm:1-ne:4_p1-p38#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note12a",
+        "content": "things",
+        "refs": [
+            "ot:ps:18_p32-p40#p32",
+            "bofm:1-ne:17_p50#p50",
+            "bofm:alma:26_p12#p12"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note12b",
+        "content": "faith",
+        "refs": ["bofm:1-ne:2_p18-p21#p19", "bofm:1-ne:15_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note13a",
+        "content": "land of promise",
+        "refs": ["bofm:1-ne:2_p20#p20", "tg:promised-lands"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note13b",
+        "content": "destruction",
+        "refs": ["ot:2-kgs:25_p1-p21#p4"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note13c",
+        "content": "Jerusalem",
+        "refs": [
+            "bofm:2-ne:6_p8#p8",
+            "bofm:2-ne:25_p10#p10",
+            "bofm:omni:1_p15#p15",
+            "bofm:hel:8_p20-p21#p21"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note14a",
+        "content": "Spirit",
+        "refs": ["tg:god-spirit-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note14b",
+        "content": "ceaseth",
+        "refs": [
+            "ot:ezek:5_p6#p6",
+            "bofm:1-ne:1_p18-p20#p19",
+            "bofm:1-ne:2_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note14c",
+        "content": "rejected",
+        "refs": ["tg:prophets-rejection-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note14d",
+        "content": "Jeremiah",
+        "refs": ["ot:jer:37_p15-p21#p15"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note14e",
+        "content": "life",
+        "refs": ["bofm:1-ne:2_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note16a",
+        "content": "bind",
+        "refs": ["bofm:1-ne:18_p11-p15#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note17a",
+        "content": "strength",
+        "refs": ["ot:judg:14_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note17b",
+        "content": "burst",
+        "refs": [
+            "bofm:jacob:4_p6#p6",
+            "bofm:alma:14_p26-p28#p28",
+            "bofm:3-ne:28_p19-p22#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note19a",
+        "content": "daughters",
+        "refs": ["bofm:1-ne:16_p7#p7", "bofm:1-ne:18_p19-p20#p19"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note20a",
+        "content": "forgive",
+        "refs": ["tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note21a",
+        "content": "forgive",
+        "refs": ["tg:family-love-within"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note21b",
+        "content": "forgiveness",
+        "refs": ["tg:forgive"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note22a",
+        "content": "thanks",
+        "refs": ["tg:thanksgiving"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/7",
+        "noteId": "note22b",
+        "content": "sacrifice",
+        "refs": ["bofm:1-ne:5_p9#p9"]
+    }
+]

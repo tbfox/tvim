@@ -1,0 +1,220 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note1a",
+        "content": "Verily",
+        "refs": ["nt:matt:6_p1-p34#p1", "tg:almsgiving"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note2a",
+        "content": "glory",
+        "refs": ["dnc:121_p34-p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note5a",
+        "content": "prayest",
+        "refs": ["tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note5b",
+        "content": "hypocrites",
+        "refs": ["tg:hypocrisy"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note6a",
+        "content": "shut",
+        "refs": ["ot:2-kgs:4_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note6b",
+        "content": "seeth",
+        "refs": ["tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note7a",
+        "content": "vain repetitions",
+        "refs": ["tg:sincere"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note7b",
+        "content": "heathen",
+        "refs": ["tg:heathen"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note8a",
+        "content": "knoweth",
+        "refs": ["dnc:84_p83#p83"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note8b",
+        "content": "ask",
+        "refs": ["ot:ezek:36_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note9a",
+        "content": "manner",
+        "refs": ["nt:matt:6_p9-p13#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note9b",
+        "content": "pray",
+        "refs": ["tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note9c",
+        "content": "Father",
+        "refs": ["tg:god-the-father-elohim"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note12a",
+        "content": "lead",
+        "refs": ["nt:matt:6_note13a#note13a"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note14a",
+        "content": "forgive",
+        "refs": ["bofm:mosiah:26_p31#p31", "tg:forgive"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note16a",
+        "content": "fast",
+        "refs": ["ot:isa:58_p5-p7#p5", "ot:zech:7_p5-p6#p5", "tg:fast-fasting"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note16b",
+        "content": "hypocrites",
+        "refs": ["tg:hypocrisy"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note17a",
+        "content": "wash",
+        "refs": ["tg:wash"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note18a",
+        "content": "secret",
+        "refs": ["ot:isa:45_p15#p15", "dnc:38_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note19a",
+        "content": "moth",
+        "refs": ["bofm:3-ne:27_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note20a",
+        "content": "treasures",
+        "refs": ["bofm:hel:5_p8#p8", "bofm:hel:8_p25#p25", "tg:treasure"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note22a",
+        "content": "light",
+        "refs": ["ot:ezra:9_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note22b",
+        "content": "eye",
+        "refs": ["nt:matt:6_p20-p25#p22"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note22c",
+        "content": "single",
+        "refs": ["dnc:88_p67#p67", "tg:dedication"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note24a",
+        "content": "serve",
+        "refs": [
+            "ot:1-sam:7_p3#p3",
+            "bofm:alma:5_p39-p42#p41",
+            "pgp:moses:1_p15#p15"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note24b",
+        "content": "two",
+        "refs": ["ot:hosea:10_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note25a",
+        "content": "twelve",
+        "refs": [
+            "nt:matt:6_p25#p25",
+            "bofm:3-ne:12_p1#p1",
+            "bofm:3-ne:15_p11#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note25b",
+        "content": "minister",
+        "refs": ["tg:church-organization", "tg:delegation-of-responsibility"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note25c",
+        "content": "take",
+        "refs": ["bofm:alma:31_p37#p37", "dnc:84_p79-p85#p81"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note25d",
+        "content": "raiment",
+        "refs": ["ot:job:27_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note26a",
+        "content": "fowls",
+        "refs": ["dnc:117_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note28a",
+        "content": "lilies",
+        "refs": ["tg:nature-earth"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note33a",
+        "content": "seek",
+        "refs": ["tg:commitment"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note33b",
+        "content": "kingdom",
+        "refs": ["nt:luke:12_p22-p34#p31", "tg:objectives"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/13",
+        "noteId": "note34a",
+        "content": "Sufficient",
+        "refs": ["nt:matt:6_p34#p34"]
+    }
+]

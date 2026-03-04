@@ -1,0 +1,279 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note1a",
+        "content": "Wo",
+        "refs": ["ot:isa:10_p1-p34#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note1b",
+        "content": "unrighteous",
+        "refs": ["tg:injustice"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note2a",
+        "content": "poor",
+        "refs": ["ot:amos:4_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note2b",
+        "content": "widows",
+        "refs": ["tg:widows"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note5a",
+        "content": "their",
+        "refs": ["ot:isa:10_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note6a",
+        "content": "against a hypocritical nation",
+        "refs": ["tg:hypocrisy"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note8a",
+        "content": "princes",
+        "refs": ["ot:2-kgs:18_p33-p35#p33", "ot:2-kgs:19_p10-p13#p10"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note9a",
+        "content": "Calno",
+        "refs": ["ot:amos:6_p1-p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note9b",
+        "content": "Carchemish",
+        "refs": ["ot:2-chr:35_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note9c",
+        "content": "Damascus",
+        "refs": ["ot:2-kgs:16_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note10a",
+        "content": "my hand",
+        "refs": ["bofm:2-ne:20_p10-p11#p10"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note11a",
+        "content": "idols",
+        "refs": ["ot:ezek:36_p16-p20#p18"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note12a",
+        "content": "Assyria",
+        "refs": [
+            "ot:2-kgs:16_p7-p18#p7",
+            "ot:zeph:2_p13#p13",
+            "bofm:2-ne:18_p4-p7#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note13a",
+        "content": "he",
+        "refs": ["bofm:2-ne:20_p13-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note13b",
+        "content": "my hand",
+        "refs": ["ot:isa:37_p24-p38#p24"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note15a",
+        "content": "ax",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note17a",
+        "content": "fire",
+        "refs": [
+            "ot:obad:1_p18#p18",
+            "bofm:2-ne:15_p24#p24",
+            "bofm:3-ne:20_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note19a",
+        "content": "rest",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note20a",
+        "content": "house of Jacob",
+        "refs": ["ot:amos:9_p8-p9#p8", "bofm:2-ne:6_p10-p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note20b",
+        "content": "stay upon",
+        "refs": ["ot:2-kgs:16_p7-p9#p8", "ot:2-chr:28_p20-p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note21a",
+        "content": "remnant",
+        "refs": ["ot:isa:11_p11#p11", "tg:israel-remnant-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note22a",
+        "content": "Israel",
+        "refs": ["ot:gen:22_p17#p17", "nt:rom:9_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note22b",
+        "content": "return",
+        "refs": ["tg:israel-gathering-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note22c",
+        "content": "consumption",
+        "refs": ["ot:isa:28_p22#p22", "tg:world-end-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note23a",
+        "content": "consumption",
+        "refs": ["ot:dan:9_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note24a",
+        "content": "be",
+        "refs": ["ot:isa:37_p6-p7#p6"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note24b",
+        "content": "manner",
+        "refs": [
+            "tg:israel-bondage-of-in-egypt",
+            "tg:israel-bondage-of-in-other-lands"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note25a",
+        "content": "indignation",
+        "refs": ["ot:isa:10_p25#p25", "ot:dan:11_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note26a",
+        "content": "stir up",
+        "refs": ["ot:2-kgs:19_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note26b",
+        "content": "Midian",
+        "refs": ["ot:gen:25_p1-p6#p2", "ot:judg:7_p25#p25", "ot:isa:9_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note26c",
+        "content": "Egypt",
+        "refs": ["ot:ex:14_p26-p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note27a",
+        "content": "burden",
+        "refs": ["ot:isa:14_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note27b",
+        "content": "anointing",
+        "refs": ["tg:jesus-christ-messiah"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note28a",
+        "content": "He",
+        "refs": ["bofm:2-ne:20_p5#p5", "bofm:2-ne:20_p28-p32#p28"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note29a",
+        "content": "passage",
+        "refs": ["ot:1-sam:13_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note29b",
+        "content": "Geba",
+        "refs": ["ot:neh:11_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note29c",
+        "content": "Gibeah",
+        "refs": ["ot:1-sam:11_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note30a",
+        "content": "Gallim",
+        "refs": ["ot:1-sam:25_p44#p44"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note30b",
+        "content": "Anathoth",
+        "refs": ["ot:josh:21_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note32a",
+        "content": "Nob",
+        "refs": [
+            "ot:1-sam:21_p1#p1",
+            "ot:1-sam:22_p19#p19",
+            "ot:neh:11_p32#p32"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note33a",
+        "content": "high",
+        "refs": [
+            "ot:obad:1_p3-p4#p3",
+            "bofm:hel:4_p12-p13#p12",
+            "dnc:101_p42#p42"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note33b",
+        "content": "hewn",
+        "refs": ["ot:ezek:17_p24#p24", "ot:amos:2_p9#p9", "dnc:112_p3-p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/20",
+        "noteId": "note33c",
+        "content": "haughty",
+        "refs": ["ot:ps:18_p27#p27", "bofm:3-ne:25_p1#p1", "dnc:29_p9#p9"]
+    }
+]

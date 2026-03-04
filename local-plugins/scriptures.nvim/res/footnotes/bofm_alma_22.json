@@ -1,0 +1,349 @@
+[
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note1a",
+        "content": "led",
+        "refs": [
+            "ot:gen:24_p27#p27",
+            "nt:acts:16_p6#p6",
+            "bofm:alma:21_p16-p17#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note1b",
+        "content": "over",
+        "refs": ["bofm:alma:20_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note1c",
+        "content": "save",
+        "refs": ["bofm:alma:20_p24#p24", "bofm:alma:21_p21-p22#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note2a",
+        "content": "delivered",
+        "refs": ["bofm:alma:20_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note2b",
+        "content": "prison",
+        "refs": ["bofm:alma:20_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note3a",
+        "content": "troubled",
+        "refs": ["nt:acts:2_p37-p38#p37"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note3b",
+        "content": "generosity",
+        "refs": ["bofm:alma:20_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note4a",
+        "content": "to",
+        "refs": ["bofm:alma:21_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note6a",
+        "content": "If",
+        "refs": ["bofm:alma:20_p17-p18#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note7a",
+        "content": "believe",
+        "refs": ["dnc:46_p13-p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note9a",
+        "content": "Great Spirit",
+        "refs": ["bofm:alma:18_p18-p28#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note10a",
+        "content": "created",
+        "refs": ["tg:creation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note11a",
+        "content": "believe",
+        "refs": ["tg:believe"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note12a",
+        "content": "reading",
+        "refs": [
+            "bofm:1-ne:5_p10-p18#p18",
+            "bofm:alma:18_p36#p36",
+            "bofm:alma:37_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note12b",
+        "content": "created",
+        "refs": ["tg:man-physical-creation-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note13a",
+        "content": "creation",
+        "refs": ["ot:gen:1_p26-p28#p26", "ot:gen:2_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note13b",
+        "content": "plan",
+        "refs": ["tg:salvation-plan-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note13c",
+        "content": "redemption",
+        "refs": ["tg:redemption"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note13d",
+        "content": "from",
+        "refs": ["bofm:2-ne:9_p18#p18", "bofm:alma:13_p3,5,7-p9#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note14a",
+        "content": "fallen",
+        "refs": ["tg:fall-of-man"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note14b",
+        "content": "merit",
+        "refs": ["nt:eph:2_p8-p9#p8", "bofm:alma:42_p10-p25#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note14c",
+        "content": "death",
+        "refs": ["tg:jesus-christ-death-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note14d",
+        "content": "atone",
+        "refs": [
+            "bofm:2-ne:2_p10#p10",
+            "bofm:alma:33_p22#p22",
+            "bofm:alma:34_p8-p16#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note14e",
+        "content": "grave",
+        "refs": ["ot:isa:25_p8#p8", "nt:1-cor:15_p34-p57#p55"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note15a",
+        "content": "What",
+        "refs": ["nt:acts:2_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note15b",
+        "content": "born of God",
+        "refs": ["bofm:alma:5_p14,49#p14", "bofm:alma:36_p23,26#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note15c",
+        "content": "rooted",
+        "refs": ["nt:rom:7_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note15d",
+        "content": "all",
+        "refs": ["nt:matt:13_p44-p46#p46", "nt:matt:19_p16-p22#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note16a",
+        "content": "bow",
+        "refs": ["tg:conversion"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note16b",
+        "content": "hope",
+        "refs": ["bofm:ether:12_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note17a",
+        "content": "bow",
+        "refs": ["dnc:5_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note17b",
+        "content": "mightily",
+        "refs": ["tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note18a",
+        "content": "as",
+        "refs": ["bofm:alma:18_p42-p43#p42"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note20a",
+        "content": "mightier",
+        "refs": ["bofm:alma:18_p1-p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note22a",
+        "content": "hand",
+        "refs": ["bofm:alma:19_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note23a",
+        "content": "minister",
+        "refs": ["tg:minister", "tg:ministration", "tg:ministry"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note23b",
+        "content": "whole",
+        "refs": ["bofm:alma:23_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note23c",
+        "content": "converted",
+        "refs": ["tg:conversion"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note25a",
+        "content": "pacified",
+        "refs": ["tg:peace", "tg:peacemakers"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note27a",
+        "content": "proclamation",
+        "refs": ["bofm:alma:23_p1-p4#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note27b",
+        "content": "west",
+        "refs": ["bofm:hel:3_p8#p8", "bofm:hel:11_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note27c",
+        "content": "Zarahemla",
+        "refs": ["bofm:omni:1_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note27d",
+        "content": "Manti",
+        "refs": ["bofm:alma:17_p1#p1", "bofm:alma:56_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note27e",
+        "content": "river Sidon",
+        "refs": ["bofm:alma:16_p6-p7#p6", "bofm:alma:43_p22-p53#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note28a",
+        "content": "idle",
+        "refs": ["bofm:2-ne:5_p22-p25#p24"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note29a",
+        "content": "Bountiful",
+        "refs": ["bofm:alma:52_p9,17,27#p9", "bofm:alma:63_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note30a",
+        "content": "Desolation",
+        "refs": [
+            "bofm:alma:46_p17#p17",
+            "bofm:alma:50_p34#p34",
+            "bofm:morm:3_p5,7#p5",
+            "bofm:morm:4_p1-p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note30b",
+        "content": "bones",
+        "refs": ["bofm:mosiah:8_p7-p12#p8", "bofm:mosiah:28_p11-p19#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note30c",
+        "content": "people",
+        "refs": ["bofm:omni:1_p20-p22#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note30d",
+        "content": "first",
+        "refs": ["bofm:ether:6_p12#p12", "bofm:ether:7_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note31a",
+        "content": "up",
+        "refs": ["bofm:hel:6_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note31b",
+        "content": "land",
+        "refs": ["bofm:alma:46_p17#p17", "bofm:alma:63_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note31c",
+        "content": "Desolation",
+        "refs": ["bofm:hel:3_p5-p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note32a",
+        "content": "distance",
+        "refs": ["bofm:hel:4_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/22",
+        "noteId": "note32b",
+        "content": "neck",
+        "refs": ["bofm:alma:50_p34#p34", "bofm:alma:52_p9#p9"]
+    }
+]

@@ -1,0 +1,428 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note1a",
+        "content": "pondering",
+        "refs": ["dnc:76_p19#p19", "tg:meditation"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note1b",
+        "content": "caught away",
+        "refs": [
+            "ot:dan:8_p2#p2",
+            "nt:2-cor:12_p1-p4#p2",
+            "nt:rev:21_p10#p10",
+            "bofm:2-ne:4_p25#p25",
+            "pgp:moses:1_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note1c",
+        "content": "mountain",
+        "refs": [
+            "ot:ex:24_p12-p13#p13",
+            "ot:deut:10_p1#p1",
+            "bofm:ether:3_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note2a",
+        "content": "desirest",
+        "refs": ["ot:zech:4_p1-p6#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note3a",
+        "content": "saw",
+        "refs": ["bofm:1-ne:8_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note4a",
+        "content": "Believest",
+        "refs": ["bofm:mosiah:5_p1-p2#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note4b",
+        "content": "tree",
+        "refs": ["bofm:1-ne:8_p10-p12#p10", "bofm:1-ne:15_p21-p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note5a",
+        "content": "believe",
+        "refs": ["bofm:1-ne:2_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note6a",
+        "content": "earth",
+        "refs": [
+            "ot:ex:9_p29#p29",
+            "ot:deut:10_p14#p14",
+            "bofm:2-ne:29_p7#p7",
+            "bofm:3-ne:11_p14#p14",
+            "dnc:55_p1#p1",
+            "pgp:moses:6_p44#p44"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note6b",
+        "content": "believest",
+        "refs": ["tg:believe"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note7a",
+        "content": "sign",
+        "refs": ["tg:signs"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note7b",
+        "content": "bear record",
+        "refs": ["tg:testimony", "tg:witness"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note8a",
+        "content": "tree",
+        "refs": ["bofm:1-ne:8_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note8b",
+        "content": "beauty",
+        "refs": ["tg:beauty"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note8c",
+        "content": "whiteness",
+        "refs": ["bofm:1-ne:8_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note9a",
+        "content": "precious",
+        "refs": ["bofm:1-ne:11_p22-p25#p22"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note11a",
+        "content": "interpretation",
+        "refs": ["ot:gen:40_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note11b",
+        "content": "form",
+        "refs": ["tg:spirit-body"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note13a",
+        "content": "Nazareth",
+        "refs": ["nt:matt:2_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note13b",
+        "content": "virgin",
+        "refs": ["nt:luke:1_p26-p27#p27", "bofm:alma:7_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note14a",
+        "content": "heavens",
+        "refs": ["ot:ezek:1_p1#p1", "bofm:1-ne:1_p6-p11#p8"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note16a",
+        "content": "condescension",
+        "refs": ["bofm:1-ne:11_p26#p26", "tg:jesus-christ-condescension-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note18a",
+        "content": "virgin",
+        "refs": [
+            "nt:luke:1_p34-p35#p34",
+            "tg:foreordination",
+            "tg:jesus-christ-prophecies-about"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note18b",
+        "content": "mother",
+        "refs": [
+            "nt:matt:1_p16#p16",
+            "bofm:mosiah:3_p8#p8",
+            "bofm:alma:19_p13#p13",
+            "tg:jesus-christ-birth-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note19a",
+        "content": "Spirit",
+        "refs": ["nt:matt:1_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note20a",
+        "content": "child",
+        "refs": ["nt:luke:2_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note21a",
+        "content": "Lamb",
+        "refs": ["tg:jesus-christ-lamb-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note21b",
+        "content": "Son",
+        "refs": ["tg:jesus-christ-divine-sonship"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note21c",
+        "content": "Father",
+        "refs": ["tg:god-the-father-elohim"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note21d",
+        "content": "tree",
+        "refs": ["bofm:1-ne:8_p10#p10", "bofm:alma:5_p62#p62"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note22a",
+        "content": "love",
+        "refs": ["tg:god-love-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note22b",
+        "content": "sheddeth",
+        "refs": ["bofm:moro:8_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note22c",
+        "content": "most",
+        "refs": ["bofm:1-ne:11_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note23a",
+        "content": "joyous",
+        "refs": ["tg:joy"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note24a",
+        "content": "going",
+        "refs": ["nt:luke:4_p14-p21#p14"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note25a",
+        "content": "rod of iron",
+        "refs": ["nt:rev:2_p27#p27", "jst:jst-rev:2_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note25b",
+        "content": "word",
+        "refs": ["bofm:1-ne:8_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note25c",
+        "content": "led",
+        "refs": ["tg:guidance-divine"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note25d",
+        "content": "living waters",
+        "refs": ["tg:living-water"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note25e",
+        "content": "tree of life",
+        "refs": [
+            "ot:gen:2_p9#p9",
+            "ot:prov:11_p22-p30#p30",
+            "pgp:moses:4_p28,31#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note26a",
+        "content": "condescension",
+        "refs": ["bofm:1-ne:11_p16#p16", "tg:jesus-christ-condescension-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note27a",
+        "content": "beheld",
+        "refs": ["bofm:2-ne:25_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note27b",
+        "content": "prophet",
+        "refs": [
+            "ot:mal:3_p1#p1",
+            "nt:matt:11_p10#p10",
+            "nt:john:1_p6-p7#p6",
+            "bofm:1-ne:10_p7-p10#p7",
+            "bofm:2-ne:31_p4-p18#p4",
+            "dnc:35_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note27c",
+        "content": "baptized",
+        "refs": ["tg:jesus-christ-baptism-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note27d",
+        "content": "dove",
+        "refs": ["tg:holy-ghost-dove-sign-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note28a",
+        "content": "power",
+        "refs": ["dnc:138_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note29a",
+        "content": "twelve",
+        "refs": [
+            "bofm:1-ne:12_p9#p9",
+            "bofm:1-ne:13_p24-p26,40#p40",
+            "tg:apostles"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note29b",
+        "content": "carried away",
+        "refs": ["bofm:1-ne:14_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note30a",
+        "content": "angels",
+        "refs": ["tg:angels"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note31a",
+        "content": "sick",
+        "refs": ["tg:sickness"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note31b",
+        "content": "devils",
+        "refs": [
+            "nt:mark:5_p15-p20#p15",
+            "nt:mark:7_p30#p30",
+            "bofm:mosiah:3_p5-p7#p6",
+            "bofm:morm:9_p24#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note31c",
+        "content": "unclean spirits",
+        "refs": ["tg:spirits-evil-or-unclean"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note31d",
+        "content": "healed",
+        "refs": ["tg:heal"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note32a",
+        "content": "taken",
+        "refs": ["tg:jesus-christ-betrayal-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note32b",
+        "content": "judged",
+        "refs": ["nt:mark:15_p17-p20#p19", "nt:luke:9_p44-p45#p44"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note33a",
+        "content": "lifted up",
+        "refs": [
+            "nt:luke:18_p31#p31",
+            "bofm:2-ne:10_p3#p3",
+            "bofm:mosiah:3_p9-p10#p9",
+            "bofm:3-ne:27_p14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note33b",
+        "content": "slain",
+        "refs": [
+            "tg:jesus-christ-atonement-through",
+            "tg:jesus-christ-death-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note34a",
+        "content": "fight",
+        "refs": ["nt:mark:13_p13#p13", "nt:1-cor:4_p6-p13#p9"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note35a",
+        "content": "building",
+        "refs": ["bofm:1-ne:8_p26#p26", "bofm:1-ne:12_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note35b",
+        "content": "fight",
+        "refs": ["ot:micah:3_p5#p5", "dnc:121_p38#p38"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note36a",
+        "content": "pride",
+        "refs": ["tg:pride"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/11",
+        "noteId": "note36b",
+        "content": "fell",
+        "refs": ["tg:earth-cleansing-of", "tg:world-end-of"]
+    }
+]

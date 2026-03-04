@@ -1,0 +1,152 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note2a",
+        "content": "people",
+        "refs": ["bofm:hel:6_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note2b",
+        "content": "Mulek",
+        "refs": ["ot:ezek:17_p22-p23#p22", "bofm:omni:1_p14-p19#p15"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note5a",
+        "content": "left",
+        "refs": ["bofm:mosiah:9_p3-p4#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note5b",
+        "content": "returned",
+        "refs": ["bofm:mosiah:22_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note8a",
+        "content": "out",
+        "refs": ["bofm:mosiah:22_p11-p13#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note9a",
+        "content": "slain",
+        "refs": ["bofm:mosiah:21_p8,29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note10a",
+        "content": "bondage",
+        "refs": ["bofm:mosiah:24_p17#p17", "bofm:mosiah:27_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note11a",
+        "content": "polluted",
+        "refs": ["tg:pollution"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note11b",
+        "content": "pain",
+        "refs": ["bofm:mosiah:28_p3-p4#p3", "bofm:alma:13_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note11c",
+        "content": "welfare",
+        "refs": ["bofm:2-ne:6_p3#p3", "bofm:jacob:2_p3#p3", "tg:worth-of-souls"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note12a",
+        "content": "were",
+        "refs": ["bofm:mosiah:20_p3-p5#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note12b",
+        "content": "daughters",
+        "refs": ["bofm:mosiah:23_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note12c",
+        "content": "called",
+        "refs": ["bofm:jacob:1_p13-p14#p14", "bofm:alma:2_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note13a",
+        "content": "numbered",
+        "refs": ["bofm:omni:1_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note18a",
+        "content": "baptize",
+        "refs": ["bofm:mosiah:21_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note18b",
+        "content": "waters of Mormon",
+        "refs": ["bofm:mosiah:18_p8-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note19a",
+        "content": "churches",
+        "refs": ["bofm:mosiah:26_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note19b",
+        "content": "ordain",
+        "refs": ["tg:priesthood"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note19c",
+        "content": "priests",
+        "refs": ["tg:priest-melchizedek-priesthood"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note19d",
+        "content": "teachers",
+        "refs": ["tg:teacher"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note21a",
+        "content": "assemble",
+        "refs": ["tg:church"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note22a",
+        "content": "church",
+        "refs": ["bofm:mosiah:18_p17#p17", "bofm:mosiah:26_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note23a",
+        "content": "name",
+        "refs": ["tg:jesus-christ-taking-the-name-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note24a",
+        "content": "people",
+        "refs": ["tg:sons-and-daughters-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/25",
+        "noteId": "note24b",
+        "content": "Spirit",
+        "refs": ["tg:god-spirit-of", "tg:prosper"]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note1a",
+        "content": "words",
+        "refs": ["bofm:ether:13_p20-p21#p20"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note2a",
+        "content": "two millions",
+        "refs": ["bofm:ether:1_p43#p43"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note3a",
+        "content": "mourned",
+        "refs": ["tg:mourning"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note3b",
+        "content": "comforted",
+        "refs": ["ot:gen:37_p35#p35", "pgp:moses:7_p44#p44", "tg:comfort"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note11a",
+        "content": "hide",
+        "refs": ["bofm:morm:6_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note13a",
+        "content": "behold",
+        "refs": ["bofm:ether:13_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note15a",
+        "content": "weapons",
+        "refs": ["bofm:ether:10_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note15b",
+        "content": "breastplates",
+        "refs": ["bofm:mosiah:8_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note16a",
+        "content": "lamentation",
+        "refs": ["tg:mourning"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note19a",
+        "content": "Spirit",
+        "refs": ["tg:god-spirit-of", "tg:holy-ghost-loss-of"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note19b",
+        "content": "Satan",
+        "refs": ["tg:devil"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note19c",
+        "content": "hearts",
+        "refs": ["tg:hardheartedness"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note22a",
+        "content": "drunken",
+        "refs": ["bofm:moro:9_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note29a",
+        "content": "all",
+        "refs": ["bofm:ether:13_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note31a",
+        "content": "fell",
+        "refs": ["ot:judg:5_p26-p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note32a",
+        "content": "Coriantumr",
+        "refs": ["bofm:omni:1_p20-p22#p21"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note33a",
+        "content": "finished",
+        "refs": ["bofm:ether:13_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note33b",
+        "content": "record",
+        "refs": [
+            "bofm:mosiah:8_p9#p9",
+            "bofm:mosiah:21_p27#p27",
+            "bofm:mosiah:28_p11#p11",
+            "bofm:alma:37_p21-p31#p21",
+            "bofm:ether:1_p1-p5#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note33c",
+        "content": "hundredth",
+        "refs": ["bofm:3-ne:26_p6#p6", "bofm:ether:3_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note34a",
+        "content": "Ether",
+        "refs": [
+            "bofm:ether:1_p6#p6",
+            "bofm:ether:11_p23#p23",
+            "bofm:ether:12_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/15",
+        "noteId": "note34b",
+        "content": "saved",
+        "refs": ["bofm:mosiah:13_p9#p9"]
+    }
+]

@@ -1,0 +1,377 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note1a",
+        "content": "words",
+        "refs": ["bofm:mosiah:2_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note1b",
+        "content": "not believe",
+        "refs": ["tg:family-children-duties-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note3a",
+        "content": "unbelief",
+        "refs": ["tg:unbelief"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note3b",
+        "content": "understand",
+        "refs": ["tg:understanding"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note4a",
+        "content": "church",
+        "refs": ["bofm:mosiah:25_p18-p23#p22", "bofm:alma:4_p4-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note4b",
+        "content": "carnal",
+        "refs": ["tg:man-natural-not-spiritually-reborn"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note5a",
+        "content": "dissensions",
+        "refs": ["tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note6a",
+        "content": "deceive",
+        "refs": ["nt:col:2_p16-p23#p18", "tg:deceit"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note6b",
+        "content": "flattering",
+        "refs": ["tg:flatter"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note6c",
+        "content": "admonished",
+        "refs": ["bofm:alma:5_p57-p58#p57", "bofm:alma:6_p3#p3", "tg:warn"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note7a",
+        "content": "priests",
+        "refs": ["tg:priest-melchizedek-priesthood"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note7b",
+        "content": "high priest",
+        "refs": ["bofm:mosiah:23_p16#p16", "bofm:mosiah:29_p42#p42"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note8a",
+        "content": "authority",
+        "refs": ["tg:delegation-of-responsibility"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note8b",
+        "content": "church",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note9a",
+        "content": "witnesses",
+        "refs": ["tg:witness"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note12a",
+        "content": "deliver",
+        "refs": ["dnc:42_p78-p93#p87"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note14a",
+        "content": "voice",
+        "refs": ["tg:guidance-divine"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note15a",
+        "content": "waters of Mormon",
+        "refs": ["bofm:mosiah:18_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note15b",
+        "content": "faith",
+        "refs": ["bofm:mosiah:17_p2#p2", "dnc:46_p14#p14", "tg:faith"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note17a",
+        "content": "church",
+        "refs": ["bofm:mosiah:25_p19-p24#p19"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note18a",
+        "content": "name",
+        "refs": [
+            "bofm:mosiah:1_p11#p11",
+            "bofm:mosiah:5_p8#p8",
+            "tg:jesus-christ-taking-the-name-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note18b",
+        "content": "name",
+        "refs": ["ot:deut:28_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note20a",
+        "content": "eternal life",
+        "refs": ["tg:election"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note21a",
+        "content": "sheep",
+        "refs": ["tg:jesus-christ-good-shepherd"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note22a",
+        "content": "this",
+        "refs": ["bofm:mosiah:27_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note22b",
+        "content": "church",
+        "refs": ["tg:jesus-christ-head-of-the-church"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note22c",
+        "content": "baptized",
+        "refs": ["bofm:2-ne:9_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note22d",
+        "content": "believe",
+        "refs": ["tg:baptism-qualifications-for"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note22e",
+        "content": "forgive",
+        "refs": ["tg:remission-of-sins"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note23a",
+        "content": "sins",
+        "refs": ["tg:jesus-christ-redeemer"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note23b",
+        "content": "created",
+        "refs": ["tg:jesus-christ-creator"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note24a",
+        "content": "know",
+        "refs": ["nt:john:17_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note25a",
+        "content": "second",
+        "refs": ["ot:dan:12_p1-p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note25b",
+        "content": "knew",
+        "refs": [
+            "bofm:3-ne:14_p21-p23#p23",
+            "dnc:76_p81-p86#p85",
+            "dnc:112_p26#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note27a",
+        "content": "knew",
+        "refs": ["nt:matt:7_p21-p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note27b",
+        "content": "depart",
+        "refs": ["nt:luke:13_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note27c",
+        "content": "everlasting",
+        "refs": ["bofm:1-ne:15_p32-p36#p35"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note28a",
+        "content": "hear",
+        "refs": [
+            "bofm:2-ne:9_p31#p31",
+            "dnc:1_p2,11,14#p14",
+            "pgp:moses:6_p27#p27"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note29a",
+        "content": "judge",
+        "refs": ["tg:judgment"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note29b",
+        "content": "according",
+        "refs": ["tg:accountability"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note29c",
+        "content": "confess",
+        "refs": [
+            "ot:num:5_p6-p10#p7",
+            "bofm:alma:17_p4#p4",
+            "bofm:3-ne:1_p25#p25",
+            "tg:confession"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note29d",
+        "content": "repenteth",
+        "refs": ["tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note29e",
+        "content": "forgive",
+        "refs": ["tg:forgive"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note30a",
+        "content": "as",
+        "refs": ["bofm:moro:6_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note30b",
+        "content": "repent",
+        "refs": [
+            "ot:ezek:33_p11,15-p16#p11",
+            "ot:amos:5_p4-p8#p4",
+            "nt:acts:3_p19-p20#p19",
+            "bofm:2-ne:1_p20#p20",
+            "bofm:mosiah:29_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note31a",
+        "content": "forgive",
+        "refs": [
+            "nt:col:3_p12-p14#p13",
+            "bofm:3-ne:13_p14-p15#p14",
+            "dnc:64_p9-p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note31b",
+        "content": "neighbor’s",
+        "refs": ["tg:neighbor"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note32a",
+        "content": "not repent",
+        "refs": ["bofm:alma:1_p24#p24", "tg:excommunication"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note33a",
+        "content": "wrote",
+        "refs": ["tg:scriptures-writing-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note34a",
+        "content": "word",
+        "refs": ["bofm:2-ne:33_p13-p15#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note35a",
+        "content": "confess",
+        "refs": ["tg:confession"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note36a",
+        "content": "blotted out",
+        "refs": [
+            "ot:ex:32_p33#p33",
+            "ot:ps:9_p5#p5",
+            "ot:ps:109_p13#p13",
+            "bofm:alma:1_p24#p24",
+            "tg:book-of-life"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note38a",
+        "content": "fellow laborers",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note38b",
+        "content": "walking",
+        "refs": ["tg:walking-with-god"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note39a",
+        "content": "admonished",
+        "refs": ["tg:warn"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note39b",
+        "content": "pray",
+        "refs": ["bofm:2-ne:32_p8-p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/26",
+        "noteId": "note39c",
+        "content": "thanks",
+        "refs": ["tg:thanksgiving"]
+    }
+]

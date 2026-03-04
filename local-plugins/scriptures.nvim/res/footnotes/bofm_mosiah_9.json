@@ -1,0 +1,119 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note1a",
+        "content": "I",
+        "refs": ["bofm:mosiah:8_p5#p5", "bofm:mosiah:22_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note1b",
+        "content": "Zeniff",
+        "refs": ["bofm:mosiah:7_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note1c",
+        "content": "Nephi",
+        "refs": [
+            "bofm:2-ne:5_p8#p8",
+            "bofm:omni:1_p12,27#p12",
+            "bofm:mosiah:7_p6-p7#p6",
+            "bofm:mosiah:28_p1,5#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note3a",
+        "content": "over-zealous",
+        "refs": ["bofm:omni:1_p27-p29#p27", "bofm:mosiah:7_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note3b",
+        "content": "journey",
+        "refs": ["bofm:mosiah:25_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note6a",
+        "content": "land of Lehi-Nephi",
+        "refs": ["bofm:2-ne:5_p8#p8", "bofm:mosiah:7_p1-p4,21#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note9a",
+        "content": "seeds",
+        "refs": [
+            "bofm:1-ne:8_p1#p1",
+            "bofm:enos:1_p21#p21",
+            "bofm:mosiah:10_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note10a",
+        "content": "Laman",
+        "refs": ["bofm:mosiah:24_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note10b",
+        "content": "bring",
+        "refs": ["bofm:mosiah:7_p22#p22", "bofm:mosiah:10_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note11a",
+        "content": "wax",
+        "refs": ["ot:ex:1_p9-p10#p9"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note12a",
+        "content": "lazy",
+        "refs": ["tg:laziness"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note12b",
+        "content": "idolatrous",
+        "refs": ["bofm:enos:1_p20#p20", "tg:idolatry"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note14a",
+        "content": "Shilom",
+        "refs": ["bofm:mosiah:7_p5#p5", "bofm:mosiah:11_p12-p13#p12"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note14b",
+        "content": "feeding",
+        "refs": ["bofm:mosiah:10_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note17a",
+        "content": "strength",
+        "refs": ["tg:strength"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note17b",
+        "content": "deliver",
+        "refs": ["ot:josh:21_p44#p44", "bofm:alma:46_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/9",
+        "noteId": "note18a",
+        "content": "hear",
+        "refs": [
+            "ot:ex:2_p23-p24#p24",
+            "ot:ps:4_p1,3#p1",
+            "ot:dan:10_p12#p12",
+            "dnc:35_p3#p3",
+            "pgp:abr:1_p15-p16#p15"
+        ]
+    }
+]

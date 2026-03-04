@@ -1,0 +1,189 @@
+[
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note2a",
+        "content": "flatter",
+        "refs": ["bofm:hel:1_p7#p7", "bofm:hel:2_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note4a",
+        "content": "captivity",
+        "refs": ["bofm:ether:7_p5-p7#p7", "bofm:ether:10_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note7a",
+        "content": "sorrowful",
+        "refs": ["bofm:morm:2_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note9a",
+        "content": "record",
+        "refs": ["bofm:ether:1_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note9b",
+        "content": "account",
+        "refs": ["bofm:3-ne:6_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note9c",
+        "content": "old",
+        "refs": ["bofm:hel:6_p26-p30#p26", "bofm:3-ne:3_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note9d",
+        "content": "secret",
+        "refs": [
+            "bofm:hel:6_p27#p27",
+            "bofm:ether:13_p18#p18",
+            "pgp:moses:5_p18-p52#p30"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note10a",
+        "content": "head",
+        "refs": ["nt:mark:6_p22-p28#p24"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note14a",
+        "content": "sware",
+        "refs": ["bofm:hel:1_p11#p11", "bofm:3-ne:3_p8#p8", "tg:swearing"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note15a",
+        "content": "Akish",
+        "refs": ["bofm:ether:9_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note15b",
+        "content": "Cain",
+        "refs": ["ot:gen:4_p7-p8#p7", "pgp:moses:5_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note16a",
+        "content": "power",
+        "refs": ["pgp:moses:4_p6#p6", "pgp:moses:5_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note18a",
+        "content": "secret combination",
+        "refs": ["tg:secret-combinations"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note20a",
+        "content": "among",
+        "refs": [
+            "bofm:4-ne:1_p46#p46",
+            "bofm:morm:2_p8#p8",
+            "bofm:morm:8_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note21a",
+        "content": "destruction",
+        "refs": ["bofm:hel:6_p28#p28", "dnc:38_p13-p16#p13"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note22a",
+        "content": "nation",
+        "refs": ["tg:governments"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note22b",
+        "content": "blood",
+        "refs": [
+            "nt:rev:6_p1-p11#p10",
+            "nt:rev:19_p2#p2",
+            "bofm:2-ne:28_p10#p10",
+            "bofm:morm:8_p27,40-p41#p27",
+            "dnc:87_p7#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note22c",
+        "content": "vengeance",
+        "refs": ["tg:god-justice-of", "tg:vengeance"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note23a",
+        "content": "power",
+        "refs": ["pgp:moses:6_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note23b",
+        "content": "destruction",
+        "refs": ["nt:luke:13_p1-p5#p3"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note24a",
+        "content": "secret combination",
+        "refs": ["dnc:42_p64#p64"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note25a",
+        "content": "freedom",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note25b",
+        "content": "beguiled",
+        "refs": [
+            "ot:gen:3_p1-p13#p13",
+            "bofm:2-ne:9_p9#p9",
+            "bofm:mosiah:16_p3#p3",
+            "pgp:moses:4_p5-p19#p19"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note25c",
+        "content": "hardened",
+        "refs": ["tg:hardheartedness"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note25d",
+        "content": "murdered",
+        "refs": ["tg:prophets-rejection-of"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note26a",
+        "content": "no power",
+        "refs": ["bofm:2-ne:30_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note26b",
+        "content": "persuaded",
+        "refs": ["bofm:2-ne:33_p4#p4", "bofm:moro:7_p12-p17#p13"]
+    },
+    {
+        "origin_chapter": "bofm/ether/8",
+        "noteId": "note26c",
+        "content": "righteousness",
+        "refs": ["tg:righteousness"]
+    }
+]

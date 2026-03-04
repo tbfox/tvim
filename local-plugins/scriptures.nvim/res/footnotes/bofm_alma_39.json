@@ -1,0 +1,190 @@
+[
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note1a",
+        "content": "son",
+        "refs": ["bofm:alma:31_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note1b",
+        "content": "example",
+        "refs": ["tg:example"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note2a",
+        "content": "Zoramites",
+        "refs": ["bofm:alma:38_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note3a",
+        "content": "harlot",
+        "refs": ["ot:1-sam:2_p22-p25#p22", "ot:prov:5_p3#p3", "tg:sensuality"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note4a",
+        "content": "steal",
+        "refs": ["ot:prov:7_p6-p27#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note5a",
+        "content": "abominable",
+        "refs": ["tg:adulterer", "tg:fornication", "tg:sexual-immorality"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note5b",
+        "content": "blood",
+        "refs": ["tg:life-sanctity-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note6a",
+        "content": "deny",
+        "refs": [
+            "bofm:moro:8_p28#p28",
+            "dnc:76_p35#p35",
+            "tg:holy-ghost-loss-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note6b",
+        "content": "unpardonable",
+        "refs": ["tg:holy-ghost-unpardonable-sin-against"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note6c",
+        "content": "forgiveness",
+        "refs": ["nt:rom:9_p18#p18", "dnc:64_p10#p10", "tg:forgive"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note7a",
+        "content": "guilty",
+        "refs": ["tg:guilt"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note8a",
+        "content": "hide",
+        "refs": ["tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note9a",
+        "content": "lusts",
+        "refs": [
+            "ot:prov:5_p8#p8",
+            "tg:carnal-mind",
+            "tg:chastity",
+            "tg:covet",
+            "tg:lust"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note9b",
+        "content": "cross",
+        "refs": ["tg:self-mastery"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note9c",
+        "content": "cross",
+        "refs": ["bofm:3-ne:12_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note11a",
+        "content": "iniquity",
+        "refs": ["ot:1-sam:2_p22-p25#p24"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note11b",
+        "content": "Zoramites",
+        "refs": ["bofm:alma:35_p2-p14#p14", "bofm:alma:43_p4-p6,13#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note11c",
+        "content": "conduct",
+        "refs": [
+            "ot:2-sam:12_p14#p14",
+            "ot:ezek:5_p5#p5",
+            "nt:rom:2_p21-p23#p21",
+            "nt:rom:14_p13#p13",
+            "nt:1-cor:9_p13-p14#p14",
+            "bofm:1-ne:21_p6#p6",
+            "bofm:alma:4_p11#p11",
+            "dnc:103_p8-p9#p9",
+            "tg:example"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note12a",
+        "content": "Command",
+        "refs": ["tg:commandments-of-god", "tg:teaching"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note12b",
+        "content": "lead",
+        "refs": ["tg:peer-influence"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note12c",
+        "content": "refrain",
+        "refs": ["tg:abstain"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note13a",
+        "content": "acknowledge",
+        "refs": ["bofm:mosiah:27_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note14a",
+        "content": "Seek not",
+        "refs": [
+            "nt:matt:6_p25-p34#p33",
+            "bofm:jacob:2_p18-p19#p18",
+            "dnc:6_p6-p7#p7",
+            "dnc:68_p31-p32#p31",
+            "tg:treasure"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note15a",
+        "content": "coming",
+        "refs": ["tg:jesus-christ-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note16a",
+        "content": "children",
+        "refs": ["tg:family-children-responsibilities-toward"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note18a",
+        "content": "made",
+        "refs": ["bofm:jacob:4_p4-p6#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/39",
+        "noteId": "note19a",
+        "content": "send",
+        "refs": ["bofm:mosiah:3_p2-p3#p2"]
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note1a",
+        "content": "Lachoneus",
+        "refs": ["bofm:3-ne:1_p1#p1", "bofm:3-ne:6_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note2a",
+        "content": "maintaining",
+        "refs": ["bofm:3-ne:2_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note2b",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note3a",
+        "content": "destroy",
+        "refs": ["bofm:3-ne:2_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note7a",
+        "content": "secret",
+        "refs": ["bofm:hel:6_p22-p26#p22"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note8a",
+        "content": "swear",
+        "refs": ["bofm:hel:1_p11#p11", "bofm:ether:8_p13-p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note9a",
+        "content": "Giddianhi",
+        "refs": ["bofm:3-ne:4_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note9b",
+        "content": "secret society",
+        "refs": ["tg:secret-combinations"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note9c",
+        "content": "good",
+        "refs": ["bofm:alma:30_p53#p53"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note9d",
+        "content": "ancient",
+        "refs": [
+            "bofm:hel:6_p26-p30#p26",
+            "bofm:ether:8_p9-p19#p9",
+            "pgp:moses:5_p29,49-p52#p29"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note10a",
+        "content": "government",
+        "refs": ["tg:governments"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note11a",
+        "content": "wronged",
+        "refs": ["bofm:hel:14_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note12a",
+        "content": "robber",
+        "refs": ["ot:1-kgs:20_p2-p3#p3", "bofm:alma:54_p5-p11#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note12b",
+        "content": "strength",
+        "refs": ["tg:strength"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note13a",
+        "content": "gather",
+        "refs": ["bofm:3-ne:3_p22#p22", "bofm:3-ne:4_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note14a",
+        "content": "fortifications",
+        "refs": ["bofm:morm:2_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note15a",
+        "content": "delivered",
+        "refs": ["tg:deliver", "tg:protection-divine"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note18a",
+        "content": "Gidgiddoni",
+        "refs": ["bofm:3-ne:4_p13,24,26#p13", "bofm:3-ne:6_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note19a",
+        "content": "spirit",
+        "refs": ["tg:guidance-divine"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note20a",
+        "content": "Pray",
+        "refs": [
+            "bofm:alma:16_p5-p8#p6",
+            "bofm:alma:43_p23-p24#p23",
+            "bofm:alma:48_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note21a",
+        "content": "forbid",
+        "refs": [
+            "bofm:alma:43_p46-p47#p46",
+            "bofm:alma:48_p14#p14",
+            "bofm:morm:3_p10-p11#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note21b",
+        "content": "deliver",
+        "refs": [
+            "ot:1-sam:14_p12#p12",
+            "ot:2-kgs:3_p18#p18",
+            "bofm:1-ne:3_p29#p29"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note22a",
+        "content": "horses",
+        "refs": ["bofm:3-ne:4_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note22b",
+        "content": "place",
+        "refs": ["bofm:morm:2_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note22c",
+        "content": "had",
+        "refs": ["bofm:3-ne:3_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note23a",
+        "content": "land",
+        "refs": ["bofm:3-ne:4_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note23b",
+        "content": "Bountiful",
+        "refs": ["bofm:alma:22_p29#p29", "bofm:3-ne:11_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note23c",
+        "content": "land Bountiful",
+        "refs": ["bofm:morm:3_p7#p7", "bofm:morm:4_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note24a",
+        "content": "southward",
+        "refs": ["bofm:alma:46_p17#p17", "bofm:morm:3_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note24b",
+        "content": "land",
+        "refs": ["bofm:alma:22_p30-p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note25a",
+        "content": "prayers",
+        "refs": ["tg:trust-in-god"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/3",
+        "noteId": "note26a",
+        "content": "weapons",
+        "refs": [
+            "bofm:2-ne:5_p14#p14",
+            "bofm:jarom:1_p8#p8",
+            "bofm:mosiah:10_p8#p8",
+            "bofm:alma:2_p12#p12",
+            "bofm:hel:1_p14#p14"
+        ]
+    }
+]

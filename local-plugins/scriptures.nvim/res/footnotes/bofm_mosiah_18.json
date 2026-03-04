@@ -1,0 +1,343 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note1a",
+        "content": "repented",
+        "refs": ["bofm:mosiah:23_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note2a",
+        "content": "redemption",
+        "refs": ["tg:jesus-christ-redeemer"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note2b",
+        "content": "death",
+        "refs": ["tg:jesus-christ-ascension-of", "tg:jesus-christ-death-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note4a",
+        "content": "place",
+        "refs": ["bofm:alma:5_p3#p3", "bofm:3-ne:5_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note4b",
+        "content": "borders",
+        "refs": ["bofm:mosiah:18_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note7a",
+        "content": "teach",
+        "refs": ["bofm:alma:5_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note8a",
+        "content": "desirous",
+        "refs": ["dnc:20_p36-p37,77#p36"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note8b",
+        "content": "fold",
+        "refs": ["tg:brotherhood-and-sisterhood", "tg:conversion"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note9a",
+        "content": "willing",
+        "refs": ["tg:baptism-qualifications-for"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note9b",
+        "content": "mourn",
+        "refs": ["tg:comfort", "tg:compassion"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note9c",
+        "content": "witnesses",
+        "refs": ["tg:missionary-work", "tg:witness"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note9d",
+        "content": "first resurrection",
+        "refs": ["bofm:jacob:4_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note10a",
+        "content": "baptized",
+        "refs": ["bofm:2-ne:31_p17#p17", "bofm:alma:4_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note10b",
+        "content": "name",
+        "refs": ["tg:jesus-christ-taking-the-name-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note10c",
+        "content": "covenant",
+        "refs": ["ot:neh:10_p29#p29", "tg:commitment"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note13a",
+        "content": "Spirit",
+        "refs": ["tg:holy-ghost-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note13b",
+        "content": "authority",
+        "refs": [
+            "bofm:mosiah:21_p33#p33",
+            "bofm:alma:5_p3#p3",
+            "bofm:3-ne:11_p25#p25"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note13c",
+        "content": "covenant",
+        "refs": ["bofm:mosiah:21_p31#p31", "tg:covenants"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note13d",
+        "content": "foundation",
+        "refs": ["bofm:mosiah:4_p6#p6", "bofm:alma:12_p25,30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note14a",
+        "content": "buried",
+        "refs": ["tg:baptism-immersion"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note15a",
+        "content": "himself",
+        "refs": ["pgp:js-h:1_p70-p71#p71"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note16a",
+        "content": "baptized",
+        "refs": ["bofm:mosiah:25_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note16b",
+        "content": "grace",
+        "refs": ["tg:grace"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note17a",
+        "content": "church",
+        "refs": [
+            "bofm:mosiah:21_p34#p34",
+            "bofm:mosiah:25_p18-p23#p22",
+            "bofm:mosiah:26_p4#p4",
+            "bofm:alma:4_p4-p5#p5",
+            "bofm:3-ne:26_p21#p21",
+            "tg:jesus-christ-head-of-the-church"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note18a",
+        "content": "authority",
+        "refs": ["bofm:mosiah:23_p16#p16", "tg:priesthood-authority"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note18b",
+        "content": "ordained",
+        "refs": ["tg:priesthood-history-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note18c",
+        "content": "teach",
+        "refs": [
+            "bofm:mosiah:2_p4#p4",
+            "bofm:mosiah:23_p14#p14",
+            "bofm:mosiah:24_p4-p8#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note19a",
+        "content": "they",
+        "refs": ["bofm:mosiah:23_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note19b",
+        "content": "teach",
+        "refs": ["dnc:5_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note20a",
+        "content": "preach",
+        "refs": ["tg:preaching", "tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note21a",
+        "content": "contention",
+        "refs": ["tg:contention"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note21b",
+        "content": "one",
+        "refs": [
+            "nt:matt:6_p22#p22",
+            "bofm:morm:8_p15#p15",
+            "dnc:4_p5#p5",
+            "dnc:88_p68#p68"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note21c",
+        "content": "knit",
+        "refs": [
+            "ot:1-sam:18_p1#p1",
+            "nt:rom:15_p1-p7#p5",
+            "bofm:mosiah:4_p15#p15",
+            "bofm:mosiah:23_p15#p15"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note22a",
+        "content": "children",
+        "refs": ["pgp:moses:6_p68#p68"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note23a",
+        "content": "sabbath",
+        "refs": ["ot:ex:35_p2#p2", "bofm:mosiah:13_p16-p19#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note24a",
+        "content": "should",
+        "refs": [
+            "nt:acts:20_p33-p35#p34",
+            "bofm:mosiah:27_p3-p5#p5",
+            "bofm:alma:1_p3,26#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note24b",
+        "content": "labor",
+        "refs": ["nt:1-cor:9_p16-p19#p18", "bofm:alma:30_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note25a",
+        "content": "one",
+        "refs": ["bofm:alma:32_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note25b",
+        "content": "gather",
+        "refs": ["tg:meetings"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note25c",
+        "content": "assemble",
+        "refs": ["tg:assembly-for-worship"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note26a",
+        "content": "grace",
+        "refs": ["tg:blessing", "tg:reward", "tg:wages"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note26b",
+        "content": "knowledge",
+        "refs": ["ot:neh:10_p28-p31#p28", "tg:god-knowledge-about"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note27a",
+        "content": "every",
+        "refs": ["bofm:alma:16_p16#p16", "bofm:4-ne:1_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note28a",
+        "content": "substance",
+        "refs": ["tg:generosity", "tg:initiative"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note29a",
+        "content": "walk",
+        "refs": ["tg:walking-with-god", "tg:welfare"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note30a",
+        "content": "waters of Mormon",
+        "refs": ["bofm:mosiah:26_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note30b",
+        "content": "sing",
+        "refs": ["tg:praise", "tg:singing"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note31a",
+        "content": "borders",
+        "refs": ["bofm:mosiah:18_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note33a",
+        "content": "army",
+        "refs": ["bofm:mosiah:19_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note34a",
+        "content": "apprised",
+        "refs": ["bofm:mosiah:23_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note34b",
+        "content": "departed",
+        "refs": ["bofm:mosiah:21_p30#p30", "bofm:mosiah:23_p13,36#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/18",
+        "noteId": "note35a",
+        "content": "four hundred and fifty",
+        "refs": ["bofm:mosiah:23_p10#p10"]
+    }
+]

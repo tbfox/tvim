@@ -1,0 +1,140 @@
+[
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note1a",
+        "content": "trump",
+        "refs": ["ot:isa:58_p1#p1", "dnc:29_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note2a",
+        "content": "come",
+        "refs": ["bofm:omni:1_p25-p26#p26", "bofm:3-ne:21_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note4a",
+        "content": "desire",
+        "refs": ["ot:ps:21_p2#p2", "ot:ps:37_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note4b",
+        "content": "wills",
+        "refs": ["tg:agency"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note5a",
+        "content": "blameless",
+        "refs": ["tg:accountability"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note5b",
+        "content": "knoweth",
+        "refs": [
+            "ot:gen:3_p5#p5",
+            "bofm:2-ne:2_p18,26#p18",
+            "bofm:mosiah:16_p3#p3",
+            "bofm:moro:7_p15-p19#p16",
+            "tg:discernment-spiritual"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note5c",
+        "content": "conscience",
+        "refs": ["ot:job:27_p6#p6", "tg:conscience"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note6a",
+        "content": "perform",
+        "refs": ["tg:stewardship"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note8a",
+        "content": "grant",
+        "refs": ["bofm:3-ne:26_p7-p10#p8", "dnc:11_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note8b",
+        "content": "all",
+        "refs": ["bofm:2-ne:2_p27#p27", "bofm:2-ne:29_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note8c",
+        "content": "tongue",
+        "refs": ["dnc:90_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note8d",
+        "content": "seeth",
+        "refs": ["bofm:alma:12_p9-p11#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note9a",
+        "content": "not",
+        "refs": ["bofm:alma:26_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note9b",
+        "content": "glory",
+        "refs": ["tg:glory"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note10a",
+        "content": "what",
+        "refs": ["bofm:mosiah:27_p11-p31#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note11a",
+        "content": "Lord",
+        "refs": ["ot:ex:3_p6#p6", "bofm:alma:36_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note12a",
+        "content": "delivered",
+        "refs": ["ot:micah:6_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note12b",
+        "content": "bondage",
+        "refs": ["bofm:alma:5_p5-p6#p5", "bofm:alma:36_p2,29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note13a",
+        "content": "holy",
+        "refs": ["bofm:alma:5_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note13b",
+        "content": "preach",
+        "refs": ["tg:preaching"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note14a",
+        "content": "success",
+        "refs": ["bofm:alma:17_p1-p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/29",
+        "noteId": "note16a",
+        "content": "joy",
+        "refs": ["tg:joy"]
+    }
+]

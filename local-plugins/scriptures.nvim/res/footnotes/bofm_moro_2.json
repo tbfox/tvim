@@ -1,0 +1,38 @@
+[
+    {
+        "origin_chapter": "bofm/moro/2",
+        "noteId": "note1a",
+        "content": "disciples",
+        "refs": ["bofm:3-ne:13_p25#p25", "bofm:3-ne:15_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/moro/2",
+        "noteId": "note2a",
+        "content": "call",
+        "refs": ["ot:gen:4_p26#p26", "bofm:ether:4_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/moro/2",
+        "noteId": "note2b",
+        "content": "power",
+        "refs": ["nt:matt:10_p1#p1", "tg:priesthood-melchizedek"]
+    },
+    {
+        "origin_chapter": "bofm/moro/2",
+        "noteId": "note2c",
+        "content": "hands",
+        "refs": ["tg:hands-laying-on-of"]
+    },
+    {
+        "origin_chapter": "bofm/moro/2",
+        "noteId": "note2d",
+        "content": "ye",
+        "refs": ["bofm:3-ne:18_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/moro/2",
+        "noteId": "note3a",
+        "content": "laid",
+        "refs": ["nt:acts:19_p6#p6"]
+    }
+]

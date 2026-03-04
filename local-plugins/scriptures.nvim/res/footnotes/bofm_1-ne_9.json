@@ -1,0 +1,76 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/9",
+        "noteId": "note1a",
+        "content": "valley of Lemuel",
+        "refs": ["bofm:1-ne:2_p4-p6,8,14-p15#p6", "bofm:1-ne:16_p6,12#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/9",
+        "noteId": "note2a",
+        "content": "plates",
+        "refs": [
+            "bofm:jacob:3_p13-p14#p13",
+            "bofm:1-ne:1_p16-p17#p17",
+            "bofm:1-ne:6_p1#p1",
+            "bofm:1-ne:10_p1#p1",
+            "bofm:1-ne:19_p2,4#p2",
+            "bofm:omni:1_p1#p1",
+            "bofm:w-of-m:1_p2-p11#p3",
+            "dnc:10_p38-p40#p38"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/9",
+        "noteId": "note3a",
+        "content": "purpose",
+        "refs": ["dnc:3_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/9",
+        "noteId": "note3b",
+        "content": "ministry",
+        "refs": ["bofm:1-ne:6_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/9",
+        "noteId": "note4a",
+        "content": "other plates",
+        "refs": [
+            "bofm:2-ne:4_p14#p14",
+            "bofm:2-ne:5_p29-p33#p33",
+            "bofm:jacob:1_p2-p4#p3",
+            "bofm:jarom:1_p14#p14",
+            "bofm:omni:1_p18#p18",
+            "bofm:w-of-m:1_p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/9",
+        "noteId": "note5a",
+        "content": "wise",
+        "refs": [
+            "bofm:1-ne:19_p3#p3",
+            "bofm:w-of-m:1_p7#p7",
+            "bofm:alma:37_p2,12,14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/9",
+        "noteId": "note6a",
+        "content": "knoweth",
+        "refs": [
+            "ot:isa:48_p3-p7#p3",
+            "pgp:moses:1_p6,35#p6",
+            "tg:god-foreknowledge-of",
+            "tg:god-intelligence-of",
+            "tg:god-omniscience-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/9",
+        "noteId": "note6b",
+        "content": "power",
+        "refs": ["nt:matt:28_p18#p18"]
+    }
+]

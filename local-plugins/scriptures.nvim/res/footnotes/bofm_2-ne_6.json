@@ -1,0 +1,353 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note1a",
+        "content": "words",
+        "refs": ["bofm:2-ne:11_p1#p1", "bofm:jacob:2_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note2a",
+        "content": "order",
+        "refs": ["tg:priesthood-melchizedek"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note2b",
+        "content": "king",
+        "refs": [
+            "bofm:2-ne:5_p18#p18",
+            "bofm:jacob:1_p9,11,15#p9",
+            "bofm:jarom:1_p7,14#p7",
+            "bofm:mosiah:1_p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note3a",
+        "content": "welfare",
+        "refs": ["bofm:jacob:2_p3#p3", "bofm:mosiah:25_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note3b",
+        "content": "written",
+        "refs": ["tg:scriptures-value-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note4a",
+        "content": "Isaiah",
+        "refs": ["bofm:3-ne:23_p1-p3#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note5a",
+        "content": "likened",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note6a",
+        "content": "Thus",
+        "refs": ["ot:isa:49_p22-p23#p22", "bofm:2-ne:10_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note6b",
+        "content": "standard",
+        "refs": ["tg:ensign"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note7a",
+        "content": "kings",
+        "refs": ["ot:isa:60_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note7b",
+        "content": "I am",
+        "refs": [
+            "ot:isa:44_p8#p8",
+            "ot:isa:45_p5-p22#p5",
+            "ot:isa:46_p9#p9",
+            "bofm:3-ne:24_p6#p6",
+            "pgp:moses:1_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note7c",
+        "content": "wait",
+        "refs": ["ot:lam:3_p25-p26#p25", "dnc:133_p45#p45"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note8a",
+        "content": "Jerusalem",
+        "refs": [
+            "ot:esth:2_p6#p6",
+            "bofm:1-ne:7_p13#p13",
+            "bofm:1-ne:10_p3#p3",
+            "bofm:2-ne:25_p6,10#p6",
+            "bofm:omni:1_p15#p15",
+            "bofm:hel:8_p20-p21#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note8b",
+        "content": "slain",
+        "refs": ["ot:ezek:23_p24-p29#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note8c",
+        "content": "carried away",
+        "refs": [
+            "ot:2-kgs:24_p10-p16#p14",
+            "ot:2-kgs:25_p1-p12#p11",
+            "ot:jer:13_p19,24#p19",
+            "tg:israel-bondage-of-in-other-lands"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note9a",
+        "content": "return",
+        "refs": ["ot:jer:29_p9-p10#p10", "bofm:1-ne:10_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note9b",
+        "content": "scourge",
+        "refs": ["tg:jesus-christ-betrayal-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note9c",
+        "content": "crucify",
+        "refs": [
+            "bofm:1-ne:19_p10,13#p10",
+            "bofm:mosiah:3_p9#p9",
+            "bofm:3-ne:11_p14-p15#p14",
+            "tg:jesus-christ-crucifixion-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note10a",
+        "content": "hardened",
+        "refs": ["tg:hardheartedness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note10b",
+        "content": "stiffened",
+        "refs": ["tg:stiffnecked"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note10c",
+        "content": "judgments",
+        "refs": ["nt:matt:27_p24-p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note11a",
+        "content": "perish",
+        "refs": ["ot:amos:9_p8-p9#p8", "bofm:2-ne:20_p20-p21#p20"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note11b",
+        "content": "when",
+        "refs": ["bofm:1-ne:22_p11-p12#p12", "bofm:2-ne:9_p1-p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note11c",
+        "content": "knowledge",
+        "refs": [
+            "ot:hosea:3_p5#p5",
+            "dnc:113_p10#p10",
+            "tg:israel-restoration-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note11d",
+        "content": "gathered",
+        "refs": ["tg:israel-gathering-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note11e",
+        "content": "lands",
+        "refs": ["tg:lands-of-inheritance"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note12a",
+        "content": "Gentiles",
+        "refs": ["bofm:1-ne:14_p1-p5#p2", "bofm:2-ne:10_p8-p14,18#p10"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note12b",
+        "content": "abominable",
+        "refs": ["tg:devil-church-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note12c",
+        "content": "covenants",
+        "refs": ["tg:abrahamic-covenant"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note13a",
+        "content": "ashamed",
+        "refs": [
+            "ot:joel:2_p26-p27#p26",
+            "bofm:3-ne:22_p4#p4",
+            "dnc:90_p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note13b",
+        "content": "wait",
+        "refs": [
+            "ot:gen:49_p18#p18",
+            "ot:ps:25_p5#p5",
+            "ot:prov:20_p22#p22",
+            "ot:prov:27_p18#p18",
+            "ot:isa:40_p31#p31",
+            "bofm:1-ne:21_p23#p23",
+            "dnc:98_p2#p2",
+            "dnc:133_p11,45#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note14a",
+        "content": "second",
+        "refs": [
+            "bofm:2-ne:21_p11#p11",
+            "bofm:2-ne:25_p17#p17",
+            "bofm:2-ne:29_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note14b",
+        "content": "manifest",
+        "refs": ["bofm:2-ne:3_p5#p5", "dnc:3_p16-p20#p18"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note14c",
+        "content": "destruction",
+        "refs": ["bofm:1-ne:21_p24-p26#p26", "bofm:1-ne:22_p13-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note15a",
+        "content": "destroyed",
+        "refs": [
+            "bofm:1-ne:22_p13-p23#p13",
+            "bofm:2-ne:10_p15-p16#p16",
+            "bofm:2-ne:28_p15-p32#p15",
+            "bofm:3-ne:16_p8-p15#p8",
+            "bofm:ether:2_p8-p11#p9",
+            "tg:last-days"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note15b",
+        "content": "fire",
+        "refs": [
+            "ot:joel:1_p19-p20#p19",
+            "bofm:jacob:5_p77#p77",
+            "bofm:jacob:6_p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note15c",
+        "content": "bloodsheds",
+        "refs": ["tg:blood-shedding-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note15d",
+        "content": "pestilence",
+        "refs": [
+            "nt:luke:21_p10-p13#p11",
+            "bofm:mosiah:12_p4#p4",
+            "dnc:97_p22-p26#p26",
+            "tg:plague"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note15e",
+        "content": "famine",
+        "refs": ["tg:drought"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note16a",
+        "content": "For",
+        "refs": ["ot:isa:49_p24-p26#p24", "bofm:2-ne:11_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note16b",
+        "content": "lawful captive",
+        "refs": ["bofm:2-ne:6_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note17a",
+        "content": "for",
+        "refs": ["bofm:1-ne:21_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note17b",
+        "content": "Mighty God",
+        "refs": ["tg:jesus-christ-jehovah"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note17c",
+        "content": "deliver",
+        "refs": [
+            "ot:2-kgs:17_p39#p39",
+            "dnc:105_p8#p8",
+            "tg:jesus-christ-prophecies-about",
+            "tg:jesus-christ-savior"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note18a",
+        "content": "Redeemer",
+        "refs": ["tg:jesus-christ-redeemer"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/6",
+        "noteId": "note18b",
+        "content": "Mighty One",
+        "refs": [
+            "ot:gen:49_p24#p24",
+            "ot:ps:132_p2#p2",
+            "ot:isa:1_p24#p24",
+            "ot:isa:60_p16#p16"
+        ]
+    }
+]

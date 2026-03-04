@@ -1,0 +1,412 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note1a",
+        "content": "Gentiles",
+        "refs": [
+            "bofm:1-ne:22_p8-p9#p9",
+            "bofm:2-ne:30_p3#p3",
+            "bofm:3-ne:16_p6-p13#p6",
+            "tg:gentiles"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note1b",
+        "content": "power",
+        "refs": [
+            "nt:1-thes:1_p5#p5",
+            "bofm:1-ne:14_p14#p14",
+            "bofm:jacob:6_p2-p3#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note1c",
+        "content": "taking",
+        "refs": ["bofm:ether:12_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note1d",
+        "content": "stumbling blocks",
+        "refs": [
+            "ot:isa:57_p14#p14",
+            "ot:ezek:7_p19#p19",
+            "nt:1-cor:1_p23#p23",
+            "bofm:1-ne:13_p29,34#p34",
+            "bofm:2-ne:26_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note2a",
+        "content": "numbered",
+        "refs": [
+            "nt:gal:3_p7,29#p7",
+            "bofm:2-ne:10_p18-p19#p18",
+            "bofm:3-ne:16_p13#p13",
+            "bofm:3-ne:21_p6,22#p6",
+            "pgp:abr:2_p9-p11#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note2b",
+        "content": "blessed",
+        "refs": [
+            "bofm:2-ne:6_p12#p12",
+            "bofm:2-ne:10_p8-p14#p10",
+            "bofm:3-ne:16_p6-p7#p6",
+            "bofm:3-ne:20_p27#p27",
+            "bofm:morm:5_p19#p19"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note2c",
+        "content": "promised land",
+        "refs": [
+            "tg:israel-deliverance-of",
+            "tg:israel-restoration-of",
+            "tg:lands-of-inheritance"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note3a",
+        "content": "pit",
+        "refs": [
+            "ot:ps:57_p6#p6",
+            "nt:matt:7_p1-p2#p2",
+            "bofm:1-ne:22_p13-p14#p14",
+            "dnc:10_p25-p27#p26",
+            "dnc:109_p25#p25"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note3b",
+        "content": "hell",
+        "refs": ["bofm:alma:19_p29#p29", "tg:damnation", "tg:hell"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note4a",
+        "content": "captivity",
+        "refs": ["tg:bondage-spiritual"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note5a",
+        "content": "well",
+        "refs": ["bofm:1-ne:13_p34-p42#p39", "bofm:1-ne:22_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note5b",
+        "content": "repenteth",
+        "refs": ["tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note6a",
+        "content": "wo",
+        "refs": ["bofm:2-ne:28_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note7a",
+        "content": "marvelous work",
+        "refs": [
+            "ot:isa:29_p14#p14",
+            "bofm:1-ne:13_p35#p35",
+            "bofm:1-ne:22_p8#p8",
+            "bofm:2-ne:27_p26#p26",
+            "bofm:2-ne:29_p1-p2#p1",
+            "dnc:4_p1#p1",
+            "tg:restoration-of-the-gospel"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note7b",
+        "content": "work",
+        "refs": ["tg:god-works-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note7c",
+        "content": "peace",
+        "refs": ["tg:peace", "tg:peace-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note7d",
+        "content": "life eternal",
+        "refs": ["ot:jer:21_p8#p8", "tg:eternal-life"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note7e",
+        "content": "captivity",
+        "refs": ["bofm:2-ne:2_p26-p29#p29", "bofm:alma:12_p9-p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note8a",
+        "content": "covenants",
+        "refs": ["tg:abrahamic-covenant", "tg:israel-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note9a",
+        "content": "devil",
+        "refs": ["bofm:1-ne:15_p35#p35", "dnc:1_p35#p35", "tg:devil-church-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note10a",
+        "content": "two",
+        "refs": [
+            "bofm:1-ne:22_p23#p23",
+            "bofm:2-ne:26_p20#p20",
+            "bofm:morm:8_p25-p41#p28",
+            "tg:church"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note10b",
+        "content": "other",
+        "refs": ["bofm:1-ne:13_p4-p6#p4", "bofm:1-ne:13_p26,34#p26"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note10c",
+        "content": "devil",
+        "refs": ["tg:devil-church-of", "tg:false-prophets"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note10d",
+        "content": "whoso",
+        "refs": ["bofm:2-ne:10_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note10e",
+        "content": "whore",
+        "refs": ["nt:rev:17_p5,15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note11a",
+        "content": "waters",
+        "refs": ["ot:jer:51_p12-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note11b",
+        "content": "all",
+        "refs": ["dnc:35_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note12a",
+        "content": "few",
+        "refs": [
+            "nt:matt:7_p14#p14",
+            "bofm:jacob:5_p70#p70",
+            "bofm:3-ne:14_p14#p14",
+            "dnc:138_p26#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note12b",
+        "content": "all",
+        "refs": ["dnc:90_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note13a",
+        "content": "fight",
+        "refs": [
+            "nt:rev:17_p1-p6#p6",
+            "nt:rev:18_p24#p24",
+            "bofm:1-ne:13_p5#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note14a",
+        "content": "armed",
+        "refs": ["tg:mission-of-latter-day-saints"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note14b",
+        "content": "righteousness",
+        "refs": ["tg:deliver", "tg:protection-divine"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note14c",
+        "content": "power",
+        "refs": [
+            "nt:luke:24_p49#p49",
+            "bofm:1-ne:13_p37#p37",
+            "bofm:1-ne:14_p1#p1",
+            "bofm:jacob:6_p2-p3#p2",
+            "dnc:38_p32-p38#p38"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note15a",
+        "content": "poured",
+        "refs": ["dnc:115_p5-p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note15b",
+        "content": "nations",
+        "refs": ["nt:mark:13_p8#p8", "dnc:87_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note16a",
+        "content": "wars",
+        "refs": ["bofm:1-ne:22_p13-p14#p13", "bofm:morm:8_p30#p30", "tg:war"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note17a",
+        "content": "day",
+        "refs": ["tg:last-days"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note17b",
+        "content": "wrath",
+        "refs": [
+            "bofm:1-ne:21_p26#p26",
+            "bofm:1-ne:22_p15-p16#p16",
+            "bofm:3-ne:20_p19-p21#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note17c",
+        "content": "work",
+        "refs": ["bofm:3-ne:21_p7,20-p29#p26", "tg:israel-restoration-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note17d",
+        "content": "covenants",
+        "refs": ["bofm:morm:8_p21,41#p21", "tg:abrahamic-covenant"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note20a",
+        "content": "one",
+        "refs": ["nt:rev:1_p1-p3#p1", "bofm:1-ne:14_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note21a",
+        "content": "see",
+        "refs": ["nt:rev:1_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note21b",
+        "content": "write",
+        "refs": ["bofm:1-ne:13_p20-p40#p24", "pgp:a-of-f:1_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note21c",
+        "content": "remainder",
+        "refs": ["nt:rev:4_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note23a",
+        "content": "book",
+        "refs": [
+            "bofm:1-ne:13_p20-p24#p20",
+            "bofm:morm:8_p33#p33",
+            "bofm:ether:4_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note23b",
+        "content": "precious",
+        "refs": ["bofm:1-ne:13_p28-p32#p28"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note24a",
+        "content": "apostle",
+        "refs": ["bofm:ether:4_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note25a",
+        "content": "write",
+        "refs": [
+            "nt:john:20_p30-p31#p30",
+            "nt:john:21_p25#p25",
+            "nt:rev:1_p19#p19"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note26a",
+        "content": "written",
+        "refs": ["tg:scriptures-writing-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note26b",
+        "content": "sealed",
+        "refs": [
+            "ot:dan:12_p9#p9",
+            "bofm:2-ne:27_p6-p23#p10",
+            "bofm:2-ne:30_p17#p17",
+            "bofm:ether:3_p21-p27#p21",
+            "bofm:ether:4_p4-p7#p5",
+            "bofm:ether:12_p21#p21",
+            "dnc:35_p18#p18",
+            "pgp:js-h:1_p65#p65"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note27a",
+        "content": "John",
+        "refs": ["nt:rev:1_p1-p3#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note29a",
+        "content": "father",
+        "refs": ["bofm:1-ne:8_p2-p35#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note30a",
+        "content": "carried away",
+        "refs": ["ot:1-kgs:18_p12#p12", "bofm:1-ne:11_p19,29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/14",
+        "noteId": "note30b",
+        "content": "true",
+        "refs": ["bofm:1-ne:13_p39#p39", "bofm:2-ne:25_p20#p20"]
+    }
+]

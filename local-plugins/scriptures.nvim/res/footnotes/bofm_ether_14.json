@@ -1,0 +1,67 @@
+[
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note1a",
+        "content": "curse",
+        "refs": [
+            "bofm:hel:12_p18#p18",
+            "bofm:hel:13_p17-p23#p18",
+            "bofm:morm:1_p17-p19#p18",
+            "bofm:morm:2_p10-p14#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note2a",
+        "content": "defence",
+        "refs": ["bofm:morm:2_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note6a",
+        "content": "Moron",
+        "refs": ["bofm:ether:7_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note21a",
+        "content": "bodies",
+        "refs": ["bofm:ether:11_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note21b",
+        "content": "dead",
+        "refs": ["ot:ezek:35_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note22a",
+        "content": "blood",
+        "refs": ["ot:hosea:4_p1-p3#p2"]
+    },
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note22b",
+        "content": "worms",
+        "refs": ["ot:isa:14_p9-p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note23a",
+        "content": "scent",
+        "refs": ["bofm:alma:16_p9-p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note24a",
+        "content": "not",
+        "refs": ["bofm:ether:13_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/ether/14",
+        "noteId": "note25a",
+        "content": "wrath",
+        "refs": ["tg:god-indignation-of"]
+    }
+]

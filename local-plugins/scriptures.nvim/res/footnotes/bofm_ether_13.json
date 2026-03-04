@@ -1,0 +1,235 @@
+[
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note2a",
+        "content": "receded",
+        "refs": ["ot:gen:7_p11-p24#p19", "ot:gen:8_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note2b",
+        "content": "land",
+        "refs": ["tg:earth-dividing-of"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note2c",
+        "content": "serve",
+        "refs": ["bofm:ether:2_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note3a",
+        "content": "New Jerusalem",
+        "refs": [
+            "bofm:3-ne:20_p22#p22",
+            "bofm:3-ne:21_p23-p24#p23",
+            "tg:jerusalem-new"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note3b",
+        "content": "come",
+        "refs": ["nt:rev:3_p12#p12", "nt:rev:21_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note4a",
+        "content": "New Jerusalem",
+        "refs": ["tg:zion"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note5a",
+        "content": "Jerusalem",
+        "refs": ["tg:jerusalem"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note5b",
+        "content": "Lehi",
+        "refs": ["bofm:1-ne:1_p18-p20#p18", "bofm:1-ne:2_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note5c",
+        "content": "holy city",
+        "refs": [
+            "ot:joel:2_p18#p18",
+            "nt:rev:21_p10-p27#p10",
+            "bofm:3-ne:20_p29-p36,46#p46"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note6a",
+        "content": "New Jerusalem",
+        "refs": [
+            "dnc:42_p9#p9",
+            "dnc:45_p66-p67#p66",
+            "dnc:84_p2-p5#p2",
+            "pgp:a-of-f:1_p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note6b",
+        "content": "Joseph",
+        "refs": [
+            "ot:ezek:48_p4-p5#p5",
+            "dnc:28_p8#p8",
+            "tg:israel-joseph-people-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note6c",
+        "content": "type",
+        "refs": ["bofm:alma:46_p24-p26#p24", "tg:symbolism"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note7a",
+        "content": "Egypt",
+        "refs": ["ot:gen:46_p2-p7#p6", "ot:gen:47_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note7b",
+        "content": "perish",
+        "refs": ["bofm:2-ne:3_p5-p24#p5"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note8a",
+        "content": "land",
+        "refs": ["tg:promised-lands"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note8b",
+        "content": "city",
+        "refs": ["nt:rev:21_p10-p27#p10"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note8c",
+        "content": "no more",
+        "refs": ["bofm:moro:10_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note9a",
+        "content": "new",
+        "refs": [
+            "nt:heb:8_p13#p13",
+            "nt:2-pet:3_p10-p13#p13",
+            "nt:rev:21_p1#p1",
+            "bofm:3-ne:12_p46-p47#p47",
+            "bofm:3-ne:15_p2-p10#p3",
+            "dnc:101_p23-p25#p25"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note10a",
+        "content": "white",
+        "refs": ["nt:rev:7_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note11a",
+        "content": "Jerusalem",
+        "refs": ["tg:israel-gathering-of", "tg:israel-land-of", "tg:jerusalem"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note11b",
+        "content": "north",
+        "refs": ["dnc:133_p26-p35#p26", "tg:israel-ten-lost-tribes-of"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note11c",
+        "content": "Abraham",
+        "refs": ["ot:isa:27_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note12a",
+        "content": "first",
+        "refs": [
+            "nt:mark:10_p31#p31",
+            "nt:luke:13_p30#p30",
+            "bofm:1-ne:13_p42#p42",
+            "bofm:jacob:5_p63#p63",
+            "dnc:18_p26-p27#p26",
+            "dnc:90_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note13a",
+        "content": "hid",
+        "refs": [
+            "ot:1-kgs:17_p1-p16#p3",
+            "bofm:1-ne:3_p27#p27",
+            "bofm:mosiah:17_p1-p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note14a",
+        "content": "remainder",
+        "refs": ["bofm:ether:15_p13,33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note17a",
+        "content": "fair",
+        "refs": ["bofm:morm:6_p16-p22#p19"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note18a",
+        "content": "secret combinations",
+        "refs": ["bofm:ether:8_p9-p26#p9"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note20a",
+        "content": "prophesy",
+        "refs": ["bofm:ether:15_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note20b",
+        "content": "Coriantumr",
+        "refs": ["bofm:omni:1_p21#p21", "bofm:ether:12_p1-p2#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note21a",
+        "content": "another",
+        "refs": ["bofm:ether:11_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note21b",
+        "content": "Coriantumr",
+        "refs": ["bofm:ether:14_p24#p24", "bofm:ether:15_p29-p32#p29"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note22a",
+        "content": "kill",
+        "refs": ["ot:prov:29_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/ether/13",
+        "noteId": "note25a",
+        "content": "every man",
+        "refs": ["tg:covet", "tg:selfishness"]
+    }
+]

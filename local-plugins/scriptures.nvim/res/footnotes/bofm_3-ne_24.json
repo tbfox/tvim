@@ -1,0 +1,228 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note1a",
+        "content": "send",
+        "refs": ["ot:mal:3_p1-p18#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note1b",
+        "content": "messenger",
+        "refs": ["dnc:45_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note1c",
+        "content": "come",
+        "refs": [
+            "ot:isa:59_p20-p21#p20",
+            "bofm:3-ne:20_p22#p22",
+            "bofm:3-ne:21_p25#p25"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note1d",
+        "content": "messenger",
+        "refs": ["tg:jesus-christ-messenger-of-the-covenant"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note2a",
+        "content": "abide",
+        "refs": ["bofm:3-ne:25_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note2b",
+        "content": "refiner’s",
+        "refs": [
+            "ot:deut:4_p24#p24",
+            "ot:zech:13_p9#p9",
+            "dnc:128_p24#p24",
+            "tg:earth-cleansing-of",
+            "tg:jesus-christ-second-coming"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note3a",
+        "content": "purify",
+        "refs": ["tg:purification"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note3b",
+        "content": "sons of Levi",
+        "refs": ["ot:deut:10_p8#p8", "dnc:84_p31-p34#p31", "dnc:128_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note3c",
+        "content": "offer",
+        "refs": ["dnc:13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note5a",
+        "content": "near",
+        "refs": ["ot:ezek:43_p1-p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note5b",
+        "content": "sorcerers",
+        "refs": ["tg:sorcery"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note5c",
+        "content": "swearers",
+        "refs": ["ot:hosea:10_p4#p4", "dnc:104_p4-p5#p5", "tg:swearing"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note5d",
+        "content": "oppress",
+        "refs": ["ot:ps:94_p6#p6", "tg:oppression"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note5e",
+        "content": "fatherless",
+        "refs": [
+            "ot:ps:10_p14#p14",
+            "ot:ps:68_p5#p5",
+            "nt:james:1_p27#p27",
+            "dnc:136_p8#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note5f",
+        "content": "stranger",
+        "refs": ["tg:stranger"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note6a",
+        "content": "I am",
+        "refs": ["bofm:2-ne:6_p7#p7", "pgp:moses:1_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note7a",
+        "content": "ordinances",
+        "refs": ["tg:ordinance"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note7b",
+        "content": "Return",
+        "refs": [
+            "ot:1-sam:7_p3#p3",
+            "bofm:hel:13_p11#p11",
+            "bofm:3-ne:10_p5-p7#p6",
+            "bofm:moro:9_p22#p22"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note8a",
+        "content": "tithes",
+        "refs": ["tg:tithing"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note8b",
+        "content": "offerings",
+        "refs": ["ot:neh:10_p32#p32", "tg:sacrifice"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note10a",
+        "content": "tithes",
+        "refs": ["dnc:64_p23#p23", "dnc:119_p1-p7#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note10b",
+        "content": "meat",
+        "refs": ["tg:food"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note10c",
+        "content": "windows of heaven",
+        "refs": ["ot:gen:7_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note10d",
+        "content": "blessing",
+        "refs": ["tg:blessing"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note11a",
+        "content": "devourer",
+        "refs": ["dnc:86_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note14a",
+        "content": "said",
+        "refs": [
+            "ot:job:16_p11-p17#p11",
+            "ot:jer:20_p7-p8#p7",
+            "ot:hab:1_p1-p4#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note14b",
+        "content": "vain",
+        "refs": ["ot:mal:3_p14-p15#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note14c",
+        "content": "ordinances",
+        "refs": ["tg:ordinance"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note16a",
+        "content": "spake",
+        "refs": ["bofm:4-ne:1_p12#p12", "bofm:moro:6_p5-p6#p5"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note16b",
+        "content": "remembrance",
+        "refs": [
+            "dnc:85_p7-p9#p9",
+            "pgp:moses:6_p5#p5",
+            "tg:book-of-remembrance"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note17a",
+        "content": "mine",
+        "refs": ["ot:lev:20_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note17b",
+        "content": "make",
+        "refs": ["dnc:101_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/24",
+        "noteId": "note18a",
+        "content": "discern",
+        "refs": ["tg:discernment-spiritual"]
+    }
+]

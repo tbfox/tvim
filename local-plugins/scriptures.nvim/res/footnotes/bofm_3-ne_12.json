@@ -1,0 +1,518 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note1a",
+        "content": "And",
+        "refs": ["nt:matt:5_p1-p48#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note1b",
+        "content": "baptize",
+        "refs": ["nt:mark:16_p15-p16#p16", "nt:john:4_p1-p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note1c",
+        "content": "twelve",
+        "refs": ["bofm:3-ne:11_p22#p22", "bofm:3-ne:13_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note1d",
+        "content": "Blessed",
+        "refs": ["tg:blessing"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note1e",
+        "content": "chosen",
+        "refs": ["tg:called-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note2a",
+        "content": "believe",
+        "refs": ["tg:teachable"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note2b",
+        "content": "believe",
+        "refs": ["bofm:mosiah:26_p15-p16#p15", "dnc:46_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note2c",
+        "content": "words",
+        "refs": ["bofm:3-ne:11_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note2d",
+        "content": "come",
+        "refs": ["bofm:ether:4_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note2e",
+        "content": "with",
+        "refs": ["bofm:3-ne:11_p35#p35", "bofm:3-ne:19_p13-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note3a",
+        "content": "poor in spirit",
+        "refs": [
+            "ot:ps:86_p1#p1",
+            "ot:eccl:4_p13-p14#p13",
+            "nt:matt:5_p3#p3",
+            "dnc:56_p17-p18#p18",
+            "tg:poor-in-spirit"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note3b",
+        "content": "come",
+        "refs": ["nt:matt:11_p28-p30#p28"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note4a",
+        "content": "mourn",
+        "refs": ["bofm:morm:2_p11-p14#p11", "tg:mourning"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note4b",
+        "content": "comforted",
+        "refs": ["nt:matt:5_p4#p4", "bofm:alma:28_p6#p6", "tg:comfort"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note5a",
+        "content": "meek",
+        "refs": ["ot:zeph:2_p1-p3#p3", "nt:rom:12_p16#p16", "tg:meek"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note5b",
+        "content": "earth",
+        "refs": ["tg:earth-destiny-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note6a",
+        "content": "hunger",
+        "refs": ["nt:matt:5_p6#p6", "bofm:2-ne:9_p51#p51", "bofm:enos:1_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note6b",
+        "content": "thirst",
+        "refs": ["ot:jer:29_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note6c",
+        "content": "righteousness",
+        "refs": ["ot:prov:21_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note6d",
+        "content": "filled",
+        "refs": ["tg:spirituality"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note7a",
+        "content": "merciful",
+        "refs": ["tg:mercy"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note8a",
+        "content": "pure",
+        "refs": ["tg:purity"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note8b",
+        "content": "see",
+        "refs": ["tg:god-privilege-of-seeing"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note9a",
+        "content": "peacemakers",
+        "refs": ["tg:peacemakers"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note9b",
+        "content": "children",
+        "refs": ["tg:sons-and-daughters-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note10a",
+        "content": "persecuted",
+        "refs": ["nt:matt:5_p10#p10", "dnc:122_p5-p9#p5"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note11a",
+        "content": "revile",
+        "refs": ["tg:reviling"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note12a",
+        "content": "ye",
+        "refs": ["nt:matt:5_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note12b",
+        "content": "reward",
+        "refs": ["tg:reward"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note12c",
+        "content": "persecuted",
+        "refs": ["nt:2-cor:7_p4#p4", "tg:prophets-rejection-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note13a",
+        "content": "salt",
+        "refs": [
+            "ot:2-chr:13_p5#p5",
+            "nt:matt:5_p13#p13",
+            "dnc:101_p39-p40#p39",
+            "tg:mission-of-early-saints",
+            "tg:salt"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note15a",
+        "content": "candle",
+        "refs": ["nt:luke:8_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note16a",
+        "content": "light",
+        "refs": ["bofm:3-ne:18_p24#p24", "tg:example"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note16b",
+        "content": "glorify",
+        "refs": ["nt:john:11_p1-p4#p4", "bofm:ether:12_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note18a",
+        "content": "one",
+        "refs": ["nt:matt:5_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note18b",
+        "content": "law",
+        "refs": ["tg:law-of-moses"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note19a",
+        "content": "broken heart",
+        "refs": ["bofm:3-ne:9_p20#p20", "tg:contrite-heart"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note19b",
+        "content": "law",
+        "refs": ["bofm:3-ne:9_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note20a",
+        "content": "come",
+        "refs": ["ot:isa:55_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note20b",
+        "content": "commandments",
+        "refs": ["bofm:3-ne:15_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note21a",
+        "content": "kill",
+        "refs": [
+            "ot:ex:20_p13-p17#p13",
+            "ot:deut:5_p17-p21#p17",
+            "nt:matt:5_p21#p21",
+            "bofm:mosiah:13_p21-p24#p21",
+            "dnc:42_p18#p18",
+            "tg:life-sanctity-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note22a",
+        "content": "angry",
+        "refs": ["nt:matt:5_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note23a",
+        "content": "if",
+        "refs": ["nt:matt:5_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note24a",
+        "content": "reconciled",
+        "refs": ["tg:forgive", "tg:reconciliation"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note24b",
+        "content": "purpose",
+        "refs": ["bofm:3-ne:18_p28-p33#p29", "dnc:46_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note25a",
+        "content": "Agree",
+        "refs": ["nt:matt:5_p25-p26#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note26a",
+        "content": "senine",
+        "refs": ["bofm:alma:11_p3#p3", "bofm:alma:30_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note27a",
+        "content": "adultery",
+        "refs": ["nt:matt:5_p27#p27", "bofm:2-ne:9_p36#p36", "dnc:59_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note28a",
+        "content": "lust after",
+        "refs": ["tg:lust"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note29a",
+        "content": "none",
+        "refs": ["dnc:42_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note29b",
+        "content": "heart",
+        "refs": ["nt:acts:8_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note30a",
+        "content": "cross",
+        "refs": [
+            "nt:matt:10_p38#p38",
+            "nt:matt:16_p24#p24",
+            "nt:luke:9_p23#p23",
+            "nt:luke:14_p27#p27",
+            "dnc:23_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note31a",
+        "content": "divorcement",
+        "refs": ["tg:divorce"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note32a",
+        "content": "put away",
+        "refs": [
+            "nt:matt:5_p32#p32",
+            "nt:mark:10_p11-p12#p11",
+            "nt:luke:16_p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note32b",
+        "content": "fornication",
+        "refs": ["tg:fornication"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note32c",
+        "content": "adultery",
+        "refs": ["tg:adulterer"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note33a",
+        "content": "forswear",
+        "refs": ["tg:swearing"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note33b",
+        "content": "perform",
+        "refs": ["tg:dependability"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note33c",
+        "content": "oaths",
+        "refs": ["tg:oath"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note34a",
+        "content": "swear",
+        "refs": ["ot:lev:5_p4#p4", "bofm:morm:3_p14#p14", "tg:profanity"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note37a",
+        "content": "communication",
+        "refs": ["tg:communication"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note37b",
+        "content": "Yea",
+        "refs": ["tg:honesty"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note38a",
+        "content": "eye",
+        "refs": ["ot:lev:24_p20#p20", "nt:matt:5_p38-p42#p38", "tg:punish"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note39a",
+        "content": "resist",
+        "refs": [
+            "bofm:3-ne:6_p13#p13",
+            "bofm:4-ne:1_p34#p34",
+            "dnc:98_p23-p27#p23",
+            "tg:submissiveness"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note39b",
+        "content": "cheek",
+        "refs": ["ot:lam:3_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note39c",
+        "content": "turn",
+        "refs": ["tg:forbear", "tg:patience"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note40a",
+        "content": "let",
+        "refs": ["tg:charity", "tg:initiative"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note41a",
+        "content": "go",
+        "refs": ["tg:generosity"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note42a",
+        "content": "Give",
+        "refs": ["bofm:jacob:2_p17-p19#p19", "bofm:mosiah:4_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note42b",
+        "content": "borrow",
+        "refs": ["tg:borrow"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note44a",
+        "content": "enemies",
+        "refs": [
+            "ot:prov:24_p17#p17",
+            "ot:prov:25_p21-p22#p21",
+            "bofm:alma:48_p23#p23",
+            "tg:enemies"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note44b",
+        "content": "good",
+        "refs": ["tg:benevolence"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note44c",
+        "content": "pray",
+        "refs": ["nt:acts:7_p59-p60#p60", "nt:2-tim:4_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note45a",
+        "content": "on",
+        "refs": ["nt:matt:5_p45#p45"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note46a",
+        "content": "fulfilled",
+        "refs": ["nt:heb:8_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note47a",
+        "content": "Old",
+        "refs": ["bofm:3-ne:9_p17#p17", "bofm:3-ne:15_p2,7#p2", "dnc:22_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note47b",
+        "content": "new",
+        "refs": ["ot:jer:31_p31-p33#p31", "bofm:ether:13_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/12",
+        "noteId": "note48a",
+        "content": "perfect",
+        "refs": [
+            "nt:matt:5_p48#p48",
+            "bofm:3-ne:19_p28-p29#p29",
+            "bofm:3-ne:27_p27#p27",
+            "tg:god-perfection-of",
+            "tg:god-the-standard-of-righteousness",
+            "tg:jesus-christ-exemplar",
+            "tg:man-new-spiritually-reborn",
+            "tg:man-potential-to-become-like-heavenly-father"
+        ]
+    }
+]

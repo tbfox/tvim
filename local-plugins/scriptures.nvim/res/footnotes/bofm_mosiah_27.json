@@ -1,0 +1,451 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note1a",
+        "content": "consulted",
+        "refs": ["tg:counsel"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note2a",
+        "content": "persecute",
+        "refs": ["tg:persecution"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note3a",
+        "content": "persecutions",
+        "refs": ["tg:malice"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note3b",
+        "content": "equality",
+        "refs": [
+            "bofm:mosiah:23_p7#p7",
+            "bofm:mosiah:29_p32#p32",
+            "bofm:alma:30_p11#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note4a",
+        "content": "peace",
+        "refs": ["tg:peace"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note4b",
+        "content": "esteem",
+        "refs": ["tg:love"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note4c",
+        "content": "neighbor",
+        "refs": ["tg:neighbor"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note4d",
+        "content": "laboring",
+        "refs": ["tg:industry", "tg:labor"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note5a",
+        "content": "should",
+        "refs": ["bofm:mosiah:18_p24,26#p24", "bofm:alma:1_p3,26#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note5b",
+        "content": "labor",
+        "refs": ["tg:work-value-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note5c",
+        "content": "grace",
+        "refs": ["tg:grace"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note7a",
+        "content": "visit",
+        "refs": ["ot:ex:3_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note7b",
+        "content": "prosper",
+        "refs": ["tg:prosper"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note8a",
+        "content": "unbelievers",
+        "refs": [
+            "ot:1-sam:3_p13#p13",
+            "bofm:1-ne:2_p12-p13#p12",
+            "pgp:moses:5_p16#p16",
+            "tg:unbelief"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note8b",
+        "content": "idolatrous",
+        "refs": ["tg:idolatry"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note8c",
+        "content": "flattery",
+        "refs": ["tg:flatter"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note8d",
+        "content": "led",
+        "refs": ["tg:peer-influence"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note8e",
+        "content": "iniquities",
+        "refs": ["ot:mal:2_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note9a",
+        "content": "stealing",
+        "refs": [
+            "ot:2-sam:12_p1-p14#p14",
+            "ot:2-sam:15_p1-p6#p6",
+            "tg:apostasy-of-individuals"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note9b",
+        "content": "power",
+        "refs": ["dnc:50_p7#p7", "dnc:93_p37,39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note10a",
+        "content": "destroy",
+        "refs": ["nt:acts:8_p3#p3", "bofm:mosiah:28_p3-p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note11a",
+        "content": "rebelling",
+        "refs": ["tg:disobedience", "tg:rebellion"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note11b",
+        "content": "angel",
+        "refs": ["bofm:alma:21_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note11c",
+        "content": "appeared",
+        "refs": [
+            "nt:acts:9_p1-p9#p3",
+            "bofm:mosiah:27_p15#p15",
+            "bofm:alma:8_p15#p15",
+            "bofm:alma:17_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note11d",
+        "content": "cloud",
+        "refs": ["ot:ex:19_p9,16#p9"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note13a",
+        "content": "This",
+        "refs": ["bofm:mosiah:26_p22#p22", "tg:jesus-christ-head-of-the-church"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note13b",
+        "content": "overthrow",
+        "refs": ["ot:hosea:13_p9#p9", "tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note14a",
+        "content": "heard",
+        "refs": ["ot:dan:10_p12#p12", "pgp:abr:1_p15-p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note14b",
+        "content": "prayers",
+        "refs": ["nt:2-cor:1_p11#p11", "bofm:alma:10_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note14c",
+        "content": "prayed",
+        "refs": ["tg:family-love-within"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note14d",
+        "content": "knowledge",
+        "refs": ["ot:hosea:4_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note14e",
+        "content": "convince",
+        "refs": ["bofm:alma:29_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note14f",
+        "content": "prayers",
+        "refs": ["bofm:alma:19_p17#p17", "bofm:morm:9_p36-p37#p36"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note15a",
+        "content": "behold",
+        "refs": ["bofm:mosiah:27_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note16a",
+        "content": "Helam",
+        "refs": ["bofm:mosiah:23_p19#p19", "bofm:alma:24_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note16b",
+        "content": "bondage",
+        "refs": ["bofm:mosiah:25_p10#p10", "bofm:alma:5_p5-p6#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note16c",
+        "content": "delivered",
+        "refs": ["bofm:mosiah:23_p1-p4#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note16d",
+        "content": "thyself",
+        "refs": ["bofm:alma:30_p47#p47"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note16e",
+        "content": "cast off",
+        "refs": ["ot:micah:3_p1-p7#p6", "nt:matt:8_p11-p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note18a",
+        "content": "angel",
+        "refs": ["tg:angels"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note18b",
+        "content": "shook",
+        "refs": ["ot:isa:6_p4#p4", "bofm:alma:36_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note19a",
+        "content": "dumb",
+        "refs": ["ot:dan:10_p15#p15", "nt:luke:1_p20-p22#p20"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note23a",
+        "content": "two",
+        "refs": ["bofm:alma:36_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note24a",
+        "content": "redeemed",
+        "refs": [
+            "ot:ps:49_p15#p15",
+            "bofm:alma:27_p25#p25",
+            "pgp:a-of-f:1_p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note25a",
+        "content": "born again",
+        "refs": [
+            "nt:rom:6_p3-p11#p3",
+            "tg:conversion",
+            "tg:man-new-spiritually-reborn"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note25b",
+        "content": "born of God",
+        "refs": ["bofm:mosiah:5_p7#p7", "bofm:alma:5_p14,49#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note25c",
+        "content": "changed",
+        "refs": ["pgp:moses:6_p65#p65"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note25d",
+        "content": "fallen",
+        "refs": ["tg:man-natural-not-spiritually-reborn"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note25e",
+        "content": "sons",
+        "refs": ["bofm:mosiah:15_p10#p10", "bofm:moro:7_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note26a",
+        "content": "nowise",
+        "refs": ["nt:john:3_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note28a",
+        "content": "wading",
+        "refs": ["bofm:alma:7_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note28b",
+        "content": "tribulation",
+        "refs": ["tg:tribulation"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note28c",
+        "content": "everlasting",
+        "refs": ["bofm:2-ne:9_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note29a",
+        "content": "redeemed",
+        "refs": ["ot:isa:38_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note29b",
+        "content": "bonds",
+        "refs": ["ot:isa:58_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note29c",
+        "content": "racked",
+        "refs": ["bofm:mosiah:2_p38#p38"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note29d",
+        "content": "pained",
+        "refs": ["tg:pain"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note30a",
+        "content": "all",
+        "refs": ["dnc:84_p45-p46#p46"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note31a",
+        "content": "every",
+        "refs": [
+            "nt:philip:2_p9-p11#p10",
+            "bofm:mosiah:16_p1-p2#p1",
+            "dnc:88_p104#p104",
+            "dnc:138_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note31b",
+        "content": "judged",
+        "refs": ["tg:jesus-christ-judge"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note31c",
+        "content": "God",
+        "refs": ["bofm:mosiah:7_p27#p27", "bofm:alma:11_p38-p39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note31d",
+        "content": "without",
+        "refs": ["nt:eph:2_p12#p12", "bofm:alma:41_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note31e",
+        "content": "all-searching",
+        "refs": ["tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note34a",
+        "content": "sons of Mosiah",
+        "refs": [
+            "bofm:mosiah:28_p1#p1",
+            "bofm:mosiah:29_p3#p3",
+            "bofm:alma:17_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note35a",
+        "content": "people",
+        "refs": ["bofm:mosiah:1_p10#p10", "bofm:mosiah:28_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note35b",
+        "content": "zealously",
+        "refs": ["tg:zeal"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note35c",
+        "content": "confessing",
+        "refs": ["bofm:alma:39_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note37a",
+        "content": "publish",
+        "refs": ["bofm:mosiah:12_p21#p21", "bofm:mosiah:15_p14-p17#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/27",
+        "noteId": "note37b",
+        "content": "peace",
+        "refs": ["tg:peace-of-god"]
+    }
+]

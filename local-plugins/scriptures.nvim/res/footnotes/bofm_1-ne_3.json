@@ -1,0 +1,242 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note1a",
+        "content": "speaking",
+        "refs": ["bofm:1-ne:2_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note2a",
+        "content": "dream",
+        "refs": ["tg:dream"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note2b",
+        "content": "return",
+        "refs": ["bofm:1-ne:2_p1-p5#p4", "bofm:1-ne:7_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note3a",
+        "content": "genealogy",
+        "refs": ["bofm:1-ne:3_p12#p12", "bofm:1-ne:5_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note3b",
+        "content": "engraven",
+        "refs": ["ot:jer:17_p1#p1", "bofm:1-ne:3_p12,19-p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note6a",
+        "content": "not",
+        "refs": ["tg:sustaining-church-leaders"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note6b",
+        "content": "murmured",
+        "refs": ["tg:murmuring"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note7a",
+        "content": "will",
+        "refs": [
+            "ot:1-sam:17_p32#p32",
+            "ot:1-kgs:17_p11-p15#p15",
+            "tg:faith",
+            "tg:loyalty",
+            "tg:obedience"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note7b",
+        "content": "commandments",
+        "refs": ["tg:commandments-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note7c",
+        "content": "prepare",
+        "refs": [
+            "ot:gen:18_p14#p14",
+            "nt:philip:4_p13#p13",
+            "bofm:1-ne:17_p3,50#p3",
+            "dnc:5_p34#p34"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note11a",
+        "content": "cast lots",
+        "refs": ["ot:neh:10_p34#p34", "nt:acts:1_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note12a",
+        "content": "genealogy",
+        "refs": [
+            "bofm:1-ne:3_p3#p3",
+            "bofm:1-ne:5_p14#p14",
+            "bofm:jarom:1_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note15a",
+        "content": "As",
+        "refs": ["tg:oath", "tg:promise"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note15b",
+        "content": "accomplished",
+        "refs": ["tg:commitment", "tg:dedication"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note16a",
+        "content": "inheritance",
+        "refs": ["bofm:1-ne:2_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note16b",
+        "content": "commandments",
+        "refs": ["bofm:1-ne:2_p2#p2", "bofm:1-ne:4_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note17a",
+        "content": "destroyed",
+        "refs": [
+            "ot:2-chr:36_p16-p20#p20",
+            "ot:jer:39_p1-p9#p9",
+            "bofm:1-ne:1_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note18a",
+        "content": "rejected",
+        "refs": ["ot:jer:26_p21-p24#p23", "tg:prophets-rejection-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note18b",
+        "content": "commanded",
+        "refs": [
+            "bofm:1-ne:5_p21#p21",
+            "bofm:1-ne:7_p2#p2",
+            "bofm:1-ne:16_p8#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note19a",
+        "content": "records",
+        "refs": [
+            "bofm:omni:1_p17#p17",
+            "bofm:mosiah:1_p2-p6#p3",
+            "tg:record-keeping"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note20a",
+        "content": "preserve",
+        "refs": ["tg:scriptures-preservation-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note20b",
+        "content": "prophets",
+        "refs": [
+            "ot:zech:7_p12#p12",
+            "nt:matt:11_p13#p13",
+            "bofm:mosiah:15_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note21a",
+        "content": "persuade",
+        "refs": ["tg:family-love-within", "tg:persuade"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note22a",
+        "content": "gold",
+        "refs": ["bofm:1-ne:2_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note24a",
+        "content": "plates of brass",
+        "refs": ["bofm:1-ne:3_p3#p3", "bofm:1-ne:4_p24,38#p24"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note25a",
+        "content": "lust",
+        "refs": ["tg:covet"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note26a",
+        "content": "it",
+        "refs": ["bofm:1-ne:4_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note27a",
+        "content": "hid",
+        "refs": [
+            "ot:josh:10_p16-p17#p16",
+            "ot:1-sam:13_p6#p6",
+            "ot:jer:36_p26#p26",
+            "bofm:ether:13_p13,22#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note28a",
+        "content": "hard words",
+        "refs": ["bofm:1-ne:17_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note29a",
+        "content": "angel",
+        "refs": ["bofm:1-ne:4_p3#p3", "bofm:1-ne:7_p10#p10", "tg:angels"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note29b",
+        "content": "ruler",
+        "refs": ["ot:gen:41_p41-p43#p43", "bofm:1-ne:2_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note29c",
+        "content": "deliver",
+        "refs": ["ot:2-kgs:3_p18#p18", "bofm:3-ne:3_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note30a",
+        "content": "angel",
+        "refs": ["bofm:1-ne:4_p3#p3", "bofm:1-ne:16_p38#p38"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/3",
+        "noteId": "note31a",
+        "content": "murmur",
+        "refs": ["tg:murmuring"]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/14",
+        "noteId": "note1a",
+        "content": "And",
+        "refs": ["ot:isa:4_p1-p6#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/14",
+        "noteId": "note1b",
+        "content": "reproach",
+        "refs": ["tg:reproach"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/14",
+        "noteId": "note2a",
+        "content": "branch",
+        "refs": [
+            "ot:isa:60_p21#p21",
+            "ot:isa:61_p3#p3",
+            "bofm:2-ne:3_p5#p5",
+            "bofm:jacob:2_p25#p25"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/14",
+        "noteId": "note3a",
+        "content": "left",
+        "refs": ["nt:matt:13_p41-p43#p43"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/14",
+        "noteId": "note4a",
+        "content": "washed",
+        "refs": ["bofm:2-ne:13_p16-p26#p24", "tg:wash"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/14",
+        "noteId": "note4b",
+        "content": "burning",
+        "refs": ["ot:mal:3_p2#p2", "ot:mal:4_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/14",
+        "noteId": "note5a",
+        "content": "Lord",
+        "refs": ["ot:isa:60_p1-p3,19-p21#p20", "tg:god-presence-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/14",
+        "noteId": "note5b",
+        "content": "cloud",
+        "refs": ["ot:ex:13_p21#p21", "ot:zech:2_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/14",
+        "noteId": "note6a",
+        "content": "refuge",
+        "refs": ["ot:isa:25_p4#p4", "tg:refuge"]
+    }
+]

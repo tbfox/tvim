@@ -1,0 +1,188 @@
+[
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note1a",
+        "content": "man",
+        "refs": [
+            "bofm:alma:1_p15#p15",
+            "bofm:alma:16_p11#p11",
+            "bofm:alma:24_p28-p30#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note1b",
+        "content": "Gideon",
+        "refs": ["bofm:alma:1_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note2a",
+        "content": "drawn",
+        "refs": ["ot:2-sam:15_p1-p10#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note3a",
+        "content": "voice",
+        "refs": ["bofm:mosiah:29_p25-p27#p25", "bofm:alma:4_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note4a",
+        "content": "deprive",
+        "refs": [
+            "bofm:mosiah:29_p27#p27",
+            "bofm:alma:10_p19#p19",
+            "bofm:hel:5_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note5a",
+        "content": "contentions",
+        "refs": ["bofm:3-ne:11_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note6a",
+        "content": "voices",
+        "refs": ["tg:common-consent"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note7a",
+        "content": "voice",
+        "refs": ["bofm:mosiah:29_p25-p27#p25"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note9a",
+        "content": "consecrate",
+        "refs": ["tg:unrighteous-dominion"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note11a",
+        "content": "Amlicites",
+        "refs": ["bofm:alma:3_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note11b",
+        "content": "called",
+        "refs": [
+            "bofm:jacob:1_p13-p14#p14",
+            "bofm:mosiah:25_p12#p12",
+            "bofm:alma:3_p11,17#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note12a",
+        "content": "weapons",
+        "refs": ["bofm:mosiah:10_p8#p8", "bofm:hel:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note13a",
+        "content": "captains",
+        "refs": ["bofm:alma:16_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note15a",
+        "content": "river Sidon",
+        "refs": ["bofm:alma:3_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note15b",
+        "content": "land of Zarahemla",
+        "refs": ["bofm:omni:1_p13#p13", "bofm:mosiah:1_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note16a",
+        "content": "chief judge",
+        "refs": ["bofm:mosiah:29_p42#p42"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note16b",
+        "content": "governor",
+        "refs": ["bofm:mosiah:1_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note19a",
+        "content": "slain",
+        "refs": ["bofm:alma:3_p1-p2,26#p1", "bofm:alma:4_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note20a",
+        "content": "valley of Gideon",
+        "refs": ["bofm:alma:6_p7#p7", "bofm:alma:8_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note20b",
+        "content": "Nehor",
+        "refs": ["bofm:alma:1_p7-p15#p12", "bofm:alma:14_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note24a",
+        "content": "camp",
+        "refs": ["bofm:alma:3_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note24b",
+        "content": "Amlicites",
+        "refs": ["bofm:alma:3_p4,13-p18#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note24c",
+        "content": "Nephi",
+        "refs": ["bofm:2-ne:5_p8#p8", "bofm:alma:20_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note26a",
+        "content": "city",
+        "refs": ["bofm:alma:6_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note26b",
+        "content": "Zarahemla",
+        "refs": ["bofm:omni:1_p14,18#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note27a",
+        "content": "numerous",
+        "refs": ["bofm:jarom:1_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note28a",
+        "content": "strengthened",
+        "refs": ["ot:deut:31_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note30a",
+        "content": "faith",
+        "refs": ["tg:faith"]
+    },
+    {
+        "origin_chapter": "bofm/alma/2",
+        "noteId": "note30b",
+        "content": "spare",
+        "refs": ["bofm:alma:3_p22#p22"]
+    }
+]

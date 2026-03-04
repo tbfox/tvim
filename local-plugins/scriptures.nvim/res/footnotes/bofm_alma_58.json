@@ -1,0 +1,118 @@
+[
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note1a",
+        "content": "decoy",
+        "refs": ["bofm:alma:52_p21#p21", "bofm:alma:56_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note6a",
+        "content": "retreats",
+        "refs": ["ot:1-sam:24_p22#p22", "bofm:3-ne:4_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note7a",
+        "content": "perish",
+        "refs": ["bofm:alma:60_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note11a",
+        "content": "deliverance",
+        "refs": ["tg:deliver"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note12a",
+        "content": "maintain",
+        "refs": [
+            "bofm:alma:46_p12#p12",
+            "bofm:3-ne:2_p12#p12",
+            "bofm:morm:2_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note12b",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note16a",
+        "content": "secrete",
+        "refs": [
+            "ot:josh:8_p13#p13",
+            "bofm:alma:43_p30-p43#p31",
+            "bofm:alma:52_p21-p31#p21"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note25a",
+        "content": "captains",
+        "refs": ["bofm:alma:59_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note29a",
+        "content": "flee",
+        "refs": ["bofm:alma:59_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note31a",
+        "content": "those",
+        "refs": ["bofm:alma:56_p14#p14", "bofm:alma:59_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note33a",
+        "content": "trust",
+        "refs": ["tg:trust-in-god"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note34a",
+        "content": "cause",
+        "refs": ["bofm:alma:59_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note35a",
+        "content": "ye",
+        "refs": ["bofm:alma:56_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note36a",
+        "content": "faction",
+        "refs": ["bofm:alma:61_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note37a",
+        "content": "deliver",
+        "refs": ["ot:2-kgs:17_p39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note39a",
+        "content": "one",
+        "refs": ["bofm:alma:56_p56#p56"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note40a",
+        "content": "stand fast",
+        "refs": ["bofm:alma:61_p21#p21", "tg:trustworthiness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/58",
+        "noteId": "note40b",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    }
+]

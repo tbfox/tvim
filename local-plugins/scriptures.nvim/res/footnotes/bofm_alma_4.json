@@ -1,0 +1,302 @@
+[
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note1a",
+        "content": "land of Zarahemla",
+        "refs": ["bofm:omni:1_p12-p19#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note2a",
+        "content": "loss",
+        "refs": ["bofm:alma:2_p19#p19", "bofm:alma:3_p1-p2,26#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note3a",
+        "content": "awakened",
+        "refs": ["nt:1-cor:15_p33-p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note4a",
+        "content": "church",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note4b",
+        "content": "baptized",
+        "refs": ["bofm:mosiah:18_p10-p17#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note4c",
+        "content": "waters of Sidon",
+        "refs": ["bofm:alma:3_p3#p3", "bofm:alma:6_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note4d",
+        "content": "high priest",
+        "refs": [
+            "bofm:mosiah:29_p42#p42",
+            "tg:high-priest-melchizedek-priesthood"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note5a",
+        "content": "church",
+        "refs": ["bofm:mosiah:25_p18-p23#p22", "bofm:3-ne:26_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note6a",
+        "content": "riches",
+        "refs": ["tg:riches"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note6b",
+        "content": "fine",
+        "refs": ["bofm:alma:1_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note6c",
+        "content": "industry",
+        "refs": ["tg:industry"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note6d",
+        "content": "apparel",
+        "refs": ["tg:apparel"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note7a",
+        "content": "teachers",
+        "refs": ["bofm:mosiah:6_p3#p3", "tg:teacher"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note7b",
+        "content": "priests",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note7c",
+        "content": "elders",
+        "refs": ["bofm:alma:4_p16#p16", "tg:elder"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note8a",
+        "content": "hearts",
+        "refs": ["tg:pride", "tg:vanity", "tg:worldliness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note8b",
+        "content": "not believe",
+        "refs": ["bofm:alma:1_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note9a",
+        "content": "contentions",
+        "refs": ["tg:contention"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note9b",
+        "content": "envyings",
+        "refs": ["tg:envy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note9c",
+        "content": "strife",
+        "refs": ["bofm:alma:16_p18#p18", "tg:strife"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note10a",
+        "content": "stumbling-block",
+        "refs": ["tg:stumblingblock"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note11a",
+        "content": "example",
+        "refs": ["ot:2-sam:12_p14#p14", "bofm:alma:39_p11#p11", "tg:example"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note12a",
+        "content": "needy",
+        "refs": [
+            "ot:isa:3_p14#p14",
+            "ot:ezek:22_p6-p13#p12",
+            "ot:amos:3_p10#p10",
+            "bofm:jacob:2_p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note12b",
+        "content": "hungry",
+        "refs": ["bofm:mosiah:4_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note13a",
+        "content": "poor",
+        "refs": ["tg:almsgiving"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note13b",
+        "content": "afflictions",
+        "refs": ["tg:affliction"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note13c",
+        "content": "sake",
+        "refs": ["nt:2-cor:12_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note14a",
+        "content": "retaining",
+        "refs": [
+            "bofm:mosiah:4_p12#p12",
+            "bofm:alma:5_p26-p35#p26",
+            "dnc:20_p31-p34#p32"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note14b",
+        "content": "remission",
+        "refs": ["tg:justification"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note14c",
+        "content": "joy",
+        "refs": ["tg:joy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note14d",
+        "content": "deliverance",
+        "refs": ["tg:deliver"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note15a",
+        "content": "inequality",
+        "refs": ["nt:2-cor:8_p14#p14", "dnc:49_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note16a",
+        "content": "elders",
+        "refs": ["bofm:alma:4_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note16b",
+        "content": "voice",
+        "refs": ["bofm:alma:2_p3-p7#p3", "bofm:alma:50_p39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note16c",
+        "content": "laws",
+        "refs": ["bofm:alma:1_p1,14,18#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note17a",
+        "content": "Nephihah",
+        "refs": ["bofm:alma:27_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note17b",
+        "content": "chief judge",
+        "refs": ["bofm:alma:30_p29#p29", "bofm:alma:50_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note18a",
+        "content": "high priest",
+        "refs": ["tg:high-priest-melchizedek-priesthood"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note18b",
+        "content": "Nephihah",
+        "refs": ["bofm:alma:7_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note19a",
+        "content": "himself",
+        "refs": ["bofm:alma:7_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note19b",
+        "content": "preach",
+        "refs": ["bofm:alma:5_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note19c",
+        "content": "word",
+        "refs": ["bofm:alma:31_p5#p5", "dnc:11_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note19d",
+        "content": "stir",
+        "refs": ["bofm:enos:1_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note19e",
+        "content": "remembrance",
+        "refs": ["ot:2-chr:35_p6#p6", "bofm:alma:16_p16#p16", "dnc:108_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note19f",
+        "content": "testimony",
+        "refs": ["tg:testimony"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note20a",
+        "content": "Nephihah",
+        "refs": ["bofm:alma:8_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note20b",
+        "content": "high priesthood",
+        "refs": ["bofm:mosiah:29_p42#p42", "bofm:alma:5_p3,44,49#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/4",
+        "noteId": "note20c",
+        "content": "testimony",
+        "refs": ["tg:preaching"]
+    }
+]

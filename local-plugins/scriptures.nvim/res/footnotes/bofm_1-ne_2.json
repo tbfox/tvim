@@ -1,0 +1,357 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note1a",
+        "content": "take away",
+        "refs": ["tg:persecution"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note1b",
+        "content": "life",
+        "refs": ["bofm:1-ne:7_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note2a",
+        "content": "commanded",
+        "refs": [
+            "bofm:1-ne:3_p16#p16",
+            "bofm:1-ne:4_p34#p34",
+            "bofm:1-ne:5_p8#p8",
+            "bofm:1-ne:17_p44#p44",
+            "bofm:mosiah:7_p20#p20",
+            "bofm:alma:9_p9#p9",
+            "tg:called-of-god"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note2b",
+        "content": "dream",
+        "refs": ["tg:dream"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note2c",
+        "content": "take",
+        "refs": [
+            "ot:gen:12_p1#p1",
+            "ot:gen:19_p12#p12",
+            "bofm:1-ne:1_p18-p20#p20",
+            "bofm:2-ne:10_p20#p20",
+            "bofm:ether:1_p42#p42",
+            "pgp:abr:2_p3#p3",
+            "tg:protection-divine"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note3a",
+        "content": "obedient",
+        "refs": ["tg:commitment"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note4a",
+        "content": "departed",
+        "refs": ["bofm:1-ne:10_p4#p4", "bofm:1-ne:19_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note5a",
+        "content": "Red Sea",
+        "refs": ["bofm:1-ne:16_p14#p14", "dnc:17_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note6a",
+        "content": "valley",
+        "refs": ["bofm:1-ne:9_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note6b",
+        "content": "river",
+        "refs": ["ot:joel:1_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note7a",
+        "content": "altar",
+        "refs": [
+            "ot:gen:12_p7-p8#p7",
+            "ot:gen:26_p25#p25",
+            "ot:ex:24_p4#p4",
+            "pgp:abr:2_p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note7b",
+        "content": "stones",
+        "refs": [
+            "ot:ex:20_p25#p25",
+            "ot:deut:27_p5-p6#p5",
+            "ot:josh:8_p30-p31#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note7c",
+        "content": "offering",
+        "refs": ["tg:sacrifice"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note7d",
+        "content": "thanks",
+        "refs": ["tg:thanksgiving"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note9a",
+        "content": "fountain",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note10a",
+        "content": "firm",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note10b",
+        "content": "steadfast",
+        "refs": ["tg:dependability"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note11a",
+        "content": "stiffneckedness",
+        "refs": ["tg:stiffnecked"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note11b",
+        "content": "murmur",
+        "refs": ["bofm:1-ne:17_p17#p17", "tg:murmuring"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note11c",
+        "content": "father",
+        "refs": ["ot:prov:20_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note11d",
+        "content": "visionary",
+        "refs": ["bofm:1-ne:5_p2-p4#p4", "bofm:1-ne:17_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note12a",
+        "content": "father",
+        "refs": ["ot:lam:4_p16-p17#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note12b",
+        "content": "murmur",
+        "refs": [
+            "ot:1-sam:3_p13#p13",
+            "bofm:mosiah:27_p7-p37#p8",
+            "pgp:moses:5_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note12c",
+        "content": "knew not",
+        "refs": ["pgp:moses:4_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note12d",
+        "content": "created",
+        "refs": [
+            "ot:deut:32_p6#p6",
+            "dnc:43_p23#p23",
+            "tg:man-physical-creation-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note13a",
+        "content": "believe",
+        "refs": ["ot:ezek:5_p6#p6", "bofm:1-ne:1_p18-p20#p19"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note13b",
+        "content": "destroyed",
+        "refs": ["ot:jer:13_p14#p14", "bofm:1-ne:1_p4-p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note14a",
+        "content": "valley of Lemuel",
+        "refs": ["bofm:1-ne:9_p1#p1", "bofm:1-ne:16_p6,12#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note14b",
+        "content": "power",
+        "refs": ["tg:priesthood-power-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note14c",
+        "content": "shake",
+        "refs": ["bofm:1-ne:17_p45#p45"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note15a",
+        "content": "tent",
+        "refs": [
+            "ot:gen:12_p8#p8",
+            "ot:gen:26_p17,25#p17",
+            "ot:gen:31_p25,33#p25",
+            "bofm:1-ne:4_p38#p38",
+            "bofm:1-ne:10_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note16a",
+        "content": "mysteries",
+        "refs": ["tg:mysteries-of-godliness"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note16b",
+        "content": "visit",
+        "refs": [
+            "ot:ps:8_p4#p4",
+            "bofm:1-ne:3_p1#p1",
+            "bofm:1-ne:19_p11#p11",
+            "bofm:alma:17_p10#p10",
+            "dnc:5_p16#p16",
+            "tg:guidance-divine"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note16c",
+        "content": "soften",
+        "refs": ["ot:1-kgs:18_p37#p37", "bofm:alma:5_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note16d",
+        "content": "believe",
+        "refs": ["bofm:1-ne:11_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note16e",
+        "content": "father",
+        "refs": ["tg:honoring-father-and-mother"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note16f",
+        "content": "rebel",
+        "refs": ["tg:family-love-within"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note18a",
+        "content": "grieved",
+        "refs": ["bofm:alma:31_p24#p24", "bofm:3-ne:7_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note19a",
+        "content": "faith",
+        "refs": ["bofm:1-ne:7_p9-p13#p12", "bofm:1-ne:15_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note20a",
+        "content": "prosper",
+        "refs": [
+            "ot:josh:1_p7#p7",
+            "bofm:1-ne:4_p14#p14",
+            "bofm:mosiah:1_p7#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note20b",
+        "content": "land of promise",
+        "refs": [
+            "ot:deut:33_p13-p16#p13",
+            "ot:1-chr:28_p7-p8#p8",
+            "bofm:1-ne:5_p5,22#p5",
+            "bofm:1-ne:7_p13#p13",
+            "pgp:moses:7_p17-p18#p17",
+            "tg:promised-lands"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note21a",
+        "content": "cut off",
+        "refs": [
+            "ot:josh:23_p13#p13",
+            "bofm:2-ne:5_p20-p24#p20",
+            "bofm:alma:9_p13-p15#p14",
+            "bofm:alma:38_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note22a",
+        "content": "ruler",
+        "refs": ["ot:gen:37_p8-p11#p8", "bofm:1-ne:3_p29#p29", "tg:authority"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note23a",
+        "content": "rebel",
+        "refs": ["ot:job:24_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note23b",
+        "content": "curse",
+        "refs": [
+            "ot:deut:11_p28#p28",
+            "bofm:1-ne:12_p22-p23#p22",
+            "dnc:41_p1#p1",
+            "tg:curse"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note23c",
+        "content": "rebel",
+        "refs": ["ot:josh:22_p16#p16", "bofm:mosiah:15_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note24a",
+        "content": "scourge",
+        "refs": ["ot:josh:23_p13#p13", "ot:judg:2_p22-p23#p22"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/2",
+        "noteId": "note24b",
+        "content": "stir",
+        "refs": ["bofm:2-ne:5_p25#p25"]
+    }
+]

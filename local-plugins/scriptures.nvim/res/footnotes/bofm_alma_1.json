@@ -1,0 +1,445 @@
+[
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note1a",
+        "content": "gone",
+        "refs": ["bofm:mosiah:29_p46#p46"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note1b",
+        "content": "laws",
+        "refs": [
+            "bofm:jarom:1_p5#p5",
+            "bofm:alma:4_p16#p16",
+            "bofm:alma:8_p17#p17",
+            "bofm:hel:4_p22#p22"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note1c",
+        "content": "laws",
+        "refs": ["tg:citizenship"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note2a",
+        "content": "man",
+        "refs": ["bofm:alma:1_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note3a",
+        "content": "termed",
+        "refs": ["ot:ezek:13_p1-p4#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note3b",
+        "content": "against",
+        "refs": ["tg:antichrist"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note3c",
+        "content": "popular",
+        "refs": ["nt:luke:6_p26#p26", "bofm:1-ne:22_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note3d",
+        "content": "not",
+        "refs": ["bofm:mosiah:18_p24,26#p24", "bofm:mosiah:27_p3-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note4a",
+        "content": "all",
+        "refs": [
+            "bofm:alma:15_p15#p15",
+            "bofm:alma:21_p6#p6",
+            "bofm:alma:30_p17#p17",
+            "bofm:morm:8_p31#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note4b",
+        "content": "need",
+        "refs": ["tg:humility", "tg:meek"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note4c",
+        "content": "created",
+        "refs": ["tg:jesus-christ-creator", "tg:man-physical-creation-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note4d",
+        "content": "redeemed",
+        "refs": ["tg:jesus-christ-redeemer", "tg:redemption"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note4e",
+        "content": "all",
+        "refs": ["pgp:moses:4_p1-p4#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note5a",
+        "content": "money",
+        "refs": ["nt:acts:8_p17-p23#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note6a",
+        "content": "apparel",
+        "refs": ["tg:apparel"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note6b",
+        "content": "establish",
+        "refs": ["tg:unrighteous-dominion"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note6c",
+        "content": "church",
+        "refs": ["tg:devil-church-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note7a",
+        "content": "teachers",
+        "refs": ["tg:teacher"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note7b",
+        "content": "words",
+        "refs": ["tg:word-of-god", "tg:word-of-the-lord"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note8a",
+        "content": "Gideon",
+        "refs": [
+            "bofm:mosiah:20_p17#p17",
+            "bofm:mosiah:22_p3#p3",
+            "bofm:alma:2_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note9a",
+        "content": "stricken",
+        "refs": ["ot:gen:24_p1#p1", "bofm:1-ne:18_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note9b",
+        "content": "slain",
+        "refs": ["bofm:alma:6_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note10a",
+        "content": "judged",
+        "refs": ["bofm:mosiah:29_p42#p42"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note12a",
+        "content": "priestcraft",
+        "refs": [
+            "bofm:2-ne:26_p29#p29",
+            "bofm:alma:2_p20#p20",
+            "bofm:alma:14_p16#p16",
+            "tg:priestcraft"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note12b",
+        "content": "priestcraft",
+        "refs": ["bofm:alma:21_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note13a",
+        "content": "blood",
+        "refs": ["ot:prov:28_p17#p17", "tg:blood-shedding-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note13b",
+        "content": "vengeance",
+        "refs": ["nt:luke:18_p7#p7", "dnc:121_p5#p5", "tg:vengeance"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note14a",
+        "content": "die",
+        "refs": ["tg:capital-punishment"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note14b",
+        "content": "law",
+        "refs": ["bofm:mosiah:29_p39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note14c",
+        "content": "acknowledged",
+        "refs": ["bofm:hel:1_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note14d",
+        "content": "abide",
+        "refs": ["tg:citizenship"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note15a",
+        "content": "Nehor",
+        "refs": ["bofm:alma:1_p2#p2", "bofm:alma:2_p1,20#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note15b",
+        "content": "death",
+        "refs": ["ot:deut:13_p1-p9#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note16a",
+        "content": "false doctrines",
+        "refs": ["tg:false-doctrine"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note16b",
+        "content": "riches",
+        "refs": ["tg:riches", "tg:vanity"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note17a",
+        "content": "lie",
+        "refs": ["tg:honesty", "tg:lying"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note17b",
+        "content": "his",
+        "refs": ["bofm:alma:30_p7-p12#p7", "pgp:a-of-f:1_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note18a",
+        "content": "steal",
+        "refs": ["bofm:alma:30_p10#p10", "tg:stealing"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note18b",
+        "content": "murdered",
+        "refs": ["tg:murder"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note18c",
+        "content": "death",
+        "refs": ["tg:capital-punishment"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note20a",
+        "content": "money",
+        "refs": ["ot:isa:55_p1-p2#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note21a",
+        "content": "not",
+        "refs": ["bofm:alma:4_p8#p8", "tg:persecution"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note22a",
+        "content": "fists",
+        "refs": ["ot:ex:21_p18-p19#p18", "ot:isa:58_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note24a",
+        "content": "blotted out",
+        "refs": [
+            "ot:ex:32_p33#p33",
+            "bofm:mosiah:26_p32,36#p32",
+            "bofm:alma:6_p3#p3",
+            "tg:excommunication"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note24b",
+        "content": "withdrew",
+        "refs": ["bofm:alma:46_p7#p7", "tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note25a",
+        "content": "steadfast",
+        "refs": ["tg:commitment", "tg:steadfastness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note25b",
+        "content": "patience",
+        "refs": ["tg:patience"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note26a",
+        "content": "labor",
+        "refs": ["bofm:mosiah:18_p24,26#p24", "bofm:mosiah:27_p3-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note26b",
+        "content": "according",
+        "refs": ["bofm:mosiah:4_p27#p27", "dnc:10_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note27a",
+        "content": "impart",
+        "refs": ["tg:almsgiving", "tg:consecration"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note27b",
+        "content": "poor",
+        "refs": [
+            "nt:luke:18_p22#p22",
+            "nt:acts:20_p33-p35#p35",
+            "bofm:mosiah:4_p26#p26",
+            "dnc:42_p29-p31#p30"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note27c",
+        "content": "apparel",
+        "refs": ["tg:vanity"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note29a",
+        "content": "rich",
+        "refs": ["tg:riches", "tg:treasure"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note29b",
+        "content": "silk",
+        "refs": ["bofm:alma:4_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note29c",
+        "content": "cloth",
+        "refs": ["bofm:mosiah:10_p5#p5", "bofm:hel:6_p13#p13", "tg:clothing"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note30a",
+        "content": "prosperous",
+        "refs": ["nt:2-cor:8_p14#p14", "bofm:jacob:2_p17-p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note30b",
+        "content": "naked",
+        "refs": ["tg:poor"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note30c",
+        "content": "riches",
+        "refs": ["ot:job:31_p25#p25", "tg:wealth"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note30d",
+        "content": "liberal",
+        "refs": ["tg:generosity"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note30e",
+        "content": "respect",
+        "refs": ["ot:deut:10_p17#p17", "bofm:alma:16_p14#p14", "dnc:1_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note31a",
+        "content": "prosper",
+        "refs": ["tg:prosper"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note32a",
+        "content": "sorceries",
+        "refs": ["tg:sorcery"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note32b",
+        "content": "idolatry",
+        "refs": ["tg:idolatry"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note32c",
+        "content": "idleness",
+        "refs": ["tg:laziness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note32d",
+        "content": "babblings",
+        "refs": ["tg:gossip"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note32e",
+        "content": "envyings",
+        "refs": ["tg:envy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note32f",
+        "content": "strife",
+        "refs": ["tg:strife"]
+    },
+    {
+        "origin_chapter": "bofm/alma/1",
+        "noteId": "note32g",
+        "content": "lifted up",
+        "refs": [
+            "ot:2-kgs:14_p10#p10",
+            "bofm:jacob:2_p13#p13",
+            "bofm:alma:31_p25#p25",
+            "bofm:morm:8_p28#p28",
+            "tg:pride"
+        ]
+    }
+]

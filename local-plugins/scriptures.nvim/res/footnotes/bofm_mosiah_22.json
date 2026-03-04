@@ -1,0 +1,86 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note1a",
+        "content": "deliver",
+        "refs": ["bofm:mosiah:7_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note3a",
+        "content": "Gideon",
+        "refs": ["bofm:mosiah:20_p17#p17", "bofm:alma:1_p8-p9#p8"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note6a",
+        "content": "guards",
+        "refs": ["bofm:mosiah:19_p28#p28", "bofm:mosiah:21_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note6b",
+        "content": "drunken",
+        "refs": ["bofm:alma:55_p8-p17#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note7a",
+        "content": "tribute",
+        "refs": ["bofm:mosiah:19_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note7b",
+        "content": "drunken",
+        "refs": ["tg:drunkenness"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note8a",
+        "content": "Shilom",
+        "refs": ["bofm:mosiah:7_p5-p16#p7"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note11a",
+        "content": "depart",
+        "refs": ["bofm:mosiah:25_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note11b",
+        "content": "Shilom",
+        "refs": ["bofm:mosiah:11_p12-p13#p12", "bofm:alma:23_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note13a",
+        "content": "arrived",
+        "refs": ["bofm:mosiah:25_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note14a",
+        "content": "received",
+        "refs": ["bofm:mosiah:24_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note14b",
+        "content": "records",
+        "refs": ["bofm:mosiah:8_p5#p5", "bofm:mosiah:9_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note14c",
+        "content": "records",
+        "refs": ["bofm:mosiah:8_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/22",
+        "noteId": "note15a",
+        "content": "army",
+        "refs": ["bofm:mosiah:23_p30-p39#p30"]
+    }
+]

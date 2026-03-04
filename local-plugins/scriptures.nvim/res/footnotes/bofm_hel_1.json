@@ -1,0 +1,149 @@
+[
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note2a",
+        "content": "Pahoran",
+        "refs": ["bofm:alma:50_p40#p40"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note4a",
+        "content": "divisions",
+        "refs": ["nt:matt:12_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note5a",
+        "content": "voice",
+        "refs": [
+            "bofm:mosiah:29_p11#p11",
+            "bofm:alma:51_p7#p7",
+            "bofm:hel:5_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note6a",
+        "content": "unite",
+        "refs": ["tg:unity"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note7a",
+        "content": "flatter",
+        "refs": [
+            "bofm:mosiah:27_p8#p8",
+            "bofm:alma:50_p35#p35",
+            "bofm:hel:2_p5#p5",
+            "bofm:ether:8_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note8a",
+        "content": "voice",
+        "refs": ["bofm:alma:1_p10-p15#p14"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note8b",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note9a",
+        "content": "Kishkumen",
+        "refs": ["bofm:hel:2_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note11a",
+        "content": "swearing",
+        "refs": ["ot:gen:24_p3#p3", "bofm:ether:8_p13-p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note12a",
+        "content": "death",
+        "refs": ["tg:capital-punishment"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note13a",
+        "content": "voice",
+        "refs": ["bofm:hel:1_p5#p5", "bofm:hel:2_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note14a",
+        "content": "armed",
+        "refs": ["bofm:alma:2_p12#p12", "bofm:alma:49_p6,24#p6"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note15a",
+        "content": "Coriantumr",
+        "refs": ["bofm:hel:1_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note15b",
+        "content": "dissenter",
+        "refs": ["bofm:alma:31_p8#p8", "bofm:alma:53_p8#p8", "bofm:hel:4_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note16a",
+        "content": "Ammoron",
+        "refs": ["bofm:alma:52_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note16b",
+        "content": "wisdom",
+        "refs": ["ot:ezek:28_p4-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note17a",
+        "content": "stir",
+        "refs": ["bofm:alma:35_p10#p10", "bofm:alma:47_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note22a",
+        "content": "took courage",
+        "refs": ["tg:pride"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note23a",
+        "content": "Bountiful",
+        "refs": ["bofm:alma:22_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note28a",
+        "content": "head",
+        "refs": ["bofm:alma:50_p34#p34", "bofm:alma:51_p29-p30#p29"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note30a",
+        "content": "Coriantumr",
+        "refs": ["bofm:hel:1_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note32a",
+        "content": "yield",
+        "refs": ["bofm:hel:4_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/hel/1",
+        "noteId": "note33a",
+        "content": "peace",
+        "refs": ["bofm:alma:44_p15#p15"]
+    }
+]

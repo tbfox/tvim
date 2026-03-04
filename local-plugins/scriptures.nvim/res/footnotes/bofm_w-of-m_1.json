@@ -1,0 +1,306 @@
+[
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note1a",
+        "content": "record",
+        "refs": [
+            "bofm:3-ne:5_p9-p12#p12",
+            "bofm:morm:1_p1-p4#p4",
+            "bofm:morm:2_p17-p18#p17",
+            "bofm:morm:8_p1,4-p5,14#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note2a",
+        "content": "many",
+        "refs": ["bofm:morm:6_p5-p6#p5"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note2b",
+        "content": "destruction",
+        "refs": ["bofm:1-ne:12_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note2c",
+        "content": "profit",
+        "refs": ["dnc:3_p16-p20#p19"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note3a",
+        "content": "abridgment",
+        "refs": ["bofm:1-ne:1_p16-p17#p17", "dnc:10_p44#p44"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note3b",
+        "content": "plates of Nephi",
+        "refs": [
+            "bofm:jarom:1_p14#p14",
+            "bofm:w-of-m:1_p10#p10",
+            "dnc:10_p38-p40#p38"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note3c",
+        "content": "records",
+        "refs": [
+            "bofm:mosiah:1_p2-p6#p6",
+            "bofm:hel:3_p13-p15#p13",
+            "bofm:morm:4_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note3d",
+        "content": "Benjamin",
+        "refs": ["bofm:omni:1_p23-p25#p23"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note4a",
+        "content": "pleasing",
+        "refs": ["bofm:1-ne:6_p3-p6#p5"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note4b",
+        "content": "prophesied",
+        "refs": ["tg:jesus-christ-prophecies-about"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note5a",
+        "content": "these things",
+        "refs": ["bofm:w-of-m:1_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note5b",
+        "content": "record",
+        "refs": ["bofm:3-ne:5_p14-p18#p17", "bofm:morm:1_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note5c",
+        "content": "plates of Nephi",
+        "refs": ["bofm:1-ne:9_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note5d",
+        "content": "hundredth",
+        "refs": [
+            "bofm:alma:13_p31#p31",
+            "bofm:3-ne:5_p8-p11#p8",
+            "bofm:3-ne:26_p6-p12#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note7a",
+        "content": "wise",
+        "refs": [
+            "bofm:1-ne:9_p5#p5",
+            "bofm:1-ne:19_p3#p3",
+            "bofm:enos:1_p13-p18#p13",
+            "bofm:alma:37_p2#p2",
+            "dnc:3_p9-p20#p19",
+            "dnc:10_p1-p19,30-p47#p34"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note7b",
+        "content": "purpose",
+        "refs": ["dnc:10_p20-p46#p40"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note7c",
+        "content": "knoweth",
+        "refs": [
+            "tg:god-foreknowledge-of",
+            "tg:god-intelligence-of",
+            "tg:god-omniscience-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note7d",
+        "content": "worketh",
+        "refs": ["bofm:2-ne:27_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note7e",
+        "content": "will",
+        "refs": ["tg:god-will-of"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note8a",
+        "content": "prayer",
+        "refs": [
+            "bofm:2-ne:33_p3#p3",
+            "bofm:enos:1_p11-p12#p11",
+            "bofm:moro:9_p22#p22"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note8b",
+        "content": "delightsome",
+        "refs": ["bofm:2-ne:30_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note9a",
+        "content": "understanding",
+        "refs": ["tg:understanding"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note10a",
+        "content": "delivered up",
+        "refs": ["bofm:omni:1_p25,30#p25"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note10b",
+        "content": "other plates",
+        "refs": [
+            "bofm:1-ne:9_p4#p4",
+            "bofm:omni:1_p11,18#p11",
+            "bofm:w-of-m:1_p3#p3",
+            "bofm:mosiah:28_p11#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note10c",
+        "content": "kings",
+        "refs": ["bofm:jarom:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note11a",
+        "content": "my hands",
+        "refs": ["bofm:3-ne:5_p8-p12#p12", "bofm:morm:1_p1-p5#p4"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note11b",
+        "content": "my",
+        "refs": ["bofm:hel:15_p3-p4#p3"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note11c",
+        "content": "judged",
+        "refs": [
+            "bofm:2-ne:25_p18#p18",
+            "bofm:2-ne:29_p11#p11",
+            "bofm:2-ne:33_p11,14-p15#p14",
+            "bofm:3-ne:27_p23-p27#p25",
+            "bofm:ether:5_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note13a",
+        "content": "land of Nephi",
+        "refs": ["bofm:omni:1_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note13b",
+        "content": "sword",
+        "refs": [
+            "bofm:1-ne:4_p9#p9",
+            "bofm:2-ne:5_p14#p14",
+            "bofm:jacob:1_p10#p10",
+            "bofm:mosiah:1_p16#p16",
+            "dnc:17_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note14a",
+        "content": "strength",
+        "refs": ["tg:strength"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note14b",
+        "content": "inheritance",
+        "refs": ["bofm:jarom:1_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note15a",
+        "content": "Christs",
+        "refs": ["tg:false-christs"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note16a",
+        "content": "false prophets",
+        "refs": ["tg:false-prophets"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note16b",
+        "content": "unto",
+        "refs": ["bofm:jacob:1_p13-p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note16c",
+        "content": "prophets",
+        "refs": ["bofm:enos:1_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note17a",
+        "content": "holy",
+        "refs": [
+            "ot:ex:22_p31#p31",
+            "bofm:alma:13_p26#p26",
+            "dnc:49_p8#p8",
+            "dnc:107_p29#p29"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note17b",
+        "content": "power",
+        "refs": ["bofm:alma:17_p2-p3#p3", "tg:god-power-of"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note17c",
+        "content": "sharpness",
+        "refs": [
+            "bofm:enos:1_p23#p23",
+            "bofm:moro:9_p4#p4",
+            "dnc:121_p41-p43#p43"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note18a",
+        "content": "Benjamin",
+        "refs": ["bofm:omni:1_p25#p25", "bofm:mosiah:29_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/w-of-m/1",
+        "noteId": "note18b",
+        "content": "faculty",
+        "refs": ["bofm:1-ne:15_p25#p25"]
+    }
+]

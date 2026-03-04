@@ -1,0 +1,188 @@
+[
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note1a",
+        "content": "land of Gideon",
+        "refs": ["bofm:alma:2_p20#p20", "bofm:alma:6_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note1b",
+        "content": "order",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note3a",
+        "content": "Melek",
+        "refs": ["bofm:alma:31_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note3b",
+        "content": "river Sidon",
+        "refs": ["bofm:alma:6_p7#p7", "bofm:alma:16_p6-p7#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note4a",
+        "content": "holy order",
+        "refs": ["dnc:107_p2-p4#p3", "tg:priesthood"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note6a",
+        "content": "Ammonihah",
+        "refs": ["bofm:alma:9_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note7a",
+        "content": "name",
+        "refs": ["bofm:ether:2_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note9a",
+        "content": "hold",
+        "refs": ["bofm:2-ne:28_p19-p22#p20", "dnc:10_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note10a",
+        "content": "labored",
+        "refs": ["bofm:alma:17_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note10b",
+        "content": "wrestling",
+        "refs": ["bofm:enos:1_p1-p12#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note10c",
+        "content": "mighty prayer",
+        "refs": ["bofm:3-ne:27_p1#p1", "dnc:5_p24#p24", "dnc:29_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note12a",
+        "content": "Nephihah",
+        "refs": ["bofm:alma:4_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note13a",
+        "content": "reviled",
+        "refs": ["nt:1-cor:4_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note13b",
+        "content": "cast out",
+        "refs": ["bofm:alma:8_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note14a",
+        "content": "tribulation",
+        "refs": ["tg:tribulation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note14b",
+        "content": "angel",
+        "refs": ["bofm:mosiah:3_p2-p3#p2", "bofm:alma:10_p7-p10,20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note15a",
+        "content": "delivered",
+        "refs": ["bofm:mosiah:27_p11-p16#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note16a",
+        "content": "command",
+        "refs": ["nt:gal:2_p2#p2", "bofm:hel:13_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note16b",
+        "content": "destroy",
+        "refs": ["bofm:alma:9_p4,12,18,24#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note17a",
+        "content": "statutes",
+        "refs": ["bofm:alma:1_p1,14#p1", "tg:commandments-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note19a",
+        "content": "he",
+        "refs": ["bofm:alma:10_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note20a",
+        "content": "angel",
+        "refs": ["bofm:alma:10_p7-p9#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note20b",
+        "content": "food",
+        "refs": ["ot:1-kgs:17_p8-p13#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note22a",
+        "content": "blessed",
+        "refs": ["bofm:alma:10_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note23a",
+        "content": "high priest",
+        "refs": ["bofm:alma:5_p3,44,49#p3", "bofm:alma:13_p1-p20#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note24a",
+        "content": "cast",
+        "refs": ["bofm:alma:8_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note27a",
+        "content": "tarried",
+        "refs": ["bofm:alma:10_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note29a",
+        "content": "Amulek",
+        "refs": ["bofm:alma:10_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note29b",
+        "content": "fierce",
+        "refs": ["bofm:alma:9_p12,18#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note31a",
+        "content": "power",
+        "refs": ["bofm:alma:14_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/8",
+        "noteId": "note31b",
+        "content": "power",
+        "refs": ["bofm:alma:14_p17-p29#p25"]
+    }
+]

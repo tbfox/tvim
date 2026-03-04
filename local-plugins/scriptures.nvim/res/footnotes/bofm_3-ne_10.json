@@ -1,0 +1,192 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note1a",
+        "content": "hear",
+        "refs": ["bofm:1-ne:19_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note4a",
+        "content": "great",
+        "refs": ["bofm:3-ne:8_p8-p16#p14", "bofm:3-ne:9_p3-p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note4b",
+        "content": "gathered",
+        "refs": ["bofm:hel:7_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note4c",
+        "content": "nourished",
+        "refs": [
+            "nt:luke:16_p29-p31#p29",
+            "bofm:1-ne:17_p3#p3",
+            "bofm:jacob:5_p25#p25"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note5a",
+        "content": "how",
+        "refs": ["nt:matt:23_p37#p37", "dnc:43_p24-p25#p24"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note6a",
+        "content": "spared",
+        "refs": ["bofm:3-ne:9_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note6b",
+        "content": "return",
+        "refs": [
+            "ot:1-sam:7_p3#p3",
+            "bofm:hel:13_p11#p11",
+            "bofm:3-ne:24_p7#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note6c",
+        "content": "heart",
+        "refs": ["ot:ezek:36_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note7a",
+        "content": "desolate",
+        "refs": ["ot:ezek:26_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note7b",
+        "content": "covenant",
+        "refs": ["bofm:enos:1_p12-p18#p16"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note8a",
+        "content": "again",
+        "refs": ["bofm:3-ne:8_p23-p25#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note9a",
+        "content": "darkness",
+        "refs": ["bofm:3-ne:8_p3,19-p23#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note9b",
+        "content": "rocks",
+        "refs": ["bofm:hel:14_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note10a",
+        "content": "mourning",
+        "refs": ["tg:mourning"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note10b",
+        "content": "praise",
+        "refs": ["nt:acts:16_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note11a",
+        "content": "scriptures",
+        "refs": ["bofm:1-ne:19_p10-p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note11b",
+        "content": "fulfilled",
+        "refs": ["nt:acts:3_p18-p21#p18"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note12a",
+        "content": "more",
+        "refs": [
+            "bofm:2-ne:26_p8#p8",
+            "bofm:3-ne:9_p11-p13#p13",
+            "bofm:3-ne:27_p31#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note14a",
+        "content": "search",
+        "refs": ["tg:scriptures-study-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note14b",
+        "content": "tempests",
+        "refs": ["bofm:hel:14_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note14c",
+        "content": "opening",
+        "refs": [
+            "ot:num:16_p32#p32",
+            "bofm:1-ne:19_p11#p11",
+            "bofm:2-ne:26_p5#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note15a",
+        "content": "slain",
+        "refs": ["tg:martyrdom"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note16a",
+        "content": "Zenos",
+        "refs": ["bofm:hel:8_p19-p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note16b",
+        "content": "concerning",
+        "refs": ["bofm:1-ne:19_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note17a",
+        "content": "remnant",
+        "refs": ["bofm:alma:46_p24#p24", "bofm:3-ne:5_p23-p24#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note18a",
+        "content": "Lamanites",
+        "refs": ["bofm:4-ne:1_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note18b",
+        "content": "blessings",
+        "refs": ["tg:blessing"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note18c",
+        "content": "ascension",
+        "refs": ["nt:acts:1_p9-p11#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/10",
+        "noteId": "note19a",
+        "content": "Showing",
+        "refs": ["bofm:3-ne:11_p12-p15#p12"]
+    }
+]

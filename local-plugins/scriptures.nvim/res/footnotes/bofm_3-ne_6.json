@@ -1,0 +1,248 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note1a",
+        "content": "horses",
+        "refs": ["bofm:3-ne:3_p21-p23#p22"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note2a",
+        "content": "not",
+        "refs": ["bofm:3-ne:4_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note3a",
+        "content": "entered",
+        "refs": ["bofm:3-ne:5_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note4a",
+        "content": "order",
+        "refs": ["tg:order"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note6a",
+        "content": "Gidgiddoni",
+        "refs": ["bofm:3-ne:3_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note6b",
+        "content": "Lachoneus",
+        "refs": ["bofm:3-ne:3_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note8a",
+        "content": "highways",
+        "refs": ["bofm:3-ne:8_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note10a",
+        "content": "boastings",
+        "refs": ["tg:boast"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note11a",
+        "content": "merchants",
+        "refs": ["bofm:hel:6_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note11b",
+        "content": "lawyers",
+        "refs": ["bofm:alma:10_p14-p17,27#p14", "bofm:alma:14_p5,18-p27#p5"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note12a",
+        "content": "riches",
+        "refs": ["nt:1-tim:6_p17#p17", "bofm:hel:4_p11-p13#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note12b",
+        "content": "ignorant",
+        "refs": ["tg:ignorance"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note12c",
+        "content": "learning",
+        "refs": ["tg:learn"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note13a",
+        "content": "persecution",
+        "refs": ["tg:persecution"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note13b",
+        "content": "afflictions",
+        "refs": ["tg:affliction"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note13c",
+        "content": "revile",
+        "refs": [
+            "bofm:3-ne:12_p39#p39",
+            "bofm:4-ne:1_p34#p34",
+            "dnc:98_p23-p27#p23",
+            "tg:reviling"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note14a",
+        "content": "they",
+        "refs": [
+            "bofm:alma:23_p6#p6",
+            "bofm:alma:27_p27#p27",
+            "bofm:hel:15_p5-p16#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note14b",
+        "content": "diligence",
+        "refs": ["tg:dedication", "tg:diligence"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note15a",
+        "content": "Satan",
+        "refs": ["pgp:moses:6_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note15b",
+        "content": "power",
+        "refs": ["bofm:1-ne:22_p26#p26", "bofm:alma:48_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note15c",
+        "content": "riches",
+        "refs": ["tg:selfishness"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note17a",
+        "content": "delivered up",
+        "refs": ["pgp:moses:5_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note17b",
+        "content": "temptations",
+        "refs": ["tg:temptation"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note18a",
+        "content": "ignorantly",
+        "refs": [
+            "ot:num:15_p2-p29#p27",
+            "bofm:mosiah:3_p11#p11",
+            "tg:ignorance"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note18b",
+        "content": "will",
+        "refs": ["tg:god-will-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note18c",
+        "content": "rebel",
+        "refs": ["tg:rebellion"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note19a",
+        "content": "Lachoneus",
+        "refs": ["bofm:3-ne:1_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note20a",
+        "content": "inspired",
+        "refs": ["tg:inspiration", "tg:prophets-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note20b",
+        "content": "death",
+        "refs": ["tg:jesus-christ-death-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note21a",
+        "content": "had",
+        "refs": ["dnc:121_p37#p37", "tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note23a",
+        "content": "who",
+        "refs": ["bofm:3-ne:7_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note23b",
+        "content": "secretly",
+        "refs": ["bofm:hel:6_p17-p38#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note25a",
+        "content": "death",
+        "refs": ["bofm:3-ne:9_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note26a",
+        "content": "law",
+        "refs": ["bofm:mosiah:29_p25#p25", "bofm:alma:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note28a",
+        "content": "covenant",
+        "refs": ["tg:secret-combinations"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note28b",
+        "content": "devil",
+        "refs": ["bofm:hel:6_p26#p26", "bofm:ether:8_p9,15-p16#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note30a",
+        "content": "king",
+        "refs": [
+            "ot:1-sam:8_p5#p5",
+            "bofm:alma:51_p5#p5",
+            "bofm:3-ne:7_p12#p12",
+            "tg:tyranny"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/6",
+        "noteId": "note30b",
+        "content": "liberty",
+        "refs": ["tg:liberty"]
+    }
+]

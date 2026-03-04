@@ -1,0 +1,185 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note1a",
+        "content": "believed",
+        "refs": ["bofm:1-ne:11_p1-p5#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note2a",
+        "content": "change",
+        "refs": [
+            "nt:rom:8_p1-p4#p2",
+            "bofm:alma:5_p14#p14",
+            "bofm:alma:13_p12#p12",
+            "tg:man-new-spiritually-reborn"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note2b",
+        "content": "evil",
+        "refs": ["bofm:alma:19_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note3a",
+        "content": "goodness",
+        "refs": ["ot:ex:34_p5-p7#p6"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note5a",
+        "content": "covenant",
+        "refs": [
+            "ot:2-chr:15_p12-p15#p12",
+            "ot:neh:10_p29#p29",
+            "bofm:mosiah:6_p3#p3",
+            "tg:commitment"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note5b",
+        "content": "never-ending",
+        "refs": ["bofm:mosiah:3_p25-p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note5c",
+        "content": "angel",
+        "refs": ["bofm:mosiah:3_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note7a",
+        "content": "children",
+        "refs": [
+            "nt:1-jn:2_p12#p12",
+            "bofm:mosiah:15_p2#p2",
+            "bofm:mosiah:27_p24-p26#p25",
+            "pgp:moses:6_p64-p68#p68"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note7b",
+        "content": "changed",
+        "refs": ["tg:sanctification"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note7c",
+        "content": "born",
+        "refs": [
+            "nt:john:1_p12-p13#p13",
+            "bofm:mosiah:15_p10#p10",
+            "tg:man-new-spiritually-reborn"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note7d",
+        "content": "sons",
+        "refs": ["nt:matt:12_p49-p50#p49", "dnc:11_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note8a",
+        "content": "free",
+        "refs": [
+            "nt:rom:6_p14-p22#p18",
+            "nt:1-cor:7_p22#p22",
+            "nt:gal:5_p1#p1",
+            "dnc:88_p86#p86"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note8b",
+        "content": "no",
+        "refs": [
+            "nt:acts:4_p12#p12",
+            "bofm:mosiah:4_p8#p8",
+            "bofm:alma:21_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note8c",
+        "content": "name",
+        "refs": [
+            "nt:gal:3_p27#p27",
+            "bofm:mosiah:1_p11#p11",
+            "bofm:mosiah:26_p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note8d",
+        "content": "take upon",
+        "refs": ["nt:acts:11_p26#p26", "bofm:alma:46_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note10a",
+        "content": "other",
+        "refs": ["bofm:alma:5_p38-p42#p39"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note10b",
+        "content": "left",
+        "refs": ["nt:matt:25_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note11a",
+        "content": "name",
+        "refs": [
+            "bofm:mosiah:1_p11-p12#p11",
+            "tg:jesus-christ-taking-the-name-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note12a",
+        "content": "retain",
+        "refs": ["ot:num:6_p27#p27", "ot:ps:119_p55#p55", "dnc:18_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note13a",
+        "content": "knoweth",
+        "refs": ["ot:jer:4_p22#p22", "bofm:mosiah:26_p24-p27#p25"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note15a",
+        "content": "good works",
+        "refs": ["tg:good-works"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note15b",
+        "content": "Lord God Omnipotent",
+        "refs": ["tg:jesus-christ-jehovah", "tg:jesus-christ-lord"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note15c",
+        "content": "seal",
+        "refs": ["tg:election"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/5",
+        "noteId": "note15d",
+        "content": "created",
+        "refs": [
+            "nt:col:1_p16#p16",
+            "bofm:mosiah:4_p2#p2",
+            "bofm:alma:11_p39#p39"
+        ]
+    }
+]

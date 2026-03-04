@@ -1,0 +1,353 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note1a",
+        "content": "marvelous work",
+        "refs": ["bofm:2-ne:27_p26#p26", "tg:restoration-of-the-gospel"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note1b",
+        "content": "covenants",
+        "refs": ["tg:abrahamic-covenant"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note1c",
+        "content": "second",
+        "refs": [
+            "bofm:2-ne:6_p14#p14",
+            "bofm:2-ne:21_p11#p11",
+            "bofm:2-ne:25_p17#p17",
+            "tg:israel-gathering-of",
+            "tg:israel-restoration-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note2a",
+        "content": "words",
+        "refs": ["bofm:2-ne:3_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note2b",
+        "content": "hiss",
+        "refs": ["ot:isa:5_p26#p26", "bofm:moro:10_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note2c",
+        "content": "ends",
+        "refs": ["bofm:2-ne:15_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note2d",
+        "content": "standard",
+        "refs": ["ot:ps:60_p4#p4", "tg:ensign"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note3a",
+        "content": "Bible",
+        "refs": ["bofm:1-ne:13_p23-p24#p24", "tg:bible", "tg:book-of-mormon"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note4a",
+        "content": "Bible",
+        "refs": ["nt:rom:3_p1-p3#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note4b",
+        "content": "Jews",
+        "refs": [
+            "ot:neh:1_p10#p10",
+            "bofm:1-ne:13_p23-p25#p25",
+            "dnc:3_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note4c",
+        "content": "thank",
+        "refs": ["tg:ingratitude", "tg:thanksgiving"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note4d",
+        "content": "Jews",
+        "refs": ["tg:israel-judah-people-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note5a",
+        "content": "cursed",
+        "refs": ["ot:micah:6_p16#p16", "tg:curse"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note5b",
+        "content": "hated",
+        "refs": ["bofm:3-ne:29_p8#p8", "tg:hate"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note6a",
+        "content": "Bible",
+        "refs": ["bofm:1-ne:13_p23,38#p23"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note7a",
+        "content": "nations",
+        "refs": [
+            "tg:jesus-christ-creator",
+            "tg:man-physical-creation-of",
+            "tg:nations"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note7b",
+        "content": "isles",
+        "refs": [
+            "ot:isa:51_p5#p5",
+            "bofm:1-ne:22_p4#p4",
+            "bofm:2-ne:10_p8,20#p8",
+            "dnc:133_p8#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note7c",
+        "content": "earth",
+        "refs": [
+            "ot:deut:10_p14#p14",
+            "bofm:1-ne:11_p6#p6",
+            "dnc:55_p1#p1",
+            "pgp:moses:6_p44#p44"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note7d",
+        "content": "word",
+        "refs": ["dnc:5_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note8a",
+        "content": "testimony",
+        "refs": ["tg:testimony"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note8b",
+        "content": "two",
+        "refs": [
+            "ot:ezek:37_p15-p20#p17",
+            "bofm:1-ne:13_p38-p41#p39",
+            "bofm:2-ne:3_p12#p12",
+            "bofm:2-ne:33_p10-p11#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note8c",
+        "content": "witness",
+        "refs": ["nt:matt:18_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note8d",
+        "content": "nation",
+        "refs": ["ot:2-sam:7_p23#p23", "bofm:alma:9_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note8e",
+        "content": "nations",
+        "refs": ["ot:hosea:1_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note9a",
+        "content": "same",
+        "refs": ["nt:heb:13_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note9b",
+        "content": "words",
+        "refs": ["tg:word-of-god", "tg:word-of-the-lord"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note9c",
+        "content": "word",
+        "refs": ["tg:revelation"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note9d",
+        "content": "work",
+        "refs": ["pgp:moses:1_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note10a",
+        "content": "words",
+        "refs": ["tg:scriptures-to-come-forth"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note10b",
+        "content": "need",
+        "refs": ["bofm:2-ne:28_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note11a",
+        "content": "all",
+        "refs": ["bofm:alma:29_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note11b",
+        "content": "write",
+        "refs": [
+            "nt:2-tim:3_p16#p16",
+            "pgp:moses:1_p40#p40",
+            "tg:scriptures-preservation-of",
+            "tg:scriptures-writing-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note11c",
+        "content": "books",
+        "refs": ["tg:book-of-life"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note11d",
+        "content": "judge",
+        "refs": [
+            "bofm:2-ne:25_p18,22#p22",
+            "bofm:2-ne:33_p11,14-p15#p14",
+            "tg:jesus-christ-judge"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note12a",
+        "content": "Jews",
+        "refs": ["bofm:1-ne:13_p23-p29#p23", "bofm:2-ne:3_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note12b",
+        "content": "write",
+        "refs": ["tg:scriptures-lost"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note12c",
+        "content": "write",
+        "refs": [
+            "bofm:1-ne:13_p39-p42#p40",
+            "bofm:2-ne:26_p16-p17#p17",
+            "bofm:2-ne:27_p6-p26#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note12d",
+        "content": "all",
+        "refs": ["bofm:2-ne:26_p33#p33", "bofm:alma:29_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note13a",
+        "content": "Jews",
+        "refs": ["bofm:morm:5_p13-p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note13b",
+        "content": "lost tribes",
+        "refs": ["tg:israel-ten-lost-tribes-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note14a",
+        "content": "house of Israel",
+        "refs": ["ot:jer:3_p17-p19#p18"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note14b",
+        "content": "lands",
+        "refs": ["tg:israel-gathering-of", "tg:lands-of-inheritance"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note14c",
+        "content": "one",
+        "refs": ["ot:ezek:37_p16-p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note14d",
+        "content": "people",
+        "refs": [
+            "ot:1-kgs:8_p51#p51",
+            "bofm:2-ne:3_p9#p9",
+            "bofm:2-ne:8_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note14e",
+        "content": "house of Israel",
+        "refs": ["bofm:1-ne:22_p9#p9", "bofm:2-ne:30_p7-p8#p7"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note14f",
+        "content": "covenanted",
+        "refs": [
+            "ot:gen:12_p1-p3#p2",
+            "bofm:1-ne:17_p40#p40",
+            "bofm:3-ne:20_p27#p27",
+            "pgp:abr:2_p9#p9",
+            "tg:abrahamic-covenant"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note14g",
+        "content": "Abraham",
+        "refs": ["ot:micah:7_p18-p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note14h",
+        "content": "seed",
+        "refs": [
+            "ot:ps:102_p28#p28",
+            "dnc:132_p30#p30",
+            "pgp:moses:7_p50-p53#p52",
+            "tg:seed-of-abraham"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/29",
+        "noteId": "note14i",
+        "content": "forever",
+        "refs": ["ot:gen:17_p5-p7#p7"]
+    }
+]

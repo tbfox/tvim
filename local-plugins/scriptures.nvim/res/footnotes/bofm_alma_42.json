@@ -1,0 +1,492 @@
+[
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note1a",
+        "content": "justice",
+        "refs": ["bofm:mosiah:15_p27#p27", "tg:god-justice-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note1b",
+        "content": "punishment",
+        "refs": ["tg:punish"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note1c",
+        "content": "injustice",
+        "refs": ["nt:rom:3_p5#p5", "bofm:2-ne:26_p7#p7", "tg:injustice"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note2a",
+        "content": "Eden",
+        "refs": ["tg:eden"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note2b",
+        "content": "ground",
+        "refs": [
+            "bofm:jacob:2_p21#p21",
+            "bofm:mosiah:2_p25#p25",
+            "bofm:morm:9_p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note2c",
+        "content": "cherubim",
+        "refs": [
+            "ot:gen:3_p24#p24",
+            "bofm:alma:12_p21#p21",
+            "pgp:moses:4_p31#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note3a",
+        "content": "cherubim",
+        "refs": ["tg:cherubim"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note4a",
+        "content": "time",
+        "refs": ["bofm:jacob:5_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note4b",
+        "content": "probationary time",
+        "refs": ["bofm:alma:34_p32#p32", "tg:earth-purpose-of", "tg:probation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note5a",
+        "content": "partaken",
+        "refs": ["bofm:alma:12_p23#p23", "pgp:moses:4_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note5b",
+        "content": "tree of life",
+        "refs": [
+            "ot:gen:2_p9#p9",
+            "ot:gen:3_p22-p24#p24",
+            "bofm:1-ne:8_p10-p12#p10",
+            "pgp:moses:3_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note6a",
+        "content": "die",
+        "refs": ["tg:death"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note6b",
+        "content": "lost",
+        "refs": [
+            "bofm:2-ne:9_p7#p7",
+            "bofm:mosiah:16_p4-p7#p4",
+            "bofm:alma:11_p45#p45",
+            "bofm:alma:12_p36#p36"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note6c",
+        "content": "fallen",
+        "refs": ["tg:fall-of-man"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note7a",
+        "content": "cut off",
+        "refs": [
+            "bofm:2-ne:2_p5#p5",
+            "bofm:2-ne:9_p6-p15#p6",
+            "bofm:hel:14_p15-p18#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note7b",
+        "content": "presence",
+        "refs": ["tg:god-presence-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note7c",
+        "content": "will",
+        "refs": ["tg:agency"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note8a",
+        "content": "temporal",
+        "refs": ["ot:gen:3_p22-p24#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note8b",
+        "content": "plan",
+        "refs": [
+            "bofm:alma:12_p22-p33#p26",
+            "bofm:alma:34_p8-p16#p9",
+            "pgp:moses:6_p62#p62"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note9a",
+        "content": "fall",
+        "refs": ["tg:fall-of-man"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note9b",
+        "content": "death",
+        "refs": ["pgp:moses:5_p4#p4", "tg:death-spiritual-first"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note10a",
+        "content": "carnal",
+        "refs": ["tg:carnal-mind"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note10b",
+        "content": "nature",
+        "refs": ["tg:man-natural-not-spiritually-reborn"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note10c",
+        "content": "probationary state",
+        "refs": ["tg:mortality", "tg:probation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note11a",
+        "content": "miserable",
+        "refs": ["bofm:2-ne:9_p7-p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note12a",
+        "content": "man",
+        "refs": ["nt:1-cor:15_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note12b",
+        "content": "disobedience",
+        "refs": ["tg:disobedience"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note13a",
+        "content": "plan",
+        "refs": ["tg:salvation-plan-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note13b",
+        "content": "redemption",
+        "refs": ["tg:redemption", "tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note13c",
+        "content": "cease",
+        "refs": ["bofm:2-ne:2_p13-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note14a",
+        "content": "fallen",
+        "refs": ["nt:eph:2_p8-p9#p8", "bofm:alma:22_p13-p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note14b",
+        "content": "justice",
+        "refs": [
+            "nt:rom:7_p5#p5",
+            "bofm:2-ne:2_p4-p10#p5",
+            "bofm:2-ne:25_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note15a",
+        "content": "atoneth",
+        "refs": [
+            "bofm:2-ne:9_p10#p10",
+            "bofm:mosiah:16_p7-p8#p8",
+            "tg:jesus-christ-atonement-through",
+            "tg:jesus-christ-redeemer"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note15b",
+        "content": "mercy",
+        "refs": ["tg:jesus-christ-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note15c",
+        "content": "justice",
+        "refs": ["bofm:alma:12_p32#p32", "tg:justice"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note15d",
+        "content": "perfect",
+        "refs": ["tg:god-perfection-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note15e",
+        "content": "merciful",
+        "refs": ["tg:god-mercy-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note16a",
+        "content": "punishment",
+        "refs": ["tg:punish"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note16b",
+        "content": "eternal",
+        "refs": ["dnc:19_p10-p12#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note16c",
+        "content": "opposite",
+        "refs": ["tg:opposition"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note16d",
+        "content": "eternal",
+        "refs": ["tg:eternity"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note17a",
+        "content": "sin",
+        "refs": ["nt:rom:7_p1-p25#p8", "tg:sin"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note17b",
+        "content": "law",
+        "refs": ["nt:rom:4_p15#p15", "nt:rom:5_p13#p13", "bofm:2-ne:9_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note18a",
+        "content": "conscience",
+        "refs": ["tg:conscience"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note19a",
+        "content": "murdered",
+        "refs": ["tg:murder"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note19b",
+        "content": "die",
+        "refs": ["tg:blood-shedding-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note21a",
+        "content": "no law",
+        "refs": [
+            "bofm:2-ne:9_p25-p26#p26",
+            "bofm:mosiah:3_p11#p11",
+            "bofm:alma:9_p15-p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note22a",
+        "content": "punishment",
+        "refs": ["tg:punish"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note22b",
+        "content": "repentance",
+        "refs": ["tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note22c",
+        "content": "law",
+        "refs": ["nt:gal:3_p13#p13", "dnc:76_p48#p48"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note23a",
+        "content": "mercy",
+        "refs": ["tg:god-mercy-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note23b",
+        "content": "atonement",
+        "refs": ["tg:jesus-christ-atonement-through"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note23c",
+        "content": "resurrection",
+        "refs": [
+            "bofm:2-ne:2_p8#p8",
+            "bofm:alma:7_p12#p12",
+            "bofm:alma:12_p24-p25#p25"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note23d",
+        "content": "resurrection",
+        "refs": [
+            "bofm:2-ne:9_p4#p4",
+            "bofm:alma:11_p41-p45#p41",
+            "bofm:hel:14_p15-p18#p15",
+            "bofm:morm:9_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note23e",
+        "content": "back",
+        "refs": ["bofm:alma:40_p21-p24#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note23f",
+        "content": "judged",
+        "refs": ["tg:jesus-christ-judge"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note24a",
+        "content": "mercy",
+        "refs": ["tg:god-mercy-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note25a",
+        "content": "mercy",
+        "refs": ["tg:mercy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note25b",
+        "content": "justice",
+        "refs": ["tg:justice"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note26a",
+        "content": "purposes",
+        "refs": [
+            "nt:matt:5_p48#p48",
+            "nt:rom:8_p14-p21#p17",
+            "bofm:2-ne:2_p14-p30#p15",
+            "dnc:29_p42-p44#p43",
+            "pgp:moses:1_p39#p39",
+            "tg:earth-purpose-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note26b",
+        "content": "from",
+        "refs": ["bofm:alma:13_p3,5,7-p8#p3", "bofm:3-ne:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note27a",
+        "content": "whosoever",
+        "refs": [
+            "bofm:alma:5_p34#p34",
+            "bofm:alma:41_p7-p8#p7",
+            "bofm:hel:14_p30#p30",
+            "tg:agency"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note27b",
+        "content": "restored",
+        "refs": ["bofm:alma:41_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note27c",
+        "content": "deeds",
+        "refs": [
+            "ot:isa:59_p18#p18",
+            "bofm:alma:36_p15#p15",
+            "dnc:1_p9-p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note28a",
+        "content": "evil",
+        "refs": ["bofm:alma:41_p2-p5#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note29a",
+        "content": "trouble",
+        "refs": ["nt:2-cor:7_p8-p11#p10", "bofm:morm:2_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note30a",
+        "content": "justice",
+        "refs": ["tg:justice"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note30b",
+        "content": "mercy",
+        "refs": ["tg:god-mercy-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note30c",
+        "content": "humility",
+        "refs": ["tg:humility"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note31a",
+        "content": "preach",
+        "refs": ["dnc:11_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/42",
+        "noteId": "note31b",
+        "content": "bring",
+        "refs": ["tg:mission-of-early-saints"]
+    }
+]

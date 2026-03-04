@@ -1,0 +1,463 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note1a",
+        "content": "cease",
+        "refs": ["ot:1-sam:7_p8#p8", "bofm:2-ne:32_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note1b",
+        "content": "pray",
+        "refs": ["bofm:mosiah:24_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note3a",
+        "content": "brake",
+        "refs": ["nt:mark:6_p36-p44#p41"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note3b",
+        "content": "bread",
+        "refs": ["bofm:3-ne:18_p1#p1", "bofm:3-ne:26_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note6a",
+        "content": "bread",
+        "refs": ["nt:matt:14_p19-p21#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note7a",
+        "content": "gave",
+        "refs": ["nt:john:6_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note8a",
+        "content": "my body",
+        "refs": [
+            "nt:john:6_p50-p58#p51",
+            "nt:1-cor:11_p20-p26#p24",
+            "bofm:3-ne:18_p7#p7",
+            "bofm:moro:4_p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note11a",
+        "content": "words",
+        "refs": ["bofm:3-ne:16_p17-p20#p17", "bofm:3-ne:23_p1-p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note11b",
+        "content": "Isaiah",
+        "refs": ["bofm:2-ne:25_p1-p5#p5", "bofm:morm:8_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note12a",
+        "content": "covenant",
+        "refs": ["ot:gen:17_p9-p12#p11", "bofm:3-ne:15_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note13a",
+        "content": "remnants",
+        "refs": ["bofm:3-ne:16_p6-p13#p13", "bofm:3-ne:21_p2-p7#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note13b",
+        "content": "scattered",
+        "refs": ["tg:israel-scattering-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note13c",
+        "content": "gathered",
+        "refs": [
+            "ot:jer:46_p2-p28#p27",
+            "bofm:3-ne:22_p6-p17#p7",
+            "tg:israel-gathering-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note13d",
+        "content": "knowledge",
+        "refs": ["ot:ezek:20_p42-p44#p42", "bofm:3-ne:16_p4-p5#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note14a",
+        "content": "commanded",
+        "refs": ["tg:jesus-christ-authority-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note14b",
+        "content": "land",
+        "refs": ["tg:promised-lands"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note15a",
+        "content": "repent",
+        "refs": ["bofm:3-ne:16_p10-p14#p10"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note15b",
+        "content": "blessing",
+        "refs": ["bofm:3-ne:20_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note16a",
+        "content": "remnant",
+        "refs": ["tg:israel-remnant-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note16b",
+        "content": "lion",
+        "refs": [
+            "ot:gen:49_p9#p9",
+            "bofm:morm:5_p24#p24",
+            "dnc:87_p4-p5#p5",
+            "dnc:109_p65-p67#p65",
+            "tg:israel-deliverance-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note16c",
+        "content": "treadeth",
+        "refs": [
+            "ot:micah:5_p8-p9#p8",
+            "bofm:3-ne:16_p14-p15#p15",
+            "bofm:3-ne:21_p11-p21#p12"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note18a",
+        "content": "gather",
+        "refs": ["ot:micah:4_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note19a",
+        "content": "people",
+        "refs": ["ot:lev:26_p12#p12", "dnc:63_p1-p6#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note19b",
+        "content": "horn",
+        "refs": ["tg:last-days"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note19c",
+        "content": "beat",
+        "refs": ["ot:micah:4_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note20a",
+        "content": "sword",
+        "refs": [
+            "bofm:1-ne:14_p17#p17",
+            "bofm:1-ne:22_p15-p16#p16",
+            "bofm:3-ne:29_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note21a",
+        "content": "people",
+        "refs": [
+            "ot:1-kgs:8_p51#p51",
+            "bofm:3-ne:16_p8-p15#p8",
+            "bofm:3-ne:21_p12-p24#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note22a",
+        "content": "people",
+        "refs": ["tg:israel-joseph-people-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note22b",
+        "content": "covenant",
+        "refs": ["ot:gen:49_p22-p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note22c",
+        "content": "New Jerusalem",
+        "refs": [
+            "ot:isa:2_p2-p5#p3",
+            "bofm:3-ne:21_p23-p24#p23",
+            "bofm:ether:13_p1-p12#p3",
+            "dnc:84_p2-p4#p2",
+            "tg:jerusalem-new"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note22d",
+        "content": "powers",
+        "refs": ["bofm:3-ne:21_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note22e",
+        "content": "I",
+        "refs": ["ot:isa:59_p20-p21#p20", "bofm:3-ne:24_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note23a",
+        "content": "A prophet",
+        "refs": [
+            "ot:deut:18_p15-p19#p15",
+            "nt:acts:3_p22-p23#p22",
+            "bofm:1-ne:22_p20-p21#p20",
+            "dnc:133_p63#p63"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note24a",
+        "content": "all",
+        "refs": [
+            "nt:acts:3_p24-p26#p24",
+            "bofm:1-ne:10_p5#p5",
+            "bofm:jacob:7_p11#p11"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note25a",
+        "content": "children",
+        "refs": ["nt:rom:4_p23-p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note25b",
+        "content": "covenant",
+        "refs": ["tg:abrahamic-covenant"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note25c",
+        "content": "in",
+        "refs": [
+            "ot:gen:12_p1-p3#p3",
+            "ot:gen:22_p9,18#p18",
+            "tg:seed-of-abraham"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note26a",
+        "content": "bless",
+        "refs": ["tg:israel-blessings-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note26b",
+        "content": "turning",
+        "refs": ["ot:prov:16_p6#p6", "bofm:alma:19_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note27a",
+        "content": "In",
+        "refs": [
+            "ot:gen:12_p1-p3#p2",
+            "nt:gal:3_p7-p29#p8",
+            "bofm:2-ne:29_p14#p14",
+            "pgp:abr:2_p9#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note27b",
+        "content": "blessing",
+        "refs": ["bofm:3-ne:20_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note27c",
+        "content": "Gentiles",
+        "refs": ["bofm:3-ne:16_p6-p7#p6", "bofm:morm:5_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note27d",
+        "content": "scattering",
+        "refs": ["bofm:3-ne:16_p8-p9#p8", "bofm:morm:5_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note28a",
+        "content": "scourge",
+        "refs": [
+            "ot:josh:23_p13#p13",
+            "bofm:1-ne:2_p24#p24",
+            "bofm:3-ne:16_p8-p10#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note28b",
+        "content": "iniquities",
+        "refs": ["ot:isa:51_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note29a",
+        "content": "remember",
+        "refs": ["ot:isa:44_p21#p21", "bofm:3-ne:16_p11-p12#p11"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note29b",
+        "content": "gather",
+        "refs": ["tg:israel-gathering-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note29c",
+        "content": "land",
+        "refs": [
+            "ot:amos:9_p15#p15",
+            "bofm:alma:7_p10#p10",
+            "dnc:133_p24#p24",
+            "tg:israel-land-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note31a",
+        "content": "believe",
+        "refs": ["bofm:3-ne:5_p21-p26#p26", "bofm:3-ne:21_p26-p29#p26"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note32a",
+        "content": "watchmen",
+        "refs": [
+            "ot:isa:52_p8-p9#p8",
+            "bofm:3-ne:16_p18-p20#p18",
+            "tg:watchman"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note33a",
+        "content": "Jerusalem",
+        "refs": ["ot:isa:18_p7#p7", "dnc:84_p2#p2", "tg:jerusalem"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note33b",
+        "content": "land",
+        "refs": [
+            "ot:deut:11_p11#p11",
+            "tg:israel-land-of",
+            "tg:lands-of-inheritance"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note34a",
+        "content": "Sing",
+        "refs": ["ot:isa:54_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note36a",
+        "content": "Awake",
+        "refs": [
+            "ot:isa:52_p1-p3#p1",
+            "dnc:113_p7-p10#p7",
+            "tg:priesthood-power-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note40a",
+        "content": "How",
+        "refs": [
+            "ot:isa:52_p7#p7",
+            "ot:nahum:1_p15#p15",
+            "bofm:mosiah:15_p13-p18#p18",
+            "dnc:128_p19#p19"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note40b",
+        "content": "publisheth",
+        "refs": ["nt:mark:13_p10#p10", "bofm:1-ne:13_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note41a",
+        "content": "Depart",
+        "refs": ["ot:isa:52_p11-p15#p11"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note41b",
+        "content": "unclean",
+        "refs": ["tg:uncleanness"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note41c",
+        "content": "clean",
+        "refs": ["dnc:133_p5#p5", "tg:cleanliness"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note42a",
+        "content": "not go",
+        "refs": ["bofm:3-ne:21_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note42b",
+        "content": "haste",
+        "refs": ["tg:haste", "tg:rashness"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note45a",
+        "content": "sprinkle",
+        "refs": ["ot:lev:1_p5#p5", "ot:isa:52_p15#p15", "ot:ezek:36_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note45b",
+        "content": "consider",
+        "refs": ["bofm:3-ne:21_p8#p8", "dnc:101_p94#p94"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/20",
+        "noteId": "note46a",
+        "content": "Jerusalem",
+        "refs": ["ot:joel:2_p18#p18", "bofm:ether:13_p5,11#p5"]
+    }
+]

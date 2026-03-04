@@ -1,0 +1,371 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note1a",
+        "content": "bread and wine",
+        "refs": [
+            "nt:matt:26_p26#p26",
+            "bofm:3-ne:20_p3-p9#p3",
+            "bofm:3-ne:26_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note3a",
+        "content": "bread and wine",
+        "refs": ["tg:jesus-christ-types-of-in-memory"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note5a",
+        "content": "ordained",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note5b",
+        "content": "break",
+        "refs": ["bofm:moro:4_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note5c",
+        "content": "bread",
+        "refs": ["nt:matt:14_p19-p21#p19", "bofm:3-ne:20_p6-p7#p6"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note5d",
+        "content": "church",
+        "refs": ["tg:church"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note6a",
+        "content": "do",
+        "refs": ["tg:jesus-christ-exemplar"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note7a",
+        "content": "remembrance",
+        "refs": ["bofm:3-ne:20_p8#p8", "bofm:moro:4_p3#p3", "tg:sacrament"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note7b",
+        "content": "body",
+        "refs": ["tg:bread-of-life"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note8a",
+        "content": "wine",
+        "refs": ["nt:matt:26_p27-p29#p27", "tg:jesus-christ-types-of-in-memory"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note10a",
+        "content": "willing",
+        "refs": ["tg:commitment"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note11a",
+        "content": "remembrance",
+        "refs": ["bofm:moro:5_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note11b",
+        "content": "blood",
+        "refs": ["tg:blood-symbolism-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note12a",
+        "content": "rock",
+        "refs": ["tg:rock"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note13a",
+        "content": "more",
+        "refs": ["ot:josh:1_p7#p7", "dnc:3_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note13b",
+        "content": "fall",
+        "refs": ["tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note13c",
+        "content": "gates",
+        "refs": ["nt:matt:16_p18#p18", "bofm:3-ne:11_p39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note15a",
+        "content": "pray",
+        "refs": ["bofm:alma:34_p23#p23", "dnc:93_p49#p49"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note16a",
+        "content": "church",
+        "refs": ["tg:jesus-christ-head-of-the-church"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note16b",
+        "content": "light",
+        "refs": ["tg:jesus-christ-light-of-the-world"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note16c",
+        "content": "example",
+        "refs": [
+            "tg:god-the-standard-of-righteousness",
+            "tg:jesus-christ-exemplar"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note18a",
+        "content": "Satan",
+        "refs": [
+            "nt:luke:22_p31#p31",
+            "bofm:2-ne:2_p17-p18#p18",
+            "dnc:10_p22-p27#p22"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note20a",
+        "content": "whatsoever",
+        "refs": [
+            "ot:isa:58_p8-p9#p9",
+            "nt:matt:21_p21-p22#p22",
+            "nt:mark:11_p24#p24",
+            "bofm:hel:10_p5#p5",
+            "bofm:morm:9_p21#p21",
+            "bofm:moro:7_p26#p26",
+            "dnc:88_p63-p65#p64"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note21a",
+        "content": "Pray",
+        "refs": [
+            "bofm:alma:34_p21#p21",
+            "tg:family-children-responsibilities-toward"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note22a",
+        "content": "meet",
+        "refs": ["tg:meetings"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note23a",
+        "content": "pray",
+        "refs": ["bofm:3-ne:18_p30#p30", "tg:missionary-work"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note24a",
+        "content": "light",
+        "refs": ["tg:jesus-christ-light-of-the-world"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note24b",
+        "content": "light",
+        "refs": [
+            "nt:matt:5_p16#p16",
+            "nt:mark:4_p21#p21",
+            "bofm:3-ne:12_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note25a",
+        "content": "none",
+        "refs": ["bofm:alma:5_p33#p33", "bofm:alma:19_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note25b",
+        "content": "feel",
+        "refs": ["bofm:3-ne:11_p14-p16#p15"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note26a",
+        "content": "disciples",
+        "refs": ["bofm:3-ne:13_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note27a",
+        "content": "Father",
+        "refs": ["tg:god-the-father-elohim"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note27b",
+        "content": "other",
+        "refs": ["bofm:3-ne:16_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note28a",
+        "content": "partake",
+        "refs": [
+            "ot:ex:12_p43#p43",
+            "nt:1-cor:11_p27-p30#p27",
+            "bofm:4-ne:1_p27#p27"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note28b",
+        "content": "unworthily",
+        "refs": ["ot:lev:7_p18#p18", "bofm:morm:9_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note29a",
+        "content": "blood",
+        "refs": ["tg:blood-symbolism-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note29b",
+        "content": "unworthily",
+        "refs": ["bofm:3-ne:12_p23-p26#p24", "dnc:46_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note30a",
+        "content": "cast",
+        "refs": ["dnc:46_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note30b",
+        "content": "minister",
+        "refs": ["bofm:3-ne:18_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note31a",
+        "content": "know",
+        "refs": ["dnc:27_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note31b",
+        "content": "my",
+        "refs": [
+            "nt:john:10_p14#p14",
+            "bofm:alma:5_p38#p38",
+            "bofm:3-ne:15_p24#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note32a",
+        "content": "synagogues",
+        "refs": ["bofm:alma:16_p13#p13", "bofm:moro:7_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note32b",
+        "content": "heal",
+        "refs": [
+            "ot:jer:3_p22#p22",
+            "bofm:3-ne:9_p13-p14#p13",
+            "dnc:112_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note33a",
+        "content": "condemnation",
+        "refs": ["tg:condemnation"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note34a",
+        "content": "no disputations",
+        "refs": ["bofm:3-ne:11_p28-p30#p28", "tg:disputations"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note35a",
+        "content": "for",
+        "refs": [
+            "nt:1-jn:2_p1#p1",
+            "bofm:2-ne:2_p9#p9",
+            "bofm:moro:7_p27-p28#p28",
+            "dnc:29_p5#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note36a",
+        "content": "hand",
+        "refs": ["tg:hands-laying-on-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note36b",
+        "content": "disciples",
+        "refs": [
+            "bofm:1-ne:12_p7#p7",
+            "bofm:3-ne:15_p11#p11",
+            "bofm:3-ne:19_p4-p12#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note37a",
+        "content": "power",
+        "refs": ["tg:holy-ghost-gift-of", "tg:priesthood-authority"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note37b",
+        "content": "Holy Ghost",
+        "refs": ["bofm:alma:31_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note37c",
+        "content": "hereafter",
+        "refs": [
+            "bofm:3-ne:26_p17#p17",
+            "bofm:3-ne:28_p18#p18",
+            "bofm:moro:2_p2-p3#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note38a",
+        "content": "cloud",
+        "refs": ["ot:ex:19_p9,16#p9", "ot:2-chr:5_p11-p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/18",
+        "noteId": "note39a",
+        "content": "departed",
+        "refs": ["bofm:3-ne:17_p4#p4"]
+    }
+]

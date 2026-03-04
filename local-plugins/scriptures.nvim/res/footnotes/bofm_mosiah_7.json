@@ -1,0 +1,426 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note1a",
+        "content": "went",
+        "refs": ["bofm:omni:1_p27-p30#p27"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note1b",
+        "content": "Lehi-Nephi",
+        "refs": ["bofm:2-ne:5_p8#p8", "bofm:mosiah:9_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note1c",
+        "content": "Zarahemla",
+        "refs": ["bofm:omni:1_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note3a",
+        "content": "Ammon",
+        "refs": ["bofm:mosiah:8_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note3b",
+        "content": "descendant",
+        "refs": ["bofm:omni:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note4a",
+        "content": "forty",
+        "refs": ["ot:num:13_p17-p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note5a",
+        "content": "hill",
+        "refs": ["bofm:mosiah:11_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note5b",
+        "content": "Shilom",
+        "refs": [
+            "bofm:mosiah:9_p6,8,14#p14",
+            "bofm:mosiah:11_p12-p13#p12",
+            "bofm:mosiah:22_p8,11#p11",
+            "bofm:alma:23_p12#p12"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note6a",
+        "content": "Ammon",
+        "refs": ["bofm:mosiah:21_p22,26#p22"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note6b",
+        "content": "Nephi",
+        "refs": [
+            "bofm:2-ne:5_p8#p8",
+            "bofm:omni:1_p12,27#p12",
+            "bofm:mosiah:9_p1,3-p4,14#p1",
+            "bofm:mosiah:28_p1,5#p1",
+            "bofm:alma:50_p8,11#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note7a",
+        "content": "Shilom",
+        "refs": ["bofm:mosiah:22_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note7b",
+        "content": "taken",
+        "refs": ["bofm:mosiah:21_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note7c",
+        "content": "bound",
+        "refs": ["bofm:alma:17_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note7d",
+        "content": "prison",
+        "refs": ["bofm:mosiah:21_p22-p24#p23"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note8a",
+        "content": "commanded",
+        "refs": ["bofm:alma:14_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note9a",
+        "content": "Limhi",
+        "refs": ["bofm:mosiah:11_p1#p1", "bofm:mosiah:19_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note9b",
+        "content": "land of Zarahemla",
+        "refs": ["bofm:omni:1_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note9c",
+        "content": "king",
+        "refs": ["tg:kings-earthly"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note9d",
+        "content": "voice",
+        "refs": ["bofm:mosiah:19_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note10a",
+        "content": "I",
+        "refs": ["bofm:mosiah:21_p23-p24#p23"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note10b",
+        "content": "gate",
+        "refs": ["ot:josh:20_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note12a",
+        "content": "bowed",
+        "refs": ["bofm:alma:47_p22-p23#p22"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note13a",
+        "content": "descendant",
+        "refs": ["bofm:omni:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note13b",
+        "content": "land of Zarahemla",
+        "refs": ["bofm:omni:1_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note13c",
+        "content": "Zeniff",
+        "refs": ["bofm:mosiah:8_p2#p2", "bofm:mosiah:9_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note14a",
+        "content": "glad",
+        "refs": ["bofm:mosiah:21_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note14b",
+        "content": "yet",
+        "refs": ["bofm:mosiah:21_p25-p26#p25"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note15a",
+        "content": "taxed",
+        "refs": ["bofm:mosiah:19_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note15b",
+        "content": "bondage",
+        "refs": ["tg:bondage-physical"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note15c",
+        "content": "slaves",
+        "refs": ["tg:slavery"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note17a",
+        "content": "temple",
+        "refs": ["bofm:2-ne:5_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note18a",
+        "content": "spake",
+        "refs": ["bofm:mosiah:8_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note18b",
+        "content": "remaineth",
+        "refs": ["bofm:mosiah:22_p1-p16#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note19a",
+        "content": "trust",
+        "refs": ["tg:trust-in-god"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note19b",
+        "content": "God",
+        "refs": ["ot:ex:3_p2-p10#p6", "bofm:1-ne:19_p10#p10", "dnc:136_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note19c",
+        "content": "brought",
+        "refs": [
+            "ot:ex:12_p51#p51",
+            "bofm:1-ne:17_p40#p40",
+            "bofm:mosiah:12_p34#p34",
+            "bofm:alma:36_p28#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note19d",
+        "content": "Israel",
+        "refs": ["tg:israel-origins-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note19e",
+        "content": "Red Sea",
+        "refs": [
+            "ot:josh:2_p10#p10",
+            "bofm:1-ne:4_p2#p2",
+            "bofm:1-ne:17_p26#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note19f",
+        "content": "manna",
+        "refs": [
+            "ot:ex:16_p15,35#p15",
+            "ot:num:11_p7-p8#p7",
+            "ot:josh:5_p12#p12",
+            "nt:john:6_p49#p49",
+            "bofm:1-ne:17_p28#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note20a",
+        "content": "out",
+        "refs": ["bofm:1-ne:2_p1-p4#p2"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note20b",
+        "content": "because",
+        "refs": ["ot:deut:28_p1-p2,15-p68#p15"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note21a",
+        "content": "over-zealous",
+        "refs": ["bofm:mosiah:9_p1-p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note22a",
+        "content": "bringing",
+        "refs": ["bofm:mosiah:9_p10#p10", "bofm:mosiah:10_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note22b",
+        "content": "tribute",
+        "refs": ["tg:tribute"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note23a",
+        "content": "mourn",
+        "refs": ["ot:prov:29_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note24a",
+        "content": "mourn",
+        "refs": ["ot:ezek:24_p23#p23", "bofm:hel:9_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note26a",
+        "content": "prophet",
+        "refs": ["bofm:mosiah:17_p12-p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note26b",
+        "content": "slain",
+        "refs": ["tg:prophets-rejection-of"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note27a",
+        "content": "God",
+        "refs": [
+            "ot:isa:9_p6#p6",
+            "bofm:2-ne:26_p12#p12",
+            "bofm:mosiah:27_p30-p31#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note27b",
+        "content": "image",
+        "refs": ["tg:god-body-of-corporeal-nature"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note27c",
+        "content": "image",
+        "refs": [
+            "ot:gen:1_p26-p28#p26",
+            "bofm:ether:3_p14-p17#p15",
+            "dnc:20_p17-p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note27d",
+        "content": "God",
+        "refs": [
+            "bofm:mosiah:13_p34#p34",
+            "bofm:mosiah:15_p1-p7#p2",
+            "bofm:alma:7_p9-p13#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note28a",
+        "content": "put",
+        "refs": ["bofm:mosiah:17_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note29a",
+        "content": "succor",
+        "refs": [
+            "ot:josh:24_p20#p20",
+            "ot:1-sam:12_p15#p15",
+            "ot:2-chr:24_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note29b",
+        "content": "stumbling block",
+        "refs": ["ot:jer:6_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note30a",
+        "content": "filthiness",
+        "refs": ["tg:filthiness"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note30b",
+        "content": "reap",
+        "refs": [
+            "ot:hosea:8_p7#p7",
+            "nt:gal:6_p7-p8#p8",
+            "dnc:6_p33#p33",
+            "tg:harvest"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note30c",
+        "content": "chaff",
+        "refs": ["nt:luke:3_p17#p17", "bofm:2-ne:15_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note31a",
+        "content": "east wind",
+        "refs": [
+            "ot:gen:41_p23#p23",
+            "ot:jer:18_p17#p17",
+            "ot:ezek:27_p26#p26",
+            "ot:jonah:4_p8#p8",
+            "bofm:mosiah:12_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note33a",
+        "content": "turn",
+        "refs": [
+            "ot:deut:30_p10#p10",
+            "ot:lam:5_p21#p21",
+            "bofm:morm:9_p6#p6",
+            "dnc:98_p47#p47"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/7",
+        "noteId": "note33b",
+        "content": "diligence",
+        "refs": ["tg:diligence"]
+    }
+]

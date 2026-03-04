@@ -1,0 +1,79 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note1a",
+        "content": "In",
+        "refs": ["ot:isa:6_p1-p13#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note1b",
+        "content": "year",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note1c",
+        "content": "saw",
+        "refs": ["nt:john:12_p41#p41", "bofm:2-ne:11_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note2a",
+        "content": "seraphim",
+        "refs": ["tg:cherubim", "bd:seraphim"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note3a",
+        "content": "glory",
+        "refs": ["ot:ps:72_p19-p20#p19", "tg:jesus-christ-glory-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note5a",
+        "content": "seen",
+        "refs": ["tg:jesus-christ-appearances-antemortal"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note7a",
+        "content": "iniquity",
+        "refs": ["tg:cleanse", "tg:remission-of-sins"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note8a",
+        "content": "Whom",
+        "refs": ["tg:called-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note10a",
+        "content": "hear",
+        "refs": [
+            "nt:matt:13_p14-p15#p14",
+            "nt:john:12_p40#p40",
+            "nt:acts:28_p26-p27#p26",
+            "nt:rom:11_p8#p8"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note10b",
+        "content": "heart",
+        "refs": ["ot:prov:2_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note12a",
+        "content": "removed",
+        "refs": ["ot:2-kgs:17_p18,20#p18", "ot:2-kgs:25_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/16",
+        "noteId": "note13a",
+        "content": "holy seed",
+        "refs": ["ot:ezra:9_p2#p2"]
+    }
+]

@@ -1,0 +1,161 @@
+[
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note1a",
+        "content": "proclamation",
+        "refs": ["bofm:alma:22_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note2a",
+        "content": "synagogues",
+        "refs": ["bofm:alma:21_p4-p6,20#p20", "bofm:alma:26_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note2b",
+        "content": "sanctuaries",
+        "refs": ["bofm:hel:3_p9,14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note3a",
+        "content": "all",
+        "refs": ["bofm:alma:22_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note3b",
+        "content": "household",
+        "refs": ["ot:gen:18_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note3c",
+        "content": "traditions",
+        "refs": ["bofm:alma:26_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note4a",
+        "content": "city to city",
+        "refs": ["nt:luke:8_p1#p1", "dnc:66_p5#p5", "dnc:75_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note4b",
+        "content": "priests",
+        "refs": ["bofm:alma:30_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note5a",
+        "content": "thousands",
+        "refs": ["bofm:alma:26_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note5b",
+        "content": "traditions",
+        "refs": ["bofm:alma:37_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note5c",
+        "content": "records",
+        "refs": ["bofm:alma:63_p12#p12", "tg:scriptures-value-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note6a",
+        "content": "miracles",
+        "refs": [
+            "ot:ex:8_p19#p19",
+            "bofm:1-ne:19_p22#p22",
+            "dnc:84_p3#p3",
+            "dnc:121_p12#p12"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note6b",
+        "content": "converted",
+        "refs": ["tg:commitment", "tg:conversion"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note6c",
+        "content": "never",
+        "refs": ["bofm:alma:27_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note8a",
+        "content": "they",
+        "refs": ["bofm:alma:26_p3,31#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note10a",
+        "content": "Middoni",
+        "refs": ["bofm:alma:20_p2#p2", "bofm:alma:21_p12-p13,18#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note12a",
+        "content": "Shilom",
+        "refs": ["bofm:mosiah:22_p8,11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note13a",
+        "content": "converted",
+        "refs": ["bofm:alma:53_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note14a",
+        "content": "converted",
+        "refs": ["bofm:alma:24_p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note14b",
+        "content": "Amulonites",
+        "refs": ["bofm:mosiah:23_p31-p39#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note17a",
+        "content": "Anti-Nephi-Lehies",
+        "refs": ["bofm:alma:24_p1-p3,5,20#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note17b",
+        "content": "Lamanites",
+        "refs": ["bofm:jacob:1_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note18a",
+        "content": "industrious",
+        "refs": ["tg:industry"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note18b",
+        "content": "open",
+        "refs": ["bofm:alma:24_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/23",
+        "noteId": "note18c",
+        "content": "curse",
+        "refs": [
+            "bofm:1-ne:2_p23#p23",
+            "bofm:2-ne:30_p5-p6#p6",
+            "bofm:3-ne:2_p14-p16#p15"
+        ]
+    }
+]

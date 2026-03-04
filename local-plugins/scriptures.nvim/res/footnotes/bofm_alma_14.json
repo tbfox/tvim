@@ -1,0 +1,287 @@
+[
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note1a",
+        "content": "scriptures",
+        "refs": [
+            "ot:2-kgs:22_p8-p13#p11",
+            "nt:acts:17_p2-p3,11#p2",
+            "bofm:alma:13_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note2a",
+        "content": "plainness",
+        "refs": ["bofm:alma:12_p3-p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note2b",
+        "content": "lied",
+        "refs": ["bofm:alma:10_p24-p32#p28"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note3a",
+        "content": "testified",
+        "refs": ["ot:prov:26_p26#p26", "bofm:alma:37_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note3b",
+        "content": "put",
+        "refs": ["nt:acts:23_p12-p15#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note5a",
+        "content": "not",
+        "refs": ["bofm:alma:11_p33-p37#p35"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note6a",
+        "content": "blindness",
+        "refs": ["tg:spiritual-blindness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note6b",
+        "content": "lying",
+        "refs": ["bofm:alma:10_p25-p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note6c",
+        "content": "harrowed up",
+        "refs": ["bofm:alma:15_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note6d",
+        "content": "consciousness",
+        "refs": ["tg:conscience"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note7a",
+        "content": "guilty",
+        "refs": [
+            "bofm:alma:10_p31#p31",
+            "bofm:alma:11_p21-p36#p21",
+            "bofm:alma:15_p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note7b",
+        "content": "cast",
+        "refs": ["bofm:alma:15_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note8a",
+        "content": "cast",
+        "refs": ["bofm:alma:15_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note8b",
+        "content": "burned",
+        "refs": ["ot:jer:36_p21-p28#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note9a",
+        "content": "martyrdom",
+        "refs": ["tg:martyrdom"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note10a",
+        "content": "power",
+        "refs": ["bofm:alma:8_p30-p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note11a",
+        "content": "glory",
+        "refs": ["tg:exaltation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note11b",
+        "content": "judgments",
+        "refs": [
+            "ot:ex:23_p7#p7",
+            "ot:ps:37_p8-p13#p9",
+            "bofm:alma:60_p13#p13",
+            "dnc:103_p3#p3",
+            "tg:justice"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note11c",
+        "content": "blood",
+        "refs": ["tg:cruelty", "tg:martyrdom"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note11d",
+        "content": "innocent",
+        "refs": ["ot:lam:4_p13#p13", "bofm:mosiah:17_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note14a",
+        "content": "cheeks",
+        "refs": ["ot:1-kgs:22_p14-p27#p24"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note14b",
+        "content": "lake",
+        "refs": ["bofm:alma:12_p17#p17", "tg:damnation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note16a",
+        "content": "Nehor",
+        "refs": [
+            "bofm:alma:1_p7-p15#p12",
+            "bofm:alma:2_p20#p20",
+            "bofm:alma:21_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note17a",
+        "content": "nothing",
+        "refs": ["nt:matt:27_p12-p14#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note17b",
+        "content": "cast",
+        "refs": ["bofm:alma:9_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note18a",
+        "content": "lawyers",
+        "refs": ["bofm:alma:10_p14#p14", "bofm:alma:11_p20-p37#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note19a",
+        "content": "power",
+        "refs": ["nt:john:19_p9-p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note19b",
+        "content": "commanded",
+        "refs": ["bofm:mosiah:7_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note20a",
+        "content": "deliver",
+        "refs": ["nt:matt:27_p39-p43#p40"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note22a",
+        "content": "mock",
+        "refs": ["tg:mocking"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note22b",
+        "content": "bound",
+        "refs": ["nt:acts:16_p23-p40#p23", "dnc:122_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note22c",
+        "content": "prison",
+        "refs": ["ot:gen:39_p20#p20", "bofm:mosiah:7_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note23a",
+        "content": "Ammonihah",
+        "refs": ["bofm:alma:8_p6#p6", "bofm:alma:15_p1,15-p16#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note24a",
+        "content": "power",
+        "refs": ["tg:sign-seekers"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note25a",
+        "content": "power",
+        "refs": ["bofm:alma:8_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note26a",
+        "content": "afflictions",
+        "refs": [
+            "nt:james:5_p10-p11#p10",
+            "bofm:mosiah:17_p10-p20#p13",
+            "pgp:js-h:1_p22#p22"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note26b",
+        "content": "give",
+        "refs": ["ot:ps:69_p1-p2,14#p14", "dnc:121_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note26c",
+        "content": "deliverance",
+        "refs": ["tg:deliver"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note27a",
+        "content": "prison",
+        "refs": [
+            "nt:acts:12_p4-p6#p4",
+            "nt:acts:16_p26#p26",
+            "bofm:hel:5_p21-p50#p21",
+            "bofm:3-ne:28_p19-p20#p19",
+            "bofm:4-ne:1_p30#p30",
+            "bofm:ether:12_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note28a",
+        "content": "power",
+        "refs": ["bofm:alma:15_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note28b",
+        "content": "loosed",
+        "refs": [
+            "bofm:1-ne:7_p17-p18#p17",
+            "bofm:jacob:4_p6#p6",
+            "bofm:3-ne:28_p19-p22#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/14",
+        "noteId": "note28c",
+        "content": "bands",
+        "refs": ["bofm:alma:36_p27#p27"]
+    }
+]

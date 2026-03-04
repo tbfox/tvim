@@ -1,0 +1,296 @@
+[
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note1a",
+        "content": "commandment",
+        "refs": [
+            "bofm:jacob:7_p27#p27",
+            "bofm:jarom:1_p1-p2,15#p15",
+            "bofm:omni:1_p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note1b",
+        "content": "small",
+        "refs": ["bofm:2-ne:5_p28-p33#p31", "bofm:jacob:3_p13-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note2a",
+        "content": "write",
+        "refs": ["tg:scribe", "tg:scriptures-writing-of"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note2b",
+        "content": "these plates",
+        "refs": ["bofm:1-ne:6_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note3a",
+        "content": "other plates",
+        "refs": ["bofm:2-ne:5_p29-p33#p33", "bofm:jacob:3_p13-p14#p13"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note3b",
+        "content": "preserve",
+        "refs": ["tg:scriptures-preservation-of"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note4a",
+        "content": "sacred",
+        "refs": ["tg:sacred"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note4b",
+        "content": "heads",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note5a",
+        "content": "happen",
+        "refs": [
+            "bofm:1-ne:12",
+            "bofm:1-ne:22_p7-p8#p7",
+            "bofm:2-ne:1_p5-p10#p9",
+            "bofm:2-ne:4_p7-p11#p7",
+            "bofm:2-ne:30_p3-p6#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note6a",
+        "content": "Christ",
+        "refs": ["bofm:1-ne:10_p4-p11#p4", "bofm:1-ne:19_p8-p14#p8"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note7a",
+        "content": "come",
+        "refs": [
+            "bofm:2-ne:9_p41,45,51#p41",
+            "bofm:omni:1_p25-p26#p26",
+            "bofm:moro:10_p32#p32"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note7b",
+        "content": "rest",
+        "refs": ["tg:rest"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note7c",
+        "content": "enter",
+        "refs": [
+            "ot:num:14_p23#p23",
+            "ot:deut:1_p35-p37#p35",
+            "dnc:84_p23-p25#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note7d",
+        "content": "provocation",
+        "refs": ["nt:heb:3_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note7e",
+        "content": "wilderness",
+        "refs": ["ot:num:26_p65#p65", "bofm:1-ne:17_p23-p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note8a",
+        "content": "not to rebel",
+        "refs": ["tg:loyalty", "tg:rebellion"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note8b",
+        "content": "provoke",
+        "refs": [
+            "ot:num:14_p11-p12#p11",
+            "ot:1-kgs:16_p33#p33",
+            "bofm:1-ne:17_p23-p31#p30",
+            "bofm:alma:12_p36-p37#p37",
+            "bofm:hel:7_p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note8c",
+        "content": "cross",
+        "refs": ["nt:luke:14_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note9a",
+        "content": "die",
+        "refs": ["ot:gen:47_p28-p29#p29", "bofm:2-ne:1_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note9b",
+        "content": "anointed",
+        "refs": ["tg:anointing"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note9c",
+        "content": "kings",
+        "refs": ["bofm:2-ne:6_p2#p2", "bofm:jarom:1_p7,14#p7"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note10a",
+        "content": "sword",
+        "refs": [
+            "bofm:1-ne:4_p9#p9",
+            "bofm:2-ne:5_p14#p14",
+            "bofm:w-of-m:1_p13#p13",
+            "bofm:mosiah:1_p16#p16",
+            "dnc:17_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note13a",
+        "content": "Lamanites",
+        "refs": ["bofm:enos:1_p13#p13", "bofm:alma:23_p17#p17", "dnc:3_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note13b",
+        "content": "Zoramites",
+        "refs": [
+            "bofm:1-ne:4_p35#p35",
+            "bofm:alma:54_p23#p23",
+            "bofm:4-ne:1_p36-p37#p36"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note14a",
+        "content": "them",
+        "refs": ["bofm:w-of-m:1_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note14b",
+        "content": "call",
+        "refs": ["bofm:mosiah:25_p12#p12", "bofm:alma:2_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note14c",
+        "content": "Nephites",
+        "refs": ["bofm:2-ne:4_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note14d",
+        "content": "people",
+        "refs": ["bofm:2-ne:5_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note15a",
+        "content": "wives",
+        "refs": [
+            "ot:deut:17_p17#p17",
+            "ot:1-sam:25_p42-p43#p43",
+            "dnc:132_p38-p39#p38"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note15b",
+        "content": "concubines",
+        "refs": ["ot:2-sam:20_p3#p3", "ot:1-chr:3_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note16a",
+        "content": "gold",
+        "refs": ["bofm:mosiah:2_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note17a",
+        "content": "temple",
+        "refs": [
+            "bofm:2-ne:5_p16#p16",
+            "bofm:alma:16_p13#p13",
+            "bofm:hel:3_p9,14#p14",
+            "bofm:3-ne:11_p1#p1",
+            "tg:temple"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note17b",
+        "content": "errand",
+        "refs": ["tg:called-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note18a",
+        "content": "consecrated",
+        "refs": [
+            "bofm:2-ne:5_p26#p26",
+            "tg:delegation-of-responsibility",
+            "tg:setting-apart"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note18b",
+        "content": "teachers",
+        "refs": ["tg:teacher"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note19a",
+        "content": "magnify",
+        "refs": [
+            "bofm:jacob:2_p2#p2",
+            "dnc:24_p3#p3",
+            "tg:leadership",
+            "tg:priesthood-magnifying-callings-within"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note19b",
+        "content": "responsibility",
+        "refs": ["ot:ezek:34_p10#p10", "tg:accountability", "tg:stewardship"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note19c",
+        "content": "teach",
+        "refs": ["ot:1-sam:8_p9#p9", "bofm:moro:9_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/jacob/1",
+        "noteId": "note19d",
+        "content": "blood",
+        "refs": [
+            "ot:lev:20_p27#p27",
+            "nt:acts:20_p26#p26",
+            "bofm:2-ne:9_p44#p44",
+            "bofm:mosiah:2_p27#p27",
+            "dnc:88_p85#p85",
+            "dnc:112_p33#p33"
+        ]
+    }
+]

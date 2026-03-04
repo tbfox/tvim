@@ -1,0 +1,264 @@
+[
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note1a",
+        "content": "wrested",
+        "refs": [
+            "nt:2-pet:1_p20#p20",
+            "nt:2-pet:3_p16#p16",
+            "bofm:alma:13_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note1b",
+        "content": "astray",
+        "refs": ["tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note1c",
+        "content": "worried",
+        "refs": ["tg:problem-solving"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note2a",
+        "content": "part",
+        "refs": ["bofm:alma:40_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note3a",
+        "content": "justice",
+        "refs": ["tg:god-justice-of", "tg:justice"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note3b",
+        "content": "judged",
+        "refs": ["tg:accountability", "tg:judgment-the-last"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note3c",
+        "content": "works",
+        "refs": [
+            "ot:isa:59_p18#p18",
+            "bofm:alma:36_p15#p15",
+            "bofm:alma:42_p27#p27",
+            "dnc:1_p9-p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note3d",
+        "content": "restored",
+        "refs": ["bofm:hel:14_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note4a",
+        "content": "restored",
+        "refs": ["bofm:alma:42_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note4b",
+        "content": "restored",
+        "refs": [
+            "bofm:2-ne:9_p10-p13#p13",
+            "dnc:138_p17#p17",
+            "tg:resurrection"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note4c",
+        "content": "mortality",
+        "refs": ["tg:mortality"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note4d",
+        "content": "immortality",
+        "refs": ["tg:immortality"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note4e",
+        "content": "corruption",
+        "refs": ["nt:1-cor:15_p50-p53#p50"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note4f",
+        "content": "endless",
+        "refs": ["tg:eternal-life"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note4g",
+        "content": "inherit",
+        "refs": ["tg:exaltation"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note5a",
+        "content": "happiness",
+        "refs": ["tg:happiness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note7a",
+        "content": "These",
+        "refs": ["dnc:76_p65#p65"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note7b",
+        "content": "judges",
+        "refs": [
+            "bofm:2-ne:2_p26#p26",
+            "bofm:alma:42_p27#p27",
+            "bofm:hel:14_p30#p30",
+            "tg:agency"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note8a",
+        "content": "unalterable",
+        "refs": ["bofm:morm:9_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note8b",
+        "content": "whosoever",
+        "refs": ["bofm:alma:42_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note8c",
+        "content": "walk",
+        "refs": ["tg:walking-with-god"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note9a",
+        "content": "one",
+        "refs": [
+            "ot:prov:26_p11#p11",
+            "nt:matt:12_p43-p45#p45",
+            "dnc:42_p23-p28#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note10a",
+        "content": "wickedness",
+        "refs": [
+            "ot:ps:32_p10#p10",
+            "ot:isa:57_p21#p21",
+            "bofm:hel:13_p38#p38",
+            "tg:evil",
+            "tg:wickedness"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note10b",
+        "content": "happiness",
+        "refs": [
+            "bofm:alma:50_p21#p21",
+            "bofm:morm:2_p13#p13",
+            "tg:happiness",
+            "tg:peace-of-god"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note11a",
+        "content": "nature",
+        "refs": [
+            "bofm:mosiah:3_p19#p19",
+            "tg:man-natural-not-spiritually-reborn"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note11b",
+        "content": "carnal",
+        "refs": ["tg:carnal-mind", "tg:fall-of-man"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note11c",
+        "content": "gall of bitterness",
+        "refs": ["nt:acts:8_p23#p23", "bofm:morm:8_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note11d",
+        "content": "bonds",
+        "refs": ["tg:bondage-spiritual"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note11e",
+        "content": "without",
+        "refs": ["nt:eph:2_p12#p12", "bofm:mosiah:27_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note11f",
+        "content": "contrary",
+        "refs": ["bofm:hel:13_p38#p38"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note13a",
+        "content": "evil",
+        "refs": ["ot:dan:12_p10#p10", "nt:rev:22_p6-p16#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note14a",
+        "content": "justly",
+        "refs": ["tg:honesty"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note14b",
+        "content": "judge",
+        "refs": ["nt:matt:7_p1-p5#p1", "dnc:11_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note14c",
+        "content": "good",
+        "refs": ["tg:benevolence"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note14d",
+        "content": "reward",
+        "refs": ["tg:reward"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note14e",
+        "content": "mercy",
+        "refs": ["tg:mercy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/41",
+        "noteId": "note15a",
+        "content": "send",
+        "refs": [
+            "ot:prov:19_p17#p17",
+            "ot:eccl:11_p1#p1",
+            "bofm:alma:42_p27-p28#p27"
+        ]
+    }
+]

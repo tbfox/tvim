@@ -1,0 +1,342 @@
+[
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note1a",
+        "content": "bow",
+        "refs": ["ot:ex:20_p5#p5", "bofm:mosiah:13_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note1b",
+        "content": "idols",
+        "refs": ["bofm:2-ne:9_p37#p37", "tg:idolatry"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note1c",
+        "content": "sicken",
+        "refs": ["bofm:alma:35_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note2a",
+        "content": "sorrow",
+        "refs": [
+            "bofm:1-ne:7_p8#p8",
+            "bofm:mosiah:28_p3#p3",
+            "bofm:3-ne:17_p14#p14",
+            "pgp:moses:7_p41#p41"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note2b",
+        "content": "sorrowful",
+        "refs": ["ot:isa:22_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note3a",
+        "content": "Antionum",
+        "refs": ["bofm:alma:43_p5,15,22#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note3b",
+        "content": "Jershon",
+        "refs": ["bofm:alma:27_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note4a",
+        "content": "correspondence",
+        "refs": ["tg:conspiracy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note5a",
+        "content": "preaching",
+        "refs": [
+            "ot:ex:24_p7#p7",
+            "ot:jonah:3_p5#p5",
+            "nt:rom:10_p17#p17",
+            "bofm:enos:1_p23#p23",
+            "bofm:alma:4_p19#p19",
+            "tg:preaching"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note5b",
+        "content": "word",
+        "refs": [
+            "ot:2-kgs:22_p11#p11",
+            "nt:heb:4_p12#p12",
+            "bofm:jacob:2_p8#p8",
+            "bofm:alma:36_p26#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note5c",
+        "content": "lead",
+        "refs": [
+            "bofm:jarom:1_p12#p12",
+            "bofm:alma:45_p21#p21",
+            "bofm:hel:5_p50-p52#p51",
+            "dnc:11_p2#p2",
+            "tg:gospel"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note6a",
+        "content": "Amulek",
+        "refs": ["bofm:hel:5_p41#p41"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note6b",
+        "content": "Melek",
+        "refs": [
+            "bofm:alma:8_p3#p3",
+            "bofm:alma:35_p13#p13",
+            "bofm:alma:45_p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note7a",
+        "content": "Shiblon",
+        "refs": ["bofm:alma:31_p32#p32", "bofm:alma:35_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note7b",
+        "content": "Corianton",
+        "refs": ["bofm:alma:39_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note7c",
+        "content": "Zoramites",
+        "refs": ["bofm:alma:30_p59#p59", "bofm:alma:38_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note8a",
+        "content": "dissenters",
+        "refs": [
+            "bofm:alma:24_p30#p30",
+            "bofm:alma:53_p8#p8",
+            "bofm:hel:1_p15#p15",
+            "dnc:93_p19#p19"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note9a",
+        "content": "fallen",
+        "refs": ["tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note10a",
+        "content": "performances",
+        "refs": ["tg:ordinance"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note12a",
+        "content": "worship",
+        "refs": ["tg:worship"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note14a",
+        "content": "worship",
+        "refs": ["nt:matt:6_p1-p7#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note15a",
+        "content": "spirit",
+        "refs": ["bofm:alma:18_p4-p5#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note16a",
+        "content": "elected",
+        "refs": ["nt:luke:18_p11#p11", "bofm:alma:38_p13-p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note16b",
+        "content": "holy",
+        "refs": ["ot:isa:65_p1-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note16c",
+        "content": "there",
+        "refs": ["bofm:alma:34_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note16d",
+        "content": "no",
+        "refs": ["bofm:jacob:7_p2,9#p2", "bofm:alma:30_p12,22#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note17a",
+        "content": "elected",
+        "refs": ["tg:conceit", "tg:pride"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note17b",
+        "content": "bind",
+        "refs": ["tg:false-doctrine"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note20a",
+        "content": "prayers",
+        "refs": ["nt:matt:6_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note23a",
+        "content": "never",
+        "refs": ["nt:james:1_p21-p25#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note24a",
+        "content": "grieved",
+        "refs": ["ot:gen:6_p6#p6", "bofm:1-ne:2_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note25a",
+        "content": "lifted up",
+        "refs": [
+            "ot:2-kgs:14_p10#p10",
+            "bofm:jacob:2_p13#p13",
+            "bofm:alma:1_p32#p32"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note26a",
+        "content": "cried",
+        "refs": ["pgp:moses:7_p41-p58#p44"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note27a",
+        "content": "cry",
+        "refs": ["ot:isa:29_p13#p13", "tg:hypocrisy"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note27b",
+        "content": "puffed up",
+        "refs": ["tg:pride", "tg:selfishness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note27c",
+        "content": "world",
+        "refs": ["tg:worldliness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note28a",
+        "content": "bracelets",
+        "refs": ["ot:isa:3_p16-p24#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note30a",
+        "content": "bear",
+        "refs": ["ot:num:11_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note31a",
+        "content": "in Christ",
+        "refs": ["nt:john:16_p33#p33", "tg:comfort", "tg:peace-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note31b",
+        "content": "afflictions",
+        "refs": ["tg:affliction"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note32a",
+        "content": "Amulek",
+        "refs": ["bofm:alma:8_p21#p21", "bofm:alma:34_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note32b",
+        "content": "two",
+        "refs": ["bofm:alma:31_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note33a",
+        "content": "bear",
+        "refs": ["nt:rom:15_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note34a",
+        "content": "unto",
+        "refs": ["bofm:2-ne:26_p33#p33"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note35a",
+        "content": "souls",
+        "refs": ["tg:worth-of-souls"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note36a",
+        "content": "clapped",
+        "refs": ["bofm:3-ne:18_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note36b",
+        "content": "hands",
+        "refs": ["tg:hands-laying-on-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note37a",
+        "content": "taking",
+        "refs": ["nt:matt:6_p25-p34#p25", "bofm:3-ne:13_p25-p34#p25"]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note38a",
+        "content": "afflictions",
+        "refs": [
+            "nt:matt:5_p10-p12#p10",
+            "bofm:mosiah:24_p13-p15#p15",
+            "bofm:alma:33_p23#p23"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/31",
+        "noteId": "note38b",
+        "content": "faith",
+        "refs": ["tg:faith"]
+    }
+]

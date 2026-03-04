@@ -1,0 +1,1407 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note1a",
+        "content": "covenants",
+        "refs": ["tg:abrahamic-covenant", "tg:israel-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note2a",
+        "content": "restored",
+        "refs": [
+            "bofm:2-ne:6_p10-p15#p11",
+            "bofm:2-ne:10_p5-p9#p7",
+            "tg:israel-restoration-of",
+            "tg:restoration-of-the-gospel"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note2b",
+        "content": "gathered",
+        "refs": ["tg:israel-gathering-of", "tg:mission-of-latter-day-saints"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note2c",
+        "content": "lands",
+        "refs": ["tg:lands-of-inheritance"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note3a",
+        "content": "lift up",
+        "refs": ["ot:ps:24_p7-p10#p7"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note4a",
+        "content": "flesh",
+        "refs": ["ot:gen:6_p3#p3", "pgp:moses:8_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note4b",
+        "content": "bodies",
+        "refs": [
+            "ot:job:19_p26#p26",
+            "bofm:alma:11_p41-p45#p41",
+            "bofm:alma:42_p23#p23",
+            "bofm:hel:14_p15-p18#p15",
+            "bofm:morm:9_p13#p13",
+            "tg:body-sanctity-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note5a",
+        "content": "Creator",
+        "refs": ["tg:jesus-christ-creator"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note5b",
+        "content": "suffereth",
+        "refs": ["bofm:2-ne:7_p4-p9#p6"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note5c",
+        "content": "subject",
+        "refs": ["nt:mark:10_p43-p44#p44"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note5d",
+        "content": "die",
+        "refs": ["tg:jesus-christ-death-of", "tg:jesus-christ-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note5e",
+        "content": "all",
+        "refs": [
+            "nt:john:12_p32#p32",
+            "bofm:2-ne:26_p24#p24",
+            "bofm:3-ne:27_p14-p15#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note6a",
+        "content": "death",
+        "refs": ["ot:eccl:8_p6-p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note6b",
+        "content": "plan",
+        "refs": ["tg:salvation-plan-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note6c",
+        "content": "resurrection",
+        "refs": ["tg:jesus-christ-resurrection"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note6d",
+        "content": "fall",
+        "refs": ["tg:fall-of-man"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note6e",
+        "content": "transgression",
+        "refs": ["tg:transgress"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note6f",
+        "content": "cut off",
+        "refs": ["bofm:2-ne:2_p5-p8#p5", "bofm:alma:11_p40-p45#p42"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note6g",
+        "content": "presence",
+        "refs": ["tg:god-presence-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note7a",
+        "content": "infinite",
+        "refs": ["bofm:alma:34_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note7b",
+        "content": "atonement",
+        "refs": ["nt:matt:26_p52-p56#p54", "tg:jesus-christ-atonement-through"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note7c",
+        "content": "first",
+        "refs": [
+            "bofm:mosiah:16_p4-p7#p4",
+            "bofm:alma:11_p45#p45",
+            "bofm:alma:12_p36#p36",
+            "bofm:alma:42_p6,9,14#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note7d",
+        "content": "remained",
+        "refs": ["bofm:mosiah:15_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note8a",
+        "content": "wisdom",
+        "refs": [
+            "ot:job:12_p7-p25#p13",
+            "pgp:abr:3_p21#p21",
+            "tg:god-wisdom-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note8b",
+        "content": "mercy",
+        "refs": ["tg:god-mercy-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note8c",
+        "content": "grace",
+        "refs": ["tg:grace"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note8d",
+        "content": "flesh",
+        "refs": ["dnc:93_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note8e",
+        "content": "fell",
+        "refs": [
+            "ot:isa:14_p12#p12",
+            "bofm:2-ne:2_p17#p17",
+            "pgp:moses:4_p3-p4#p3",
+            "pgp:abr:3_p27-p28#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note8f",
+        "content": "devil",
+        "refs": ["tg:devil"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9a",
+        "content": "like",
+        "refs": ["bofm:3-ne:29_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9b",
+        "content": "angels",
+        "refs": [
+            "bofm:jacob:3_p11#p11",
+            "bofm:alma:5_p25,39#p25",
+            "bofm:moro:9_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9c",
+        "content": "devil",
+        "refs": ["nt:2-cor:11_p13-p15#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9d",
+        "content": "shut out",
+        "refs": ["nt:rev:12_p7-p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9e",
+        "content": "lies",
+        "refs": ["tg:lying"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9f",
+        "content": "beguiled",
+        "refs": [
+            "ot:gen:3_p1-p13#p13",
+            "bofm:mosiah:16_p3#p3",
+            "bofm:ether:8_p25#p25",
+            "pgp:moses:4_p5-p19#p19"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9g",
+        "content": "transformeth",
+        "refs": ["nt:rev:16_p13-p14#p14", "bofm:alma:30_p53#p53"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9h",
+        "content": "angel",
+        "refs": ["dnc:129_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9i",
+        "content": "stirreth up",
+        "refs": ["tg:motivations"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note9j",
+        "content": "secret combinations",
+        "refs": ["tg:secret-combinations"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note10a",
+        "content": "goodness",
+        "refs": ["ot:ex:34_p5-p7#p6", "bofm:2-ne:4_p17#p17", "dnc:86_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note10b",
+        "content": "escape",
+        "refs": ["tg:death-power-over"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note10c",
+        "content": "death",
+        "refs": ["bofm:mosiah:16_p7-p8#p8", "bofm:alma:42_p6-p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note10d",
+        "content": "hell",
+        "refs": ["tg:hell"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note11a",
+        "content": "deliverance",
+        "refs": ["tg:deliver"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note11b",
+        "content": "death",
+        "refs": ["tg:death"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note12a",
+        "content": "death",
+        "refs": ["tg:death-spiritual-first"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note12b",
+        "content": "hell",
+        "refs": ["dnc:76_p84#p84"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note12c",
+        "content": "deliver",
+        "refs": ["dnc:138_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note12d",
+        "content": "captive",
+        "refs": ["tg:bondage-spiritual", "tg:spirits-in-prison"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note12e",
+        "content": "spirits",
+        "refs": ["tg:spirits-disembodied"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note12f",
+        "content": "bodies",
+        "refs": ["tg:body-sanctity-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note12g",
+        "content": "spirits",
+        "refs": ["tg:spirit-body"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note12h",
+        "content": "restored",
+        "refs": ["tg:resurrection"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note13a",
+        "content": "plan",
+        "refs": ["tg:salvation-plan-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note13b",
+        "content": "paradise",
+        "refs": ["dnc:138_p19#p19", "tg:paradise"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note13c",
+        "content": "restored",
+        "refs": [
+            "bofm:alma:11_p43#p43",
+            "bofm:alma:40_p23#p23",
+            "bofm:alma:41_p3-p5#p4",
+            "dnc:138_p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note13d",
+        "content": "immortal",
+        "refs": ["tg:immortality"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note13e",
+        "content": "perfect",
+        "refs": ["tg:perfection"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note13f",
+        "content": "knowledge",
+        "refs": ["ot:eccl:9_p10#p10", "dnc:130_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note14a",
+        "content": "perfect",
+        "refs": ["bofm:mosiah:3_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note14b",
+        "content": "knowledge",
+        "refs": [
+            "ot:isa:59_p12#p12",
+            "bofm:alma:5_p18#p18",
+            "bofm:alma:11_p43#p43"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note14c",
+        "content": "guilt",
+        "refs": ["tg:guilt"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note14d",
+        "content": "uncleanness",
+        "refs": ["tg:uncleanness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note14e",
+        "content": "nakedness",
+        "refs": [
+            "ot:gen:2_p25#p25",
+            "ot:ex:32_p25#p25",
+            "pgp:moses:4_p13,16-p17#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note14f",
+        "content": "righteousness",
+        "refs": ["tg:righteousness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note14g",
+        "content": "clothed",
+        "refs": ["ot:prov:31_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note14h",
+        "content": "purity",
+        "refs": ["tg:purity"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note14i",
+        "content": "robe",
+        "refs": ["dnc:109_p76#p76"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note15a",
+        "content": "judgment-seat",
+        "refs": ["tg:judgment-the-last"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note15b",
+        "content": "judgment",
+        "refs": ["ot:job:34_p12#p12", "ot:ps:19_p9#p9", "bofm:2-ne:30_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note16a",
+        "content": "word",
+        "refs": [
+            "ot:1-kgs:8_p56#p56",
+            "ot:ps:33_p11#p11",
+            "dnc:1_p37-p39#p38",
+            "pgp:moses:1_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note16b",
+        "content": "pass away",
+        "refs": ["dnc:56_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note16c",
+        "content": "filthy",
+        "refs": ["ot:prov:22_p8#p8", "tg:filthiness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note16d",
+        "content": "filthy",
+        "refs": [
+            "bofm:1-ne:15_p33-p35#p33",
+            "bofm:alma:7_p21#p21",
+            "bofm:morm:9_p14#p14",
+            "dnc:88_p35#p35"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note16e",
+        "content": "devil",
+        "refs": ["tg:devil"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note16f",
+        "content": "everlasting",
+        "refs": ["bofm:mosiah:27_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note16g",
+        "content": "torment",
+        "refs": ["tg:punish"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note16h",
+        "content": "lake",
+        "refs": [
+            "nt:rev:19_p20#p20",
+            "nt:rev:21_p8#p8",
+            "bofm:2-ne:28_p23#p23",
+            "dnc:63_p17#p17",
+            "dnc:76_p36#p36"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note17a",
+        "content": "justice",
+        "refs": ["tg:god-justice-of", "tg:justice"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note17b",
+        "content": "fulfilled",
+        "refs": ["ot:ezek:24_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note18a",
+        "content": "righteous",
+        "refs": ["ot:ps:5_p12#p12", "tg:righteousness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note18b",
+        "content": "saints",
+        "refs": ["tg:saints"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note18c",
+        "content": "crosses",
+        "refs": ["nt:luke:14_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note18d",
+        "content": "inherit",
+        "refs": ["nt:col:1_p12#p12", "dnc:45_p57-p58#p58", "dnc:84_p33-p38#p38"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note18e",
+        "content": "kingdom",
+        "refs": ["tg:exaltation"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note18f",
+        "content": "from",
+        "refs": ["bofm:alma:13_p3,5,7-p9#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note18g",
+        "content": "joy",
+        "refs": ["nt:matt:5_p11-p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note18h",
+        "content": "forever",
+        "refs": ["tg:eternal-life"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note19a",
+        "content": "delivereth",
+        "refs": ["ot:job:23_p7#p7", "dnc:108_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note19b",
+        "content": "awful",
+        "refs": ["bofm:1-ne:15_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note19c",
+        "content": "hell",
+        "refs": ["tg:hell"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note20a",
+        "content": "holiness",
+        "refs": ["tg:holiness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note20b",
+        "content": "knoweth",
+        "refs": [
+            "bofm:mosiah:24_p12#p12",
+            "bofm:alma:26_p35#p35",
+            "tg:god-foreknowledge-of",
+            "tg:god-intelligence-of",
+            "tg:god-omniscience-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note20c",
+        "content": "all",
+        "refs": ["ot:prov:5_p21#p21", "dnc:38_p1-p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note21a",
+        "content": "save",
+        "refs": ["tg:salvation"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note21b",
+        "content": "pains",
+        "refs": [
+            "dnc:18_p11#p11",
+            "dnc:19_p15-p18#p18",
+            "tg:jesus-christ-trials-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note21c",
+        "content": "Adam",
+        "refs": ["dnc:107_p53-p56#p54", "dnc:128_p21#p21", "tg:adam"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note23a",
+        "content": "repent",
+        "refs": ["tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note23b",
+        "content": "baptized",
+        "refs": [
+            "bofm:mosiah:26_p22#p22",
+            "dnc:76_p50-p52#p52",
+            "dnc:84_p74#p74",
+            "dnc:137_p6#p6",
+            "tg:baptism-essential"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note23c",
+        "content": "faith",
+        "refs": ["tg:baptism-qualifications-for", "tg:faith"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note24a",
+        "content": "name",
+        "refs": ["tg:jesus-christ-taking-the-name-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note24b",
+        "content": "endure",
+        "refs": ["tg:perseverance"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note24c",
+        "content": "damned",
+        "refs": ["tg:damnation"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note25a",
+        "content": "law",
+        "refs": ["tg:god-law-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note25b",
+        "content": "no",
+        "refs": ["nt:rom:4_p15#p15", "nt:rom:5_p13#p13", "bofm:2-ne:2_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note25c",
+        "content": "law",
+        "refs": [
+            "nt:john:15_p22-p24#p22",
+            "nt:acts:17_p30#p30",
+            "nt:rom:5_p13#p13",
+            "nt:james:4_p17#p17",
+            "bofm:alma:42_p12-p24#p17",
+            "tg:accountability"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note25d",
+        "content": "punishment",
+        "refs": ["tg:punish"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note26a",
+        "content": "atonement",
+        "refs": [
+            "ot:lev:4_p20#p20",
+            "ot:neh:10_p33#p33",
+            "bofm:2-ne:2_p10#p10",
+            "tg:jesus-christ-atonement-through"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note26b",
+        "content": "justice",
+        "refs": ["tg:god-justice-of", "tg:justice"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note26c",
+        "content": "have",
+        "refs": [
+            "bofm:mosiah:3_p11#p11",
+            "bofm:alma:9_p15-p16#p16",
+            "bofm:alma:42_p21#p21"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note26d",
+        "content": "law",
+        "refs": ["bofm:mosiah:15_p24#p24", "dnc:137_p7#p7", "tg:ignorance"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note26e",
+        "content": "delivered",
+        "refs": ["tg:death-power-over"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note26f",
+        "content": "hell",
+        "refs": ["tg:spirits-in-prison"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note26g",
+        "content": "breath",
+        "refs": [
+            "ot:gen:2_p7#p7",
+            "ot:gen:6_p17#p17",
+            "bofm:mosiah:2_p21#p21",
+            "dnc:77_p2#p2",
+            "dnc:93_p33#p33",
+            "pgp:abr:5_p7-p8#p7"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note27a",
+        "content": "law",
+        "refs": ["nt:luke:12_p47-p48#p47", "tg:god-law-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note27b",
+        "content": "transgresseth",
+        "refs": ["tg:disobedience"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note27c",
+        "content": "wasteth",
+        "refs": ["tg:idleness", "tg:procrastination", "tg:waste"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note27d",
+        "content": "probation",
+        "refs": ["tg:probation"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note28a",
+        "content": "plan",
+        "refs": ["bofm:alma:28_p13#p13"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note28b",
+        "content": "vainness",
+        "refs": ["ot:job:11_p11-p12#p12", "ot:isa:9_p9-p10#p9", "tg:vanity"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note28c",
+        "content": "foolishness",
+        "refs": [
+            "ot:eccl:4_p5#p5",
+            "ot:eccl:10_p1-p3,12#p12",
+            "bofm:2-ne:19_p17#p17",
+            "dnc:35_p7#p7",
+            "tg:foolishness"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note28d",
+        "content": "learned",
+        "refs": [
+            "nt:luke:16_p15#p15",
+            "bofm:2-ne:26_p20#p20",
+            "bofm:2-ne:28_p4,15#p4",
+            "tg:education",
+            "tg:worldliness"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note28e",
+        "content": "wise",
+        "refs": [
+            "ot:prov:14_p6#p6",
+            "ot:jer:8_p8-p9#p8",
+            "nt:rom:1_p22#p22",
+            "tg:pride",
+            "tg:wisdom"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note28f",
+        "content": "hearken not",
+        "refs": ["tg:walking-in-darkness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note28g",
+        "content": "counsel",
+        "refs": [
+            "ot:prov:15_p22#p22",
+            "bofm:jacob:4_p10#p10",
+            "bofm:alma:37_p12#p12",
+            "tg:counsel"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note28h",
+        "content": "wisdom",
+        "refs": [
+            "ot:prov:23_p4#p4",
+            "ot:eccl:8_p16-p17#p17",
+            "ot:ezek:28_p4-p5#p5",
+            "dnc:76_p9#p9",
+            "tg:knowledge"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note29a",
+        "content": "learned",
+        "refs": ["dnc:67_p6#p6", "tg:learn"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note29b",
+        "content": "hearken",
+        "refs": ["bofm:2-ne:28_p26#p26", "tg:submissiveness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note29c",
+        "content": "counsels",
+        "refs": ["bofm:jacob:4_p10#p10", "tg:counsel"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note30a",
+        "content": "rich",
+        "refs": ["ot:jer:17_p11#p11", "nt:luke:12_p34#p34", "dnc:56_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note30b",
+        "content": "rich",
+        "refs": ["nt:matt:19_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note30c",
+        "content": "world",
+        "refs": ["tg:world"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note30d",
+        "content": "poor",
+        "refs": ["tg:poor"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note30e",
+        "content": "hearts",
+        "refs": ["tg:hardheartedness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note30f",
+        "content": "treasure",
+        "refs": ["tg:treasure"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note30g",
+        "content": "treasure",
+        "refs": ["ot:prov:27_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note31a",
+        "content": "hear",
+        "refs": [
+            "ot:ezek:33_p30-p33#p31",
+            "nt:matt:11_p15#p15",
+            "nt:matt:13_p14#p14",
+            "nt:heb:5_p11-p14#p11",
+            "bofm:mosiah:26_p28#p28",
+            "dnc:1_p2,11,14#p14",
+            "pgp:moses:6_p27#p27"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note32a",
+        "content": "blind",
+        "refs": ["tg:apathy", "tg:spiritual-blindness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note33a",
+        "content": "uncircumcised",
+        "refs": ["nt:rom:2_p27-p29#p29"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note34a",
+        "content": "liar",
+        "refs": ["ot:prov:19_p9#p9", "tg:gossip", "tg:honesty", "tg:lying"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note34b",
+        "content": "hell",
+        "refs": ["tg:hell"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note35a",
+        "content": "murderer",
+        "refs": ["ot:num:35_p16-p25#p16"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note35b",
+        "content": "killeth",
+        "refs": [
+            "ot:deut:19_p11#p11",
+            "ot:2-sam:12_p9#p9",
+            "bofm:mosiah:13_p21#p21"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note35c",
+        "content": "die",
+        "refs": ["tg:capital-punishment"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note36a",
+        "content": "whoredoms",
+        "refs": ["bofm:3-ne:12_p27-p32#p27", "tg:chastity", "tg:whore"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note37a",
+        "content": "worship",
+        "refs": ["ot:isa:41_p21-p24#p24", "tg:idolatry"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note38a",
+        "content": "sins",
+        "refs": ["ot:ezek:18_p24#p24", "tg:sin"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note38b",
+        "content": "return",
+        "refs": ["bofm:alma:40_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note39a",
+        "content": "transgressing",
+        "refs": ["tg:transgress"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note39b",
+        "content": "cunning",
+        "refs": [
+            "bofm:2-ne:28_p20-p22#p21",
+            "bofm:2-ne:32_p8#p8",
+            "bofm:mosiah:2_p32#p32",
+            "bofm:mosiah:4_p14#p14",
+            "bofm:alma:30_p42,53#p42"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note39c",
+        "content": "carnally-minded",
+        "refs": ["nt:rom:8_p6#p6", "tg:carnal-mind"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note39d",
+        "content": "death",
+        "refs": ["tg:death", "tg:death-spiritual-first", "tg:hell"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note39e",
+        "content": "spiritually-minded",
+        "refs": ["ot:prov:15_p24#p24", "tg:spirituality"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note39f",
+        "content": "life",
+        "refs": ["ot:prov:11_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note39g",
+        "content": "eternal",
+        "refs": ["tg:eternal-life"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note40a",
+        "content": "revile",
+        "refs": ["tg:reviling"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note40b",
+        "content": "truth",
+        "refs": ["ot:prov:15_p10#p10", "bofm:mosiah:13_p7#p7", "tg:truth"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note40c",
+        "content": "hard",
+        "refs": [
+            "bofm:1-ne:16_p2#p2",
+            "bofm:2-ne:28_p28#p28",
+            "bofm:2-ne:33_p5#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note40d",
+        "content": "uncleanness",
+        "refs": ["tg:uncleanness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note40e",
+        "content": "righteous",
+        "refs": ["ot:prov:28_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note41a",
+        "content": "come",
+        "refs": [
+            "bofm:1-ne:6_p4#p4",
+            "bofm:jacob:1_p7#p7",
+            "bofm:omni:1_p25-p26#p26",
+            "bofm:alma:29_p2#p2",
+            "bofm:3-ne:21_p20#p20",
+            "bofm:morm:9_p27#p27",
+            "bofm:ether:5_p5#p5",
+            "bofm:moro:10_p30-p32#p30"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note41b",
+        "content": "way",
+        "refs": [
+            "ot:ex:33_p12-p13#p13",
+            "bofm:2-ne:31_p17-p21#p21",
+            "bofm:alma:37_p46#p46",
+            "dnc:132_p22,25#p22"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note41c",
+        "content": "narrow",
+        "refs": [
+            "nt:luke:13_p24#p24",
+            "bofm:2-ne:33_p9#p9",
+            "bofm:jacob:6_p11#p11",
+            "bofm:hel:3_p29-p30#p29"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note41d",
+        "content": "gate",
+        "refs": [
+            "bofm:2-ne:31_p9,17-p18#p9",
+            "bofm:3-ne:14_p13-p14#p14",
+            "dnc:22_p4#p4",
+            "dnc:43_p7#p7",
+            "dnc:137_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note42a",
+        "content": "knocketh",
+        "refs": ["tg:objectives", "tg:study"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note42b",
+        "content": "wise",
+        "refs": ["nt:matt:11_p25#p25", "tg:wisdom"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note42c",
+        "content": "learning",
+        "refs": ["tg:knowledge", "tg:learn", "tg:worldliness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note42d",
+        "content": "wisdom",
+        "refs": ["ot:ezek:28_p4-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note42e",
+        "content": "fools",
+        "refs": ["nt:1-cor:3_p18-p21#p18"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note42f",
+        "content": "humility",
+        "refs": ["tg:humility", "tg:teachable"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note43a",
+        "content": "prudent",
+        "refs": ["tg:prudence"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note43b",
+        "content": "hid",
+        "refs": ["nt:1-cor:2_p9-p16#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note44a",
+        "content": "all-searching",
+        "refs": ["bofm:jacob:2_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note44b",
+        "content": "shook",
+        "refs": ["bofm:jacob:1_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note44c",
+        "content": "rid",
+        "refs": [
+            "bofm:jacob:2_p2,16#p2",
+            "bofm:mosiah:2_p28#p28",
+            "dnc:61_p34#p34"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note45a",
+        "content": "chains",
+        "refs": ["bofm:2-ne:28_p22#p22", "bofm:alma:36_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note45b",
+        "content": "rock",
+        "refs": ["tg:rock"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note46a",
+        "content": "justice",
+        "refs": ["tg:god-justice-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note46b",
+        "content": "judgment",
+        "refs": ["tg:judgment-the-last"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note46c",
+        "content": "guilt",
+        "refs": ["bofm:mosiah:3_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note46d",
+        "content": "Almighty",
+        "refs": [
+            "ot:gen:48_p3#p3",
+            "bofm:1-ne:1_p14#p14",
+            "bofm:3-ne:4_p32#p32",
+            "pgp:moses:2_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note46e",
+        "content": "obtained",
+        "refs": ["tg:apostasy-of-individuals"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note48a",
+        "content": "teacher",
+        "refs": ["bofm:2-ne:5_p26#p26", "tg:teacher", "tg:teaching"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note48b",
+        "content": "teach",
+        "refs": [
+            "ot:deut:33_p10#p10",
+            "ot:2-chr:15_p1-p4#p3",
+            "ot:2-chr:17_p9#p9",
+            "tg:prophets-mission-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note49a",
+        "content": "delighteth",
+        "refs": ["tg:desire", "tg:motivations"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note49b",
+        "content": "praise",
+        "refs": [
+            "ot:ezra:3_p11-p13#p11",
+            "bofm:1-ne:18_p16#p16",
+            "bofm:alma:36_p28#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note50a",
+        "content": "thirsteth",
+        "refs": ["ot:isa:44_p3#p3", "ot:isa:55_p1-p2#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note50b",
+        "content": "waters",
+        "refs": ["tg:living-water"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note50c",
+        "content": "money",
+        "refs": ["bofm:alma:5_p34#p34", "bofm:alma:42_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note51a",
+        "content": "labor",
+        "refs": ["ot:isa:55_p2#p2", "tg:work-value-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note51b",
+        "content": "satisfy",
+        "refs": ["ot:eccl:1_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note51c",
+        "content": "feast",
+        "refs": [
+            "ot:prov:13_p25#p25",
+            "bofm:enos:1_p4#p4",
+            "bofm:3-ne:12_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note52a",
+        "content": "thanks",
+        "refs": ["tg:thanksgiving"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note52b",
+        "content": "rejoice",
+        "refs": ["ot:deut:26_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note53a",
+        "content": "covenants",
+        "refs": ["tg:covenants"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note53b",
+        "content": "condescensions",
+        "refs": ["tg:jesus-christ-condescension-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note53c",
+        "content": "grace",
+        "refs": ["tg:grace"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note53d",
+        "content": "mercy",
+        "refs": ["tg:compassion", "tg:god-mercy-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note53e",
+        "content": "preserve",
+        "refs": ["tg:protection-divine"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/9",
+        "noteId": "note53f",
+        "content": "branch",
+        "refs": ["tg:vineyard-of-the-lord"]
+    }
+]

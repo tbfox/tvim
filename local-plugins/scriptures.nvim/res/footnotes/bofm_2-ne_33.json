@@ -1,0 +1,284 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note1a",
+        "content": "mighty",
+        "refs": ["bofm:ether:12_p23-p27#p23"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note1b",
+        "content": "speaketh",
+        "refs": [
+            "nt:rom:10_p13-p17#p17",
+            "dnc:100_p7-p8#p8",
+            "tg:holy-ghost-gifts-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note2a",
+        "content": "harden",
+        "refs": [
+            "ot:num:15_p30-p31#p31",
+            "bofm:1-ne:19_p7#p7",
+            "bofm:jacob:4_p14#p14",
+            "dnc:3_p4-p13#p7",
+            "tg:hardheartedness"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note2b",
+        "content": "hearts",
+        "refs": ["tg:spiritual-blindness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note2c",
+        "content": "Holy Spirit",
+        "refs": ["tg:holy-ghost-loss-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note3a",
+        "content": "worth",
+        "refs": ["tg:scriptures-value-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note3b",
+        "content": "pray",
+        "refs": [
+            "ot:gen:20_p7#p7",
+            "ot:num:21_p7#p7",
+            "ot:1-sam:7_p5#p5",
+            "ot:jer:42_p4#p4",
+            "bofm:enos:1_p9-p12#p9",
+            "bofm:w-of-m:1_p8#p8",
+            "bofm:moro:9_p22#p22"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note3c",
+        "content": "eyes",
+        "refs": ["ot:ps:6_p6#p6", "ot:jer:13_p17#p17", "nt:acts:20_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note4a",
+        "content": "persuadeth",
+        "refs": [
+            "bofm:ether:8_p26#p26",
+            "bofm:moro:7_p12-p17#p13",
+            "tg:motivations"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note4b",
+        "content": "eternal",
+        "refs": ["tg:eternal-life"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note5a",
+        "content": "harshly",
+        "refs": [
+            "bofm:1-ne:16_p1-p3#p2",
+            "bofm:2-ne:9_p40#p40",
+            "bofm:2-ne:28_p28#p28",
+            "bofm:enos:1_p23#p23",
+            "bofm:w-of-m:1_p17#p17"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note5b",
+        "content": "plainness",
+        "refs": [
+            "bofm:2-ne:25_p4#p4",
+            "bofm:jacob:2_p11#p11",
+            "bofm:jacob:4_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note6a",
+        "content": "glory",
+        "refs": ["ot:ps:44_p4-p8#p8", "dnc:76_p61#p61"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note6b",
+        "content": "plainness",
+        "refs": ["bofm:2-ne:31_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note6c",
+        "content": "redeemed",
+        "refs": ["bofm:enos:1_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note7a",
+        "content": "charity",
+        "refs": ["tg:charity"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note8a",
+        "content": "Jew",
+        "refs": ["tg:israel-judah-people-of", "bd:judah-kingdom-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note9a",
+        "content": "these",
+        "refs": [
+            "nt:eph:3_p1-p7#p6",
+            "bofm:2-ne:10_p18#p18",
+            "bofm:3-ne:21_p14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note9b",
+        "content": "reconciled",
+        "refs": ["tg:reconciliation"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note9c",
+        "content": "narrow",
+        "refs": ["bofm:2-ne:9_p41#p41", "bofm:hel:3_p29-p30#p29"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note9d",
+        "content": "gate",
+        "refs": ["nt:matt:7_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note9e",
+        "content": "walk",
+        "refs": ["tg:walking-with-god"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note9f",
+        "content": "strait",
+        "refs": ["dnc:132_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note9g",
+        "content": "probation",
+        "refs": ["tg:probation"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note10a",
+        "content": "Jew",
+        "refs": ["tg:israel-judah-people-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note10b",
+        "content": "believe",
+        "refs": ["tg:believe"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note10c",
+        "content": "believe",
+        "refs": ["nt:john:8_p47#p47"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note10d",
+        "content": "words",
+        "refs": ["tg:book-of-mormon"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note10e",
+        "content": "words",
+        "refs": [
+            "ot:isa:51_p16#p16",
+            "bofm:moro:10_p27-p29#p27",
+            "dnc:1_p24#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note10f",
+        "content": "teach",
+        "refs": ["ot:1-kgs:8_p36#p36", "bofm:2-ne:25_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note11a",
+        "content": "power",
+        "refs": ["bofm:ether:5_p4-p6#p4", "bofm:moro:7_p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note11b",
+        "content": "glory",
+        "refs": ["tg:jesus-christ-glory-of"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note12a",
+        "content": "kingdom",
+        "refs": ["tg:kingdom-of-god-in-heaven", "tg:kingdom-of-god-on-earth"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note13a",
+        "content": "crying",
+        "refs": [
+            "ot:isa:29_p4#p4",
+            "bofm:2-ne:27_p13#p13",
+            "bofm:morm:8_p26#p26"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note14a",
+        "content": "Jews",
+        "refs": ["tg:bible"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note14b",
+        "content": "words",
+        "refs": ["tg:book-of-mormon"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note14c",
+        "content": "condemn",
+        "refs": ["bofm:2-ne:29_p11#p11", "bofm:w-of-m:1_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note15a",
+        "content": "judgment",
+        "refs": [
+            "bofm:2-ne:25_p22#p22",
+            "bofm:3-ne:27_p23-p27#p25",
+            "bofm:ether:4_p8-p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/33",
+        "noteId": "note15b",
+        "content": "obey",
+        "refs": ["tg:obedience"]
+    }
+]

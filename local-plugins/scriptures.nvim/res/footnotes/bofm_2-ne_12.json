@@ -1,0 +1,198 @@
+[
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note1a",
+        "content": "The",
+        "refs": ["ot:isa:2_p1-p22#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note2a",
+        "content": "when",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note2b",
+        "content": "mountain",
+        "refs": ["tg:zion"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note2c",
+        "content": "house",
+        "refs": ["bofm:3-ne:24_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note2d",
+        "content": "mountains",
+        "refs": [
+            "ot:gen:49_p26#p26",
+            "dnc:49_p25#p25",
+            "dnc:109_p61#p61",
+            "dnc:133_p29-p31#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note3a",
+        "content": "people",
+        "refs": ["ot:zech:8_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note3b",
+        "content": "mountain",
+        "refs": [
+            "ot:joel:2_p1#p1",
+            "bofm:2-ne:30_p12-p18#p15",
+            "dnc:133_p13#p13"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note3c",
+        "content": "house",
+        "refs": ["ot:ps:122_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note3d",
+        "content": "walk",
+        "refs": ["tg:walking-with-god"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note4a",
+        "content": "judge",
+        "refs": ["bofm:2-ne:21_p2-p5,9#p3"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note5a",
+        "content": "gone astray",
+        "refs": [
+            "bofm:2-ne:28_p14#p14",
+            "bofm:mosiah:14_p6#p6",
+            "bofm:alma:5_p37#p37"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note5b",
+        "content": "wicked",
+        "refs": ["ot:isa:53_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note6a",
+        "content": "soothsayers",
+        "refs": ["tg:sorcery"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note6b",
+        "content": "Philistines",
+        "refs": ["ot:gen:10_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note7a",
+        "content": "treasures",
+        "refs": ["tg:treasure"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note8a",
+        "content": "idols",
+        "refs": ["ot:jer:2_p28#p28", "tg:idolatry"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note9a",
+        "content": "boweth",
+        "refs": ["ot:ex:34_p8#p8", "ot:isa:2_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note9b",
+        "content": "not",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note10a",
+        "content": "hide",
+        "refs": [
+            "ot:amos:9_p3#p3",
+            "nt:rev:6_p15-p16#p15",
+            "bofm:alma:12_p14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note11a",
+        "content": "lofty",
+        "refs": ["bofm:2-ne:15_p15-p16#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note12a",
+        "content": "day",
+        "refs": ["tg:day-of-the-lord"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note12b",
+        "content": "proud",
+        "refs": [
+            "ot:job:40_p11#p11",
+            "ot:mal:4_p1#p1",
+            "bofm:2-ne:23_p11#p11",
+            "dnc:64_p24#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note13a",
+        "content": "cedars",
+        "refs": ["ot:isa:37_p24#p24", "ot:ezek:31_p3#p3", "ot:zech:11_p1-p2#p1"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note14a",
+        "content": "high",
+        "refs": ["ot:isa:30_p25#p25"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note15a",
+        "content": "high",
+        "refs": ["bofm:3-ne:21_p15,18#p15"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note16a",
+        "content": "sea",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note17a",
+        "content": "haughtiness",
+        "refs": ["tg:haughtiness"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note17b",
+        "content": "that day",
+        "refs": ["bofm:2-ne:12_p17-p21#p17"]
+    },
+    {
+        "origin_chapter": "bofm/2-ne/12",
+        "noteId": "note19a",
+        "content": "glory",
+        "refs": ["tg:jesus-christ-glory-of"]
+    }
+]

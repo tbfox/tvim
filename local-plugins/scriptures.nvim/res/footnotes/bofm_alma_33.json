@@ -1,0 +1,268 @@
+[
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note1a",
+        "content": "one God",
+        "refs": [
+            "bofm:2-ne:31_p21#p21",
+            "bofm:mosiah:15_p4#p4",
+            "bofm:alma:11_p28-p35#p28"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note1b",
+        "content": "how",
+        "refs": ["bofm:alma:33_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note1c",
+        "content": "seed",
+        "refs": ["bofm:alma:32_p28-p43#p28"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note2a",
+        "content": "could",
+        "refs": ["bofm:alma:32_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note2b",
+        "content": "worship",
+        "refs": ["tg:worship"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note2c",
+        "content": "scriptures",
+        "refs": ["bofm:mosiah:2_p34#p34", "bofm:alma:37_p3-p10#p8", "tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note3a",
+        "content": "Zenos",
+        "refs": ["bofm:alma:34_p7#p7", "tg:scriptures-lost"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note3b",
+        "content": "worship",
+        "refs": ["tg:worship"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note4a",
+        "content": "in",
+        "refs": ["ot:1-kgs:8_p44-p52#p47"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note4b",
+        "content": "enemies",
+        "refs": ["nt:matt:5_p44#p44"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note5a",
+        "content": "field",
+        "refs": ["bofm:alma:34_p20-p25#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note7a",
+        "content": "closet",
+        "refs": ["nt:matt:6_p5-p6#p6", "bofm:alma:34_p17-p27#p26"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note8a",
+        "content": "wilt hear",
+        "refs": ["tg:god-access-to"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note10a",
+        "content": "cast out",
+        "refs": ["bofm:alma:32_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note10b",
+        "content": "visit",
+        "refs": ["ot:ps:3_p7#p7", "ot:ps:18_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note11a",
+        "content": "sincerity",
+        "refs": ["tg:sincere"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note11b",
+        "content": "afflictions",
+        "refs": ["tg:affliction"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note11c",
+        "content": "because",
+        "refs": ["tg:jesus-christ-atonement-through"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note12a",
+        "content": "believe",
+        "refs": ["tg:scriptures-value-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note13a",
+        "content": "Zenos",
+        "refs": ["bofm:jacob:6_p1#p1", "bofm:alma:34_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note14a",
+        "content": "disbelieve",
+        "refs": ["nt:john:5_p39#p39"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note15a",
+        "content": "not",
+        "refs": ["bofm:jacob:4_p4#p4", "bofm:mosiah:15_p11-p13#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note15b",
+        "content": "Zenock",
+        "refs": ["bofm:1-ne:19_p10#p10", "bofm:alma:34_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note16a",
+        "content": "will",
+        "refs": ["nt:2-pet:3_p4-p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note17a",
+        "content": "stoned",
+        "refs": ["tg:martyrdom"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note19a",
+        "content": "Moses",
+        "refs": ["ot:deut:18_p15,18#p15", "bofm:alma:34_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note19b",
+        "content": "type",
+        "refs": [
+            "ot:num:21_p9#p9",
+            "bofm:1-ne:17_p41#p41",
+            "bofm:2-ne:25_p20#p20",
+            "tg:jesus-christ-types-of-in-anticipation",
+            "tg:symbolism"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note19c",
+        "content": "raised",
+        "refs": ["nt:john:3_p14#p14", "bofm:hel:8_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note20a",
+        "content": "heal",
+        "refs": ["ot:hosea:11_p3#p3", "bofm:1-ne:17_p40-p41#p41"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note21a",
+        "content": "unbelief",
+        "refs": ["tg:doubt", "tg:unbelief"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note21b",
+        "content": "slothful",
+        "refs": ["tg:apathy", "tg:laziness"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note22a",
+        "content": "begin",
+        "refs": ["bofm:alma:25_p16#p16", "bofm:alma:37_p45-p46#p46"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note22b",
+        "content": "atone",
+        "refs": [
+            "bofm:2-ne:2_p10#p10",
+            "bofm:alma:22_p14#p14",
+            "bofm:alma:34_p8-p16#p9"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note22c",
+        "content": "rise",
+        "refs": ["tg:jesus-christ-resurrection"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note22d",
+        "content": "resurrection",
+        "refs": ["bofm:alma:11_p44#p44", "tg:resurrection"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note22e",
+        "content": "judged",
+        "refs": ["tg:jesus-christ-judge"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note22f",
+        "content": "works",
+        "refs": ["tg:good-works"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note23a",
+        "content": "plant",
+        "refs": ["bofm:alma:33_p1#p1", "bofm:alma:34_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note23b",
+        "content": "springing up",
+        "refs": ["bofm:alma:32_p41#p41", "dnc:63_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note23c",
+        "content": "everlasting life",
+        "refs": ["bofm:alma:32_p43#p43"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note23d",
+        "content": "burdens",
+        "refs": ["bofm:mosiah:24_p13-p15#p15", "bofm:alma:31_p38#p38"]
+    },
+    {
+        "origin_chapter": "bofm/alma/33",
+        "noteId": "note23e",
+        "content": "will",
+        "refs": ["tg:agency"]
+    }
+]

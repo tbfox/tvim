@@ -1,0 +1,337 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note2a",
+        "content": "hard things",
+        "refs": [
+            "nt:acts:7_p54#p54",
+            "bofm:2-ne:33_p5#p5",
+            "bofm:enos:1_p23#p23",
+            "bofm:w-of-m:1_p17#p17",
+            "tg:chastening"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note2b",
+        "content": "guilty",
+        "refs": [
+            "nt:john:3_p19-p21#p20",
+            "nt:john:7_p7#p7",
+            "bofm:hel:13_p24-p27#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note2c",
+        "content": "truth",
+        "refs": [
+            "ot:prov:15_p10#p10",
+            "bofm:2-ne:1_p26#p26",
+            "bofm:2-ne:9_p40#p40"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note2d",
+        "content": "cutteth",
+        "refs": [
+            "nt:acts:5_p33#p33",
+            "bofm:mosiah:13_p7#p7",
+            "pgp:moses:6_p37#p37"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note3a",
+        "content": "walk",
+        "refs": ["dnc:5_p21#p21", "tg:walking-with-god"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note5a",
+        "content": "humble",
+        "refs": [
+            "bofm:1-ne:15_p20#p20",
+            "bofm:1-ne:16_p24,39#p24",
+            "bofm:1-ne:18_p4#p4"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note6a",
+        "content": "valley",
+        "refs": ["bofm:1-ne:2_p8,14#p14", "bofm:1-ne:9_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note7a",
+        "content": "daughters",
+        "refs": ["bofm:1-ne:7_p1,19#p1", "bofm:1-ne:18_p19-p20#p19"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note7b",
+        "content": "wife",
+        "refs": ["tg:marriage-marry"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note7c",
+        "content": "daughters",
+        "refs": ["bofm:1-ne:7_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note7d",
+        "content": "Zoram",
+        "refs": ["bofm:1-ne:4_p35#p35", "bofm:2-ne:5_p5-p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note8a",
+        "content": "commandments",
+        "refs": [
+            "bofm:1-ne:3_p18#p18",
+            "bofm:1-ne:5_p21#p21",
+            "bofm:1-ne:7_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note9a",
+        "content": "journey",
+        "refs": ["bofm:omni:1_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note10a",
+        "content": "ball",
+        "refs": ["bofm:1-ne:16_p16#p16", "bofm:alma:37_p38-p47#p38"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note10b",
+        "content": "pointed",
+        "refs": ["ot:ex:13_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note11a",
+        "content": "seed",
+        "refs": [
+            "bofm:1-ne:8_p1#p1",
+            "bofm:1-ne:18_p6#p6",
+            "bofm:ether:1_p41#p41",
+            "bofm:ether:2_p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note13a",
+        "content": "Shazer",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note14a",
+        "content": "Red Sea",
+        "refs": ["bofm:1-ne:2_p5#p5", "dnc:17_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note15a",
+        "content": "slaying",
+        "refs": ["bofm:alma:17_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note16a",
+        "content": "directions",
+        "refs": [
+            "bofm:1-ne:16_p10,16,26#p10",
+            "bofm:1-ne:18_p12,21#p12",
+            "bofm:2-ne:5_p12#p12",
+            "bofm:alma:37_p38-p47#p38",
+            "dnc:17_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note18a",
+        "content": "steel",
+        "refs": ["ot:2-sam:22_p35#p35", "ot:ps:18_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note20a",
+        "content": "murmur",
+        "refs": ["tg:murmuring"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note21a",
+        "content": "springs",
+        "refs": ["ot:gen:49_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note22a",
+        "content": "complaining",
+        "refs": ["ot:ex:16_p8#p8", "ot:num:11_p1-p2#p1", "dnc:29_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note23a",
+        "content": "make",
+        "refs": ["tg:initiative"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note23b",
+        "content": "father",
+        "refs": ["tg:honoring-father-and-mother"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note24a",
+        "content": "inquire",
+        "refs": ["tg:guidance-divine", "tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note24b",
+        "content": "humbled",
+        "refs": ["bofm:1-ne:15_p20#p20", "bofm:1-ne:16_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note25a",
+        "content": "chastened",
+        "refs": ["bofm:ether:2_p14#p14", "tg:chastening", "tg:repent"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note27a",
+        "content": "written",
+        "refs": ["tg:warn"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note28a",
+        "content": "faith",
+        "refs": ["bofm:alma:37_p40#p40", "tg:faith"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note29a",
+        "content": "understanding",
+        "refs": ["tg:understanding"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note29b",
+        "content": "small",
+        "refs": [
+            "ot:2-kgs:5_p13#p13",
+            "nt:james:3_p4#p4",
+            "bofm:alma:37_p6-p8,41#p6",
+            "dnc:123_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note30a",
+        "content": "directions",
+        "refs": ["tg:guidance-divine"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note31a",
+        "content": "beasts",
+        "refs": ["ot:gen:9_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note32a",
+        "content": "food",
+        "refs": ["bofm:2-ne:1_p24#p24", "tg:food", "tg:thanksgiving"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note34a",
+        "content": "Ishmael",
+        "refs": ["bofm:1-ne:7_p2-p6,19#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note34b",
+        "content": "Nahom",
+        "refs": []
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note35a",
+        "content": "mourn",
+        "refs": ["tg:mourning"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note35b",
+        "content": "afflictions",
+        "refs": ["tg:affliction"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note35c",
+        "content": "murmur",
+        "refs": ["tg:murmuring"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note36a",
+        "content": "return",
+        "refs": ["ot:num:14_p1-p5#p4"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note37a",
+        "content": "slay",
+        "refs": ["bofm:1-ne:17_p44#p44", "bofm:2-ne:1_p24#p24", "tg:murder"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note37b",
+        "content": "ruler",
+        "refs": [
+            "ot:gen:37_p9-p11#p10",
+            "ot:num:16_p13#p13",
+            "bofm:1-ne:2_p22#p22",
+            "bofm:1-ne:18_p10#p10"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note38a",
+        "content": "angels",
+        "refs": ["bofm:1-ne:3_p30-p31#p30", "bofm:1-ne:4_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note38b",
+        "content": "stir up",
+        "refs": ["tg:provoking"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note38c",
+        "content": "anger",
+        "refs": ["tg:anger"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/16",
+        "noteId": "note39a",
+        "content": "chasten",
+        "refs": ["tg:chastening"]
+    }
+]

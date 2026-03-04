@@ -1,0 +1,405 @@
+[
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note1a",
+        "content": "these plates",
+        "refs": ["bofm:1-ne:9_p1-p5#p2", "bofm:1-ne:19_p1-p6#p3"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note2a",
+        "content": "dream",
+        "refs": ["bofm:1-ne:8_p2-p36#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note3a",
+        "content": "Jerusalem",
+        "refs": [
+            "ot:esth:2_p6#p6",
+            "bofm:2-ne:6_p8#p8",
+            "bofm:hel:8_p20-p21#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note3b",
+        "content": "carried away",
+        "refs": [
+            "ot:ezek:36_p8-p15#p12",
+            "bofm:2-ne:25_p10#p10",
+            "tg:israel-bondage-of-in-other-lands",
+            "tg:israel-scattering-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note3c",
+        "content": "Babylon",
+        "refs": [
+            "ot:ezek:24_p2#p2",
+            "bofm:1-ne:1_p13#p13",
+            "bofm:omni:1_p15#p15",
+            "tg:babylon"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note3d",
+        "content": "return",
+        "refs": [
+            "ot:neh:12_p1#p1",
+            "ot:jer:29_p9-p10#p10",
+            "bofm:2-ne:6_p8-p9#p9",
+            "pgp:abr:2_p6#p6"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note4a",
+        "content": "six hundred",
+        "refs": [
+            "bofm:1-ne:19_p8-p14#p8",
+            "bofm:2-ne:25_p19#p19",
+            "bofm:alma:13_p25#p25",
+            "bofm:3-ne:1_p1#p1"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note4b",
+        "content": "prophet",
+        "refs": ["bofm:1-ne:22_p20-p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note4c",
+        "content": "Jews",
+        "refs": ["tg:israel-judah-people-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note4d",
+        "content": "Messiah",
+        "refs": [
+            "bofm:jacob:1_p6#p6",
+            "tg:jesus-christ-birth-of",
+            "tg:jesus-christ-messiah"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note5a",
+        "content": "testified",
+        "refs": [
+            "bofm:jacob:7_p11#p11",
+            "bofm:mosiah:13_p33#p33",
+            "bofm:hel:8_p19-p24#p24",
+            "bofm:3-ne:20_p23-p24#p24",
+            "tg:jesus-christ-prophecies-about"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note6a",
+        "content": "lost",
+        "refs": ["nt:rom:3_p23#p23", "bofm:2-ne:2_p5-p8#p5"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note6b",
+        "content": "fallen",
+        "refs": ["tg:death-spiritual-first"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note7a",
+        "content": "prophet",
+        "refs": [
+            "bofm:1-ne:11_p27#p27",
+            "bofm:2-ne:31_p4-p18#p4",
+            "tg:foreordination"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note8a",
+        "content": "Prepare",
+        "refs": ["ot:isa:40_p3#p3", "nt:matt:3_p1-p3#p3", "dnc:84_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note9a",
+        "content": "Bethabara",
+        "refs": ["nt:john:1_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note9b",
+        "content": "baptize",
+        "refs": ["tg:jesus-christ-baptism-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note10a",
+        "content": "Lamb",
+        "refs": ["tg:jesus-christ-lamb-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note11a",
+        "content": "dwindling",
+        "refs": ["nt:rom:11_p1-p36#p1", "bofm:jacob:4_p14-p18#p15"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note11b",
+        "content": "unbelief",
+        "refs": ["bofm:morm:5_p14-p20#p14", "tg:unbelief"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note11c",
+        "content": "slain",
+        "refs": [
+            "tg:jesus-christ-crucifixion-of",
+            "tg:jesus-christ-prophecies-about"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note11d",
+        "content": "rise",
+        "refs": ["tg:jesus-christ-resurrection"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note11e",
+        "content": "manifest",
+        "refs": ["bofm:3-ne:15_p21-p24#p23", "tg:holy-ghost-mission-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note12a",
+        "content": "olive tree",
+        "refs": [
+            "ot:gen:49_p22-p26#p22",
+            "bofm:1-ne:15_p12#p12",
+            "bofm:2-ne:3_p4-p5#p5",
+            "bofm:jacob:5_p3-p77#p3",
+            "bofm:jacob:6_p1-p7#p1",
+            "tg:vineyard-of-the-lord"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note12b",
+        "content": "branches",
+        "refs": ["tg:israel-bondage-of-in-other-lands"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note12c",
+        "content": "scattered",
+        "refs": [
+            "ot:deut:32_p26#p26",
+            "bofm:1-ne:22_p3-p8#p3",
+            "tg:israel-scattering-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note13a",
+        "content": "land of promise",
+        "refs": ["bofm:1-ne:2_p20#p20", "tg:promised-lands"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note14a",
+        "content": "Israel",
+        "refs": ["tg:israel-ten-lost-tribes-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note14b",
+        "content": "gathered",
+        "refs": ["tg:israel-gathering-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note14c",
+        "content": "Gentiles",
+        "refs": ["bofm:1-ne:13_p42#p42", "dnc:14_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note14d",
+        "content": "Gospel",
+        "refs": ["tg:gospel"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note14e",
+        "content": "olive tree",
+        "refs": ["bofm:1-ne:15_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note14f",
+        "content": "remnants",
+        "refs": ["tg:israel-remnant-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note14g",
+        "content": "Israel",
+        "refs": ["tg:israel-twelve-tribes-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note14h",
+        "content": "come",
+        "refs": ["bofm:1-ne:19_p14-p17#p15"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note15a",
+        "content": "other book",
+        "refs": ["bofm:1-ne:1_p16-p18#p17"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note16a",
+        "content": "tent",
+        "refs": ["bofm:1-ne:2_p15-p16#p15"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note17a",
+        "content": "words",
+        "refs": ["bofm:enos:1_p3#p3", "bofm:alma:36_p17-p18#p17"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note17b",
+        "content": "vision",
+        "refs": ["bofm:1-ne:8_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note17c",
+        "content": "Messiah",
+        "refs": ["tg:jesus-christ-messiah"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note17d",
+        "content": "desirous",
+        "refs": ["bofm:2-ne:4_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note17e",
+        "content": "Holy Ghost",
+        "refs": ["nt:2-pet:1_p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note17f",
+        "content": "gift",
+        "refs": ["tg:god-gifts-of", "tg:holy-ghost-gift-of"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note17g",
+        "content": "all",
+        "refs": ["bofm:moro:7_p36#p36", "bofm:moro:10_p4-p5,7,19#p7"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note17h",
+        "content": "old",
+        "refs": ["dnc:20_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note18a",
+        "content": "same",
+        "refs": [
+            "nt:heb:13_p8#p8",
+            "bofm:morm:9_p9-p11#p9",
+            "dnc:20_p12#p12",
+            "tg:god-perfection-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note19a",
+        "content": "seeketh",
+        "refs": ["tg:objectives"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note19b",
+        "content": "mysteries",
+        "refs": ["tg:mysteries-of-godliness"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note19c",
+        "content": "Holy Ghost",
+        "refs": ["tg:holy-ghost-source-of-testimony"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note19d",
+        "content": "course",
+        "refs": [
+            "bofm:alma:7_p20#p20",
+            "bofm:alma:37_p12#p12",
+            "dnc:3_p2#p2",
+            "dnc:35_p1#p1",
+            "tg:god-eternal-nature-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note20a",
+        "content": "judgment",
+        "refs": [
+            "ot:eccl:12_p14#p14",
+            "ot:ezek:33_p20#p20",
+            "tg:judgment-the-last"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note21a",
+        "content": "wickedly",
+        "refs": ["ot:ezek:33_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note21b",
+        "content": "probation",
+        "refs": ["tg:probation"]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note21c",
+        "content": "unclean",
+        "refs": [
+            "nt:1-cor:6_p9-p10#p9",
+            "bofm:morm:7_p7#p7",
+            "dnc:76_p50-p62#p62",
+            "dnc:138_p20,37#p20",
+            "pgp:moses:6_p57#p57"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/1-ne/10",
+        "noteId": "note22a",
+        "content": "authority",
+        "refs": ["tg:holy-ghost-mission-of"]
+    }
+]

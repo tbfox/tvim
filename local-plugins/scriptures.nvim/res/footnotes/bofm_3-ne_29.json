@@ -1,0 +1,112 @@
+[
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note1a",
+        "content": "come",
+        "refs": ["bofm:2-ne:30_p3-p8#p3", "bofm:morm:3_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note1b",
+        "content": "covenant",
+        "refs": ["ot:ezek:20_p37#p37", "bofm:morm:5_p14,20#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note1c",
+        "content": "lands",
+        "refs": ["tg:lands-of-inheritance"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note2a",
+        "content": "delays",
+        "refs": ["nt:matt:24_p48#p48", "nt:luke:12_p45#p45"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note4a",
+        "content": "sword",
+        "refs": ["bofm:3-ne:20_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note4b",
+        "content": "justice",
+        "refs": ["tg:justice"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note5a",
+        "content": "Wo",
+        "refs": ["bofm:2-ne:28_p15#p15", "bofm:morm:9_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note5b",
+        "content": "spurneth",
+        "refs": ["bofm:morm:8_p17#p17", "bofm:ether:4_p8-p10#p8"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note5c",
+        "content": "deny",
+        "refs": ["nt:matt:10_p32-p33#p33", "bofm:moro:1_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note6a",
+        "content": "wo",
+        "refs": ["bofm:morm:9_p7-p11,15#p7"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note6b",
+        "content": "gifts",
+        "refs": ["tg:holy-ghost-gifts-of"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note7a",
+        "content": "gain",
+        "refs": ["tg:priestcraft"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note7b",
+        "content": "no miracle",
+        "refs": [
+            "bofm:2-ne:28_p4-p6#p6",
+            "bofm:morm:8_p26#p26",
+            "bofm:morm:9_p15-p26#p15"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note7c",
+        "content": "like",
+        "refs": [
+            "bofm:2-ne:9_p9#p9",
+            "bofm:3-ne:27_p32#p32",
+            "tg:sons-of-perdition"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note8a",
+        "content": "hiss",
+        "refs": ["bofm:1-ne:19_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note8b",
+        "content": "spurn",
+        "refs": ["bofm:2-ne:29_p4-p5#p5", "tg:backbiting"]
+    },
+    {
+        "origin_chapter": "bofm/3-ne/29",
+        "noteId": "note8c",
+        "content": "Jews",
+        "refs": ["tg:israel-judah-people-of"]
+    }
+]

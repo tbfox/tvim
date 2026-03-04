@@ -1,0 +1,61 @@
+[
+    {
+        "origin_chapter": "bofm/moro/3",
+        "noteId": "note1a",
+        "content": "elders",
+        "refs": ["bofm:alma:6_p1#p1", "tg:elder"]
+    },
+    {
+        "origin_chapter": "bofm/moro/3",
+        "noteId": "note1b",
+        "content": "ordained",
+        "refs": ["tg:church-organization"]
+    },
+    {
+        "origin_chapter": "bofm/moro/3",
+        "noteId": "note1c",
+        "content": "priests",
+        "refs": ["bofm:mosiah:6_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/moro/3",
+        "noteId": "note2a",
+        "content": "laid",
+        "refs": ["tg:hands-laying-on-of"]
+    },
+    {
+        "origin_chapter": "bofm/moro/3",
+        "noteId": "note3a",
+        "content": "teacher",
+        "refs": ["tg:teacher"]
+    },
+    {
+        "origin_chapter": "bofm/moro/3",
+        "noteId": "note3b",
+        "content": "remission",
+        "refs": ["tg:remission-of-sins"]
+    },
+    {
+        "origin_chapter": "bofm/moro/3",
+        "noteId": "note4a",
+        "content": "ordain",
+        "refs": [
+            "dnc:18_p32#p32",
+            "dnc:20_p39,60#p39",
+            "tg:priesthood",
+            "tg:priesthood-history-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/3",
+        "noteId": "note4b",
+        "content": "gifts",
+        "refs": ["tg:god-gifts-of"]
+    },
+    {
+        "origin_chapter": "bofm/moro/3",
+        "noteId": "note4c",
+        "content": "power",
+        "refs": ["bofm:1-ne:13_p37#p37", "bofm:moro:6_p9#p9"]
+    }
+]

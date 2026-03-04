@@ -1,0 +1,290 @@
+[
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note1a",
+        "content": "mad",
+        "refs": ["nt:john:10_p19-p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note3a",
+        "content": "Touch me not",
+        "refs": ["bofm:1-ne:17_p48#p48"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note3b",
+        "content": "requested",
+        "refs": ["bofm:mosiah:12_p20-p24#p20"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note5a",
+        "content": "shone",
+        "refs": ["ot:ex:34_p29-p35#p29"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note6a",
+        "content": "power",
+        "refs": ["tg:priesthood-power-of", "tg:teaching-with-the-spirit"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note7a",
+        "content": "message",
+        "refs": [
+            "ot:prov:15_p10#p10",
+            "bofm:1-ne:16_p1-p3#p2",
+            "bofm:2-ne:9_p40#p40"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note9a",
+        "content": "matters",
+        "refs": ["ot:dan:3_p16-p18#p16"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note10a",
+        "content": "do",
+        "refs": ["bofm:alma:25_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note10b",
+        "content": "type",
+        "refs": ["ot:jer:26_p14#p14", "bofm:mosiah:17_p13-p19#p18"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note11a",
+        "content": "commandments",
+        "refs": ["ot:ex:20_p1-p17#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note11b",
+        "content": "iniquity",
+        "refs": ["ot:micah:2_p1-p2#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note12a",
+        "content": "said",
+        "refs": ["bofm:mosiah:12_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note13a",
+        "content": "bow",
+        "refs": ["ot:ex:20_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note15a",
+        "content": "guiltless",
+        "refs": ["ot:ex:20_p7#p7", "bofm:morm:7_p7#p7", "dnc:58_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note16a",
+        "content": "sabbath",
+        "refs": ["bofm:mosiah:18_p23#p23", "tg:sabbath"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note19a",
+        "content": "six",
+        "refs": ["ot:gen:1_p31#p31", "ot:ex:20_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note20a",
+        "content": "Honor",
+        "refs": ["tg:honoring-father-and-mother"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note20b",
+        "content": "father",
+        "refs": ["ot:prov:20_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note21a",
+        "content": "kill",
+        "refs": [
+            "ot:ex:20_p13#p13",
+            "ot:deut:5_p17#p17",
+            "nt:matt:5_p21-p37#p21",
+            "bofm:3-ne:12_p21-p37#p21",
+            "dnc:42_p18#p18"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note22a",
+        "content": "adultery",
+        "refs": ["tg:adulterer"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note22b",
+        "content": "steal",
+        "refs": ["tg:stealing"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note23a",
+        "content": "false witness",
+        "refs": ["ot:prov:24_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note24a",
+        "content": "covet",
+        "refs": ["tg:covet"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note25a",
+        "content": "taught",
+        "refs": ["bofm:mosiah:12_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note27a",
+        "content": "keep",
+        "refs": ["bofm:2-ne:25_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note27b",
+        "content": "no more",
+        "refs": ["bofm:3-ne:9_p19-p20#p19", "bofm:3-ne:15_p2-p10#p4"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note28a",
+        "content": "salvation",
+        "refs": [
+            "nt:gal:2_p16#p16",
+            "bofm:mosiah:12_p31#p31",
+            "bofm:alma:25_p16#p16",
+            "tg:redemption",
+            "tg:salvation-plan-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note28b",
+        "content": "law",
+        "refs": [
+            "nt:rom:7_p4-p25#p4",
+            "nt:gal:2_p21#p21",
+            "nt:gal:3_p2#p2",
+            "nt:heb:10_p1#p1",
+            "bofm:2-ne:2_p5#p5",
+            "bofm:mosiah:3_p14-p15#p15"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note28c",
+        "content": "atonement",
+        "refs": ["tg:jesus-christ-atonement-through"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note29a",
+        "content": "strict",
+        "refs": [
+            "ot:josh:1_p8#p8",
+            "nt:heb:9_p8-p10#p10",
+            "bofm:mosiah:3_p14-p15#p14",
+            "bofm:alma:25_p15-p16#p15",
+            "dnc:41_p4-p5#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note29b",
+        "content": "quick",
+        "refs": ["bofm:1-ne:17_p45#p45", "bofm:alma:46_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note30a",
+        "content": "law",
+        "refs": ["nt:rom:7_p1-p3#p1"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note30b",
+        "content": "ordinances",
+        "refs": ["tg:ordinance"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note30c",
+        "content": "observe",
+        "refs": ["bofm:2-ne:25_p24#p24", "bofm:jacob:4_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note31a",
+        "content": "types",
+        "refs": [
+            "bofm:mosiah:16_p14#p14",
+            "bofm:alma:25_p15-p16#p15",
+            "tg:jesus-christ-types-of-in-anticipation",
+            "tg:symbolism"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note32a",
+        "content": "understand",
+        "refs": ["ot:ps:111_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note32b",
+        "content": "except",
+        "refs": ["bofm:2-ne:25_p23-p25#p23"]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note33a",
+        "content": "all",
+        "refs": [
+            "nt:1-pet:1_p11#p11",
+            "bofm:1-ne:10_p5#p5",
+            "bofm:jacob:4_p4#p4",
+            "bofm:jacob:7_p11-p12#p11",
+            "bofm:alma:25_p10-p16#p16",
+            "bofm:alma:30_p44#p44",
+            "tg:jesus-christ-prophecies-about"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note34a",
+        "content": "God",
+        "refs": [
+            "bofm:mosiah:7_p27#p27",
+            "bofm:mosiah:15_p1#p1",
+            "bofm:mosiah:17_p8#p8",
+            "bofm:alma:10_p21#p21",
+            "tg:jesus-christ-jehovah"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/mosiah/13",
+        "noteId": "note35a",
+        "content": "resurrection",
+        "refs": ["ot:isa:26_p19#p19", "bofm:2-ne:2_p8#p8"]
+    }
+]

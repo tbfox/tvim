@@ -1,0 +1,622 @@
+[
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note1a",
+        "content": "faith",
+        "refs": [
+            "nt:1-cor:13_p1-p13#p13",
+            "bofm:ether:12_p3-p37#p3",
+            "bofm:moro:8_p14#p14",
+            "bofm:moro:10_p20-p23#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note1b",
+        "content": "synagogue",
+        "refs": ["bofm:alma:16_p13#p13", "bofm:3-ne:18_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note2a",
+        "content": "grace",
+        "refs": ["tg:grace"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note2b",
+        "content": "calling",
+        "refs": ["bofm:3-ne:5_p13#p13", "tg:called-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note3a",
+        "content": "church",
+        "refs": ["tg:jesus-christ-head-of-the-church"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note3b",
+        "content": "peaceable",
+        "refs": ["nt:acts:13_p16#p16", "nt:rom:16_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note3c",
+        "content": "hope",
+        "refs": [
+            "bofm:alma:7_p16#p16",
+            "bofm:ether:12_p4#p4",
+            "dnc:138_p14#p14"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note3d",
+        "content": "rest",
+        "refs": ["tg:rest"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note4a",
+        "content": "walk",
+        "refs": ["nt:1-jn:2_p6#p6", "dnc:19_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note5a",
+        "content": "works",
+        "refs": ["bofm:3-ne:14_p15-p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note6a",
+        "content": "evil",
+        "refs": ["nt:matt:7_p15-p18#p16"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note6b",
+        "content": "offereth",
+        "refs": ["ot:lev:17_p8-p9#p8", "dnc:132_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note6c",
+        "content": "prayeth",
+        "refs": ["ot:prov:28_p9#p9", "bofm:alma:34_p28#p28", "tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note6d",
+        "content": "intent",
+        "refs": [
+            "ot:lev:19_p5#p5",
+            "tg:hypocrisy",
+            "tg:motivations",
+            "tg:sincere"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note8a",
+        "content": "evil",
+        "refs": ["ot:prov:15_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note8b",
+        "content": "grudgingly",
+        "refs": ["ot:1-chr:29_p9#p9", "dnc:64_p34#p34"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note9a",
+        "content": "real intent",
+        "refs": [
+            "nt:james:1_p6-p7#p6",
+            "nt:james:5_p16#p16",
+            "bofm:moro:10_p4#p4",
+            "tg:sincere"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note11a",
+        "content": "fountain",
+        "refs": ["ot:prov:13_p14#p14", "nt:james:3_p11#p11"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note11b",
+        "content": "follow",
+        "refs": [
+            "nt:matt:6_p24#p24",
+            "nt:matt:8_p19#p19",
+            "bofm:2-ne:31_p10-p13#p10",
+            "dnc:56_p2#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note11c",
+        "content": "servant",
+        "refs": ["tg:servant"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note12a",
+        "content": "good",
+        "refs": [
+            "ot:gen:1_p31#p31",
+            "nt:james:1_p17-p21#p17",
+            "nt:1-jn:4_p1-p6#p1",
+            "nt:3-jn:1_p1-p14#p11",
+            "bofm:ether:4_p12#p12",
+            "dnc:59_p16-p20#p17",
+            "pgp:moses:2_p31#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note12b",
+        "content": "evil",
+        "refs": ["ot:isa:45_p7#p7", "nt:2-cor:4_p4#p4", "tg:evil"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note12c",
+        "content": "sin",
+        "refs": ["bofm:alma:5_p39-p42#p40", "bofm:hel:6_p30#p30", "tg:sin"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note13a",
+        "content": "good",
+        "refs": ["dnc:35_p12#p12", "dnc:84_p47-p51#p47"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note13b",
+        "content": "enticeth",
+        "refs": ["bofm:2-ne:33_p4#p4", "bofm:ether:8_p26#p26"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note13c",
+        "content": "good",
+        "refs": ["tg:benevolence"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note13d",
+        "content": "inspired",
+        "refs": ["tg:inspiration"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note14a",
+        "content": "evil",
+        "refs": [
+            "ot:isa:5_p20#p20",
+            "bofm:2-ne:15_p20#p20",
+            "dnc:64_p16#p16",
+            "dnc:121_p16#p16"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note15a",
+        "content": "judge",
+        "refs": ["ot:ezek:44_p24#p24", "tg:discernment-spiritual"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note16a",
+        "content": "Spirit of Christ",
+        "refs": ["tg:conscience", "tg:god-spirit-of", "tg:light-of-christ"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note16b",
+        "content": "man",
+        "refs": ["tg:mortality"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note16c",
+        "content": "know",
+        "refs": [
+            "ot:gen:3_p5#p5",
+            "ot:amos:5_p14-p15#p14",
+            "nt:matt:12_p33-p37#p33",
+            "bofm:2-ne:2_p5,18,26#p5",
+            "bofm:mosiah:16_p3#p3",
+            "bofm:alma:29_p5#p5",
+            "bofm:hel:14_p31#p31",
+            "bofm:ether:4_p11-p12#p12"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note17a",
+        "content": "evil",
+        "refs": ["tg:sin"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note18a",
+        "content": "light",
+        "refs": [
+            "bofm:mosiah:16_p9#p9",
+            "bofm:ether:3_p14#p14",
+            "dnc:50_p24#p24",
+            "dnc:88_p7-p13#p13",
+            "tg:light-of-christ"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note18b",
+        "content": "judgment",
+        "refs": ["nt:luke:6_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note19a",
+        "content": "light of Christ",
+        "refs": ["dnc:84_p45#p45", "dnc:88_p6-p13#p7"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note19b",
+        "content": "child",
+        "refs": [
+            "bofm:mosiah:15_p10#p10",
+            "bofm:mosiah:27_p25#p25",
+            "tg:sons-and-daughters-of-god"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note22a",
+        "content": "knowing",
+        "refs": ["tg:god-foreknowledge-of", "tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note22b",
+        "content": "everlasting",
+        "refs": [
+            "bofm:2-ne:19_p6#p6",
+            "bofm:2-ne:26_p12#p12",
+            "bofm:mosiah:3_p5#p5",
+            "bofm:alma:11_p38-p39,44#p39",
+            "bofm:moro:8_p18#p18",
+            "tg:god-eternal-nature-of"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note22c",
+        "content": "angels",
+        "refs": [
+            "nt:acts:10_p3,22#p3",
+            "bofm:2-ne:10_p3#p3",
+            "bofm:2-ne:11_p3#p3",
+            "bofm:jacob:7_p5#p5"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note24a",
+        "content": "fallen",
+        "refs": ["bofm:2-ne:2_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note25a",
+        "content": "angels",
+        "refs": ["bofm:alma:12_p28-p30#p29", "pgp:moses:5_p58#p58"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note26a",
+        "content": "saved",
+        "refs": ["dnc:3_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note26b",
+        "content": "sons",
+        "refs": ["tg:sons-and-daughters-of-god"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note26c",
+        "content": "Whatsoever",
+        "refs": ["bofm:3-ne:18_p20#p20", "tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note27a",
+        "content": "miracles",
+        "refs": ["tg:miracle"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note27b",
+        "content": "claim",
+        "refs": ["ot:isa:53_p11-p12#p12", "bofm:2-ne:2_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note28a",
+        "content": "cleave",
+        "refs": ["tg:motivations"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note28b",
+        "content": "advocateth",
+        "refs": [
+            "nt:1-jn:2_p1#p1",
+            "bofm:2-ne:2_p9#p9",
+            "bofm:mosiah:14_p12#p12",
+            "bofm:mosiah:15_p8#p8",
+            "bofm:3-ne:18_p35#p35",
+            "tg:jesus-christ-relationships-with-the-father"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note29a",
+        "content": "angels",
+        "refs": [
+            "ot:judg:13_p3#p3",
+            "nt:luke:1_p26#p26",
+            "nt:acts:5_p19-p20#p19",
+            "tg:angels",
+            "tg:miracle"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note30a",
+        "content": "godliness",
+        "refs": ["tg:godliness"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note31a",
+        "content": "chosen",
+        "refs": ["dnc:20_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note32a",
+        "content": "residue",
+        "refs": ["nt:acts:15_p17#p17", "pgp:moses:7_p28#p28"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note32b",
+        "content": "faith",
+        "refs": ["nt:acts:16_p5#p5", "dnc:46_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note33a",
+        "content": "If",
+        "refs": ["bofm:moro:10_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note33b",
+        "content": "faith",
+        "refs": ["nt:gal:2_p16#p16", "tg:faith"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note33c",
+        "content": "expedient",
+        "refs": ["dnc:88_p64-p65#p64"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note34a",
+        "content": "Repent",
+        "refs": ["bofm:3-ne:27_p20#p20", "bofm:ether:4_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note35a",
+        "content": "power",
+        "refs": ["bofm:2-ne:33_p11#p11", "bofm:ether:5_p4-p6#p4"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note35b",
+        "content": "day",
+        "refs": ["bofm:morm:9_p15#p15", "dnc:35_p8#p8"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note36a",
+        "content": "withheld",
+        "refs": ["bofm:1-ne:10_p17-p19#p17", "bofm:moro:10_p4-p5,7,19#p7"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note37a",
+        "content": "miracles",
+        "refs": [
+            "nt:matt:13_p58#p58",
+            "bofm:morm:8_p26#p26",
+            "bofm:morm:9_p20#p20",
+            "bofm:ether:12_p12-p18#p12"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note37b",
+        "content": "unbelief",
+        "refs": ["bofm:moro:10_p19-p27#p19"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note39a",
+        "content": "fit",
+        "refs": ["tg:worthiness"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note40a",
+        "content": "hope",
+        "refs": ["nt:heb:11_p1#p1", "bofm:ether:12_p4#p4", "tg:hope"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note41a",
+        "content": "hope",
+        "refs": ["dnc:138_p14#p14"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note41b",
+        "content": "hope",
+        "refs": [
+            "ot:zech:9_p11-p12#p12",
+            "nt:titus:1_p2#p2",
+            "bofm:jacob:2_p19#p19",
+            "bofm:alma:46_p39#p39"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note41c",
+        "content": "eternal",
+        "refs": ["tg:eternal-life"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note42a",
+        "content": "faith",
+        "refs": ["tg:faith"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note42b",
+        "content": "must",
+        "refs": ["bofm:moro:10_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note43a",
+        "content": "meek",
+        "refs": ["tg:humility"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note44a",
+        "content": "faith",
+        "refs": [
+            "nt:1-cor:13_p1-p13#p13",
+            "bofm:alma:7_p24#p24",
+            "bofm:ether:12_p28-p35#p31"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note44b",
+        "content": "acceptable",
+        "refs": ["ot:lev:10_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note44c",
+        "content": "meek",
+        "refs": ["tg:meek"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note44d",
+        "content": "confesses",
+        "refs": [
+            "nt:luke:12_p8-p9#p8",
+            "tg:holy-ghost-gifts-of",
+            "tg:testimony"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note45a",
+        "content": "charity",
+        "refs": ["nt:1-cor:13_p1-p13#p4"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note45b",
+        "content": "kind",
+        "refs": ["tg:kindness"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note45c",
+        "content": "envieth",
+        "refs": ["tg:envy"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note45d",
+        "content": "provoked",
+        "refs": ["tg:provoking"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note47a",
+        "content": "charity",
+        "refs": ["nt:rom:13_p10#p10", "bofm:2-ne:26_p30#p30", "tg:charity"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note47b",
+        "content": "love",
+        "refs": [
+            "ot:josh:22_p5#p5",
+            "bofm:ether:12_p34#p34",
+            "bofm:moro:7_p48#p48",
+            "tg:love"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note47c",
+        "content": "forever",
+        "refs": ["tg:eternity"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note48a",
+        "content": "pray",
+        "refs": ["tg:communication", "tg:prayer"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note48b",
+        "content": "followers",
+        "refs": ["tg:jesus-christ-exemplar"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note48c",
+        "content": "be",
+        "refs": ["nt:1-jn:3_p1-p3#p2", "bofm:3-ne:27_p27#p27"]
+    },
+    {
+        "origin_chapter": "bofm/moro/7",
+        "noteId": "note48d",
+        "content": "purified",
+        "refs": ["bofm:3-ne:19_p28-p29#p28", "tg:cleanliness", "tg:purity"]
+    }
+]

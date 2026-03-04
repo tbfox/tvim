@@ -1,0 +1,301 @@
+[
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note1a",
+        "content": "servants",
+        "refs": ["bofm:alma:19_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note2a",
+        "content": "great",
+        "refs": ["bofm:alma:22_p9-p11#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note3a",
+        "content": "cannot",
+        "refs": ["bofm:alma:17_p34-p38#p36"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note3b",
+        "content": "scatter",
+        "refs": ["bofm:alma:17_p27#p27", "bofm:alma:19_p20-p21#p21"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note3c",
+        "content": "great",
+        "refs": ["bofm:alma:22_p20#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note4a",
+        "content": "slay",
+        "refs": ["bofm:alma:17_p28-p31#p28"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note5a",
+        "content": "tradition",
+        "refs": ["bofm:alma:17_p15#p15", "bofm:alma:60_p32#p32"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note5b",
+        "content": "Great Spirit",
+        "refs": ["bofm:alma:19_p25-p27#p25", "tg:god-knowledge-about"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note5c",
+        "content": "whatsoever",
+        "refs": ["bofm:alma:30_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note7a",
+        "content": "waters of Sebus",
+        "refs": ["bofm:alma:17_p26#p26", "bofm:alma:19_p20-p21#p20"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note9a",
+        "content": "horses",
+        "refs": ["bofm:enos:1_p21#p21", "bofm:alma:20_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note9b",
+        "content": "great",
+        "refs": ["bofm:alma:20_p9,12#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note9c",
+        "content": "feast",
+        "refs": ["ot:esth:1_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note10a",
+        "content": "chariots",
+        "refs": ["bofm:alma:20_p6#p6", "bofm:3-ne:3_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note12a",
+        "content": "countenance",
+        "refs": ["ot:dan:5_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note13a",
+        "content": "Rabbanah",
+        "refs": ["nt:john:20_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note14a",
+        "content": "hour",
+        "refs": ["bofm:3-ne:8_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note16a",
+        "content": "Spirit",
+        "refs": [
+            "ot:gen:41_p38#p38",
+            "bofm:1-ne:1_p12#p12",
+            "bofm:mosiah:27_p24#p24"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note16b",
+        "content": "thoughts",
+        "refs": ["bofm:alma:12_p3#p3"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note16c",
+        "content": "seven",
+        "refs": ["bofm:alma:17_p36#p36"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note17a",
+        "content": "man",
+        "refs": ["ot:dan:2_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note18a",
+        "content": "discern",
+        "refs": ["tg:discernment-spiritual"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note18b",
+        "content": "knows",
+        "refs": ["tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note21a",
+        "content": "if",
+        "refs": ["ot:dan:5_p16#p16"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note22a",
+        "content": "wise",
+        "refs": ["ot:gen:41_p39#p39", "bofm:alma:48_p11-p17#p11"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note23a",
+        "content": "will believe",
+        "refs": ["bofm:alma:18_p40#p40"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note23b",
+        "content": "guile",
+        "refs": ["ot:josh:9_p22#p22"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note24a",
+        "content": "boldness",
+        "refs": ["bofm:alma:38_p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note26a",
+        "content": "Great Spirit",
+        "refs": ["bofm:alma:22_p9-p10#p9"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note32a",
+        "content": "knows",
+        "refs": ["tg:god-omniscience-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note32b",
+        "content": "intents",
+        "refs": ["ot:amos:4_p13#p13", "bofm:3-ne:28_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note33a",
+        "content": "sent",
+        "refs": ["ot:2-chr:24_p19#p19"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note34a",
+        "content": "man",
+        "refs": ["bofm:mosiah:7_p27#p27", "bofm:ether:3_p13-p16#p15"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note34b",
+        "content": "Holy Spirit",
+        "refs": ["tg:teaching-with-the-spirit"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note35a",
+        "content": "Spirit",
+        "refs": ["tg:inspiration"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note35b",
+        "content": "knowledge",
+        "refs": ["tg:knowledge"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note36a",
+        "content": "rehearsed",
+        "refs": [
+            "bofm:mosiah:1_p4#p4",
+            "bofm:alma:22_p12#p12",
+            "bofm:alma:36_p1#p1",
+            "bofm:alma:37_p9#p9",
+            "bofm:hel:5_p1-p13#p13",
+            "pgp:moses:6_p58#p58"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note36b",
+        "content": "records",
+        "refs": ["bofm:alma:63_p12#p12", "tg:scriptures-value-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note36c",
+        "content": "prophets",
+        "refs": ["nt:acts:3_p18-p21#p18", "nt:acts:28_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note38a",
+        "content": "rebellions",
+        "refs": ["bofm:2-ne:1_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note38b",
+        "content": "records",
+        "refs": ["bofm:1-ne:9_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note39a",
+        "content": "expounded",
+        "refs": ["bofm:alma:19_p31#p31", "tg:missionary-work"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note39b",
+        "content": "plan of redemption",
+        "refs": ["tg:salvation-plan-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note40a",
+        "content": "believed",
+        "refs": ["bofm:alma:18_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note41a",
+        "content": "mercy",
+        "refs": ["tg:god-mercy-of"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note42a",
+        "content": "fell",
+        "refs": ["bofm:alma:19_p1,5-p12#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note42b",
+        "content": "as",
+        "refs": ["bofm:alma:22_p18#p18"]
+    },
+    {
+        "origin_chapter": "bofm/alma/18",
+        "noteId": "note43a",
+        "content": "servants",
+        "refs": ["bofm:alma:19_p4-p5#p4"]
+    }
+]

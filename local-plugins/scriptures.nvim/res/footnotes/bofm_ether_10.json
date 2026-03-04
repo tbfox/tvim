@@ -1,0 +1,194 @@
+[
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note1a",
+        "content": "Heth",
+        "refs": ["bofm:ether:9_p25-p29#p26"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note2a",
+        "content": "across",
+        "refs": ["bofm:ether:6_p1-p12#p12"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note3a",
+        "content": "rebel",
+        "refs": ["bofm:mosiah:10_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note5a",
+        "content": "concubines",
+        "refs": [
+            "ot:esth:2_p14#p14",
+            "bofm:jacob:3_p5#p5",
+            "bofm:mosiah:11_p2-p14#p2"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note5b",
+        "content": "tax",
+        "refs": ["ot:gen:47_p24#p24"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note6a",
+        "content": "cast",
+        "refs": ["tg:oppression", "tg:tyranny"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note7a",
+        "content": "gold",
+        "refs": ["ot:esth:1_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note7b",
+        "content": "workmanship",
+        "refs": ["tg:art"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note11a",
+        "content": "whoredoms",
+        "refs": ["tg:whore"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note12a",
+        "content": "gold",
+        "refs": ["bofm:ether:9_p17-p18#p17"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note13a",
+        "content": "not",
+        "refs": ["bofm:1-ne:17_p34-p35#p35"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note14a",
+        "content": "captivity",
+        "refs": [
+            "bofm:ether:7_p7#p7",
+            "bofm:ether:8_p3-p4#p4",
+            "bofm:ether:10_p30-p31#p30"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note16a",
+        "content": "old",
+        "refs": ["tg:old-age"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note19a",
+        "content": "poisonous",
+        "refs": ["bofm:ether:9_p31#p31"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note19b",
+        "content": "hunter",
+        "refs": ["ot:gen:25_p27#p27", "bofm:ether:2_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note20a",
+        "content": "narrow",
+        "refs": ["bofm:alma:63_p5#p5"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note21a",
+        "content": "southward",
+        "refs": ["bofm:morm:3_p5#p5", "bofm:ether:9_p31-p32#p31"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note22a",
+        "content": "industrious",
+        "refs": ["tg:industry"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note22b",
+        "content": "traffic",
+        "refs": [
+            "ot:gen:34_p10-p21#p10",
+            "bofm:mosiah:24_p7#p7",
+            "bofm:4-ne:1_p46#p46"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note23a",
+        "content": "work",
+        "refs": ["tg:skill"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note23b",
+        "content": "ore",
+        "refs": ["bofm:hel:6_p9-p11#p9", "bofm:ether:9_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note23c",
+        "content": "iron",
+        "refs": ["bofm:2-ne:5_p15#p15", "pgp:moses:5_p46#p46"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note23d",
+        "content": "brass",
+        "refs": ["ot:gen:4_p22#p22", "bofm:mosiah:8_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note23e",
+        "content": "work",
+        "refs": ["tg:art"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note24a",
+        "content": "silks",
+        "refs": ["bofm:ether:9_p17#p17"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note24b",
+        "content": "linen",
+        "refs": ["ot:ex:25_p4-p5#p4", "bofm:1-ne:13_p7-p8#p7"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note24c",
+        "content": "cloth",
+        "refs": ["tg:clothing"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note27a",
+        "content": "weapons",
+        "refs": ["bofm:ether:15_p15#p15"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note30a",
+        "content": "captivity",
+        "refs": ["bofm:ether:10_p14#p14", "bofm:ether:11_p9#p9"]
+    },
+    {
+        "origin_chapter": "bofm/ether/10",
+        "noteId": "note33a",
+        "content": "oaths",
+        "refs": ["tg:secret-combinations"]
+    }
+]

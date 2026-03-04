@@ -1,0 +1,124 @@
+[
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note1a",
+        "content": "Shiblon",
+        "refs": ["bofm:alma:38_p1-p2#p1", "bofm:alma:49_p30#p30"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note1b",
+        "content": "sacred",
+        "refs": ["bofm:mosiah:1_p3#p3", "bofm:alma:37_p1-p12#p1", "tg:sacred"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note3a",
+        "content": "Moroni",
+        "refs": ["bofm:alma:43"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note4a",
+        "content": "northward",
+        "refs": [
+            "bofm:alma:22_p31#p31",
+            "bofm:alma:46_p17#p17",
+            "bofm:hel:3_p3#p3"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note5a",
+        "content": "exceedingly",
+        "refs": ["bofm:hel:3_p10,14#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note5b",
+        "content": "Bountiful",
+        "refs": ["bofm:alma:53_p3-p4#p3", "bofm:hel:1_p23#p23"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note5c",
+        "content": "narrow",
+        "refs": [
+            "bofm:alma:22_p32#p32",
+            "bofm:morm:2_p29#p29",
+            "bofm:ether:10_p20#p20"
+        ]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note7a",
+        "content": "other",
+        "refs": ["bofm:hel:3_p10#p10"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note9a",
+        "content": "northward",
+        "refs": ["bofm:hel:3_p11-p12#p12", "bofm:hel:6_p6#p6"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note10a",
+        "content": "Shiblon",
+        "refs": ["bofm:alma:31_p7#p7"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note11a",
+        "content": "Shiblon",
+        "refs": ["bofm:alma:63_p1#p1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note11b",
+        "content": "Helaman",
+        "refs": ["bofm:hel:1_title1-intro1#title1"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note11c",
+        "content": "Helaman",
+        "refs": ["bofm:hel:3_p37#p37"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note12a",
+        "content": "engravings",
+        "refs": ["bofm:alma:18_p36#p36", "bofm:3-ne:1_p2#p2"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note12b",
+        "content": "not go",
+        "refs": ["bofm:alma:37_p27-p32#p27"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note13a",
+        "content": "handed",
+        "refs": ["bofm:alma:37_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note14a",
+        "content": "stirred up",
+        "refs": ["bofm:alma:51_p9#p9", "bofm:hel:4_p4#p4"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note15a",
+        "content": "Moronihah",
+        "refs": ["bofm:alma:62_p43#p43"]
+    },
+    {
+        "origin_chapter": "bofm/alma/63",
+        "noteId": "note17a",
+        "content": "Alma",
+        "refs": ["bofm:alma:1_p1-p2#p2"]
+    }
+]
