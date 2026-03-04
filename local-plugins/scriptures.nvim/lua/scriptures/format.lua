@@ -35,8 +35,6 @@ function M.format_verses(verses)
 		-- Wrap the verse content at 80 columns, accounting for the verse number
 		-- Format: "1. verse text here"
 		local verse_prefix = verse_num .. ". "
-		local first_line_width = 80 - #verse_prefix
-		local subsequent_width = 80 - 3  -- Indent by 3 spaces for continuation
 
 		-- Wrap the text
 		local wrapped = wrap_line(content, 80)
@@ -45,9 +43,9 @@ function M.format_verses(verses)
 		if #wrapped > 0 then
 			table.insert(lines, verse_prefix .. wrapped[1])
 
-			-- Add subsequent lines with indentation
+			-- Add subsequent lines without indentation (flows like a paragraph)
 			for j = 2, #wrapped do
-				table.insert(lines, "   " .. wrapped[j])
+				table.insert(lines, wrapped[j])
 			end
 		else
 			table.insert(lines, verse_prefix)
