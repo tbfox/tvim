@@ -37,7 +37,7 @@ Example path: `bofm/1-ne/1/1` (Book of Mormon, 1 Nephi, Chapter 1, Verse 1)
 - Limited to 100 results for performance
 - Selecting result navigates to that verse in reading view
 
-**`:Sc search-ref`**
+**`:Sc search ref`**
 - Search scripture references (e.g., "1 Nephi 3", "Alma 32")
 - Requires Telescope plugin
 - Uses telescope picker showing all book/chapter combinations
@@ -163,7 +163,7 @@ Example path: `bofm/1-ne/1/1` (Book of Mormon, 1 Nephi, Chapter 1, Verse 1)
    - Performance optimization if needed (consider indexing or limits)
    - Navigate to selected verse
 
-2. Implement `:Sc search-ref`:
+2. Implement `:Sc search ref`:
    - Build list of all book/chapter references
    - Telescope picker for references
    - Navigate to selected chapter
@@ -218,5 +218,5 @@ Following the pattern of other local plugins:
   - [x] `-` navigation back through tree
 - [x] Phase 3: Search
   - [x] `:Sc search` (content)
-  - [x] `:Sc search-ref` (references)
+  - [x] `:Sc search ref` (references)
 - [ ] Phase 4: Future enhancements

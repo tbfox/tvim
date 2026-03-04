@@ -8,23 +8,23 @@ local search = require("scriptures.search")
 function M.setup(opts)
 	opts = opts or {}
 
-	-- Main command: :Sc [search|search-ref]
+	-- Main command: :Sc [search [ref]]
 	-- No args: Opens the scripture tree navigation
 	-- search: Full-text search across verses
-	-- search-ref: Search scripture references
+	-- search ref: Search scripture references
 	vim.api.nvim_create_user_command("Sc", function(cmd_opts)
-		local arg = cmd_opts.args
+		local args = cmd_opts.fargs
 
-		if arg == "search" then
-			search.search_content()
-		elseif arg == "search-ref" then
-			search.search_references()
-		elseif arg == "" then
+		if #args == 0 then
 			nav.open()
+		elseif #args == 1 and args[1] == "search" then
+			search.search_content()
+		elseif #args == 2 and args[1] == "search" and args[2] == "ref" then
+			search.search_references()
 		else
-			vim.notify("Usage: :Sc [search|search-ref]", vim.log.levels.WARN)
+			vim.notify("Usage: :Sc | :Sc search | :Sc search ref", vim.log.levels.WARN)
 		end
-	end, { nargs = "?" })
+	end, { nargs = "*" })
 
 	vim.api.nvim_create_user_command("Scriptures", function(args)
 		nav.open()
