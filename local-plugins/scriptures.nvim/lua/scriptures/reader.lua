@@ -104,14 +104,20 @@ local function prev_chapter()
 	load_chapter(prev.source, prev.book, prev.chapter)
 end
 
+-- Navigate back to chapter selection
+local function go_back()
+	-- Lazy require to avoid circular dependency
+	local nav = require("scriptures.nav")
+	nav.back_from_reader()
+end
+
 -- Set up buffer-local keymaps
 local function setup_keymaps(bufnr)
 	local opts = { buffer = bufnr, noremap = true, silent = true }
 
 	vim.keymap.set("n", "<leader>n", next_chapter, opts)
 	vim.keymap.set("n", "<leader>p", prev_chapter, opts)
-
-	-- TODO: Add `-` keymap to return to chapter selection (Phase 2)
+	vim.keymap.set("n", "-", go_back, opts)
 end
 
 -- Open a reading buffer for a specific chapter

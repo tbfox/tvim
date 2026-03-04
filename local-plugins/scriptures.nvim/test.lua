@@ -9,17 +9,22 @@ package.loaded["scriptures"] = nil
 package.loaded["scriptures.db"] = nil
 package.loaded["scriptures.format"] = nil
 package.loaded["scriptures.reader"] = nil
+package.loaded["scriptures.nav"] = nil
 
 -- Require and setup
 local scriptures = require("scriptures")
 scriptures.setup()
 
--- Test: Open 1 Nephi 1
-vim.print("Opening 1 Nephi 1...")
-scriptures.reader.open("bofm", "1 Nephi", 1)
+-- Test: Open scripture navigation
+vim.print("Opening scripture navigation...")
+scriptures.nav.open()
 
-vim.print("\nTest complete!")
-vim.print("Try these commands:")
+vim.print("\n=== Scripture Navigation Test ===")
+vim.print("\nNavigation commands:")
+vim.print("  <CR> - Select item / go deeper")
+vim.print("  -    - Go back up the tree")
+vim.print("\nReading view commands (once you open a chapter):")
 vim.print("  <leader>n - Next chapter")
 vim.print("  <leader>p - Previous chapter")
-vim.print("\nNavigate to end of 1 Nephi to test book wrapping")
+vim.print("  -         - Back to chapter selection")
+vim.print("\nAlternatively, use :Sc or :Scriptures to open navigation")

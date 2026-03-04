@@ -200,18 +200,18 @@ Following the pattern of other local plugins:
 
 ## Progress Tracker
 
-- [ ] Phase 1: Core Reading View
-  - [ ] Database query functions (db.lua)
-  - [ ] Verse formatting (format.lua)
-  - [ ] Reading buffer creation (reader.lua)
-  - [ ] Chapter navigation (<leader>n, <leader>p)
-  - [ ] Statusline integration
-- [ ] Phase 2: Tree Navigation
-  - [ ] Source selection buffer
-  - [ ] Book selection buffer
-  - [ ] Chapter selection buffer
-  - [ ] `:Sc` command
-  - [ ] `-` navigation back through tree
+- [x] Phase 1: Core Reading View
+  - [x] Database query functions (db.lua)
+  - [x] Verse formatting (format.lua)
+  - [x] Reading buffer creation (reader.lua)
+  - [x] Chapter navigation (<leader>n, <leader>p)
+  - [x] Statusline integration
+- [x] Phase 2: Tree Navigation
+  - [x] Source selection buffer
+  - [x] Book selection buffer
+  - [x] Chapter selection buffer
+  - [x] `:Sc` and `:Scriptures` commands
+  - [x] `-` navigation back through tree
 - [ ] Phase 3: Search
   - [ ] `:Sc search` (content)
   - [ ] `:Sc search-ref` (references)
