@@ -140,8 +140,10 @@ show_chapters = function(source_id, book)
 	M.state.cached_chapters = db.get_chapters(source_id, book)
 	local lines = {}
 
+	-- D&C uses "Section" instead of "Chapter"
+	local label = source_id == "dc" and "Section" or "Chapter"
 	for _, chapter in ipairs(M.state.cached_chapters) do
-		table.insert(lines, "Chapter " .. chapter)
+		table.insert(lines, label .. " " .. chapter)
 	end
 
 	-- Set buffer content

@@ -45,8 +45,8 @@ Example path: `bofm/1-ne/1/1` (Book of Mormon, 1 Nephi, Chapter 1, Verse 1)
 **Level 1: Source Selection**
 - Display list of all 5 sources (Book of Mormon, Old Testament, etc.)
 - Show full titles from `sources` table
-- `<CR>` on a source → navigate to book list for that source (or chapter list for D&C)
-- **Special case:** Doctrine and Covenants (D&C) skips the book layer and goes directly to chapters
+- `<CR>` on a source → navigate to book list for that source (or section list for D&C)
+- **Special case:** Doctrine and Covenants (D&C) skips the book layer and goes directly to sections
 - Buffer name: `scriptures://sources`
 
 **Level 2: Book Selection**
@@ -57,7 +57,7 @@ Example path: `bofm/1-ne/1/1` (Book of Mormon, 1 Nephi, Chapter 1, Verse 1)
 
 **Level 3: Chapter Selection**
 - Display list of chapters in selected book
-- Format: "Chapter 1", "Chapter 2", etc.
+- Format: "Chapter 1", "Chapter 2", etc. (or "Section 1", "Section 2", etc. for D&C)
 - `<CR>` on a chapter → open reading view for that chapter
 - `-` → go back to book selection (or source selection for D&C)
 - Buffer name: `scriptures://<source>/<book>` (e.g., `scriptures://bofm/1-ne`)
