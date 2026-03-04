@@ -21,7 +21,7 @@ local function update_statusline()
 end
 
 -- Load a chapter into the current buffer
-local function load_chapter(source, book, chapter)
+local function load_chapter(source, book, chapter, verse_num)
 	-- Get verses for this chapter
 	local verses = db.get_chapter_verses(source, book, chapter)
 
@@ -50,8 +50,15 @@ local function load_chapter(source, book, chapter)
 	-- Update statusline
 	update_statusline()
 
-	-- Move cursor to top
-	vim.api.nvim_win_set_cursor(0, { 1, 0 })
+	-- Move cursor to specific verse or top
+	if verse_num then
+		-- Search for the verse number pattern: "N. " at the start of a line
+		local pattern = "^" .. verse_num .. "\\. "
+		vim.fn.search(pattern)
+	else
+		-- Move cursor to top
+		vim.api.nvim_win_set_cursor(0, { 1, 0 })
+	end
 
 	return true
 end
@@ -121,7 +128,8 @@ local function setup_keymaps(bufnr)
 end
 
 -- Open a reading buffer for a specific chapter
-function M.open(source, book, chapter)
+-- If verse is provided, scroll to that verse
+function M.open(source, book, chapter, verse)
 	-- Create a new buffer if needed
 	if not M.state.bufnr or not vim.api.nvim_buf_is_valid(M.state.bufnr) then
 		M.state.bufnr = vim.api.nvim_create_buf(false, true)
@@ -140,7 +148,7 @@ function M.open(source, book, chapter)
 	vim.api.nvim_set_current_buf(M.state.bufnr)
 
 	-- Load the chapter
-	load_chapter(source, book, chapter)
+	load_chapter(source, book, chapter, verse)
 end
 
 -- Get current statusline text

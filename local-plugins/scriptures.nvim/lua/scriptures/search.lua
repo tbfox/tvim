@@ -99,7 +99,7 @@ function M.search_content()
 				local selection = action_state.get_selected_entry()
 				if selection then
 					local verse = selection.value
-					reader.open(verse.source, verse.book, verse.chapter)
+					reader.open(verse.source, verse.book, verse.chapter, verse.verse)
 				end
 			end)
 			return true
