@@ -70,7 +70,12 @@ show_sources = function()
 		local line = vim.api.nvim_win_get_cursor(0)[1]
 		if line > 0 and line <= #M.state.cached_sources then
 			local selected_source = M.state.cached_sources[line]
-			show_books(selected_source.id)
+			-- D&C has only one book, so skip directly to chapters
+			if selected_source.id == "dc" then
+				show_chapters(selected_source.id, "D&C")
+			else
+				show_books(selected_source.id)
+			end
 		end
 	end, opts)
 
@@ -159,7 +164,12 @@ show_chapters = function(source_id, book)
 	end, opts)
 
 	vim.keymap.set("n", "-", function()
-		show_books(M.state.source)
+		-- D&C has no book layer, go directly back to sources
+		if M.state.source == "dc" then
+			show_sources()
+		else
+			show_books(M.state.source)
+		end
 	end, opts)
 
 	vim.keymap.set("n", "q", "<cmd>bd!<CR>", opts)
