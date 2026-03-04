@@ -68,7 +68,6 @@ Example path: `bofm/1-ne/1/1` (Book of Mormon, 1 Nephi, Chapter 1, Verse 1)
 - Verses formatted as numbered list: `1. [verse text]`, `2. [verse text]`, etc.
 - Each verse wrapped at 80 columns (like `gq` formatting)
 - One empty line between verses
-- No line numbers (`:set nonumber`)
 - Read-only buffer
 - Buffer name: `scriptures://<path>` (e.g., `scriptures://bofm/1-ne/1`)
 
@@ -88,9 +87,9 @@ Example path: `bofm/1-ne/1/1` (Book of Mormon, 1 Nephi, Chapter 1, Verse 1)
 - `-` → exit reading view, return to chapter selection
 
 **Buffer Behavior**
-- Read-only (`:set readonly`, `:set nomodifiable`)
-- No line numbers
+- Read-only (`:set nomodifiable`)
 - Regular vim search (`/`, `?`, `n`, `N`) works for in-buffer searching
+- Line numbers follow user's global configuration
 
 ## Implementation Plan
 
@@ -113,7 +112,7 @@ Example path: `bofm/1-ne/1/1` (Book of Mormon, 1 Nephi, Chapter 1, Verse 1)
 2. Create reading buffer in `reader.lua`:
    - Function to create/populate reading buffer
    - Format verses with numbering and wrapping
-   - Set buffer options (readonly, nomodifiable, nonumber)
+   - Set buffer options (nomodifiable)
    - Set buffer name to `scriptures://<path>`
 
 3. Implement chapter navigation:
@@ -131,7 +130,7 @@ Example path: `bofm/1-ne/1/1` (Book of Mormon, 1 Nephi, Chapter 1, Verse 1)
 1. Implement source selection buffer:
    - Display sources from database
    - `<CR>` mapping to navigate to book list
-   - Set buffer as readonly
+   - Set buffer as nomodifiable
 
 2. Implement book selection buffer:
    - Query and display books for selected source

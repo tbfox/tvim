@@ -40,7 +40,6 @@ local function set_buffer_content(lines)
 	vim.bo[bufnr].modifiable = true
 	vim.api.nvim_buf_set_lines(bufnr, 0, -1, false, lines)
 	vim.bo[bufnr].modifiable = false
-	vim.bo[bufnr].readonly = true
 end
 
 -- Display source selection
@@ -77,10 +76,8 @@ show_sources = function()
 
 	vim.keymap.set("n", "q", "<cmd>bd!<CR>", opts)
 
-	-- Switch to buffer and set window options
+	-- Switch to buffer
 	vim.api.nvim_set_current_buf(bufnr)
-	vim.wo.number = false
-	vim.wo.relativenumber = false
 
 	-- Move cursor to first line
 	vim.api.nvim_win_set_cursor(0, { 1, 0 })
@@ -120,10 +117,8 @@ show_books = function(source_id)
 
 	vim.keymap.set("n", "q", "<cmd>bd!<CR>", opts)
 
-	-- Switch to buffer and set window options
+	-- Switch to buffer
 	vim.api.nvim_set_current_buf(bufnr)
-	vim.wo.number = false
-	vim.wo.relativenumber = false
 
 	-- Move cursor to first line
 	vim.api.nvim_win_set_cursor(0, { 1, 0 })
@@ -169,10 +164,8 @@ show_chapters = function(source_id, book)
 
 	vim.keymap.set("n", "q", "<cmd>bd!<CR>", opts)
 
-	-- Switch to buffer and set window options
+	-- Switch to buffer
 	vim.api.nvim_set_current_buf(bufnr)
-	vim.wo.number = false
-	vim.wo.relativenumber = false
 
 	-- Move cursor to first line
 	vim.api.nvim_win_set_cursor(0, { 1, 0 })

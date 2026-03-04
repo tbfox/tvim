@@ -139,10 +139,6 @@ function M.open(source, book, chapter)
 	-- Switch to the buffer
 	vim.api.nvim_set_current_buf(M.state.bufnr)
 
-	-- Set window options
-	vim.wo.number = false
-	vim.wo.relativenumber = false
-
 	-- Load the chapter
 	load_chapter(source, book, chapter)
 end
