@@ -1,3 +1,6 @@
+-- Roslyn C# LSP (manual installation)
+-- See docs/roslyn-setup.md for installation instructions
+
 local home = vim.fn.expand("~")
 local roslyn_path = home .. "/.local/share/nvim/roslyn/content/LanguageServer/osx-arm64"
 local dotnet_path = home .. "/.dotnet/dotnet"
