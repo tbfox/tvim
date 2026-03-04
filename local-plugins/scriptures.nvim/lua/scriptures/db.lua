@@ -6,6 +6,12 @@ local function get_db_path()
 	return plugin_dir .. "/res/standard-works.sqlite"
 end
 
+-- Escape single quotes for SQL
+local function escape_sql(str)
+	if not str then return str end
+	return str:gsub("'", "''")
+end
+
 -- Execute a SQLite query and return the result
 local function query(sql)
 	local db_path = get_db_path()
@@ -42,7 +48,7 @@ end
 function M.get_books(source)
 	local sql = string.format(
 		[[SELECT book FROM verses WHERE source='%s' GROUP BY book ORDER BY MIN(id);]],
-		source
+		escape_sql(source)
 	)
 	local result = query(sql)
 	local lines = vim.split(result, "\n", { trimempty = true })
@@ -53,8 +59,8 @@ end
 function M.get_chapters(source, book)
 	local sql = string.format(
 		[[SELECT DISTINCT chapter FROM verses WHERE source='%s' AND book='%s' ORDER BY chapter;]],
-		source,
-		book
+		escape_sql(source),
+		escape_sql(book)
 	)
 	local result = query(sql)
 	local lines = vim.split(result, "\n", { trimempty = true })
@@ -69,8 +75,8 @@ end
 function M.get_chapter_verses(source, book, chapter)
 	local sql = string.format(
 		[[SELECT verse, content FROM verses WHERE source='%s' AND book='%s' AND chapter=%d ORDER BY verse;]],
-		source,
-		book,
+		escape_sql(source),
+		escape_sql(book),
 		chapter
 	)
 	local result = query(sql)

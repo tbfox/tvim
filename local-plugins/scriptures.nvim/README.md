@@ -30,14 +30,18 @@ Example path: `bofm/1-ne/1/1` (Book of Mormon, 1 Nephi, Chapter 1, Verse 1)
 - Creates new buffer, full screen (not split)
 - Buffer is read-only
 
-**`:Sc search`** (Future)
+**`:Sc search`**
 - Full-text search across all verse content
-- Uses telescope picker
+- Requires Telescope plugin
+- Uses dynamic telescope picker (searches as you type)
+- Limited to 100 results for performance
 - Selecting result navigates to that verse in reading view
 
-**`:Sc search-ref`** (Future)
+**`:Sc search-ref`**
 - Search scripture references (e.g., "1 Nephi 3", "Alma 32")
+- Requires Telescope plugin
 - Uses telescope picker showing all book/chapter combinations
+- Displays "Section" for D&C, "Chapter" for all others
 - Selecting navigates to that chapter in reading view
 
 ### Tree Navigation (Dashboard)
@@ -212,7 +216,7 @@ Following the pattern of other local plugins:
   - [x] Chapter selection buffer
   - [x] `:Sc` and `:Scriptures` commands
   - [x] `-` navigation back through tree
-- [ ] Phase 3: Search
-  - [ ] `:Sc search` (content)
-  - [ ] `:Sc search-ref` (references)
+- [x] Phase 3: Search
+  - [x] `:Sc search` (content)
+  - [x] `:Sc search-ref` (references)
 - [ ] Phase 4: Future enhancements
