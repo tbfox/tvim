@@ -23,7 +23,7 @@ A phased approach to building a Linear integration for Neovim.
 
 ### Tasks
 
-- [ ] Create basic directory structure
+- [x] Create basic directory structure
   ```
   local-plugins/linear.nvim/
   ├── lua/
@@ -34,22 +34,23 @@ A phased approach to building a Linear integration for Neovim.
   │   │   ├── cache.lua        # Response caching
   │   │   ├── ui.lua           # Buffer management & rendering
   │   │   └── utils.lua        # Shared utilities
-  │   └── linear.nvim.lua      # Optional: namespace wrapper
   └── README.md
+  └── QUERIES.md               # GraphQL query documentation
+  └── IMPLEMENTATION.md        # This file
   ```
 
-- [ ] Research Linear GraphQL API
-  - [ ] Visit https://studio.apollographql.com/public/Linear-API/variant/current/home
-  - [ ] Identify queries needed for MVP:
+- [x] Research Linear GraphQL API
+  - [x] Visit https://studio.apollographql.com/public/Linear-API/variant/current/home
+  - [x] Identify queries needed for MVP:
     - `issues` query (list with filters)
     - `issue` query (single issue details)
     - `updateIssue` mutation (edit title/description)
     - `issueCreate` mutation (create new issue)
     - `issueArchive` mutation (close/archive)
-  - [ ] Document required fields and return types
-  - [ ] Test queries using Linear's GraphQL playground or curl
+  - [x] Document required fields and return types (see QUERIES.md)
+  - [ ] Test queries using Linear's GraphQL playground or curl (to be done after auth setup)
 
-- [ ] Create plugin spec in `~/.config/nvim/lua/plugins/linear.lua`
+- [x] Create plugin spec in `~/.config/nvim/lua/plugins/linear.lua`
   ```lua
   return {
     {
@@ -71,24 +72,24 @@ A phased approach to building a Linear integration for Neovim.
 
 ### Tasks
 
-- [ ] **Auth module** (`lua/linear/auth.lua`)
-  - [ ] Function to get API key from `LINEAR_API_KEY` env variable
-  - [ ] Validation that key exists and is non-empty
-  - [ ] Helper to show friendly error if not authenticated
+- [x] **Auth module** (`lua/linear/auth.lua`)
+  - [x] Function to get API key from `LINEAR_API_KEY` env variable
+  - [x] Validation that key exists and is non-empty
+  - [x] Helper to show friendly error if not authenticated
   ```lua
   M.get_api_key() -> string | nil
   M.ensure_authenticated() -> boolean (shows error if false)
   ```
 
-- [ ] **API client** (`lua/linear/api.lua`)
-  - [ ] Function to make GraphQL requests via curl
-  - [ ] Input: query string, variables table
-  - [ ] Output: parsed JSON response or error
-  - [ ] Handle HTTP errors (401, 429, 500, etc.)
+- [x] **API client** (`lua/linear/api.lua`)
+  - [x] Function to make GraphQL requests via curl
+  - [x] Input: query string, variables table
+  - [x] Output: parsed JSON response or error
+  - [x] Handle HTTP errors (401, 429, 500, etc.)
   ```lua
   M.query(query_string, variables) -> result, error
   ```
-  - [ ] Example curl command structure:
+  - [x] Example curl command structure:
   ```bash
   curl -X POST https://api.linear.app/graphql \
     -H "Content-Type: application/json" \
@@ -96,15 +97,15 @@ A phased approach to building a Linear integration for Neovim.
     -d '{"query": "...", "variables": {...}}'
   ```
 
-- [ ] **Cache module** (`lua/linear/cache.lua`)
-  - [ ] Simple in-memory cache (table with keys)
-  - [ ] Functions: `get(key)`, `set(key, value)`, `clear(key)`, `clear_all()`
-  - [ ] Used for storing fetched issues between renders
+- [x] **Cache module** (`lua/linear/cache.lua`)
+  - [x] Simple in-memory cache (table with keys)
+  - [x] Functions: `get(key)`, `set(key, value)`, `clear(key)`, `clear_all()`
+  - [x] Used for storing fetched issues between renders
 
-- [ ] **Main module** (`lua/linear.lua`)
-  - [ ] `M.setup()` function (can be empty initially)
-  - [ ] Register `:Linear` command with subcommands
-  - [ ] Bind `<F5>` to `:Linear issues`
+- [x] **Main module** (`lua/linear.lua`)
+  - [x] `M.setup()` function (can be empty initially)
+  - [x] Register `:Linear` command with subcommands
+  - [x] Bind `<F5>` to `:Linear issues`
   ```lua
   vim.api.nvim_create_user_command("Linear", handle_command, {
     nargs = "*",
@@ -113,12 +114,13 @@ A phased approach to building a Linear integration for Neovim.
   vim.keymap.set('n', '<F5>', function() require("linear").open_issues() end)
   ```
 
-- [ ] **Test authentication**
-  - [ ] Set `LINEAR_API_KEY` in environment
-  - [ ] Run `:Linear test-auth` command that makes a simple query
-  - [ ] Verify error handling for missing/invalid key
+- [x] **Test authentication**
+  - [x] Set `LINEAR_API_KEY` in environment
+  - [x] Run `:Linear test-auth` command that makes a simple query
+  - [x] Verify error handling for missing/invalid key
+  - [x] Test script created: `test_phase1.lua`
 
-**Deliverable:** Can authenticate with Linear API, make basic GraphQL queries, commands registered
+**Deliverable:** ✅ Can authenticate with Linear API, make basic GraphQL queries, commands registered
 
 ---
 
@@ -128,16 +130,17 @@ A phased approach to building a Linear integration for Neovim.
 
 ### Tasks
 
-- [ ] **Define GraphQL query for issue list**
+- [x] **Define GraphQL query for issue list**
   ```graphql
-  query ListIssues($first: Int, $filter: IssueFilter) {
-    issues(first: $first, filter: $filter) {
+  query ListIssues($first: Int, $includeArchived: Boolean) {
+    issues(first: $first, filter: { includeArchived: $includeArchived }) {
       nodes {
         id
         identifier       # e.g., "ENG-123"
         title
         state {
           name           # e.g., "Todo", "In Progress"
+          type           # backlog, unstarted, started, completed, canceled
         }
         assignee {
           name
@@ -152,52 +155,52 @@ A phased approach to building a Linear integration for Neovim.
         }
         dueDate
         updatedAt
+        archivedAt
       }
     }
   }
   ```
 
-- [ ] **Add issue listing to API module**
-  ```lua
-  M.list_issues(filter_opts) -> issues_table, error
-  ```
-  - [ ] Default to showing open issues only
-  - [ ] Support `includeArchived` filter option
+- [x] **Add issue listing to API module**
+  - [x] Created `lua/linear/issues.lua` module with `fetch_issues()`
+  - [x] Default to showing open issues only
+  - [x] Support `includeArchived` filter option
 
-- [ ] **UI module - Issue list rendering** (`lua/linear/ui.lua`)
-  - [ ] Function to create buffer for issue list
-  - [ ] Format issues into table rows:
+- [x] **UI module - Issue list rendering**
+  - [x] Function to create buffer for issue list
+  - [x] Format issues into table rows:
   ```
   ID         STATUS        ASSIGNEE    PROJECT      DUE        TITLE
-  ENG-123    [In Progress] @alice      Backend      2026-03-10 Fix auth bug
-  ENG-124    [Todo]        @bob        Frontend     -          Add dark mode
+  ENG-123    [◐ In Progress] @alice      Backend      2026-03-10 Fix auth bug
+  ENG-124    [○ Todo]        @bob        Frontend     -          Add dark mode
   ```
-  - [ ] Use `string.format` with column widths
-  - [ ] Truncate long titles with ellipsis
-  - [ ] Handle nil values (no assignee, no project, etc.)
+  - [x] Use `ui.format_row()` with column widths
+  - [x] Truncate long titles with ellipsis
+  - [x] Handle nil values (no assignee, no project, etc.)
 
-- [ ] **State management**
-  - [ ] Track `show_archived` boolean (like oily_octo's `show_closed`)
-  - [ ] Cache fetched issues in cache module
-  - [ ] Re-render on state changes without re-fetching
+- [x] **State management**
+  - [x] Track `show_archived` boolean (like oily_octo's `show_closed`)
+  - [x] Cache fetched issues in cache module
+  - [x] Re-render on state changes without re-fetching
 
-- [ ] **Keybindings for issue list buffer**
-  - [ ] `g.` - Toggle archived issues (re-render from cache)
-  - [ ] `r` - Refresh (clear cache, re-fetch, re-render)
-  - [ ] `q` - Quit (close buffer)
-  - [ ] `<CR>` - View issue details (stub for Phase 3)
-  - [ ] `-` - Back/close (same as `q` for now)
+- [x] **Keybindings for issue list buffer**
+  - [x] `g.` - Toggle archived issues (re-render from cache)
+  - [x] `r` - Refresh (clear cache, re-fetch, re-render)
+  - [x] `q` - Quit (close buffer)
+  - [x] `<CR>` - View issue details (stub for Phase 3)
+  - [x] `-` - Back/close (same as `q` for now)
 
-- [ ] **Syntax highlighting**
-  - [ ] Define highlight groups for status (Todo, InProgress, Done, etc.)
-  - [ ] Apply highlights to status column
-  - [ ] Set buffer filetype to something custom (e.g., `linear-issues`)
+- [x] **Syntax highlighting**
+  - [x] Define highlight groups for status (Backlog, Started, Completed, Canceled)
+  - [x] Apply highlights to status column using matchadd
+  - [x] Set buffer filetype to `linear-issues`
+  - [x] Added icons: ○ (unstarted), ◐ (started), ● (completed), ✕ (canceled)
 
-- [ ] **Command implementation**
-  - [ ] `:Linear issues` - Opens issue list
-  - [ ] `<F5>` keybinding calls this
+- [x] **Command implementation**
+  - [x] `:Linear issues` - Opens issue list
+  - [x] `<F5>` keybinding calls this
 
-**Deliverable:** Can view a formatted list of issues, toggle archived, refresh
+**Deliverable:** ✅ Can view a formatted list of issues, toggle archived, refresh
 
 ---
 
