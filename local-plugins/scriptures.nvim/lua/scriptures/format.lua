@@ -106,10 +106,23 @@ local function insert_footnote_markers(content, verse_footnotes)
 		if start_pos then
 			-- Extract the actual text with its original casing
 			local actual_text = content:sub(start_pos, start_pos + #highlighted_text - 1)
-			-- Create the replacement with the marker
-			local replacement = string.format("(%s)|%s|", note_letter, actual_text)
+
+			-- Check if there's trailing punctuation immediately after the word
+			local end_pos = start_pos + #highlighted_text - 1
+			local trailing_punct = ""
+			if end_pos < #content then
+				local next_char = content:sub(end_pos + 1, end_pos + 1)
+				-- Include common punctuation that should stay with the word
+				if next_char:match("[,;:.!?%)%]]") then
+					trailing_punct = next_char
+					end_pos = end_pos + 1
+				end
+			end
+
+			-- Create the replacement with the marker (including punctuation inside)
+			local replacement = string.format("(%s)|%s%s|", note_letter, actual_text, trailing_punct)
 			-- Replace in the content
-			content = content:sub(1, start_pos - 1) .. replacement .. content:sub(start_pos + #highlighted_text)
+			content = content:sub(1, start_pos - 1) .. replacement .. content:sub(end_pos + 1)
 		end
 	end
 
