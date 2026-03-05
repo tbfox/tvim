@@ -158,7 +158,8 @@ function M.open(source, book, chapter, verse)
 				vim.b.saved_concealcursor = vim.wo.concealcursor
 				-- Set conceallevel for scripture reading (2 = hide completely)
 				vim.wo.conceallevel = 2
-				vim.wo.concealcursor = "nc"
+				-- Empty concealcursor means reveal when cursor is on the line
+				vim.wo.concealcursor = ""
 			end,
 		})
 
