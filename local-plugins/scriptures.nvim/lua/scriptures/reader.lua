@@ -156,8 +156,8 @@ function M.open(source, book, chapter, verse)
 				-- Save the current conceallevel before changing it
 				vim.b.saved_conceallevel = vim.wo.conceallevel
 				vim.b.saved_concealcursor = vim.wo.concealcursor
-				-- Set conceallevel for scripture reading (1 = show replacement char)
-				vim.wo.conceallevel = 1
+				-- Set conceallevel for scripture reading (2 = hide completely)
+				vim.wo.conceallevel = 2
 				vim.wo.concealcursor = "nc"
 			end,
 		})
