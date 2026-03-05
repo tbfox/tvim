@@ -121,6 +121,129 @@ local function go_back()
 	nav.back_from_reader()
 end
 
+-- Go to footnote reference
+local function go_to_reference()
+	-- Check if state is initialized
+	if not M.state.source or not M.state.book or not M.state.chapter then
+		vim.notify("Scripture reader state not initialized", vim.log.levels.ERROR)
+		return
+	end
+
+	-- Get current cursor position
+	local cursor = vim.api.nvim_win_get_cursor(0)
+	local line_num = cursor[1]
+	local col = cursor[2]
+
+	-- Get the line text
+	local line = vim.api.nvim_buf_get_lines(M.state.bufnr, line_num - 1, line_num, false)[1]
+	if not line then
+		return
+	end
+
+	-- Find which footnote marker the cursor is on
+	-- Pattern: (letter)|text|
+	local note_letter = nil
+	local verse_num = nil
+
+	-- First, get the verse number from the beginning of the line or search backwards
+	local verse_pattern = "^(%d+)%. "
+	verse_num = line:match(verse_pattern)
+
+	-- If not found on this line, search backwards for verse number
+	if not verse_num then
+		for i = line_num - 1, 1, -1 do
+			local prev_line = vim.api.nvim_buf_get_lines(M.state.bufnr, i - 1, i, false)[1]
+			if prev_line then
+				verse_num = prev_line:match(verse_pattern)
+				if verse_num then
+					break
+				end
+			end
+		end
+	end
+
+	if not verse_num then
+		vim.notify("Could not determine verse number", vim.log.levels.WARN)
+		return
+	end
+	verse_num = tonumber(verse_num)
+
+	-- Find all footnote markers in the line and check if cursor is within one
+	local pos = 1
+	while pos <= #line do
+		local marker_start, marker_end, letter = line:find("%((%w+)%)|([^|]+)|", pos)
+		if not marker_start then
+			break
+		end
+
+		-- Check if cursor is within this marker (adjust for 0-indexed col)
+		if col >= marker_start - 1 and col < marker_end then
+			note_letter = letter
+			break
+		end
+
+		pos = marker_end + 1
+	end
+
+	if not note_letter then
+		vim.notify("Cursor is not on a footnote reference", vim.log.levels.WARN)
+		return
+	end
+
+	-- Get the references from the database
+	local references = db.get_footnote_references(M.state.source, M.state.book, M.state.chapter, verse_num, note_letter)
+
+	if #references == 0 then
+		-- Check if there are topical guide references
+		if db.has_topical_guide_references(M.state.source, M.state.book, M.state.chapter, verse_num, note_letter) then
+			vim.notify("Topical Guide is not implemented yet", vim.log.levels.INFO)
+		else
+			vim.notify("No scripture references found for this footnote", vim.log.levels.INFO)
+		end
+		return
+	end
+
+	-- If only one reference, go directly to it
+	if #references == 1 then
+		local ref = references[1]
+		local verse_target = ref.ref_verse_start
+		M.open(ref.ref_source_id, ref.ref_book_name, ref.ref_chapter, verse_target)
+		return
+	end
+
+	-- Multiple references: show in location list
+	local items = {}
+	for _, ref in ipairs(references) do
+		local verse_range = tostring(ref.ref_verse_start)
+		if ref.ref_verse_end and ref.ref_verse_end ~= ref.ref_verse_start then
+			verse_range = verse_range .. "-" .. ref.ref_verse_end
+		end
+
+		local abbrev = format.abbreviate_book(ref.ref_book_name)
+		local text = string.format("%s %d:%s", abbrev, ref.ref_chapter, verse_range)
+
+		table.insert(items, {
+			text = text,
+			source = ref.ref_source_id,
+			book = ref.ref_book_name,
+			chapter = ref.ref_chapter,
+			verse = ref.ref_verse_start
+		})
+	end
+
+	-- Use vim.ui.select to present choices
+	vim.ui.select(items, {
+		prompt = "Select reference:",
+		format_item = function(item)
+			return item.text
+		end
+	}, function(choice)
+		if choice then
+			M.open(choice.source, choice.book, choice.chapter, choice.verse)
+		end
+	end)
+end
+
 -- Set up buffer-local keymaps
 local function setup_keymaps(bufnr)
 	local opts = { buffer = bufnr, noremap = true, silent = true }
@@ -128,6 +251,7 @@ local function setup_keymaps(bufnr)
 	vim.keymap.set("n", "<leader>n", next_chapter, opts)
 	vim.keymap.set("n", "<leader>p", prev_chapter, opts)
 	vim.keymap.set("n", "-", go_back, opts)
+	vim.keymap.set("n", "gd", go_to_reference, opts)
 end
 
 -- Open a reading buffer for a specific chapter

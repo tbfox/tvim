@@ -230,4 +230,58 @@ function M.get_chapter_footnotes(source, book, chapter)
 	return parse_result(result, { "verse_number", "note_letter", "highlighted_text" })
 end
 
+-- Get scripture references for a specific footnote
+-- Returns only scripture references, filtering out topical guide entries
+function M.get_footnote_references(source, book, chapter, verse_number, note_letter)
+	local sql = string.format(
+		[[SELECT
+			fr.ref_source_id,
+			b_ref.name as ref_book_name,
+			fr.ref_chapter,
+			fr.ref_verse_start,
+			fr.ref_verse_end
+		FROM footnote_references fr
+		JOIN footnotes f ON fr.footnote_id = f.id
+		JOIN books b ON f.book_id = b.id
+		LEFT JOIN books b_ref ON fr.ref_book_short = b_ref.short_name
+		WHERE b.source_id='%s'
+			AND b.name='%s'
+			AND f.chapter_number=%d
+			AND f.verse_number=%d
+			AND f.note_letter='%s'
+			AND fr.reference_type='scripture'
+		ORDER BY fr.sort_order;]],
+		escape_sql(source),
+		escape_sql(book),
+		chapter,
+		verse_number,
+		escape_sql(note_letter)
+	)
+	local result = query(sql)
+	return parse_result(result, { "ref_source_id", "ref_book_name", "ref_chapter", "ref_verse_start", "ref_verse_end" })
+end
+
+-- Check if a footnote has topical guide references
+function M.has_topical_guide_references(source, book, chapter, verse_number, note_letter)
+	local sql = string.format(
+		[[SELECT COUNT(*) FROM footnote_references fr
+		JOIN footnotes f ON fr.footnote_id = f.id
+		JOIN books b ON f.book_id = b.id
+		WHERE b.source_id='%s'
+			AND b.name='%s'
+			AND f.chapter_number=%d
+			AND f.verse_number=%d
+			AND f.note_letter='%s'
+			AND fr.reference_type='topical_guide';]],
+		escape_sql(source),
+		escape_sql(book),
+		chapter,
+		verse_number,
+		escape_sql(note_letter)
+	)
+	local result = query(sql)
+	local count = tonumber(result) or 0
+	return count > 0
+end
+
 return M
