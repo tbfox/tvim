@@ -248,8 +248,8 @@ end
 local function setup_keymaps(bufnr)
 	local opts = { buffer = bufnr, noremap = true, silent = true }
 
-	vim.keymap.set("n", "<leader>n", next_chapter, opts)
-	vim.keymap.set("n", "<leader>p", prev_chapter, opts)
+	vim.keymap.set("n", "]c", next_chapter, opts)
+	vim.keymap.set("n", "[c", prev_chapter, opts)
 	vim.keymap.set("n", "-", go_back, opts)
 	vim.keymap.set("n", "gd", go_to_reference, opts)
 end
