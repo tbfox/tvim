@@ -145,6 +145,36 @@ function M.open(source, book, chapter, verse)
 
 		-- Set up keymaps
 		setup_keymaps(M.state.bufnr)
+
+		-- Set up autocommands to manage conceallevel
+		local augroup = vim.api.nvim_create_augroup("ScriptureConcealment", { clear = false })
+
+		vim.api.nvim_create_autocmd("BufEnter", {
+			group = augroup,
+			buffer = M.state.bufnr,
+			callback = function()
+				-- Save the current conceallevel before changing it
+				vim.b.saved_conceallevel = vim.wo.conceallevel
+				vim.b.saved_concealcursor = vim.wo.concealcursor
+				-- Set conceallevel for scripture reading (1 = show replacement char)
+				vim.wo.conceallevel = 1
+				vim.wo.concealcursor = "nc"
+			end,
+		})
+
+		vim.api.nvim_create_autocmd("BufLeave", {
+			group = augroup,
+			buffer = M.state.bufnr,
+			callback = function()
+				-- Restore the previous conceallevel
+				if vim.b.saved_conceallevel then
+					vim.wo.conceallevel = vim.b.saved_conceallevel
+				end
+				if vim.b.saved_concealcursor then
+					vim.wo.concealcursor = vim.b.saved_concealcursor
+				end
+			end,
+		})
 	end
 
 	-- Switch to the buffer
