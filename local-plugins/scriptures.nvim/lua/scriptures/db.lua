@@ -3,7 +3,7 @@ local M = {}
 -- Get the path to the database
 local function get_db_path()
 	local plugin_dir = vim.fn.fnamemodify(debug.getinfo(1, "S").source:sub(2), ":h:h:h")
-	return plugin_dir .. "/res/standard-works.sqlite"
+	return plugin_dir .. "/res/scriptures.db"
 end
 
 -- Escape single quotes for SQL
@@ -47,7 +47,7 @@ end
 -- Get all books in a source (in order of appearance)
 function M.get_books(source)
 	local sql = string.format(
-		[[SELECT book FROM verses WHERE source='%s' GROUP BY book ORDER BY MIN(id);]],
+		[[SELECT name FROM books WHERE source_id='%s' ORDER BY sort_order;]],
 		escape_sql(source)
 	)
 	local result = query(sql)
@@ -58,7 +58,7 @@ end
 -- Get all chapter numbers for a book
 function M.get_chapters(source, book)
 	local sql = string.format(
-		[[SELECT DISTINCT chapter FROM verses WHERE source='%s' AND book='%s' ORDER BY chapter;]],
+		[[SELECT DISTINCT chapter_number FROM verses JOIN books ON verses.book_id = books.id WHERE books.source_id='%s' AND books.name='%s' ORDER BY chapter_number;]],
 		escape_sql(source),
 		escape_sql(book)
 	)
@@ -74,7 +74,7 @@ end
 -- Get all verses in a chapter
 function M.get_chapter_verses(source, book, chapter)
 	local sql = string.format(
-		[[SELECT verse, content FROM verses WHERE source='%s' AND book='%s' AND chapter=%d ORDER BY verse;]],
+		[[SELECT verse_number, content FROM verses JOIN books ON verses.book_id = books.id WHERE books.source_id='%s' AND books.name='%s' AND chapter_number=%d ORDER BY verse_number;]],
 		escape_sql(source),
 		escape_sql(book),
 		chapter
@@ -216,6 +216,18 @@ function M.get_source_title(source_id)
 		end
 	end
 	return source_id
+end
+
+-- Get all footnotes for a chapter
+function M.get_chapter_footnotes(source, book, chapter)
+	local sql = string.format(
+		[[SELECT verse_number, note_letter, highlighted_text FROM footnotes JOIN books ON footnotes.book_id = books.id WHERE books.source_id='%s' AND books.name='%s' AND chapter_number=%d ORDER BY verse_number, note_letter;]],
+		escape_sql(source),
+		escape_sql(book),
+		chapter
+	)
+	local result = query(sql)
+	return parse_result(result, { "verse_number", "note_letter", "highlighted_text" })
 end
 
 return M

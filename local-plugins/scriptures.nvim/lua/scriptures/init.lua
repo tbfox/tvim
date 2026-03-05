@@ -31,7 +31,7 @@ function M.setup(opts)
 	end, {})
 
 	-- Keep test command for debugging
-	vim.api.nvim_create_user_command("ScriptureTest", function(args)
+	vim.api.nvim_create_user_command("St", function(args)
 		-- Default to 1 Nephi 1 for testing
 		reader.open("bofm", "1 Nephi", 1)
 	end, {})

@@ -30,8 +30,11 @@ local function load_chapter(source, book, chapter, verse_num)
 		return false
 	end
 
-	-- Format the verses
-	local lines = format.format_verses(verses)
+	-- Get footnotes for this chapter
+	local footnotes = db.get_chapter_footnotes(source, book, chapter)
+
+	-- Format the verses with footnotes
+	local lines = format.format_verses(verses, footnotes)
 
 	-- Update state
 	M.state.source = source
