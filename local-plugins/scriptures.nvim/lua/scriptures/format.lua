@@ -71,10 +71,37 @@ local function insert_footnote_markers(content, verse_footnotes)
 		local highlighted_text = footnote.highlighted_text
 		local note_letter = footnote.note_letter
 
-		-- Find the first occurrence (case-insensitive)
+		-- Find the first occurrence that's not already inside a marker (case-insensitive)
 		local lower_content = content:lower()
 		local lower_text = highlighted_text:lower()
-		local start_pos = lower_content:find(lower_text, 1, true)
+		local search_pos = 1
+		local start_pos = nil
+
+		-- Search for the text, skipping any occurrences inside existing markers
+		while true do
+			local pos = lower_content:find(lower_text, search_pos, true)
+			if not pos then
+				break
+			end
+
+			-- Check if this occurrence is inside a marker
+			-- Look backwards to see if we're right after a ")|" pattern
+			local inside_marker = false
+			if pos >= 3 then
+				local before = content:sub(pos - 2, pos - 1)
+				-- Check if the 2 characters before us are ")|"
+				if before == ")|" then
+					inside_marker = true
+				end
+			end
+
+			if not inside_marker then
+				start_pos = pos
+				break
+			end
+
+			search_pos = pos + 1
+		end
 
 		if start_pos then
 			-- Extract the actual text with its original casing
