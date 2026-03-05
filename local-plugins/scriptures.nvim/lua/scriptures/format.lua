@@ -174,15 +174,6 @@ function M.format_verses(verses, footnotes)
 			table.insert(lines, verse_prefix)
 		end
 
-		-- Add footnotes for this verse if they exist
-		local verse_footnotes = footnotes_by_verse[verse_num]
-		if verse_footnotes and #verse_footnotes > 0 then
-			for _, footnote in ipairs(verse_footnotes) do
-				local footnote_line = string.format("  %s. %s", footnote.note_letter, footnote.highlighted_text)
-				table.insert(lines, footnote_line)
-			end
-		end
-
 		-- Add empty line between verses (except after the last verse)
 		if i < #verses then
 			table.insert(lines, "")
