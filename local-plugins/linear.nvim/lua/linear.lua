@@ -30,7 +30,6 @@ function M.setup(opts)
     M.open_issues()
   end, { desc = "Open Linear issues" })
 
-  vim.notify("linear.nvim loaded", vim.log.levels.INFO)
 end
 
 function M.handle_command(args)
