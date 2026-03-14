@@ -14,6 +14,10 @@ local function config()
         }
     })
     vim.keymap.set("n", "-", "<CMD>Oil<CR>", { desc = "Open parent directory" })
+
+    vim.api.nvim_create_user_command("ConfigEdit", function()
+        require("oil").open(vim.fn.stdpath("config"))
+    end, {})
 end
 
 return {

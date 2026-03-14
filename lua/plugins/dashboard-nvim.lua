@@ -4,22 +4,6 @@ return {
     config = function()
         vim.keymap.set('n', "<F12>", "<CMD>Dashboard<CR>",     { desc = "[C]lose current window" })
 
-        vim.api.nvim_create_user_command("ConfigFindFile", function()
-            require("telescope.builtin").find_files {
-                cwd = vim.fn.stdpath("config")
-            }
-        end, {})
-
-        vim.api.nvim_create_user_command("ConfigGrep", function()
-            require("telescope.builtin").live_grep {
-                cwd = vim.fn.stdpath("config")
-            }
-        end, {})
-
-        vim.api.nvim_create_user_command("ConfigEdit", function()
-            require("oil").open(vim.fn.stdpath("config"))
-        end, {})
-
         require('dashboard').setup {
             hide = {
                 statusline = true

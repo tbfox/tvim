@@ -45,21 +45,6 @@ bun run b  # Compiles to bin/ai
 - TypeScript runner (Bun) handles API calls to Anthropic/Google
 - Uses `lib/selection.lua` for getting/setting text with context
 
-### time_track.nvim
-Custom tree-sitter grammar for `.time_track` files.
-
-**Location**: `local-plugins/time_track.nvim/`
-
-**Build commands**:
-```bash
-cd local-plugins/time_track.nvim/tree-sitter
-make  # Builds parser.so
-```
-
-**Requirements**: tree-sitter CLI must be installed
-
-**Architecture**: Registers custom filetype and tree-sitter parser, loads parser.so dynamically
-
 ### runnables.nvim
 Execute code snippets in Lua, TypeScript/JavaScript (via Bun), or Nushell.
 
@@ -122,11 +107,6 @@ return {
 1. Edit files in `local-plugins/ai.nvim/runner/src/`
 2. Rebuild: `cd local-plugins/ai.nvim/runner && bun run b`
 3. Restart Neovim to load new binary
-
-### Modifying Time Track Grammar
-1. Edit `local-plugins/time_track.nvim/tree-sitter/grammar.js`
-2. Rebuild: `cd local-plugins/time_track.nvim/tree-sitter && make`
-3. Restart Neovim to load new parser
 
 ## Key Bindings
 
