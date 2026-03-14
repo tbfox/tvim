@@ -24,8 +24,8 @@ function M.search_content()
 
 	-- Get all verses from database
 	local function get_all_verses()
-		local db_path = vim.fn.fnamemodify(debug.getinfo(1, "S").source:sub(2), ":h:h:h") .. "/res/standard-works.sqlite"
-		local sql = "SELECT source, book, chapter, verse, content FROM verses ORDER BY id;"
+		local db_path = vim.fn.fnamemodify(debug.getinfo(1, "S").source:sub(2), ":h:h:h") .. "/res/scriptures.db"
+		local sql = "SELECT s.id, b.name, v.chapter_number, v.verse_number, v.content FROM verses v JOIN books b ON v.book_id = b.id JOIN sources s ON b.source_id = s.id ORDER BY v.id;"
 		local cmd = string.format("sqlite3 -separator '\t' '%s' \"%s\"", db_path, sql)
 		local result = vim.fn.system(cmd)
 
