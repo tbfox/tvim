@@ -112,7 +112,11 @@ show_books = function(source_id)
 		local line = vim.api.nvim_win_get_cursor(0)[1]
 		if line > 0 and line <= #M.state.cached_books then
 			local selected_book = M.state.cached_books[line]
-			show_chapters(M.state.source, selected_book)
+			if db.source_has_blocks(M.state.source) then
+				reader.open(M.state.source, selected_book, nil)
+			else
+				show_chapters(M.state.source, selected_book)
+			end
 		end
 	end, opts)
 
@@ -186,7 +190,11 @@ end
 -- Navigate back from reading view to chapter selection
 function M.back_from_reader()
 	if reader.state.source and reader.state.book then
-		show_chapters(reader.state.source, reader.state.book)
+		if db.source_has_blocks(reader.state.source) then
+			show_books(reader.state.source)
+		else
+			show_chapters(reader.state.source, reader.state.book)
+		end
 	else
 		-- Fallback to sources if we don't have the state
 		show_sources()

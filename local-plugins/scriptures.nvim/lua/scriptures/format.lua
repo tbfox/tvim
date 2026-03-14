@@ -183,6 +183,58 @@ function M.format_verses(verses, footnotes)
 	return lines
 end
 
+-- Format content blocks (headings, paragraphs, list_items) into display lines
+function M.format_blocks(blocks)
+	local lines = {}
+
+	local i = 1
+	while i <= #blocks do
+		local block = blocks[i]
+
+		if block.block_type == "heading" then
+			table.insert(lines, block.content)
+			table.insert(lines, "")
+		elseif block.block_type == "paragraph" then
+			local wrapped = wrap_line(block.content, 80)
+			for _, l in ipairs(wrapped) do
+				table.insert(lines, l)
+			end
+			table.insert(lines, "")
+		elseif block.block_type == "list_item" then
+			-- Collect consecutive list items
+			local item_lines = {}
+			while i <= #blocks and blocks[i].block_type == "list_item" do
+				local wrapped = wrap_line("- " .. blocks[i].content, 80)
+				-- Indent continuation lines by 2 spaces
+				for j, l in ipairs(wrapped) do
+					if j == 1 then
+						table.insert(item_lines, l)
+					else
+						table.insert(item_lines, "  " .. l)
+					end
+				end
+				i = i + 1
+			end
+			for _, l in ipairs(item_lines) do
+				table.insert(lines, l)
+			end
+			table.insert(lines, "")
+			-- i already advanced past the list items, skip increment below
+			goto continue
+		end
+
+		i = i + 1
+		::continue::
+	end
+
+	-- Remove trailing blank line if present
+	if #lines > 0 and lines[#lines] == "" then
+		table.remove(lines)
+	end
+
+	return lines
+end
+
 -- Create a book abbreviation from the full book name
 function M.abbreviate_book(book)
 	-- Common abbreviations for LDS scriptures

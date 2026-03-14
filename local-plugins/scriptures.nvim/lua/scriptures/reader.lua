@@ -14,27 +14,39 @@ M.state = {
 -- Create or update the statusline for scripture buffer
 local function update_statusline()
 	if M.state.bufnr and vim.api.nvim_buf_is_valid(M.state.bufnr) then
-		local abbrev = format.abbreviate_book(M.state.book)
-		local statusline = string.format("Scripture: %s %d", abbrev, M.state.chapter)
+		local statusline
+		if M.state.chapter == nil then
+			statusline = "Scripture: " .. M.state.book
+		else
+			local abbrev = format.abbreviate_book(M.state.book)
+			statusline = string.format("Scripture: %s %d", abbrev, M.state.chapter)
+		end
 		vim.api.nvim_buf_set_var(M.state.bufnr, "scripture_statusline", statusline)
 	end
 end
 
 -- Load a chapter into the current buffer
 local function load_chapter(source, book, chapter, verse_num)
-	-- Get verses for this chapter
-	local verses = db.get_chapter_verses(source, book, chapter)
+	local lines
 
-	if #verses == 0 then
-		vim.notify("No verses found for " .. book .. " " .. chapter, vim.log.levels.ERROR)
-		return false
+	if chapter == nil then
+		-- Block-based source (e.g. FSOY): load content blocks
+		local blocks = db.get_book_blocks(source, book)
+		if #blocks == 0 then
+			vim.notify("No content found for " .. book, vim.log.levels.ERROR)
+			return false
+		end
+		lines = format.format_blocks(blocks)
+	else
+		-- Verse-based source: load verses
+		local verses = db.get_chapter_verses(source, book, chapter)
+		if #verses == 0 then
+			vim.notify("No verses found for " .. book .. " " .. chapter, vim.log.levels.ERROR)
+			return false
+		end
+		local footnotes = db.get_chapter_footnotes(source, book, chapter)
+		lines = format.format_verses(verses, footnotes)
 	end
-
-	-- Get footnotes for this chapter
-	local footnotes = db.get_chapter_footnotes(source, book, chapter)
-
-	-- Format the verses with footnotes
-	local lines = format.format_verses(verses, footnotes)
 
 	-- Update state
 	M.state.source = source
@@ -47,7 +59,12 @@ local function load_chapter(source, book, chapter, verse_num)
 	vim.api.nvim_buf_set_option(M.state.bufnr, "modifiable", false)
 
 	-- Update buffer name
-	local buf_name = string.format("scriptures://%s/%s/%d", source, book, chapter)
+	local buf_name
+	if chapter == nil then
+		buf_name = string.format("scriptures://%s/%s", source, book)
+	else
+		buf_name = string.format("scriptures://%s/%s/%d", source, book, chapter)
+	end
 	vim.api.nvim_buf_set_name(M.state.bufnr, buf_name)
 
 	-- Update statusline
@@ -55,11 +72,9 @@ local function load_chapter(source, book, chapter, verse_num)
 
 	-- Move cursor to specific verse or top
 	if verse_num then
-		-- Search for the verse number pattern: "N. " at the start of a line
 		local pattern = "^" .. verse_num .. "\\. "
 		vim.fn.search(pattern)
 	else
-		-- Move cursor to top
 		vim.api.nvim_win_set_cursor(0, { 1, 0 })
 	end
 
@@ -68,9 +83,24 @@ end
 
 -- Navigate to next chapter
 local function next_chapter()
-	-- Check if state is initialized
-	if not M.state.source or not M.state.book or not M.state.chapter then
+	if not M.state.source or not M.state.book then
 		vim.notify("Scripture reader state not initialized", vim.log.levels.ERROR)
+		return
+	end
+
+	-- Block-based source: walk books list
+	if M.state.chapter == nil then
+		local books = db.get_books(M.state.source)
+		local idx = nil
+		for i, b in ipairs(books) do
+			if b == M.state.book then idx = i; break end
+		end
+		if idx and idx < #books then
+			load_chapter(M.state.source, books[idx + 1], nil)
+		else
+			local source_title = db.get_source_title(M.state.source)
+			vim.print("The End of " .. source_title)
+		end
 		return
 	end
 
@@ -92,9 +122,24 @@ end
 
 -- Navigate to previous chapter
 local function prev_chapter()
-	-- Check if state is initialized
-	if not M.state.source or not M.state.book or not M.state.chapter then
+	if not M.state.source or not M.state.book then
 		vim.notify("Scripture reader state not initialized", vim.log.levels.ERROR)
+		return
+	end
+
+	-- Block-based source: walk books list
+	if M.state.chapter == nil then
+		local books = db.get_books(M.state.source)
+		local idx = nil
+		for i, b in ipairs(books) do
+			if b == M.state.book then idx = i; break end
+		end
+		if idx and idx > 1 then
+			load_chapter(M.state.source, books[idx - 1], nil)
+		else
+			local source_title = db.get_source_title(M.state.source)
+			vim.print("The Start of " .. source_title)
+		end
 		return
 	end
 

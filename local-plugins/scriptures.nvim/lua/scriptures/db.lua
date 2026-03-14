@@ -261,6 +261,28 @@ function M.get_footnote_references(source, book, chapter, verse_number, note_let
 	return parse_result(result, { "ref_source_id", "ref_book_name", "ref_chapter", "ref_verse_start", "ref_verse_end" })
 end
 
+-- Returns true if a source uses content_blocks (vs verses)
+function M.source_has_blocks(source_id)
+	local sql = string.format(
+		[[SELECT COUNT(*) FROM content_blocks cb JOIN books b ON cb.book_id = b.id WHERE b.source_id='%s';]],
+		escape_sql(source_id)
+	)
+	local result = query(sql)
+	local count = tonumber(vim.trim(result)) or 0
+	return count > 0
+end
+
+-- Get all blocks for a book
+function M.get_book_blocks(source, book)
+	local sql = string.format(
+		[[SELECT cb.id, cb.block_type, cb.content FROM content_blocks cb JOIN books b ON cb.book_id = b.id WHERE b.source_id='%s' AND b.name='%s' ORDER BY cb.sort_order;]],
+		escape_sql(source),
+		escape_sql(book)
+	)
+	local result = query(sql)
+	return parse_result(result, { "id", "block_type", "content" })
+end
+
 -- Check if a footnote has topical guide references
 function M.has_topical_guide_references(source, book, chapter, verse_number, note_letter)
 	local sql = string.format(
