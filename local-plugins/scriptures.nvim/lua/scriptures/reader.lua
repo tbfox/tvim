@@ -61,9 +61,10 @@ local function load_chapter(source, book, chapter, verse_num)
 	-- Update buffer name
 	local buf_name
 	if chapter == nil then
-		buf_name = string.format("scriptures://%s/%s", source, book)
+		buf_name = book
 	else
-		buf_name = string.format("scriptures://%s/%s/%d", source, book, chapter)
+		local abbrev = format.abbreviate_book(book)
+		buf_name = string.format("%s %d", abbrev, chapter)
 	end
 	vim.api.nvim_buf_set_name(M.state.bufnr, buf_name)
 
@@ -301,7 +302,13 @@ end
 
 -- Open a reading buffer for a specific chapter
 -- If verse is provided, scroll to that verse
-function M.open(source, book, chapter, verse)
+-- opts.new_tab = true opens in a new tab
+function M.open(source, book, chapter, verse, opts)
+	opts = opts or {}
+	if opts.new_tab then
+		vim.cmd("tabnew")
+	end
+
 	-- Create a new buffer if needed
 	if not M.state.bufnr or not vim.api.nvim_buf_is_valid(M.state.bufnr) then
 		M.state.bufnr = vim.api.nvim_create_buf(false, true)
