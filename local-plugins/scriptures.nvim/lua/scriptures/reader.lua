@@ -316,19 +316,20 @@ function M.open(source, book, chapter, verse)
 		setup_keymaps(M.state.bufnr)
 
 		-- Set up autocommands to manage conceallevel
-		local augroup = vim.api.nvim_create_augroup("ScriptureConcealment", { clear = false })
+		local augroup = vim.api.nvim_create_augroup("ScriptureConcealment", { clear = true })
+		local saved_conceallevel = nil
+		local saved_concealcursor = nil
+		local active_win = nil
 
 		vim.api.nvim_create_autocmd("BufEnter", {
 			group = augroup,
 			buffer = M.state.bufnr,
 			callback = function()
-				-- Save the current conceallevel before changing it
-				vim.b.saved_conceallevel = vim.wo.conceallevel
-				vim.b.saved_concealcursor = vim.wo.concealcursor
-				-- Set conceallevel for scripture reading (2 = hide completely)
-				vim.wo.conceallevel = 2
-				-- Empty concealcursor means reveal when cursor is on the line
-				vim.wo.concealcursor = ""
+				active_win = vim.api.nvim_get_current_win()
+				saved_conceallevel = vim.wo[active_win].conceallevel
+				saved_concealcursor = vim.wo[active_win].concealcursor
+				vim.wo[active_win].conceallevel = 2
+				vim.wo[active_win].concealcursor = ""
 			end,
 		})
 
@@ -336,13 +337,17 @@ function M.open(source, book, chapter, verse)
 			group = augroup,
 			buffer = M.state.bufnr,
 			callback = function()
-				-- Restore the previous conceallevel
-				if vim.b.saved_conceallevel then
-					vim.wo.conceallevel = vim.b.saved_conceallevel
+				if active_win and vim.api.nvim_win_is_valid(active_win) then
+					if saved_conceallevel ~= nil then
+						vim.wo[active_win].conceallevel = saved_conceallevel
+					end
+					if saved_concealcursor ~= nil then
+						vim.wo[active_win].concealcursor = saved_concealcursor
+					end
 				end
-				if vim.b.saved_concealcursor then
-					vim.wo.concealcursor = vim.b.saved_concealcursor
-				end
+				active_win = nil
+				saved_conceallevel = nil
+				saved_concealcursor = nil
 			end,
 		})
 	end

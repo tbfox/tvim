@@ -12,6 +12,7 @@ M.state = {
 	cached_sources = {},
 	cached_books = {},
 	cached_chapters = {},
+	origin_bufnr = nil, -- buffer that was active before opening scripture nav
 }
 
 -- Forward declarations
@@ -79,7 +80,14 @@ show_sources = function()
 		end
 	end, opts)
 
-	vim.keymap.set("n", "q", "<cmd>bd!<CR>", opts)
+	vim.keymap.set("n", "q", function()
+		local origin = M.state.origin_bufnr
+		if origin and vim.api.nvim_buf_is_valid(origin) then
+			vim.api.nvim_set_current_buf(origin)
+		else
+			vim.cmd("enew")
+		end
+	end, opts)
 
 	-- Switch to buffer
 	vim.api.nvim_set_current_buf(bufnr)
@@ -124,7 +132,14 @@ show_books = function(source_id)
 		show_sources()
 	end, opts)
 
-	vim.keymap.set("n", "q", "<cmd>bd!<CR>", opts)
+	vim.keymap.set("n", "q", function()
+		local origin = M.state.origin_bufnr
+		if origin and vim.api.nvim_buf_is_valid(origin) then
+			vim.api.nvim_set_current_buf(origin)
+		else
+			vim.cmd("enew")
+		end
+	end, opts)
 
 	-- Switch to buffer
 	vim.api.nvim_set_current_buf(bufnr)
@@ -178,7 +193,14 @@ show_chapters = function(source_id, book)
 		end
 	end, opts)
 
-	vim.keymap.set("n", "q", "<cmd>bd!<CR>", opts)
+	vim.keymap.set("n", "q", function()
+		local origin = M.state.origin_bufnr
+		if origin and vim.api.nvim_buf_is_valid(origin) then
+			vim.api.nvim_set_current_buf(origin)
+		else
+			vim.cmd("enew")
+		end
+	end, opts)
 
 	-- Switch to buffer
 	vim.api.nvim_set_current_buf(bufnr)
@@ -203,6 +225,7 @@ end
 
 -- Main entry point - open scripture navigation
 function M.open()
+	M.state.origin_bufnr = vim.api.nvim_get_current_buf()
 	show_sources()
 end
 

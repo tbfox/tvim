@@ -26,10 +26,6 @@ function M.setup(opts)
 		end
 	end, { nargs = "*" })
 
-	vim.api.nvim_create_user_command("Scriptures", function(args)
-		nav.open()
-	end, {})
-
 	-- Keep test command for debugging
 	vim.api.nvim_create_user_command("St", function(args)
 		-- Default to 1 Nephi 1 for testing
