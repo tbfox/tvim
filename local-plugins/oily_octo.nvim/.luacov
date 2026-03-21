@@ -1,0 +1,10 @@
+return {
+    statsfile = "luacov.stats.out",
+    reportfile = "coverage/report.luacov",
+    exclude = {
+        "plenary/.*",
+        "luassert/.*",
+        "lazy/.*",
+        "term/.*",
+    },
+}

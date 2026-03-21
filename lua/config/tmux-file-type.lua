@@ -1,5 +1,6 @@
 vim.filetype.add({
     extension = {
-        tmux = 'tmux'
+        tmux = 'tmux',
+        luacov = 'luacov',
     }
 })

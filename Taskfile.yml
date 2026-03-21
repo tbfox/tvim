@@ -18,14 +18,16 @@ tasks:
         done
 
   coverage:clean:
-    desc: Remove all coverage reports
+    desc: Remove all coverage reports and artifacts
     cmds:
-      - find local-plugins -name "*.luacov" -delete
+      - find local-plugins -path "*/coverage/*.luacov" -delete
+      - find local-plugins -name "luacov.report.out" -delete
+      - find local-plugins -name "luacov.stats.out" -delete
       - echo "Coverage reports removed"
 
   coverage:view:
     desc: Pick a coverage report with fzf and open it in nvim
     cmds:
       - |
-        file=$(find local-plugins -name "*.luacov" | fzf --prompt="Coverage report: ")
+        file=$(find local-plugins -path "*/coverage/*.luacov" | fzf --prompt="Coverage report: ")
         [ -n "$file" ] && nvim "$file"

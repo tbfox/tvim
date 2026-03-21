@@ -14,7 +14,7 @@ vim.opt.runtimepath:append(data .. "/lazy/plenary.nvim")
 if os.getenv("LUACOV") == "1" then
     package.path = package.path .. ";/opt/homebrew/share/lua/5.4/?.lua;/opt/homebrew/share/lua/5.4/?/init.lua"
     local runner = require("luacov.runner")
-    runner.init()
+    runner.init(plugin_root .. "/.luacov")
     -- Plenary calls vim.cmd("0cq"/"1cq") to exit, bypassing VimLeavePre. Intercept to flush stats.
     local orig_cmd = vim.cmd
     vim.cmd = function(...)
