@@ -21,7 +21,7 @@ function M.list_issues(callback)
 end
 
 function M.view_issue(id, callback)
-    local cmd = { "gh", "issue", "view", id, "--json", "title,body" }
+    local cmd = { "gh", "issue", "view", id, "--json", "title,body,assignees,labels,projectItems,comments" }
     local obj = vim.system(cmd, { text = true }):wait()
     if obj.code ~= 0 then
         vim.notify("GH CLI Error: " .. (obj.stderr or ""), vim.log.levels.ERROR)

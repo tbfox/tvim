@@ -175,13 +175,39 @@ open_read_mode = function(id)
     vim.notify("Fetching issue #" .. id .. "...", vim.log.levels.INFO)
 
     gh.view_issue(id, function(data)
-        gh.list_comments(id, function(comments)
+        do
             local lines = { "Title: " .. (data.title or ""), "---" }
+
+            -- Metadata
+            local assignees = {}
+            for _, a in ipairs(data.assignees or {}) do
+                table.insert(assignees, "@" .. a.login)
+            end
+            local labels = {}
+            for _, l in ipairs(data.labels or {}) do
+                table.insert(labels, l.name)
+            end
+            local projects = {}
+            for _, p in ipairs(data.projectItems or {}) do
+                if p.title then
+                    local entry = p.title
+                    if p.status and p.status.name then
+                        entry = entry .. " (" .. p.status.name .. ")"
+                    end
+                    table.insert(projects, entry)
+                end
+            end
+
+            table.insert(lines, "Assignees: " .. (#assignees > 0 and table.concat(assignees, ", ") or "none"))
+            table.insert(lines, "Labels:    " .. (#labels > 0 and table.concat(labels, ", ") or "none"))
+            table.insert(lines, "Projects:  " .. (#projects > 0 and table.concat(projects, ", ") or "none"))
+            table.insert(lines, "---")
+
             if data.body and data.body ~= "" then
                 vim.list_extend(lines, vim.split(data.body, "\n", { plain = true }))
             end
 
-            local comment_lines, comment_ranges = render.render_comments(comments)
+            local comment_lines, comment_ranges = render.render_comments(data.comments or {})
             local offset = #lines
             vim.list_extend(lines, comment_lines)
             for _, r in ipairs(comment_ranges) do
@@ -234,7 +260,7 @@ open_read_mode = function(id)
             vim.keymap.set("n", "q", "<cmd>bd!<CR>", opts)
 
             vim.api.nvim_set_current_buf(buf)
-        end)
+        end
     end)
 end
 
