@@ -1,0 +1,31 @@
+version: '3'
+
+tasks:
+  test:
+    desc: Run tests for all plugins that have a Taskfile
+    cmds:
+      - |
+        for taskfile in local-plugins/*/Taskfile.yml; do
+          task -d "$(dirname "$taskfile")" test
+        done
+
+  coverage:
+    desc: Run coverage for all plugins that have a Taskfile
+    cmds:
+      - |
+        for taskfile in local-plugins/*/Taskfile.yml; do
+          task -d "$(dirname "$taskfile")" coverage
+        done
+
+  coverage:clean:
+    desc: Remove all coverage reports
+    cmds:
+      - find local-plugins -name "*.luacov" -delete
+      - echo "Coverage reports removed"
+
+  coverage:view:
+    desc: Pick a coverage report with fzf and open it in nvim
+    cmds:
+      - |
+        file=$(find local-plugins -name "*.luacov" | fzf --prompt="Coverage report: ")
+        [ -n "$file" ] && nvim "$file"

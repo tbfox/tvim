@@ -1,0 +1,24 @@
+version: '3'
+
+vars:
+  PLUGIN_DIR:
+    sh: pwd
+  MINIMAL_INIT: "{{.PLUGIN_DIR}}/tests/minimal_init.lua"
+
+tasks:
+  test:
+    desc: Run all plenary tests headlessly
+    cmds:
+      - nvim --headless -u {{.MINIMAL_INIT}} -c "PlenaryBustedDirectory {{.PLUGIN_DIR}}/tests/ {minimal_init = '{{.MINIMAL_INIT}}'}"
+
+  coverage:
+    desc: Run tests with luacov and write report to coverage/report.out
+    vars:
+      COVERAGE_DIR: "{{.PLUGIN_DIR}}/coverage"
+    cmds:
+      - mkdir -p {{.COVERAGE_DIR}}
+      - rm -f {{.PLUGIN_DIR}}/luacov.stats.out {{.COVERAGE_DIR}}/report.luacov
+      - LUACOV=1 nvim --headless -u {{.MINIMAL_INIT}} -c "PlenaryBustedDirectory {{.PLUGIN_DIR}}/tests/ {minimal_init = '{{.MINIMAL_INIT}}'}"
+      - cd {{.PLUGIN_DIR}} && luacov lua/
+      - rm -f {{.PLUGIN_DIR}}/luacov.stats.out
+      - echo "Coverage report written to {{.COVERAGE_DIR}}/report.luacov"

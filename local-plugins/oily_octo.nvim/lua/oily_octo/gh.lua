@@ -1,0 +1,71 @@
+local M = {}
+
+function M.list_issues(callback)
+    local cmd = {
+        "gh", "issue", "list",
+        "--state", "all",
+        "--limit", "100",
+        "--json", "number,title,state"
+    }
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("GH CLI Error: " .. (obj.stderr or "Check 'gh auth status'"), vim.log.levels.ERROR)
+        return
+    end
+    local ok, issues = pcall(vim.json.decode, obj.stdout)
+    if not ok or not issues then
+        vim.notify("Failed to parse JSON", vim.log.levels.ERROR)
+        return
+    end
+    callback(issues)
+end
+
+function M.view_issue(id, callback)
+    local cmd = { "gh", "issue", "view", id, "--json", "title,body" }
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("GH CLI Error: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+        return
+    end
+    local ok, data = pcall(vim.json.decode, obj.stdout)
+    if not ok or not data then
+        vim.notify("Failed to parse issue JSON", vim.log.levels.ERROR)
+        return
+    end
+    callback(data)
+end
+
+function M.create_issue(title, body, callback)
+    local cmd = { "gh", "issue", "create", "--title", title, "--body", body }
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("Failed to create issue: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+    else
+        vim.notify("Issue created successfully!", vim.log.levels.INFO)
+        callback()
+    end
+end
+
+function M.edit_issue(id, title, body, callback)
+    local cmd = { "gh", "issue", "edit", tostring(id), "--title", title, "--body", body }
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("Failed to update issue: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+    else
+        vim.notify("Issue #" .. id .. " updated successfully!", vim.log.levels.INFO)
+        callback()
+    end
+end
+
+function M.close_issue(id, callback)
+    local cmd = { "gh", "issue", "close", tostring(id) }
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("Failed to close issue: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+    else
+        vim.notify("Issue #" .. id .. " closed successfully!", vim.log.levels.INFO)
+        callback()
+    end
+end
+
+return M

@@ -398,5 +398,6 @@ end
 M.reader = reader
 M.nav = nav
 M.search = search
+M._parse_visual_reference = parse_visual_reference
 
 return M
