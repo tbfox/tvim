@@ -32,6 +32,9 @@ function M.parse_issue_content(lines)
         elseif line:match("^%-%-%-+$") and not in_body then
             in_body = true
         elseif in_body then
+            if line == "--- Comments ---" then
+                break
+            end
             table.insert(body_lines, line)
         end
     end
@@ -41,6 +44,35 @@ function M.parse_issue_content(lines)
     end
 
     return title, table.concat(body_lines, "\n")
+end
+
+function M.render_comments(comments)
+    local lines = { "", "--- Comments ---" }
+    local ranges = {}
+
+    if #comments == 0 then
+        table.insert(lines, "")
+        table.insert(lines, "(no comments)")
+        return lines, ranges
+    end
+
+    for _, c in ipairs(comments) do
+        table.insert(lines, "")
+        local date = (c.createdAt or ""):sub(1, 10)
+        local login = (c.author and c.author.login) or "unknown"
+        local start_line = #lines + 1
+        table.insert(lines, "@" .. login .. " (" .. date .. "):")
+        local body_lines = vim.split(c.body or "", "\n", { plain = true })
+        while #body_lines > 0 and body_lines[#body_lines]:match("^%s*$") do
+            table.remove(body_lines)
+        end
+        for _, bl in ipairs(body_lines) do
+            table.insert(lines, bl)
+        end
+        table.insert(ranges, { start_line = start_line, end_line = #lines, body = c.body or "" })
+    end
+
+    return lines, ranges
 end
 
 return M

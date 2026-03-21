@@ -24,8 +24,10 @@ function M.open()
         vim.api.nvim_buf_create_user_command(buf, "Gh", function(cmd_opts)
             if cmd_opts.args == "new" then
                 detail.open_new()
+            elseif cmd_opts.args == "help" then
+                vim.cmd("help oily_octo")
             else
-                vim.notify("Usage: :Gh new", vim.log.levels.WARN)
+                vim.notify("Usage: :Gh new | :Gh help", vim.log.levels.WARN)
             end
         end, { nargs = 1 })
 

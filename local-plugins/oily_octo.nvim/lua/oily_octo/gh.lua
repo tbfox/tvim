@@ -68,4 +68,30 @@ function M.close_issue(id, callback)
     end
 end
 
+function M.list_comments(id, callback)
+    local cmd = { "gh", "issue", "view", tostring(id), "--json", "comments" }
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("GH CLI Error: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+        return
+    end
+    local ok, data = pcall(vim.json.decode, obj.stdout)
+    if not ok or not data then
+        vim.notify("Failed to parse comments JSON", vim.log.levels.ERROR)
+        return
+    end
+    callback(data.comments or {})
+end
+
+function M.add_comment(id, body, callback)
+    local cmd = { "gh", "issue", "comment", tostring(id), "--body", body }
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("Failed to add comment: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+    else
+        vim.notify("Comment added to #" .. id, vim.log.levels.INFO)
+        callback()
+    end
+end
+
 return M

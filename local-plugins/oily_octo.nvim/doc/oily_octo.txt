@@ -1,0 +1,186 @@
+*oily_octo.txt*  *oily_octo*  GitHub issues browser for Neovim
+
+Author: Tristan Barrow
+License: Unlicensed
+
+==============================================================================
+CONTENTS                                                  *oily_octo-contents*
+
+  1. Introduction ................................. |oily_octo-intro|
+  2. Requirements ................................. |oily_octo-requirements|
+  3. Usage ........................................ |oily_octo-usage|
+  4. Issue List ................................... |oily_octo-issue-list|
+  5. Issue Detail ................................. |oily_octo-issue-detail|
+     5a. Read Mode ............................... |oily_octo-read-mode|
+     5b. Edit Mode ............................... |oily_octo-edit-mode|
+     5c. Comment Buffer .......................... |oily_octo-comment-buffer|
+  6. Commands ..................................... |oily_octo-commands|
+
+==============================================================================
+1. INTRODUCTION                                              *oily_octo-intro*
+
+oily_octo.nvim is a GitHub issues browser with an oil.nvim-style interface.
+Browse, create, edit, and comment on issues without leaving Neovim.
+
+It wraps the GitHub CLI (`gh`) and requires no API tokens beyond what `gh`
+already manages.
+
+==============================================================================
+2. REQUIREMENTS                                       *oily_octo-requirements*
+
+- Neovim 0.9+
+- GitHub CLI (`gh`) authenticated via `gh auth login`
+
+==============================================================================
+3. USAGE                                                     *oily_octo-usage*
+
+Open the issue browser with:
+>
+    <F10>
+<
+This fetches all issues (open by default) for the repository associated with
+the current working directory's git remote.
+
+==============================================================================
+4. ISSUE LIST                                           *oily_octo-issue-list*
+
+The issue list shows all open issues in a read-only buffer. Each row displays:
+
+    ID       STATUS    TITLE
+    ------   --------  --------------------------------
+    42       [!]       Fix the thing
+    41       [x]       Old closed issue
+
+  [!]  Open issue
+  [x]  Closed issue
+
+Keymaps~
+
+  <CR>    Open the issue under the cursor in detail view
+  g.      Toggle visibility of closed issues
+  r       Refresh the list from GitHub
+  q       Close the buffer
+
+Commands~
+                                                                   *:Gh-issues*
+  :Gh issues  Open the issue browser. Available from anywhere (same as <F10>).
+
+                                                                      *:Gh-new*
+  :Gh new     Open the new issue creation form
+
+                                                                     *:Gh-help*
+  :Gh help    Open this help document. Available from anywhere.
+
+==============================================================================
+5. ISSUE DETAIL                                       *oily_octo-issue-detail*
+
+Issues open in read mode by default. There are three buffer contexts within
+the detail view: read mode, edit mode, and the comment buffer.
+
+------------------------------------------------------------------------------
+5a. Read Mode                                            *oily_octo-read-mode*
+
+The default view when opening an issue. The buffer is non-modifiable and
+displays the full issue content followed by all comments:
+>
+    Title: My issue title
+    ---
+    Issue body content here...
+
+    --- Comments ---
+
+    @username (2024-01-15):
+    Comment body text here.
+
+    @otherusername (2024-01-16):
+    Another comment.
+<
+Keymaps~
+
+  -     Go back to the issue list
+  q     Close the buffer
+
+Commands~
+                                                                     *:Gh-edit*
+  :Gh edit      Switch to edit mode (see |oily_octo-edit-mode|)
+
+                                                                  *:Gh-comment*
+  :Gh comment   Open the comment buffer to write a new comment
+                (see |oily_octo-comment-buffer|)
+
+                                                                    *:Gh-reply*
+  :Gh reply     Open the comment buffer pre-filled with a quote block of the
+                comment under the cursor. Warns if the cursor is not on a
+                comment. Quote format is GitHub-compatible ("> line").
+
+                                                                    *:Gh-close*
+  :Gh close     Close the issue on GitHub (prompts for confirmation)
+
+------------------------------------------------------------------------------
+5b. Edit Mode                                            *oily_octo-edit-mode*
+
+Activated by `:Gh edit` from read mode. Opens a new modifiable buffer
+containing only the title and body — comments are hidden. Format:
+>
+    Title: My issue title
+    ---
+    Issue body content here...
+<
+Edit the title on line 1 and the body below the `---` separator.
+
+Keymaps~
+
+  <Esc>   Cancel and return to read mode (discards changes)
+  -       Discard changes and return to the issue list
+  q       Force-close the buffer
+
+Commands~
+                                                                     *:Gh-save*
+  :Gh save      Save changes to GitHub and return to read mode
+                (prompts for confirmation)
+
+                                                                   *:Gh-cancel*
+  :Gh cancel    Discard changes and return to read mode
+
+------------------------------------------------------------------------------
+5c. Comment Buffer                                  *oily_octo-comment-buffer*
+
+A scratch buffer for writing a new comment or reply. Opened via `:Gh comment`
+or `:Gh reply` from read mode.
+
+When opened via `:Gh reply`, the buffer is pre-filled with the quoted comment:
+>
+    > Original comment line one
+    > Original comment line two
+
+    (your reply here)
+<
+Keymaps~
+
+  q     Discard and return to the issue detail read mode
+  -     Discard and return to the issue detail read mode
+
+Commands~
+
+  :Gh save    Submit the comment to GitHub and return to read mode
+
+==============================================================================
+6. COMMANDS REFERENCE                          *:Gh* *oily_octo-commands*
+
+All `:Gh` commands are buffer-local — they are only available in the relevant
+buffer context and will not interfere with other buffers.
+
+  Command         Context           Description~
+  :Gh issues      Any               Open the issue browser (same as <F10>)
+  :Gh new         Issue list        Create a new issue
+  :Gh help        Any               Open this help document
+  :Gh edit        Read mode         Enter edit mode
+  :Gh comment     Read mode         Open comment buffer
+  :Gh reply       Read mode         Open comment buffer with quoted reply
+  :Gh close       Read mode         Close the issue on GitHub
+  :Gh save        Edit mode         Save issue changes to GitHub
+  :Gh cancel      Edit mode         Discard changes, return to read mode
+  :Gh save        Comment buffer    Submit comment to GitHub
+
+==============================================================================
+vim:tw=78:ts=8:ft=help:norl:
