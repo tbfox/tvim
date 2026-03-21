@@ -316,6 +316,66 @@ open_read_mode = function(id)
                         vim.keymap.set("n", "q", "<cmd>bd!<CR>", aopts)
                         vim.keymap.set("n", "<Esc>", "<cmd>bd!<CR>", aopts)
                     end)
+                elseif line:match("^Labels:") then
+                    gh.list_labels(function(labels)
+                        local original = {}
+                        for _, l in ipairs(data.labels or {}) do
+                            original[l.name] = true
+                        end
+                        local pending = {}
+                        for k, v in pairs(original) do pending[k] = v end
+
+                        local lbuf = vim.api.nvim_create_buf(false, true)
+
+                        local function render_label_buf()
+                            local llines = { "Labels", string.rep("-", 20), "" }
+                            for _, name in ipairs(labels) do
+                                local prefix = pending[name] and "> " or "  "
+                                table.insert(llines, prefix .. name)
+                            end
+                            vim.bo[lbuf].modifiable = true
+                            vim.api.nvim_buf_set_lines(lbuf, 0, -1, false, llines)
+                            vim.bo[lbuf].modifiable = false
+                        end
+
+                        render_label_buf()
+                        vim.bo[lbuf].buftype = "nofile"
+                        vim.bo[lbuf].swapfile = false
+                        vim.bo[lbuf].bufhidden = "wipe"
+                        vim.cmd("vsplit")
+                        vim.api.nvim_set_current_buf(lbuf)
+
+                        local lopts = { buffer = lbuf, silent = true }
+
+                        vim.keymap.set("n", "<CR>", function()
+                            local lline = vim.api.nvim_get_current_line()
+                            local name = lline:match("^[> ] (.+)$")
+                            if not name then return end
+                            pending[name] = not pending[name] or nil
+                            render_label_buf()
+                        end, lopts)
+
+                        vim.api.nvim_buf_create_user_command(lbuf, "Gh", function(cmd_opts)
+                            if cmd_opts.args == "save" then
+                                local add, remove = {}, {}
+                                for _, name in ipairs(labels) do
+                                    local was = original[name]
+                                    local is  = pending[name]
+                                    if is and not was then table.insert(add, name) end
+                                    if was and not is then table.insert(remove, name) end
+                                end
+                                gh.edit_labels(id, add, remove, function()
+                                    vim.cmd("bd")
+                                    open_read_mode(id)
+                                end)
+                            else
+                                vim.notify("Usage: :Gh save", vim.log.levels.WARN)
+                            end
+                        end, { nargs = 1 })
+
+                        vim.keymap.set("n", "q", "<cmd>bd!<CR>", lopts)
+                        vim.keymap.set("n", "<Esc>", "<cmd>bd!<CR>", lopts)
+                    end)
                 end
             end, opts)
 

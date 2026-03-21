@@ -102,6 +102,40 @@ function M.edit_assignees(id, add, remove, callback)
     end
 end
 
+function M.list_labels(callback)
+    local cmd = { "gh", "label", "list", "--json", "name", "--jq", "[.[].name]" }
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("GH CLI Error: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+        return
+    end
+    local ok, data = pcall(vim.json.decode, obj.stdout)
+    if not ok or not data then
+        vim.notify("Failed to parse labels JSON", vim.log.levels.ERROR)
+        return
+    end
+    callback(data)
+end
+
+function M.edit_labels(id, add, remove, callback)
+    local cmd = { "gh", "issue", "edit", tostring(id) }
+    for _, name in ipairs(add) do
+        table.insert(cmd, "--add-label")
+        table.insert(cmd, name)
+    end
+    for _, name in ipairs(remove) do
+        table.insert(cmd, "--remove-label")
+        table.insert(cmd, name)
+    end
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("Failed to update labels: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+    else
+        vim.notify("Labels updated", vim.log.levels.INFO)
+        callback()
+    end
+end
+
 function M.list_assignees(callback)
     local cmd = { "gh", "api", "repos/:owner/:repo/assignees", "--jq", "[.[].login]" }
     local obj = vim.system(cmd, { text = true }):wait()
