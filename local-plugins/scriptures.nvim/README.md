@@ -214,6 +214,28 @@ Used with `:Sc go <book> <chapter>`:
 | `jsh` | Joseph Smith—History |
 | `aof` | Articles of Faith |
 
+## Come Follow Me Study Files
+
+Weekly study materials generated from the LDS Come Follow Me curriculum are stored in `res/study/`.
+
+**Directory structure:**
+```
+res/study/
+└── 2026/
+    └── week_12.sc.md
+```
+
+**File format** (`.sc.md`):
+- YAML frontmatter with `startDate`, `endDate`, `refStart`, `refEnd`, `source`
+- `## Overview` — lesson intro
+- `## Ideas for Personal Study` — scripture-referenced study sections
+- `## Ideas for Teaching Children` — teaching sections
+- `## My Notes` — personal study notes space
+
+**Generating files:** Use the `/come-follow-me` Claude skill with a Come Follow Me URL.
+
+---
+
 ## Technical Implementation Details
 
 **SQLite Interaction:**

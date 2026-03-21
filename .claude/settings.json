@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(test -f local-plugins/scriptures.nvim/res/study/**/*.sc.md)",
+      "Bash(YEAR=$(date +%Y) && WEEK=$(date +%V) && echo \"Year: $YEAR, Week: $WEEK\")"
+    ]
+  }
+}
