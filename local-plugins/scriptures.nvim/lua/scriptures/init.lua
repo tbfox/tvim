@@ -392,12 +392,6 @@ function M.setup(opts)
 			vim.notify("Usage: :Sc | :Sc search | :Sc search ref | :Sc go <book> <chapter> | :Sc open", vim.log.levels.WARN)
 		end
 	end, { nargs = "*", range = true })
-
-	-- Keep test command for debugging
-	vim.api.nvim_create_user_command("St", function(args)
-		-- Default to 1 Nephi 1 for testing
-		reader.open("bofm", "1 Nephi", 1)
-	end, {})
 end
 
 -- Export modules for testing/debugging
