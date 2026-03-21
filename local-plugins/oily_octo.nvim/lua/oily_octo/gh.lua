@@ -83,6 +83,40 @@ function M.list_comments(id, callback)
     callback(data.comments or {})
 end
 
+function M.edit_assignees(id, add, remove, callback)
+    local cmd = { "gh", "issue", "edit", tostring(id) }
+    for _, login in ipairs(add) do
+        table.insert(cmd, "--add-assignee")
+        table.insert(cmd, login)
+    end
+    for _, login in ipairs(remove) do
+        table.insert(cmd, "--remove-assignee")
+        table.insert(cmd, login)
+    end
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("Failed to update assignees: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+    else
+        vim.notify("Assignees updated", vim.log.levels.INFO)
+        callback()
+    end
+end
+
+function M.list_assignees(callback)
+    local cmd = { "gh", "api", "repos/:owner/:repo/assignees", "--jq", "[.[].login]" }
+    local obj = vim.system(cmd, { text = true }):wait()
+    if obj.code ~= 0 then
+        vim.notify("GH CLI Error: " .. (obj.stderr or ""), vim.log.levels.ERROR)
+        return
+    end
+    local ok, data = pcall(vim.json.decode, obj.stdout)
+    if not ok or not data then
+        vim.notify("Failed to parse assignees JSON", vim.log.levels.ERROR)
+        return
+    end
+    callback(data)
+end
+
 function M.add_comment(id, body, callback)
     local cmd = { "gh", "issue", "comment", tostring(id), "--body", body }
     local obj = vim.system(cmd, { text = true }):wait()

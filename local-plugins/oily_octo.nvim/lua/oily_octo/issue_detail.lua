@@ -253,6 +253,72 @@ open_read_mode = function(id)
                 end
             end, { nargs = 1 })
 
+            vim.keymap.set("n", "<CR>", function()
+                local line = vim.api.nvim_get_current_line()
+                if line:match("^Assignees:") then
+                    gh.list_assignees(function(assignees)
+                        local original = {}
+                        for _, a in ipairs(data.assignees or {}) do
+                            original[a.login] = true
+                        end
+                        local pending = {}
+                        for k, v in pairs(original) do pending[k] = v end
+
+                        local all_logins = assignees
+                        local abuf = vim.api.nvim_create_buf(false, true)
+
+                        local function render_assignee_buf()
+                            local alines = { "Assignees", string.rep("-", 20), "" }
+                            for _, login in ipairs(all_logins) do
+                                local prefix = pending[login] and "> " or "  "
+                                table.insert(alines, prefix .. "@" .. login)
+                            end
+                            vim.bo[abuf].modifiable = true
+                            vim.api.nvim_buf_set_lines(abuf, 0, -1, false, alines)
+                            vim.bo[abuf].modifiable = false
+                        end
+
+                        render_assignee_buf()
+                        vim.bo[abuf].buftype = "nofile"
+                        vim.bo[abuf].swapfile = false
+                        vim.bo[abuf].bufhidden = "wipe"
+                        vim.cmd("vsplit")
+                        vim.api.nvim_set_current_buf(abuf)
+
+                        local aopts = { buffer = abuf, silent = true }
+
+                        vim.keymap.set("n", "<CR>", function()
+                            local line = vim.api.nvim_get_current_line()
+                            local login = line:match("^[> ] @(.+)$")
+                            if not login then return end
+                            pending[login] = not pending[login] or nil
+                            render_assignee_buf()
+                        end, aopts)
+
+                        vim.api.nvim_buf_create_user_command(abuf, "Gh", function(cmd_opts)
+                            if cmd_opts.args == "save" then
+                                local add, remove = {}, {}
+                                for _, login in ipairs(all_logins) do
+                                    local was = original[login]
+                                    local is  = pending[login]
+                                    if is and not was then table.insert(add, login) end
+                                    if was and not is then table.insert(remove, login) end
+                                end
+                                gh.edit_assignees(id, add, remove, function()
+                                    vim.cmd("bd")
+                                    open_read_mode(id)
+                                end)
+                            else
+                                vim.notify("Usage: :Gh save", vim.log.levels.WARN)
+                            end
+                        end, { nargs = 1 })
+
+                        vim.keymap.set("n", "q", "<cmd>bd!<CR>", aopts)
+                        vim.keymap.set("n", "<Esc>", "<cmd>bd!<CR>", aopts)
+                    end)
+                end
+            end, opts)
+
             vim.keymap.set("n", "-", function()
                 vim.cmd("bd")
                 M.open_list()
