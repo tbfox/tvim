@@ -327,4 +327,69 @@ function M.abbreviate_book(book)
 	return abbrevs[book] or book
 end
 
+-- Format a Bible Dictionary entry into display lines
+-- links is the list returned by db.get_bd_links()
+-- Each {N} marker in content becomes (N)|label| for footnote concealment
+function M.format_bd_entry(entry, links)
+	-- Build a lookup: sort_order -> link record
+	local link_map = {}
+	for _, l in ipairs(links) do
+		link_map[tonumber(l.sort_order)] = l
+	end
+
+	-- Build a display label for a link
+	local function link_label(l)
+		if l.link_type == "bd" then
+			return l.target_entry_id or "?"
+		else
+			-- Scripture ref label: "Isa 53:1" style
+			local book = l.ref_book_short or "?"
+			local ch = l.ref_chapter or "?"
+			local vs = l.ref_verse_start
+			if vs then
+				local label = book .. " " .. ch .. ":" .. vs
+				if l.ref_verse_end and l.ref_verse_end ~= vs then
+					label = label .. "-" .. l.ref_verse_end
+				end
+				return label
+			else
+				return book .. " " .. ch
+			end
+		end
+	end
+
+	-- Replace {N} markers with (N)|label|
+	local function replace_markers(text)
+		return text:gsub("{(%d+)}", function(n)
+			local l = link_map[tonumber(n)]
+			if not l then return "{" .. n .. "}" end
+			return string.format("(%s)|%s|", n, link_label(l))
+		end)
+	end
+
+	local lines = {}
+
+	-- Title line
+	table.insert(lines, entry.title)
+	table.insert(lines, "")
+
+	-- Split content on paragraph separator \n\n
+	local paragraphs = vim.split(entry.content, "\n\n", { plain = true })
+	for _, para in ipairs(paragraphs) do
+		local marked = replace_markers(para)
+		local wrapped = wrap_line(marked, 80)
+		for _, l in ipairs(wrapped) do
+			table.insert(lines, l)
+		end
+		table.insert(lines, "")
+	end
+
+	-- Remove trailing blank line
+	if #lines > 0 and lines[#lines] == "" then
+		table.remove(lines)
+	end
+
+	return lines
+end
+
 return M

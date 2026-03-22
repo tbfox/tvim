@@ -306,4 +306,54 @@ function M.has_topical_guide_references(source, book, chapter, verse_number, not
 	return count > 0
 end
 
+-- ── Bible Dictionary ────────────────────────────────────────────────────────
+
+-- Get all BD entries in sort order (id, title, sort_order)
+function M.get_bd_entries()
+	local result = query("SELECT id, title, sort_order FROM bd_entries ORDER BY sort_order;")
+	return parse_result(result, { "id", "title", "sort_order" })
+end
+
+-- Get a single BD entry by slug (id, title, content)
+function M.get_bd_entry(slug)
+	local sql = string.format(
+		[[SELECT id, title, content FROM bd_entries WHERE id='%s';]],
+		escape_sql(slug)
+	)
+	local result = query(sql)
+	local records = parse_result(result, { "id", "title", "content" })
+	return records[1]
+end
+
+-- Get all links for a BD entry, in sort order
+function M.get_bd_links(entry_id)
+	local sql = string.format(
+		[[SELECT sort_order, is_see_also, link_type, target_entry_id,
+		         ref_source_id, ref_book_short, ref_chapter, ref_verse_start, ref_verse_end
+		  FROM bd_links WHERE entry_id='%s' ORDER BY sort_order;]],
+		escape_sql(entry_id)
+	)
+	local result = query(sql)
+	return parse_result(result, {
+		"sort_order", "is_see_also", "link_type", "target_entry_id",
+		"ref_source_id", "ref_book_short", "ref_chapter", "ref_verse_start", "ref_verse_end"
+	})
+end
+
+-- Get the BD entry adjacent to the given slug (direction: 1 = next, -1 = prev)
+-- Returns the neighbor entry {id, title} or nil at boundaries
+function M.get_bd_neighbor(slug, direction)
+	local op = direction > 0 and ">" or "<"
+	local ord = direction > 0 and "ASC" or "DESC"
+	local sql = string.format(
+		[[SELECT id, title FROM bd_entries
+		  WHERE sort_order %s (SELECT sort_order FROM bd_entries WHERE id='%s')
+		  ORDER BY sort_order %s LIMIT 1;]],
+		op, escape_sql(slug), ord
+	)
+	local result = query(sql)
+	local records = parse_result(result, { "id", "title" })
+	return records[1]
+end
+
 return M

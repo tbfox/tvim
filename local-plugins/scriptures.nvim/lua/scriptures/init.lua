@@ -201,6 +201,19 @@ function M.setup(opts)
 	vim.api.nvim_create_user_command("Sc", function(cmd_opts)
 		local args = cmd_opts.fargs
 
+		-- Visual mode: 'Sc bd' with a selection opens the BD entry matching the selection
+		if cmd_opts.range == 2 and #args == 1 and args[1] == "bd" then
+			local text = get_visual_selection()
+			if not text or text:match("^%s*$") then
+				vim.notify("No text selected", vim.log.levels.ERROR)
+				return
+			end
+			local slug = text:match("^%s*(.-)%s*$"):lower():gsub("%s+", "-")
+			nav.state.origin_bufnr = vim.api.nvim_get_current_buf()
+			reader.open_bd(slug, { new_tab = true })
+			return
+		end
+
 		-- Visual mode: 'Sc go' with a selection parses the selection as a reference
 		if cmd_opts.range == 2 and #args == 1 and args[1] == "go" then
 			local text = get_visual_selection()
@@ -238,6 +251,9 @@ function M.setup(opts)
 			end
 			nav.state.origin_bufnr = vim.api.nvim_get_current_buf()
 			reader.open(alias[1], alias[2], chapter, nil, { new_tab = true })
+		elseif #args == 2 and args[1] == "bd" then
+			nav.state.origin_bufnr = vim.api.nvim_get_current_buf()
+			reader.open_bd(args[2], { new_tab = true })
 		elseif #args == 1 and args[1] == "listen" then
 			local state = reader.state
 			if not state.source or not state.book or not state.bufnr or not vim.api.nvim_buf_is_valid(state.bufnr) then
@@ -269,6 +285,12 @@ function M.setup(opts)
 					end)
 				end)
 			end
+		elseif #args == 1 and (args[1] == "history" or args[1] == "hist") then
+			reader.go_history_end()
+		elseif #args == 2 and (args[1] == "history" or args[1] == "hist") and args[2] == "next" then
+			reader.history_forward()
+		elseif #args == 2 and (args[1] == "history" or args[1] == "hist") and args[2] == "prev" then
+			reader.history_back()
 		elseif #args == 1 and args[1] == "open" then
 			local state = reader.state
 			if not state.source or not state.book then
@@ -389,7 +411,7 @@ function M.setup(opts)
 			end
 			vim.fn.jobstart({ "open", url }, { detach = true })
 		else
-			vim.notify("Usage: :Sc | :Sc search | :Sc search ref | :Sc go <book> <chapter> | :Sc open", vim.log.levels.WARN)
+			vim.notify("Usage: :Sc | :Sc search | :Sc search ref | :Sc go <book> <chapter> | :Sc bd <slug> | :Sc open | :Sc hist[ory] | :Sc hist[ory] next | :Sc hist[ory] prev", vim.log.levels.WARN)
 		end
 	end, { nargs = "*", range = true })
 end
