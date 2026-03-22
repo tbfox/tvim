@@ -23,6 +23,7 @@ tasks:
       - find local-plugins -path "*/coverage/*.luacov" -delete
       - find local-plugins -name "luacov.report.out" -delete
       - find local-plugins -name "luacov.stats.out" -delete
+      - find local-plugins -type d -name "coverage" -empty -delete
       - echo "Coverage reports removed"
 
   coverage:view:
