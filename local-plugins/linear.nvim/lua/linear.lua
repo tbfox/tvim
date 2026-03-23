@@ -18,10 +18,15 @@ function M.setup(opts)
   end, {
     nargs = "*",
     complete = function(arg_lead, cmd_line, cursor_pos)
-      local commands = { "issues", "new", "test-auth" }
-      return vim.tbl_filter(function(cmd)
-        return vim.startswith(cmd, arg_lead)
-      end, commands)
+      -- If no argument yet, show main commands
+      local args = vim.split(cmd_line, "%s+")
+      if #args <= 2 then
+        local commands = { "issues", "users", "new", "save", "open", "test-auth" }
+        return vim.tbl_filter(function(cmd)
+          return vim.startswith(cmd, arg_lead)
+        end, commands)
+      end
+      return {}
     end,
   })
 
@@ -35,24 +40,62 @@ end
 function M.handle_command(args)
   if #args == 0 or args[1] == "issues" then
     M.open_issues()
+  elseif args[1] == "users" then
+    M.open_users()
   elseif args[1] == "new" then
     local issue_type = args[2] -- bug, feature, task
     M.create_issue(issue_type)
+  elseif args[1] == "save" then
+    M.save_current_issue()
+  elseif args[1] == "open" then
+    M.open_current_issue()
   elseif args[1] == "test-auth" then
     M.test_auth()
   else
-    vim.notify("Unknown command: " .. args[1], vim.log.levels.ERROR)
+    -- Treat unknown command as a team filter (e.g., ":Linear WFM1")
+    M.open_issues(args[1])
   end
 end
 
-function M.open_issues()
+function M.open_issues(team_filter)
   local issues = require("linear.issues")
-  issues.open()
+  issues.open(team_filter)
+end
+
+function M.open_users()
+  local users = require("linear.users")
+  users.open()
 end
 
 function M.create_issue(issue_type)
   vim.notify("Creating new issue: " .. (issue_type or "default"), vim.log.levels.INFO)
   -- TODO: Implement in Phase 4
+end
+
+function M.save_current_issue()
+  local buf = vim.api.nvim_get_current_buf()
+  local issue_id = vim.b[buf].linear_issue_id
+
+  if not issue_id then
+    vim.notify("Not in a Linear issue buffer", vim.log.levels.WARN)
+    return
+  end
+
+  local issues = require("linear.issues")
+  issues.save_issue_detail(buf)
+end
+
+function M.open_current_issue()
+  local buf = vim.api.nvim_get_current_buf()
+  local issue_url = vim.b[buf].linear_issue_url
+
+  if not issue_url then
+    vim.notify("Not in a Linear issue buffer", vim.log.levels.WARN)
+    return
+  end
+
+  local issues = require("linear.issues")
+  issues.open_issue_in_browser(buf)
 end
 
 function M.test_auth()

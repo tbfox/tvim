@@ -20,10 +20,14 @@ function M.query(query_string, variables)
   end
 
   -- Build GraphQL request body
-  local body = vim.json.encode({
-    query = query_string,
-    variables = variables or {}
-  })
+  local request_body = { query = query_string }
+
+  -- Only include variables if they exist and are not empty
+  if variables and next(variables) ~= nil then
+    request_body.variables = variables
+  end
+
+  local body = vim.json.encode(request_body)
 
   -- Create temporary file for request body
   local body_file = vim.fn.tempname()
