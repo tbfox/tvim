@@ -1,4 +1,16 @@
 local function config()
+    require("nvim-web-devicons").set_icon({
+        [".env.local"] = { icon = "", color = "#FAF743", cterm_color = "227", name = "Env" },
+        [".env.development"] = { icon = "", color = "#FAF743", cterm_color = "227", name = "Env" },
+        [".env.production"] = { icon = "", color = "#FAF743", cterm_color = "227", name = "Env" },
+        [".env.test"] = { icon = "", color = "#FAF743", cterm_color = "227", name = "Env" },
+        [".env.example"] = { icon = "", color = "#FAF743", cterm_color = "227", name = "Env" },
+        [".env.sample"] = { icon = "", color = "#FAF743", cterm_color = "227", name = "Env" },
+        [".env.development.local"] = { icon = "", color = "#FAF743", cterm_color = "227", name = "Env" },
+        [".env.production.local"] = { icon = "", color = "#FAF743", cterm_color = "227", name = "Env" },
+        [".env.test.local"] = { icon = "", color = "#FAF743", cterm_color = "227", name = "Env" },
+    })
+
     require("oil").setup({
         default_file_explorer = true,
         columns = {
