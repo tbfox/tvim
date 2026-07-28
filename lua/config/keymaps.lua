@@ -16,5 +16,7 @@ vim.keymap.set('n', "<F1>", ":.lua<CR>",            { desc = "Run run lua page" 
 vim.keymap.set('v', "<F1>", ":lua<CR>",             { desc = "Run lua snippet" })
 vim.keymap.set('n', "<F2>", "<CMD>source %<CR>",    { desc = "Run file" })
 
-vim.keymap.set("v", "<Leader>=", '"+y', { desc = "Yank to clipboard" })
+vim.keymap.set("v", "<Leader>=", function()
+    vim.cmd("'<,'>yank +")
+end, { desc = "Yank to clipboard" })
 

@@ -380,12 +380,41 @@ end
 
 -- ── Buffer setup ─────────────────────────────────────────────────────────────
 
+local function add_verse_to_list()
+	if not M.state.source or not M.state.book or not M.state.chapter then
+		vim.notify("No scripture chapter is currently open", vim.log.levels.WARN)
+		return
+	end
+
+	local cursor = vim.api.nvim_win_get_cursor(0)
+	local line_num = cursor[1]
+	local verse_num = nil
+
+	local line = vim.api.nvim_buf_get_lines(M.state.bufnr, line_num - 1, line_num, false)[1]
+	if line then
+		verse_num = line:match("^(%d+)%. ")
+	end
+	if not verse_num then
+		for i = line_num - 1, 1, -1 do
+			local prev_line = vim.api.nvim_buf_get_lines(M.state.bufnr, i - 1, i, false)[1]
+			if prev_line then
+				verse_num = prev_line:match("^(%d+)%. ")
+				if verse_num then break end
+			end
+		end
+	end
+
+	local lists = require("scriptures.lists")
+	lists.add_to_list(M.state.source, M.state.book, M.state.chapter, tonumber(verse_num))
+end
+
 local function setup_keymaps(bufnr)
 	local opts = { buffer = bufnr, noremap = true, silent = true }
 	vim.keymap.set("n", "]c", next_chapter, opts)
 	vim.keymap.set("n", "[c", prev_chapter, opts)
 	vim.keymap.set("n", "-", go_back, opts)
 	vim.keymap.set("n", "gd", go_to_reference, opts)
+	vim.keymap.set("n", "gl", add_verse_to_list, opts)
 	vim.keymap.set("n", "<C-o>", history_back, opts)
 	vim.keymap.set("n", "<C-i>", history_forward, opts)
 end

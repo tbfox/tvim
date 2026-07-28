@@ -306,6 +306,110 @@ function M.has_topical_guide_references(source, book, chapter, verse_number, not
 	return count > 0
 end
 
+-- ── Lists ────────────────────────────────────────────────────────────────────
+
+local list_tables_ready = false
+local function ensure_list_tables()
+	if list_tables_ready then return end
+	query([[CREATE TABLE IF NOT EXISTS scripture_lists (
+		id INTEGER PRIMARY KEY AUTOINCREMENT,
+		name TEXT NOT NULL UNIQUE,
+		note TEXT,
+		created_at TEXT NOT NULL DEFAULT (datetime('now'))
+	);]])
+	query([[CREATE TABLE IF NOT EXISTS scripture_list_items (
+		id INTEGER PRIMARY KEY AUTOINCREMENT,
+		list_id INTEGER NOT NULL REFERENCES scripture_lists(id) ON DELETE CASCADE,
+		source_id TEXT NOT NULL,
+		book_name TEXT NOT NULL,
+		chapter INTEGER NOT NULL,
+		verse INTEGER,
+		sort_order INTEGER NOT NULL DEFAULT 0,
+		note TEXT,
+		UNIQUE(list_id, source_id, book_name, chapter, verse)
+	);]])
+	query([[CREATE INDEX IF NOT EXISTS idx_list_items_list
+		ON scripture_list_items(list_id, sort_order);]])
+	list_tables_ready = true
+end
+
+-- Returns array of {id, name, note, item_count}
+function M.get_lists()
+	ensure_list_tables()
+	local result = query([[
+		SELECT l.id, l.name, l.note, COUNT(i.id) as item_count
+		FROM scripture_lists l
+		LEFT JOIN scripture_list_items i ON i.list_id = l.id
+		GROUP BY l.id
+		ORDER BY l.name;
+	]])
+	return parse_result(result, { "id", "name", "note", "item_count" })
+end
+
+-- Creates a new list; returns the new list record via get_lists lookup
+function M.create_list(name, note)
+	ensure_list_tables()
+	local note_val = note and ("'" .. escape_sql(note) .. "'") or "NULL"
+	query(string.format(
+		[[INSERT INTO scripture_lists (name, note) VALUES ('%s', %s);]],
+		escape_sql(name), note_val
+	))
+end
+
+-- Deletes a list and all its items (CASCADE handles items)
+function M.delete_list(list_id)
+	ensure_list_tables()
+	query(string.format([[DELETE FROM scripture_lists WHERE id=%s;]], escape_sql(tostring(list_id))))
+end
+
+-- Renames a list
+function M.rename_list(list_id, new_name)
+	ensure_list_tables()
+	query(string.format(
+		[[UPDATE scripture_lists SET name='%s' WHERE id=%s;]],
+		escape_sql(new_name), escape_sql(tostring(list_id))
+	))
+end
+
+-- Returns array of {id, list_id, source_id, book_name, chapter, verse, sort_order, note}
+function M.get_list_items(list_id)
+	ensure_list_tables()
+	local result = query(string.format(
+		[[SELECT id, list_id, source_id, book_name, chapter, verse, sort_order, note
+		  FROM scripture_list_items
+		  WHERE list_id=%s
+		  ORDER BY sort_order;]],
+		escape_sql(tostring(list_id))
+	))
+	return parse_result(result, { "id", "list_id", "source_id", "book_name", "chapter", "verse", "sort_order", "note" })
+end
+
+-- Adds an item to a list; silently ignores duplicates
+function M.add_list_item(list_id, source_id, book_name, chapter, verse)
+	ensure_list_tables()
+	local verse_val = verse and tostring(verse) or "NULL"
+	query(string.format(
+		[[INSERT OR IGNORE INTO scripture_list_items
+			(list_id, source_id, book_name, chapter, verse, sort_order)
+		VALUES (
+			%s, '%s', '%s', %s, %s,
+			(SELECT COALESCE(MAX(sort_order), 0) + 1 FROM scripture_list_items WHERE list_id = %s)
+		);]],
+		escape_sql(tostring(list_id)),
+		escape_sql(source_id),
+		escape_sql(book_name),
+		tostring(chapter),
+		verse_val,
+		escape_sql(tostring(list_id))
+	))
+end
+
+-- Removes a single item by id
+function M.remove_list_item(item_id)
+	ensure_list_tables()
+	query(string.format([[DELETE FROM scripture_list_items WHERE id=%s;]], escape_sql(tostring(item_id))))
+end
+
 -- ── Bible Dictionary ────────────────────────────────────────────────────────
 
 -- Get all BD entries in sort order (id, title, sort_order)

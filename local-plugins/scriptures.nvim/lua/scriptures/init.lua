@@ -3,6 +3,7 @@ local M = {}
 local reader = require("scriptures.reader")
 local nav = require("scriptures.nav")
 local search = require("scriptures.search")
+local lists = require("scriptures.lists")
 
 -- Short name aliases for :Sc go <book> <chapter>
 -- Maps abbreviation -> { source_id, book_name }
@@ -214,6 +215,22 @@ function M.setup(opts)
 			return
 		end
 
+		-- Visual mode: 'Sc lists add' adds the selected reference to a list
+		if cmd_opts.range == 2 and #args == 2 and args[1] == "lists" and args[2] == "add" then
+			local text = get_visual_selection()
+			if not text or text:match("^%s*$") then
+				vim.notify("No text selected", vim.log.levels.ERROR)
+				return
+			end
+			local ref, err = parse_visual_reference(text)
+			if err then
+				vim.notify(err, vim.log.levels.ERROR)
+				return
+			end
+			lists.add_to_list(ref.source_id, ref.book, ref.chapter, ref.verse)
+			return
+		end
+
 		-- Visual mode: 'Sc go' with a selection parses the selection as a reference
 		if cmd_opts.range == 2 and #args == 1 and args[1] == "go" then
 			local text = get_visual_selection()
@@ -233,6 +250,8 @@ function M.setup(opts)
 
 		if #args == 0 then
 			nav.open()
+		elseif #args == 1 and args[1] == "lists" then
+			lists.open()
 		elseif #args == 1 and args[1] == "search" then
 			search.search_content()
 		elseif #args == 2 and args[1] == "search" and args[2] == "ref" then
@@ -411,7 +430,7 @@ function M.setup(opts)
 			end
 			vim.fn.jobstart({ "open", url }, { detach = true })
 		else
-			vim.notify("Usage: :Sc | :Sc search | :Sc search ref | :Sc go <book> <chapter> | :Sc bd <slug> | :Sc open | :Sc hist[ory] | :Sc hist[ory] next | :Sc hist[ory] prev", vim.log.levels.WARN)
+			vim.notify("Usage: :Sc | :Sc lists | :Sc search | :Sc search ref | :Sc go <book> <chapter> | :Sc bd <slug> | :Sc open | :Sc hist[ory] | :Sc hist[ory] next | :Sc hist[ory] prev", vim.log.levels.WARN)
 		end
 	end, { nargs = "*", range = true })
 end
@@ -420,6 +439,7 @@ end
 M.reader = reader
 M.nav = nav
 M.search = search
+M.lists = lists
 M._parse_visual_reference = parse_visual_reference
 
 return M
