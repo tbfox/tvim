@@ -123,6 +123,7 @@ Enabled language servers:
 - `lua_ls` (Lua)
 - `nushell` (Nushell)
 - `ts_ls` (TypeScript)
+- `rust_analyzer` (Rust)
 
 Common LSP keymaps are set via `lib/common-lsp-keymaps.lua` on LspAttach.
 
