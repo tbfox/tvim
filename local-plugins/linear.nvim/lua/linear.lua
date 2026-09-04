@@ -31,9 +31,9 @@ function M.setup(opts)
   })
 
   -- Register keybinding
-  vim.keymap.set('n', '<F5>', function()
-    M.open_issues()
-  end, { desc = "Open Linear issues" })
+  -- vim.keymap.set('n', '<F5>', function()
+  --   M.open_issues()
+  -- end, { desc = "Open Linear issues" })
 
 end
 
